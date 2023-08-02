@@ -15,3 +15,22 @@ Automation scripts: Owl can generate or optimize the corresponding automation sc
 
 😊 Owl is an open source project and we welcome everyone to participate and contribute. If you have any questions, suggestions or feedbacks, please submit an issue or pull request on Github. We appreciate your support and attention to the Owl project!
 
+## Installation
+
+- (Introduce the installation methods of your model, such as using pip or git, etc.)
+
+## Usage
+
+- (Introduce the usage methods of your model, such as using command line or Python script, etc.)
+
+## Contribution
+
+- (Introduce the contributors of your model, and how to participate in the contribution)
+
+## Citation
+
+- (Introduce the citation information of your model, such as papers, blogs, code, etc.)
+
+## License
+
+- (Introduce the license information of your model, such as MIT, Apache, etc.)
