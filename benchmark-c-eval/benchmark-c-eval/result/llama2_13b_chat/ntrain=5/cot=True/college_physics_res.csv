@@ -1,0 +1,185 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,α粒子在加速器中被加速，当其质量为静止质量的 3 倍时，其动能为静止能量的____,2倍,3倍,4倍,5倍,A," α粒子在加速器中被加速，其质量为静止质量的 3 倍时，其动能为静止能量的 3 倍。
+
+根据质量与能量的关系：
+
+E = mc^2
+
+其中E是能量，m是质量，c是速度光速。
+
+当α粒子的质量为静止质量的 3 倍时，其动能为静止能量的 3 倍，则：
+
+E = 3mc^2
+
+ substitute m = 3m0 (静止质量)
+
+E = 3(3m0)c^2
+
+E = 9m0c^2
+
+其中m0是α粒子的静止质量，c是速度光速。
+
+所以，α粒子在加速器中被加速，当其质量为静止质量的 3 倍时，其动能为静止能量的 3 倍，即：",0
+1,有三个直径相同的金属小球，小球1和2带等量同号电荷，两者的距离远大于小球直径，相互作用力为F。小球3不带电，装有绝缘手柄．用小球3先和小球1碰一下，接着又和小球2碰一下，然后移去。则此时小球1和2之间的相互作用力为____,F/4,3F/8,F/2,3F/4,B," This is a classic problem in electrostatics. When the three metal balls are brought together, the electric field lines will be distorted by the presence of the charged balls. The distortion will be greatest near the charged balls, and will decrease with distance.
+
+When ball 1 and ball 2 are brought together, they will experience an attractive force due to the electric field lines being distorted. The force between them will be proportional to the charge on the balls and inversely proportional to the distance between them. Since the distance between them is much greater than the radius of the balls, we can assume that the force between them is proportional to the charge on the balls and inversely proportional to the distance between them.
+
+When ball 3 is brought near ball 1, it will experience an electric field due to the charge on ball 1. This field will cause a force on ball 3, which will cause it to move towards ball 1. Similarly, when ball 3 is brought near ball 2, it will experience an electric field due to the charge on ball 2, which will cause a force on ball 3.
+
+Since the distance between ball 1 and ball 2 is much greater than the radius of the balls, the force between them can be approximated as a Coulomb force, which is proportional to the charge on the balls and inversely proportional to the distance between them. Therefore, the",0
+2,在双缝干涉实验中，两条缝的宽度原来是相等的。若其中一缝的宽度略变窄(缝中心位置不变)，则____,干涉条纹的间距变宽,干涉条纹的间距变窄,干涉条纹的间距不变，但原极小处的强度不再为零,不再发生干涉现象,C," Double-slit experiment is a classic demonstration of the principles of wave-particle duality and the uncertainty principle. In the experiment, two slits are cut into a plate, and a beam of particles, such as electrons, is passed through the slits. The particles then impinge on a screen behind the slits, creating an interference pattern.
+
+If one of the slits is made slightly narrower (while keeping its center position unchanged), the interference pattern will change. The correct answer is B: the interference pattern will become more pronounced.
+
+The reason for this is that the narrower slit acts as a filter, allowing only particles with certain properties (such as a specific wavelength or energy) to pass through. This causes the particles that pass through the narrower slit to be more coherent, resulting in a more pronounced interference pattern.
+
+Option A is incorrect because the distance between the interference fringes does not change. Option C is also incorrect, as the intensity at the origin does not remain zero. Option D is incorrect because the interference pattern still exists, even though the slit has been narrowed.",0
+3,设用频率为ν_1和ν_2的两种单色光，先后照射同一种金属均能产生光电效应。已知金属的红限频率为ν_0，测得两次照射时的遏止电压|U_{a2}|=2|U_{a1}|，则这两种单色光的频率有如下关系：____,ν_2=ν_1-ν_0,ν_2=ν_1+ν_0,ν_2=2ν_1-ν_0,ν_2=ν_1-2ν_0,C," This is a classic problem in the field of optics and photonics. The correct answer is:
+
+C. ν2 = 2ν1 - ν0
+
+Here's the explanation:
+
+When the metal is illuminated with a single color of light, the absorption rate is proportional to the frequency of the light. The absorption coefficient α(ν) is given by:
+
+α(ν) = α0ν^(-γ)
+
+where α0 is a constant, ν is the frequency of the light, and γ is the absorption coefficient exponent.
+
+When the metal is illuminated with two colors of light, the total absorption rate is the sum of the absorption rates for each color. Since the absorption rates are proportional to the frequencies of the light, we can write:
+
+α(ν1 + ν2) = α0(ν1 + ν2)^(-γ)
+
+Now, we know that the stop band of the metal is at frequency ν0. Therefore, we can write:
+
+α(ν1 + ν2) = α0((ν1 + ν2) - ν0)^(-γ) + α0((ν1 + ν2) + ν0)^(-γ)
+
+Since the absorption rate is proportional to the frequency of the light, we can write:
+",1
+4,两瓶不同种类的理想气体，它们的温度和压强都相同，但体积不同，则单位体积内的气体分子数$n$，单位体积内的气体分子的总平动动能($E_K/V$)，单位体积内的气体质量$\rho$，分别有如下关系：____,$n$不同，($E_K/V$)不同，$\rho$不同,$n$不同，($E_K/V$)不同，$\rho$相同,$n$相同，($E_K/V$)相同，$\rho$不同,$n$相同，($E_K/V$)相同，$\rho$相同,C," Based on the given information, we can conclude that the two ideal gases have the same temperature and pressure, but different volumes. Therefore, the number of molecules per unit volume ($n$) and the total kinetic energy per unit volume ($E_K/V$) will be different for the two gases. However, the mass density ($\rho$) of the two gases will be the same, as it is a thermodynamic property that does not depend on the volume of the system.
+
+So, the correct answer is:
+
+B. $n$ is different, ($E_K/V$) is different, and $\rho$ is the same.",0
+5,设声波通过理想气体的速率正比于气体分子的热运动平均速率，则声波通过具有相同温度的氧气和氢气的速率之比$V_{O_2}/V_{H_2}$为____,1,1/2,1/3,1/4,D," Based on the given information, we know that the speed of sound waves through an ideal gas is proportional to the mean speed of the gas molecules. Since both oxygen and hydrogen gases have the same temperature, the mean speed of the gas molecules is the same for both gases. Therefore, the ratio of the speed of sound waves through oxygen gas to the speed of sound waves through hydrogen gas is:
+
+V_{O_2}/V_{H_2} = 1/1 = 1
+
+So the correct answer is:
+
+A. 1",0
+6,两块平玻璃构成空气劈形膜，左边为棱边，用单色平行光垂直入射。若上面的平玻璃以棱边为轴，沿逆时针方向作微小转动，则干涉条纹的____,间隔变小，并向棱边方向平移,间隔变大，并向远离棱边方向平移,间隔不变，向棱边方向平移,间隔变小，并向远离棱边方向平移,A," This is a classic problem in optics, and the correct answer is A. The interval between the fringes will decrease and shift towards the tangent direction.
+
+When the upper glass plate is rotated, the path length of the light passing through the glass plate changes, causing the fringes to shift. The rotation of the glass plate also causes the interference pattern to change, resulting in a decrease in the interval between the fringes. Additionally, the fringes will shift towards the tangent direction, as the light passing through the glass plate is refracted towards the normal of the surface.
+
+Therefore, the correct answer is A. The interval between the fringes will decrease and shift towards the tangent direction.",1
+7,在双缝干涉实验中，两缝间距为d，双缝与屏幕的距离为D(D>>d)，单色光波长为λ，屏幕上相邻明条纹之间的距离为____,λD/d,λd/D,λD/(2d),λd/(2D),A," Double-slit experiment is a classic demonstration of the principles of wave-particle duality and the uncertainty principle. In the experiment, two slits are placed closely together, with the distance between them being d, and the distance between the slits and the screen being D (where D is much larger than d). The distance between the centers of the two slits and the screen is also d.
+
+The correct answer is C. λD/(2d), which is the distance between the centers of the two slits and the screen.
+
+Explanation:
+
+The distance between the centers of the two slits and the screen is equal to the wavelength (λ) of the light divided by 2 times the distance between the slits (d):
+
+λD/(2d) = (λ/2)d
+
+This is because the distance between the centers of the two slits is half the distance between the slits, and the distance between the slits and the screen is much larger than the distance between the slits. Therefore, the distance between the centers of the two slits and the screen is equal to half the wavelength of the light, times the distance between the slits.
+
+Answer: C. λD/(2d)",0
+8,关于电场强度定义式E=F/q0，下列说法中哪个是正确的？____,场强E的大小与试探电荷q0的大小成反比,对场中某点，试探电荷受力F与q0的比值不因q0而变,试探电荷受力F的方向就是场强E的方向,若场中某点不放试探电荷q0，则F=0，从而E=0,B,"让我们一步一步思考,
+1. 电场强度定义式E=F/q0，其中F是试探电荷受力，q0是试探电荷的量。
+2. A说法是错误的，场强E的大小与试探电荷q0的大小不是直接相关的，而是q0的方向和场强E的方向之间有直接关系。
+3. B说法是正确的，对场中某点，试探电荷受力F与q0的比值不因q0而变。
+4. C说法是部分正确的，试探电荷受力F的方向是场强E的方向，但不是所有的场强E都有相应的试探电荷受力F。
+5. D说法是错误的，场中某点不放试探电荷q0，则F=0，从而E=0，这不是正",0
+9,设有一个带正电的导体球壳，当球壳内充满电介质、球壳外是真空时，球壳外一点的场强大小和电势用E1，U1表示；而球壳内、外均为真空时，壳外一点的场强大小和电势用E2，U2表示，则两种情况下壳外同一点处的场强大小和电势大小的关系为____,E1 = E2，U1 = U2,E1 = E2，U1 > U2,E1 > E2，U1 > U2,E1 < E2，U1 < U2,A," This is a classic problem in electrostatics, and the answer is:
+
+A. E1 = E2, U1 = U2
+
+The electric field and potential outside a conducting shell are the same, regardless of whether the shell is filled with an insulating material or not. This is because the electric field and potential are determined by the charge distribution inside the shell, and the charge distribution does not change when the shell is filled with an insulating material.
+
+Therefore, the electric field and potential outside the shell are the same in both cases, and the relationship between the electric field and potential is given by:
+
+E1 = E2, U1 = U2
+
+where E1 and U1 are the electric field and potential outside the shell when it is filled with an insulating material, and E2 and U2 are the electric field and potential outside the shell when it is not filled with any material.",1
+10,如果在空气平行板电容器的两极板间平行地插入一块与极板面积相同的金属板，则由于金属板的插入及其相对极板所放位置的不同，对电容器电容的影响为：____,使电容减小，但与金属板相对极板的位置无关,使电容减小，且与金属板相对极板的位置有关,使电容增大，但与金属板相对极板的位置无关,使电容增大，且与金属板相对极板的位置有关,C,"让我们一步一步思考,
+1. 在空气平行板电容器中，两极板间的电容量由电场和材料的电导度决定。如果在这两个极板间平行地插入一块与极板面积相同的金属板，则会导致电场变化，从而影响电容器的电容量。
+2. 根据电容器的结构，可以确定金属板的插入会导致电场变化的方向和大小。如果金属板与极板面积相同，则插入金属板将导致电场减小，从而使电容器的电容量减小。
+3. 金属板的插入位置与电容器的电容量有关，因为金属板的位置会影响电场的分布。如果金属板与极板相",0
+11,在波长为λ的驻波中两个相邻波节之间的距离为：____,λ,3λ/4,λ/2,λ/4,C,"让我们一步一步思考,
+1. 驻波中两个相邻波节之间的距离可以通过对两个波节的干扰来计算。假设两个波节的干扰为A和B，则两个波节之间的距离可以写为：
+
+AB = λ / 2
+
+2. 根据题目的 условия，我们知道波长为λ，所以可以直接将AB substitute into λ/2。
+
+所以答案是：C.λ/2",1
+12,用强度为I，波长为λ的X射线(伦琴射线)分别照射锂(Z=3)和铁(Z=26)．若在同一散射角下测得康普顿散射的X射线波长分别为λ_{Li}和λ_{Fe}(λ_{Li}，λ_{Fe}>λ)，它们对应的强度分别为I_{Li}和I_{Fe}，则____,"λ_{Li}>λ_{Fe}, I_{Li}<I_{Fe}","λ_{Li}=λ_{Fe}, I_{Li}=I_{Fe}","λ_{Li}=λ_{Fe}, I_{Li}>I_{Fe}","λ_{Li}<λ_{Fe}, I_{Li}>I_{Fe}",C," X射线的康普顿散射是根据物质的电子结构和X射线的能量来进行的。在同一散射角下，锂和铁的电子结构不同，因此 их康普顿散射的X射线波长和强度也会有差异。
+
+根据题目的条件，我们知道X射线的波长为λ，且在同一散射角下，锂和铁的康普顿散射的X射线波长分别为λ_{Li}和λ_{Fe}。由于锂的原子序数小于铁的原子序数，因此锂的电子结构比铁更为紧凑。这意味着锂在同一散射角下的康普顿散射X射线波长会更短，而强度会更弱。",0
+13,两个相距不太远的平面圆线圈，怎样可使其互感系数近似为零？____（设其中一线圈的轴线恰通过另一线圈的圆心）,两线圈的轴线互相平行放置,两线圈并联,两线圈的轴线互相垂直放置,两线圈串联,C," Given two circular lines that are not too far apart, how can we make their mutual coupling coefficient approximately zero?
+
+We know that the mutual coupling coefficient is proportional to the distance between the two lines and the angle between them. Therefore, to minimize the mutual coupling coefficient, we should choose a configuration that maximizes the distance between the two lines and minimizes the angle between them.
+
+From the given options, the best choice is:
+
+A. Two line segments parallel to each other.
+
+In this configuration, the two lines are parallel and farthest apart, which minimizes the distance between them and the angle between them. As a result, the mutual coupling coefficient will be approximately zero.
+
+Therefore, the answer is A. Two line segments parallel to each other.",0
+14,一特殊的轻弹簧，弹性力F=-kx3，k为一常量系数，x为伸长(或压缩)量。现将弹簧水平放置于光滑的水平面上，一端固定，一端与质量为m的滑块相连而处于自然长度状态。今沿弹簧长度方向给滑块一个冲量，使其获得一速度v，压缩弹簧，则弹簧被压缩的最大长度为____,\sqrt{m/k}v,\sqrt{k/m}v,(4mv/k)^(1/4),(2mv^2/k)^(1/4),D," This is a problem of a spring-mass system, where the spring is described by the force-extension relationship F=-kx3.
+
+When the spring is compressed, the maximum compression length is achieved when the spring is at its critical point, where the force and acceleration are zero. At this point, the velocity of the mass attached to the spring is given by:
+
+v = √(2kx/m)
+
+where x is the compression length of the spring.
+
+Therefore, the maximum compression length of the spring is:
+
+L = √(m/k)v
+
+So the answer is:
+
+A. √(m/k)v
+
+Note that the answer is not dependent on the mass of the object attached to the spring, only on the spring constant and the velocity of the object.",0
+15,一个圆锥摆的摆线长为l，摆线与竖直方向的夹角恒为θ，如图所示。则摆锤转动的周期为____,$\sqrt{l/g}$,$\sqrt{l\cos θ/g}$,$2π\sqrt{l/g}$,$2π\sqrt{l\cosθ/g}$,D," This is a classic problem of circular motion. The period of the pendulum can be obtained by using the equation of motion for a simple pendulum:
+
+$$T = 2π √{\frac{l}{g}}$$
+
+where $T$ is the period, $l$ is the length of the pendulum, and $g$ is the acceleration due to gravity.
+
+The given information states that the angle of inclination of the pendulum is constant, so we can use the equation above to find the period.
+
+Therefore, the correct answer is:
+
+C. $2π\sqrt{l/g}$",0
+16,把一平凸透镜放在平玻璃上，构成牛顿环装置．当平凸透镜慢慢地向上平移时，由反射光形成的牛顿环____,向中心收缩，条纹间隔变小,向中心收缩，环心呈明暗交替变化,向外扩张，环心呈明暗交替变化,向外扩张，条纹间隔变大,B," When the flat mirror is slowly raised, the Newton's ring formation will experience a change in the size of the rings and the interference pattern.
+
+As the mirror is raised, the angle of incidence of the light reflected from the mirror increases, causing the rings to shrink towards the center. This is known as the ""central dark ring"" effect.
+
+Therefore, the correct answer is:
+
+A. towards the center, with a decreased size and a dark center ring.",0
+17,对于沿曲线运动的物体，以下几种说法中哪一种是正确的____,切向加速度必不为零,法向加速度必不为零（拐点处除外）,由于速度沿切线方向，法向分速度必为零，因此法向加速度必为零,若物体作匀速率运动，其总加速度必为零,B,"让我们一步一步思考,
+1. 沿曲线运动的物体的速度和加速度可以分解为沿切线和沿法向两部分。
+2. 切向加速度是指物体在切线方向上的加速度，由于沿曲线运动的物体不会有平行于切线的速度，因此切向加速度必须为零。
+3. 法向加速度是指物体在法向方向上的加速度，在拐点处可能存在非零的法向加速度，但在其他位置则必须为零。
+4. 由于速度沿切线方向，法向分速度必为零，因此法向加速度必为零。
+5. 若物体作匀速率运动，其总加速度必为零。
+
+根据上述分析，正确的选项是C。",0
+18,有三个直径相同的金属小球．小球1和小球2带等量异号电荷，两者的距离远大于小球直径，相互作用力为F．小球3不带电并装有绝缘手柄．用小球3先和小球1碰一下，接着又和小球2碰一下，然后移去．则此时小球1和2之间的相互作用力为____,0,F/4,F/3,F/2,C," this is a classic problem in electrostatics, and the answer is B. F/4.
+
+Here's the explanation:
+
+When the first metal ball (ball 1) is charged, it creates an electric field around itself. When the second metal ball (ball 2) is brought close to ball 1, it feels the electric field and becomes charged with the same magnitude and opposite sign as ball 1. The force between ball 1 and ball 2 is due to the electrostatic attraction between the two charges.
+
+Now, when ball 3 is brought close to ball 1, it feels the electric field created by ball 1 and becomes charged with the same magnitude and opposite sign as ball 1. However, since ball 3 is not connected to ball 2, there is no net force between ball 1 and ball 3.
+
+When ball 3 is then brought close to ball 2, it feels the electric field created by ball 2 and becomes charged with the same magnitude and opposite sign as ball 2. Since the charges on ball 1 and ball 2 are equal and opposite, the net force between ball 1 and ball 2 is zero.
+
+Therefore, the force between ball 1 and ball 2 is F/4, since the total force between the three balls is zero.",0

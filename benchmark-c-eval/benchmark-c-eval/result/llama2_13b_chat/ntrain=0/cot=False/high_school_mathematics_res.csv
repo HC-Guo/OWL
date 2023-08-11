@@ -1,0 +1,308 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,"已知全集为实数集$\mathbb{R}$，集合$A=\{x|x^{2}-2x<0\},B=\left\{x|l og_{2}x>0\right\}$，则$\left(\complement_R A \right) \cap B$的值为____","$\left(-\infty,0\right]\cup(1,+\infty)$","$\left(0,1\right]$","$\left[2,+\infty\right)$",$\emptyset$,C," Based on the given information, we have:
+
+$A = \{x | x^2 - 2x < 0\} = \{x | x < \sqrt{2}\} \cup \{x | x > \sqrt{2}\}$
+
+$B = \left\{x | \log_2 x > 0\right\} = (0, \infty)$
+
+Now, we need to find the intersection of $\complement_R A$ and $B$.
+
+Note that $\complement_R A = \mathbb{R} \backslash A = \mathbb{R} \backslash \{x | x < \sqrt{2}\} \cup \mathbb{R} \backslash \{x | x > \sqrt{2}\} = (\sqrt{2}, \infty) \cup (-\infty, \sqrt{2}]$
+
+So, we have:
+
+$$\left(\complement_R A \right) \cap B = \left((\sqrt{2}, \infty) \cup (-\infty, \sqrt{2}]\right) \cap (0, \infty) = (\sqrt{2}, 1] \cup [1, \infty)$$
+
+Therefore, the correct answer is:
+
+A. $\left(-\infty,0\right]\cup(1,+\infty)$",0
+1,抛物线$x^2=2y$的焦点坐标是____,"$(\frac{1}{4},0)$","$(0,\frac{1}{2})$","$(0,\frac{1}{4})$","$(\frac{1}{2},0)$",B," Sure! I'd be happy to help you with that. The correct answer is:
+
+B. $(0,\frac{1}{2})$
+
+The equation of the line is $x^2 = 2y$, so we can set $x = 0$ to find the y-intercept.
+
+$0^2 = 2y \Rightarrow 0 = 2y \Rightarrow y = 0$
+
+Therefore, the y-intercept is $0$, and the x-intercept is $0$. So, the coordinates of the focus are $(0,0)$.",1
+2,"$\forall x\neq0$,$\left(x+\frac{1}{x}\right)^{10}$可写成关于$\left(x^2+\frac{1}{x^2}\right)$的多项式，则该多项式各项系数之和为____",240,241,242,243,D," Sure! I'd be happy to help you with that.
+
+First, let's simplify the expression $\left(x+\frac{1}{x}\right)^{10}$:
+
+$$\left(x+\frac{1}{x}\right)^{10} = \left(x^2 + \frac{1}{x^2}\right)^5$$
+
+Now, we can expand the right-hand side using the binomial theorem:
+
+$$\left(x^2 + \frac{1}{x^2}\right)^5 = \sum_{k=0}^5 \binom{5}{k} x^{10-k} \frac{1}{x^{10-k}}$$
+
+Since $x\neq 0$, we can cancel out the $x$ and $\frac{1}{x}$ terms, leaving us with:
+
+$$\left(x+\frac{1}{x}\right)^{10} = \sum_{k=0}^5 \binom{5}{k} x^{5-k} \frac{1}{x^{5-k}}$$
+
+Now, we can see that the sum of the coefficients of each term is:
+
+$$\sum_{k=0}^5 \binom{5}{k} = 240$$
+
+Therefore, the correct answer is:
+
+A. 2",0
+3,"过双曲线${\frac{x^{2}}{a^{2}}}-{\frac{y^{2}}{b^{2}}}=1(a>0,b>0)$的一个焦点F引它的渐近线的垂线，垂足为M，延长FM交y轴于E，若|FM|=2|ME|，则该双曲线的离心率为____",3,2,$\sqrt3$,$\sqrt2$,C," This is a problem of calculus, specifically, the problem of finding the eccentricity of an ellipse.
+
+The given equation of the ellipse is:
+
+$$\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1$$
+
+where $a$ and $b$ are positive constants.
+
+The focus of the ellipse is the point $(0,0)$, and the directrix is the line $y = 0$.
+
+The distance between the focus and the directrix is $2|ME|$, where $ME$ is the midpoint of the line segment joining the focus to the directrix.
+
+Now, we can find the eccentricity of the ellipse by using the formula:
+
+$$e = \sqrt{\frac{1 + \frac{ME^2}{a^2}}{1 - \frac{ME^2}{b^2}}}$$
+
+Substituting the values, we get:
+
+$$e = \sqrt{\frac{1 + \frac{2^2}{a^2}}{1 - \frac{2^2}{b^2}}}$$
+
+Simplifying, we get:
+
+$$e = \sqrt{\frac{3}{2}}$$
+
+Therefore, the correct answer is:
+
+C. $\sqrt3$",1
+4,要得到函数$f(x)=\sin(2x+{\frac{\pi}{3}})$的导函数$f^{\prime}(x)$的图象，只需将$f(x)$的图像____,向左平移$\frac{\pi}{2}$个单位，再把各点的纵坐标伸长到原来的2倍（横坐标不变）,向左平移$\frac{\pi}{2}$个单位，再把各点的纵坐标缩短到原来的$\frac{1}{2}$倍（横坐标不变）,向右平移$\frac{\pi}{4}$个单位，再把各点的纵坐标伸长到原来的$\frac{1}{2}$倍（横坐标不变）,向右平移$\frac{\pi}{4}$个单位，再把各点的纵坐标伸长到原来的2倍（横坐标不变）,D," C. 向右平移$\frac{\pi}{4}$个单位，再把各点的纵坐标伸长到原来的$\frac{1}{2}$倍（横坐标不变）。
+
+解释：
+
+函数 $f(x) = \sin(2x + \frac{\pi}{3})$ 是一个Periodic函数，其Period是 $\frac{\pi}{3}$。在折线上绘制 $f(x)$ 的图像时，需要将图像向右平移 $\frac{\pi}{4}$ 个单位，这样图像的中心将位于 $x = \frac{\pi}{6}$ 点上。然后，将每个点的纵坐标伸长到原来的 $\frac{1}{2}$ 倍，这样图像的纵坐标将与原来的函数值相同。
+
+因此，选项 C 是正确的答案。",0
+5,"在边长为3，4，5的三角形内部任取一点P,则点P到三个顶点距离都大于1的概率为____",$\frac{6-\pi}{6}$,$\frac{12-\pi}{12}$,$\frac{\pi}{6}$,$\frac{\pi}{12}$,B," C. $\frac{\pi}{6}$
+
+解释：
+
+在三角形内部任取一点P，则点P到三个顶点的距离都大于1的概率是由于三角形的面积的关系。
+
+三角形的面积是 $\frac{1}{2} \times 3 \times 4 = 6$，其中 $3$ 和 $4$ 是三角形的边长。
+
+由于点P在三角形内部，所以点P到三个顶点的距离都大于1。这个概率可以用三角形的面积来计算：
+
+$$\begin{aligned}
+\text{概率} &= \frac{\text{面积}}{6} \\
+&= \frac{6}{6} \\
+&= 1
+\end{aligned}$$
+
+因此，点P到三个顶点的距离都大于1的概率是 $1$。
+
+所以，正确的选项是 C. $\frac{\pi}{6}$。",0
+6,椭圆$x^{2}+m y^{2}=1$的焦点在x轴上，长轴长是短轴长的两倍，则m的值为____,$\dfrac{1}{4}$,$\dfrac{1}{2}$,2,4,D," Sure, I'd be happy to help! The equation of the ellipse with its focus on the x-axis and the major axis twice the length of the minor axis is given by:
+
+x^2 + my^2 = 1
+
+We know that the major axis is twice the length of the minor axis, so we can write:
+
+2a^2 + my^2 = 1
+
+where a is the length of the minor axis.
+
+Now, we can solve for m by subtracting 2a^2 from both sides:
+
+m^2 + 2a^2 = 1
+
+Simplifying, we get:
+
+m^2 = 1 - 2a^2
+
+Since the focus is on the x-axis, we know that m is a negative number. Therefore, the correct answer is:
+
+B. $\dfrac{1}{2}$
+
+The value of m is $\dfrac{1}{2}$.",0
+7,已知$\sin(\frac{\pi}{4}-x)=\frac{3}{5}$，则$\sin2x$的值为____,$\frac{19}{25}$,$\frac{16}{25}$,$\frac{14}{25}$,$\frac{7}{25}$,D," Sure, I'd be happy to help!
+
+Given that $\sin(\frac{\pi}{4}-x) = \frac{3}{5}$, we can use the trigonometric identity $\sin(a+b) = \sin(a)\cos(b) + \cos(a)\sin(b)$ to find $\sin2x$.
+
+First, let's find $\sin(\frac{\pi}{4}-x)$:
+
+$$\sin(\frac{\pi}{4}-x) = \sin\left(\frac{\pi}{4} - x\right) = \frac{3}{5}$$
+
+Now, let's find $\sin(2x)$:
+
+$$\sin(2x) = \sin\left(2\left(\frac{\pi}{4} - x\right)\right) = \sin\left(2\frac{\pi}{4} - 2x\right) = \frac{3}{5}\cos(2x) + \frac{5}{3}\sin(2x)$$
+
+Since $\cos(2x) = \cos^2(x) - \sin^2(x)$, we have:
+
+$$\sin(2x) = \frac{3}{5}\cos(2x) + \frac{5}{3}\sin(2x) = \frac{3}{5",0
+8,"已知函数$f(x)=a \ln x-2x$,若不等式$f(x+1)>a x-2e^{x}$在$x \in \left(0 +\infty\right)$上恒成立，则实数a的取值范围是____",$a{\leq}2$,$a\geq2$,$a{\leq}0$,$0\leq a\leq2$,A," Sure, I'd be happy to help! Let's analyze the given function and the inequality.
+
+The function is given by $f(x) = a \ln x - 2x$, where $a$ is a constant.
+
+The inequality is given by:
+
+$$f(x+1) > a x - 2e^{x}$$
+
+To satisfy this inequality, we need to have:
+
+$$a \ln(x+1) - 2(x+1) > a x - 2e^{x}$$
+
+Expanding the left-hand side, we get:
+
+$$a \ln x - 2x + a \ln(1) > a x - 2e^{x}$$
+
+Simplifying, we get:
+
+$$a \ln x > 2x - a e^{x}$$
+
+Since $x$ is a positive real number, we know that $\ln x > 0$. Therefore, we can simplify the inequality as:
+
+$$a \ln x > 2x - a e^{x}$$
+
+Now, we can see that the left-hand side is a constant multiple of $x$, while the right-hand side is a function of $x$. Therefore, the inequality is impossible to satisfy for all $x \in (0, \infty)$.
+
+So, the correct answer is:
+
+",0
+9,17世纪，在研究天文学的过程中，为了简化大数运算，苏格兰数学家纳皮尔发明了对数，对数的思想方法即把乘方和乘法运算分别转化为乘法和加法，数学家拉普拉斯称赞为“对数的发明在实效上等于把天文学家的寿命延长了许多倍”.已知$\lg2\approx0.3010$，$\lg3\approx0.4771$，设$N=4^5\times27$，则N所在的区间为____,"$\left(10^{15},10^{16}\right)$","$\left(10^{16},10^{17}\right)$","$\left(10^{17},10^{18}\right)$","$\left(10^{18},10^{19}\right)$",C," C. $\left(10^{17},10^{18}\right)$
+
+解释：
+
+根据提供的信息，我们知道：
+
+$$\lg2\approx0.3010$$
+$$\lg3\approx0.4771$$
+
+将这两个数相加，我们可以得到：
+
+$$\lg(N)= \lg(4^5\times27) = \lg(4^5) + \lg(27) \approx 5\lg(2) + \lg(27) \approx 5.3010 + \lg(27)$$
+
+由于 $\lg(27) \approx 4.7710$，所以：
+
+$$\lg(N) \approx 5.3010 + 4.7710 \approx 10.0720$$
+
+将这个数转换为十进制，我们可以得到：
+
+$$N \approx 10^{17}$$
+
+因此，正确的选择是 C. $\left(10^{17},10^{18}\right)$。",1
+10,为做好社区新冠疫情防控工作，需将五名志愿者分配到三个社区去开展工作，每名志愿者只分配到一个社区，每个社区至少分配一名志愿者，志愿者甲和乙必须去同一个社区，则不同的分配方法共有____,12种,18种,24种,36种,D," C. 24种。
+
+解释：
+
+我们知道志愿者甲和乙必须去同一个社区，这意味着我们只能分配志愿者甲和乙到同一个社区。因此，我们只有24种分配方法：
+
+1. 甲和乙都分配到同一个社区
+2. 甲分配到一个社区，乙分配到另一个社区
+3. 甲分配到一个社区，乙分配到同一个社区
+4. 甲分配到一个社区，乙分配到另一个社区
+5. ...
+24种。
+
+Therefore, the correct answer is C. 24种.",0
+11,数学对于一个国家的发展至关重要，发达国家常常把保持数学领先地位作为他们的战略需求．现某大学为提高数学系学生的数学素养，特开设了“古今数学思想”“世界数学通史”“几何原本”“什么是数学”四门选修课程，要求数学系每位同学每学年至多选3门，大一到大三3学年必须将四门选修课程选完，则每位同学的不同选修方式有____,60种,78种,84种,144种,B," C. 84种。
+
+根据提问，每位同学每学年可选择3门选修课程，大一到大三3学年必须将四门选修课程选完，这意味着每位同学可选择的方式数量是84种。
+
+A. 60种是不正确的，因为84种 exceeds 60。
+
+B. 78种是不正确的，因为84种 exceeds 78。
+
+D. 144种是不正确的，因为84种 exceeds 144。",0
+12,"若平面$\alpha$的法向量为$\vec{n}_{1}=(3,2,1)$，平面$\beta$的法向量为$\vec{n}_{2}=(2,0,-1)$则平面$\alpha$与平面$\beta$夹角的余弦值为____",$\frac{\sqrt{70}}{14}$,$\frac{\sqrt{70}}{10}$,$-\frac{\sqrt{70}}{14}$,$-\frac{\sqrt{70}}{10}$,A," C. $-\frac{\sqrt{70}}{14}$
+
+解释：
+
+ given that the normal vectors of the two planes are $\vec{n}_{1} = (3, 2, 1)$ and $\vec{n}_{2} = (2, 0, -1)$, we can find the dot product of the two normal vectors:
+
+$$\vec{n}_{1} \cdot \vec{n}_{2} = 3 \cdot 2 + 2 \cdot (-1) = 6 - 2 = 4$$
+
+The dot product is always positive, so the angle between the two planes is acute.
+
+Using the cosine formula, we have:
+
+$$\cos(\angle(\alpha, \beta)) = \frac{\vec{n}_{1} \cdot \vec{n}_{2}}{|\vec{n}_{1}| \cdot |\vec{n}_{2}|}$$
+
+$$= \frac{4}{5 \cdot 3} = \frac{4}{15}$$
+
+So, the cosine of the angle between the two planes is $\frac{4}{15}$.
+
+Since the cosine of an acute angle is always positive, we know that the angle between the two planes is acute. Therefore, the correct answer is C. $-\frac{\sqrt{70",0
+13,已知$平面\alpha // 平面\beta$，$m\subset\alpha$，$n\subset\beta$，则下列结论一定正确是____,"m,n是平行直线","m,n是异面直线","m,n是共面直线","m,n是不相交直线",D," C. m,n 是共面直线。
+
+根据已知情况，有 $m \subset \alpha$ 和 $n \subset \beta$，这意味着 $m$ 和 $n$ 都是 $\alpha$ 和 $\beta$ 中的子集。如果 $m$ 和 $n$ 是平行的，那么它们的共面直线是 $m \cap n$，这个结论是正确的。因此，选择 C 是正确的答案。",0
+14,若抛物线$y^2=2px$的焦点与椭圆$\frac{x^2}{6}+\frac{y^2}{2}=1$的右焦点重合，则p的值为____,-2,2,-4,4,D," Sure, I'd be happy to help! Let's take a look at the two equations:
+
+1. 抛物线的方程式：$y^2 = 2px$
+2. 椭圆的方程式：$\frac{x^2}{6} + \frac{y^2}{2} = 1$
+
+We can see that the two equations have the same shape, but the scales are different. The equation of the parabola has a horizontal axis, while the equation of the ellipse has a vertical axis.
+
+Now, we need to find the value of $p$ that makes the two curves intersect. To do this, we can set the two equations equal to each other and solve for $p$.
+
+So, we have:
+
+$y^2 = 2px$
+
+$\frac{x^2}{6} + \frac{y^2}{2} = 1$
+
+Substituting $y^2 = 2px$ into the second equation, we get:
+
+$\frac{x^2}{6} + \frac{2px}{2} = 1$
+
+Simplifying, we get:
+
+$x^2 + 4px = 6$
+
+Solving for $p$, we get:
+
+$p = \frac",0
+15,某一电子集成块有三个元件a，b，c并联构成，三个元件是否有故障相互独立．已知至少1个元件正常工作，该集成块就能正常运行．若每个元件能正常工作的概率均为$\frac{4}{5}$则在该集成块能够正常工作的情况下，有且仅有一个元件出现故障的概率为____,$\frac{12}{31}$,$\frac{48}{125}$,$\frac{16}{25}$,$\frac{16}{125}$,A," Based on the information provided, we know that at least one of the elements (a, b, or c) is working properly, and the probability that each element works properly is $\frac{4}{5}$.
+
+Let's consider the following events:
+
+* Event A: Element a works properly.
+* Event B: Element b works properly.
+* Event C: Element c works properly.
+
+We know that at least one of these events must occur, since the integration block can operate properly. Let's calculate the probability of each event:
+
+* Event A: The probability that element a works properly is $\frac{4}{5}$, so the probability of Event A is $\frac{4}{5}$.
+* Event B: The probability that element b works properly is $\frac{4}{5}$, so the probability of Event B is $\frac{4}{5}$.
+* Event C: The probability that element c works properly is $\frac{4}{5}$, so the probability of Event C is $\frac{4}{5}$.
+
+Since at least one of these events must occur, we can calculate the probability that none of the elements fails as follows:
+
+$$P(\text{none of the elements fails}) = 1 - P(\text{at least one element fails})$$
+
+We can calculate the probability that at least one element fails as follows:
+
+$$P(\text{at least one",0
+16,"已知条件$p:\left|x+1\right|>2$，条件$q:x>a$,且$\neg p$是$\neg q$的充分不必要条件，则实数a的取值范围是____",$a\geq1$,$a\leq1$,$a\geq-1$,$a\leq -3$,A," Based on the given conditions, we know that $p: \left|x+1\right| > 2$ and $q: x > a$. Since $\neg p$ is a sufficient condition for $\neg q$, we have:
+
+$$\neg p \Rightarrow \neg q$$
+
+Since $x+1$ is always positive, we have:
+
+$$\left|x+1\right| > 2 \Rightarrow x+1 > 2$$
+
+Let $x = a-1$, then:
+
+$$x+1 = a-1 + 1 = a$$
+
+So, $x+1 = a$ is a solution to the equation $\neg p$. Therefore, the range of $a$ is:
+
+$$A.$a \geq 1$$
+
+The correct answer is A. $a \geq 1$.",0
+17,"已知函数$f(x)$是定义在$\mathbb{R}$上的偶函数，且在$\left(0,+\infty\right)$上单调递增，则____",$f(-3)<f(-\log_{3}13)<f(2^{0.6})$,$f(-3)<f(2^{0.6})<f(-\log_{3}13)$,$f(2^{0.6})< f(-\log_{3}13) <f(-3)$,$f(2^{0.6})<f(-3)< f(-\log_{3}13) $,C," C. $f(2^{0.6})< f(-\log_{3}13) <f(-3)$
+
+根据题目的 условия，函数$f(x)$是定义在$\mathbb{R}$上的偶函数，且在$\left(0,+\infty\right)$上单调递增。这意味着函数$f(x)$在$\left(0,+\infty\right)$上是 monotically increasing，也就是说，函数$f(x)$在这个区间上是非递减的。
+
+现在考虑以下三个关系：
+
+1. $f(-3) < f(-\log_{3}13)$ (由于 $f(x)$ 是 monotically increasing，所以 $f(-3) < f(-\log_{3}13)$)
+2. $f(2^{0.6}) < f(-\log_{3}13)$ (由于 $f(x)$ 是 monotically increasing，所以 $f(2^{0.6}) < f(-\log_{3}13)$)
+3. $f(-3) < f(2^{0.6})$ (由于 $f(",1

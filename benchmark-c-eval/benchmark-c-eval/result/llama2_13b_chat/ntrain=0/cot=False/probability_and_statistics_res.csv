@@ -1,0 +1,256 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,设随机变量$X$和$Y$相互独立，且X$\sim N(0，1)，Y\sim N(0$，2)，则$D\left(X^2Y^2\right)=$____,10,20,32,45,C," C.32
+
+解释：
+
+由于$X$和$Y$相互独立，因此$X$和$Y$的covariance为0，则$X^2Y^2$的期望值为：
+
+E(X^2Y^2) = E(X^2)E(Y^2) = 0 \* 1 = 0
+
+Var(X^2Y^2) = Var(X^2) + Var(Y^2) = 1 + 2 = 3
+
+所以，$D\left(X^2Y^2\right) = \sqrt{3}$ = C.32.",1
+1,"设随机变量$(X,Y)$的概率密度为$f(x,y)=\left\{\begin{array}{cc}6y,&0<x<1,0<y<x，\\0,&\text{其他.}\end{array}\right.$,$$\text{则}P\left(X>\frac{1}{2}\mid Y=\frac{1}{3}\right)=$$____",$\frac{3}{4}$,$\frac{2}{3}$,$\frac{1}{4}$,$\frac{1}{3}$,A," C. $\frac{1}{4}$
+
+We have:
+
+$$f(x,y) = \left\{\begin{array}{cc} 6y, & 0 < x < 1, 0 < y < x, \\ 0, & \text{otherwise. } \end{array}\right.$$
+
+Since $Y = \frac{1}{3}$, we have:
+
+$$P(X > \frac{1}{2} \mid Y = \frac{1}{3}) = \int_{0}^{\frac{1}{2}} 6y \cdot \delta(x - \frac{1}{3}) dx$$
+
+where $\delta(x - \frac{1}{3})$ is the Dirac delta function.
+
+Evaluating the integral, we get:
+
+$$P(X > \frac{1}{2} \mid Y = \frac{1}{3}) = \int_{0}^{\frac{1}{2}} 6y \cdot \delta(x - \frac{1}{3}) dx = \int_{0}^{\frac{1}{2}} 6y \cdot \delta(x) dx = \frac{6}{3}$$
+
+Therefore, the correct answer is C. $\frac{1}{4}$.",0
+2,"总体的简单样本,$\bar{X}$为样本均值,则$D(\bar{X})=$____",$\frac{3}{80}$,$\frac{9}{16}$,$\frac{3}{1600}$,$\frac{3}{160}$,C," C. $\frac{3}{1600}$
+
+解释：
+
+ given a simple random sample of size $n = 80$, the sample mean $\bar{X}$ is a random variable that represents the average of the sample. The probability density function (pdf) of $\bar{X}$ is given by:
+
+$$f(\bar{X}) = \frac{1}{n} \cdot \frac{1}{\sqrt{2\pi}} \cdot \exp\left(-\frac{(\bar{X}- \mu)^2}{2\sigma^2}\right)$$
+
+where $\mu$ is the population mean and $\sigma$ is the population standard deviation.
+
+Since we are given that the sample size is $n = 80$, we can calculate the pdf of $\bar{X}$ as:
+
+$$f(\bar{X}) = \frac{1}{80} \cdot \frac{1}{\sqrt{2\pi}} \cdot \exp\left(-\frac{(\bar{X}- \mu)^2}{2\sigma^2}\right)$$
+
+Now, we need to find the value of $D(\bar{X})$, which is the probability that the sample mean is within $3$ standard deviations of the population mean.
+
+From the normal distribution table, we know that the probability that a random variable $X$",1
+3,"设总体$X$服从拉普拉斯分布$f(x,\lambda)=\frac{1}{4\lambda}e^{-\frac{|x|}{2\lambda}},-\infty<x<\infty$,其中$\lambda>0$。则$E(|X|)=$____",$\frac{1}{2 \lambda}$,$\frac{1}{\lambda}$,$2 \lambda$,$\lambda$,C," Certainly! I'd be happy to help. The correct answer is:
+
+B. $\frac{1}{\lambda}$
+
+The expected value of a random variable $X$ following a Laplace distribution with parameter $\lambda$ is given by:
+
+$$E(X) = \int_{-\infty}^{\infty} x \frac{1}{4\lambda} e^{-{\frac{|x|}{2\lambda}}} dx$$
+
+Simplifying the integral, we get:
+
+$$E(X) = \int_{-\infty}^{\infty} x \frac{1}{4\lambda} e^{-{\frac{|x|}{2\lambda}}} dx = \frac{1}{4\lambda} \int_{-\infty}^{\infty} x e^{-{\frac{|x|}{2\lambda}}} dx$$
+
+Now, we can evaluate the integral by substituting $u = \frac{|x|}{2\lambda}$:
+
+$$E(X) = \frac{1}{4\lambda} \int_{-\infty}^{\infty} x e^{-u} du = \frac{1}{4\lambda} \int_{-\infty}^{\infty} e^{-u} du$$
+
+The integral on the right-hand side is a standard exponential integral, and its value is:
+
+$$\int_{-\infty}^{\infty} e^{-u} du = \frac{1}{2",1
+4,"设$X_1,X_2,\cdots X_{12}$是来自正态总体$X\sim N\left(0,\sigma^2\right)$的简单样本,随机变量$Y=\frac{\sum_{i=1}^6X_i^2}{\sum_{j=1}^6X_{j+6}^2}$服从的分布为:____",$\chi^2(6)$,$\chi^2(1)$,"$F(5,5)$","$F(6,6)$",D," C. $F(5,5)$ 是正确的答案。
+
+解释：
+
+由于 $X_1,X_2,\cdots X_{12}$ 是来自正态总体 $X\sim N\left(0,\sigma^2\right)$ 的简单样本，我们可以知道 $\sum_{i=1}^6X_i^2$ 和 $\sum_{j=1}^6X_{j+6}^2$ 都服从正态分布 $N\left(0,\sigma^2\right)$。
+
+因此，我们可以使用中心化正态分布来描述 $Y$ 的分布，即：
+
+$$Y \sim \frac{N\left(0,\sigma^2\right)}{\sum_{j=1}^6X_{j+6}^2}$$
+
+使用矩阵方法可以得到：
+
+$$Y \sim \frac{F\left(5,5\right)}{\sum_{j=1}^6X_{j+6}^2}$$
+
+其中 $F\left(5,5\right)$ 是一个 $5\times 5$ 的矩��",0
+5,对于任意两个随机变量X和$Y$，若$E(XY)=EX\cdot EY$，则____,$D(X Y)=D(X) \cdot D(Y)$,$D(X+Y)=D(X)+D(Y)$,X和Y独立,X和Y不相关,D," C. X and Y are independent.
+
+Given that $E(XY) = E(X) \cdot E(Y)$, we know that the expected value of the product of X and Y is equal to the product of the expected values of X and Y. This means that the two variables are independent, as the expected value of one variable does not depend on the value of the other.
+
+Therefore, the correct answer is option C.",0
+6,"设$(X_1,X_2,...,X_n)$是取自总体X的一个样本，X的概率密度如下：$f(x)=\begin{cases}\frac12e^{-\frac{(x-\mu)}{2}},x\geq\mu,\\0,其他\end{cases}$,$\mu$为未知参数。则$\mu$的最大似然估计量是.____",$\hat{\mu}=\max _{1 \leq i \leq n} X_i$,$\hat{\mu}=\frac13 \max _{1 \leq i \leq n} X_i$,$\hat{\mu}=\min _{1 \leq i \leq n} X_i$,$\hat{\mu}=\frac12 \min _{1 \leq i \leq n} X_i$,C," C. $\hat{\mu} = \min_{1 \leq i \leq n} X_i$
+
+解释：
+
+根据给定的概率密度函数，我们知道X的平均值为$\mu$.我们需要估计$\mu$的值。
+
+设$\hat{\mu}$为$\mu$的最大似然估计量，则需要满足以下两个条件：
+
+1. $\hat{\mu}$必须在样本中存在，即$\hat{\mu}$必须在$X_1,X_2,...,X_n$中存在。
+2. $\hat{\mu}$必须满足最大似然估计条件，即 $\hat{\mu}$必须使得$P(\hat{\mu} \leq X_i)$最大化。
+
+根据给定的概率密度函数，我们可以看到，在$X_1,X_2,...,X_n$中，$\min(X_1,X_2,...,X_n)$对应的概率是最大的，因此$\",1
+7,当事件$A$和$B$同时发生时$C$也发生，则下列式子中成立的是____,$P(C)=P(A \cap B)$,$P(C) \leq P(A)+P(B)-1$,$P(C)=P(A \cup B)$,$P(C) \geq P(A)+P(B)-1$,D," Certainly! I'd be happy to help you with that.
+
+The correct answer is C. $P(C)=P(A \cup B)$.
+
+When events $A$ and $B$ occur simultaneously, the probability of event $C$ is equal to the probability of the union of $A$ and $B$, which is $P(A \cup B)$.
+
+The other options are not correct:
+
+A. $P(C)=P(A \cap B)$ is not true because the intersection of $A$ and $B$ may not include $C$.
+
+B. $P(C) \leq P(A)+P(B)-1$ is not true because the probability of $C$ may be greater than the sum of the probabilities of $A$ and $B$.
+
+D. $P(C) \geq P(A)+P(B)-1$ is not true because the probability of $C$ may be less than the sum of the probabilities of $A$ and $B$.",0
+8,"$$
+\text{设}0<P(A)<1，0<P(B)<1\text{，}
+$$
+$P(A\mid B)+P(\bar{A}\mid\bar{B})=1$，则____",事件A和B互不相容,事件A和B互相对立,事件A和B互不独立,事件A和B相互独立,D," C. 事件A和B互不独立.
+
+解释：
+
+由于 $P(A\mid B)+P(\bar{A}\mid\bar{B})=1$, 这意味着事件A和事件B的 conditional probability 之和等于 1。这表示事件A 和事件B 是不独立的，即 knowing that one event occurs, the other event is more likely to occur as well.
+
+因此，选项C 是正确的答案。",0
+9,设X和Y分别表示扔n次硬币出现正面和反面的次数，则$X，Y$的相关系数为____,-1,0,\frac{1}{2},1,A," C. $\frac{1}{2}$ 是正确答案。
+
+解释：
+
+X 和 Y 分别表示扔 n 次硬币出现正面和反面的次数，则 $X$ 和 $Y$ 的相关系数可以使用硬币投入的概率来计算。由于硬币投入的概率为 $\frac{1}{2}$，因此 $X$ 和 $Y$ 的相关系数也是 $\frac{1}{2}$。
+
+therefore, the correct answer is C. $\frac{1}{2}$。",0
+10,"设二维随机变量$(X,Y)$在区域$D=\left\{(x,y):x^2+y^2<1\right\}$内均匀分布,则$X$与$Y$为____",独立同分布的随机变量,独立不同分布的随机变量,不独立同分布的随机变量,不独立也不同分布的随机变量,C," C. 不独立同分布的随机变量.
+
+Since the variables $(X,Y)$ are jointly normal and have a bivariate normal distribution, they are not independent. Therefore, option C is the correct answer.",1
+11,设$X\sim N(1，4)，Y\sim N(3，16)，P\{Y=aX+b\}=1$，且$\rho_{XY}=-1$，则____,"a=2, b=5","a=-2, b=-5","a=-2, b=5","a=2, b=-5",C," Based on the given information, we have:
+
+$$X \sim N(1, 4)$$
+$$Y \sim N(3, 16)$$
+$$P\{Y = aX + b\} = 1$$
+$$\rho_{XY} = -1$$
+
+From the first two equations, we know that $X$ and $Y$ are both normal distributions with mean $1$ and $3$, respectively, and variance $4$ and $16$, respectively.
+
+From the third equation, we know that the probability that $Y = aX + b$ is equal to $1$, where $a$ and $b$ are constants.
+
+From the fourth equation, we know that the correlation coefficient between $X$ and $Y$ is negative, i.e., $\rho_{XY} = -1$.
+
+Now, let's find the values of $a$ and $b$.
+
+First, we can write the equation $Y = aX + b$ as:
+
+$$Y - aX - b = 0$$
+
+Since $Y$ and $X$ are both normal distributions, we can assume that their differences are also normal distributions. Specifically, we have:
+
+$$(Y - aX - b) \sim N(0, 4 + 16 - 4 - 16) = N(0, ",0
+12,"设总体$X$的分布列如下:
+
+\begin{tabular}{|c|c|c|c|}
+\hline$\boldsymbol{X}$&0&1&2\\
+\hline$\boldsymbol{p}$&$2/5$&$1/5$&$2/5$\\
+\hline
+\end{tabular}
+
+$\left(X_{1},X_{2},\cdots X_{n}\right)$是来自于该总体的样本,$X_{(n)}=\max\left(X_{1},X_{2},\cdots X_{n}\right)$,
+
+(i)$P\left(\mathbf{X}_{(n)}=0\right)=\left(\frac{2}{5}\right)^{n}$,
+(ii)$P\left(X_{(n)}=1\right)=\frac{2}{5}\left(c_{0}^{1}\left(\frac{1}{5}\right)^{n-1}\right.$,
+(iii)$P\left(\mathbf{X}_{(n)}=2\right)=1-\left(\frac{2}{5}\right)^{n}$,
+
+上述(i)、(ii)、(iii)中正确个数为____",2,1,0,3,B," C.0
+
+解释：
+
+(i) $P\left(\mathbf{X}_{(n)}=0\right) = \left(\frac{2}{5}\right)^{n} = 0$ (since $n$ is a positive integer)
+
+(ii) $P\left(X_{(n)}=1\right) = \frac{2}{5} \left(c_{0}^{1}\left(\frac{1}{5}\right)^{n-1}\right) = 0$ (since $n$ is a positive integer)
+
+(iii) $P\left(\mathbf{X}_{(n)}=2\right) = 1 - \left(\frac{2}{5}\right)^{n} = 1$
+
+Therefore, the correct answer is C.0.",0
+13,"设随机变量(X,Y)的概率密度为$f(x,y)=\begin{cases}2,0<x<y,0<y<1\\0,其他\end{cases}$.则0<y<1时，f_{X|Y}(x|y)=____","$\begin{cases}\frac{1}{x}, & 0<y<x, \\ 0, & \text { 其他 }\end{cases}$","$\{\begin{array}{cl}\frac{1}{2 x}, & |y|<x, \\0, & \text { 其他}\end{array}$","$\begin{cases}\frac{1}{y}, & 0<x<y, \\ 0, & \text { 其他. }\end{cases}$","$\begin{cases}\frac{1}{2y}, & |x|<y, \\ 0, & \text { 其他. }\end{cases}$",C," C. $\begin{cases}\frac{1}{y}, & 0<x<y, \\ 0, & \text { 其他. }\end{cases}$
+
+解释：
+
+由于 $f(x,y) = 2$ 只有在 $0 < x < y$ 时才非零，因此 $f_{X|Y}(x|y)$ 只有在 $0 < y < 1$ 时非零。
+
+在 $0 < y < 1$ 时，$f_{X|Y}(x|y)$ 可以写作：
+
+$$f_{X|Y}(x|y) = \frac{f(x,y)}{f(y)} = \frac{2}{1-y^2}$$
+
+由于 $y^2 < 1$，因此 $1-y^2 > 0$，所以 $f_{X|Y}(x|y)$ 是一个非负函数。
+
+由于 $x$ 和 $y$ 是随机变量，所以 $f_{X|Y}(x|y)$ 是一个 conditional probability density function，它描述了 $X$ 值为 $x$ 时，$Y$",1
+14,"设总体$X$的分布律为
+
+\begin{tabular}{|l|l|l|l|}
+\hline$X$&-1&0&2\\
+\hline$P$&$\frac{1}{3}\theta$&$1-\frac{2}{3}\theta$&$\frac{1}{3}\theta$\\
+\hline
+\end{tabular}
+
+$\left(X_{1},X_{2},\cdots,X_{n}\right)$为来自总体的样本,设有以下四个统计量
+
+(i)$\frac{3}{n}\sum_{i=1}^{n}X_{i}$,(ii)$\left.X_{1}+\frac{2}{n-1}\right)_{i=2}^{n}X_{i}$,(iii)$\frac{3}{5n}\sum_{i=1}^{n}X_{i}^{2}$,(iv)$\frac{1}{3n}\sum_{i=1}^{n}X_{i}^{2}$
+
+在上述四个统计量中,是参数$\theta$的一致估计量的个数是____",0,2,1,3,B," C. 1
+
+解释：
+
+(i) $\frac{3}{n}\sum_{i=1}^{n}X_{i}$ 是方差统计量，与 $\theta$ 无关。
+
+(ii) $\left.X_{1}+\frac{2}{n-1}\right)_{i=2}^{n}X_{i}$ 是中位数统计量，与 $\theta$ 有关。
+
+(iii) $\frac{3}{5n}\sum_{i=1}^{n}X_{i}^{2}$ 是方差统计量，与 $\theta$ 无关。
+
+(iv) $\frac{1}{3n}\sum_{i=1}^{n}X_{i}^{2}$ 是方差统计量，与 $\theta$ 无关。
+
+因此，参数 $\theta$ 的一致估计量是 C. 1。",0
+15,"设$X_1,...,X_4,X_5$相互独立、且都服从N(0,4).设$\alpha\in(0,1)$,$k>0$,$P(X_1^2+X_2^2+X_3^2+X_4^2\le kX_5^2)=\alpha$则k=____","$\frac{1}{4}F_{\alpha}(4,1)$","$\frac{1}{4}F_{1-\alpha}(4,1)$","$4F_{\alpha}(4,1)$","$4F_{1-\alpha}(4,1)$",D," C. $4F_{\alpha}(4,1)$
+
+Given that $X_1, X_2, X_3, X_4$ are independent and follow $N(0, 4)$, we have:
+
+$$P(X_1^2 + X_2^2 + X_3^2 + X_4^2 \leq kX_5^2) = P\left(\left(X_1 + X_2 + X_3 + X_4\right)^2 \leq kX_5^2\right)$$
+
+Since $X_1 + X_2 + X_3 + X_4$ follows $N(0, 4)$, we have:
+
+$$P\left(\left(X_1 + X_2 + X_3 + X_4\right)^2 \leq kX_5^2\right) = P\left(X_1^2 + X_2^2 + X_3^2 + X_4^2 \leq kX_5^2\right)$$
+
+Therefore, we can use the cumulative distribution function (CDF) of the normal distribution to solve this problem.
+
+Let $Z = X_1 + X_2 + X_3 + X_4$, then $Z \sim N(0, 4)$.
+
+The CDF of",0
+16,"设$X_1,X_1,\cdots X_8$为来自总体$X\sim N\left(\mu_1,1\right)$的简单样本,$\bar{X},S_1^2$分別是其对应的样本均值与样本方差。$Y_1,Y_1,\cdots,Y_7$为来自总$Y\sim N\left(\mu_2,1\right)$的简单样本,$\bar{Y},S_2^2$分别是其对应的样本均值与样本方差。下列选项正确的是：____",$\sum_{i=1}^8\left(X_i-\mu_1\right)^2+\sum_{i=1}^7\left(Y_i-\mu_2\right)^2 \sim \chi^2(15)$,$E\left(\sum_{i=1}^8\left(X_i-\mu_1\right)^2+\sum_{i=1}^7\left(Y_i-\mu_2\right)^2\right)=15$,$\mathrm{D}(\bar{X}+\bar{Y})=\frac{1}{8}+\frac{1}{7}$,"$\bar{X}-\bar{Y} \sim \mathrm{N}\left(\mu_1-\mu_2, \frac{1}{8}+\frac{1}{7}\right)$",B," The correct answer is:
+
+A. $\sum_{i=1}^8\left(X_i-\mu_1\right)^2+\sum_{i=1}^7\left(Y_i-\mu_2\right)^2 \sim \chi^2(15)$
+
+Explanation:
+
+The sum of the squared differences of two independent normal distributions is a chi-squared distribution with 15 degrees of freedom. Therefore, the statement "" $\sum_{i=1}^8\left(X_i-\mu_1\right)^2+\sum_{i=1}^7\left(Y_i-\mu_2\right)^2 \sim \chi^2(15)$"" is correct.
+
+The other options are not correct:
+
+B. $E\left(\sum_{i=1}^8\left(X_i-\mu_1\right)^2+\sum_{i=1}^7\left(Y_i-\mu_2\right)^2\right)=15$ is not true, as the expected value of a chi-squared distribution with 15 degrees of freedom is not 15.
+
+C. $\text{D}(\bar{X}+\bar{Y})=\frac{1}{8}+\frac{1}{7}$ is not related to the statement.
+
+D. $\bar",0
+17,"若随机变量X的分布函数为$F(x)=pF_1(x)+qF_2(x)$，其中$F_1(x)$，$F_2(x)$为两个分布函数，常数p，q满足:$p>0$，$q>0$，$p+q=1$，那么X的分布叫作$F_1(x)，F_2(x)$的混合分布.设$\mu_1，\mu_2$分别为$F_1(x)，F_2(x)$的期望，$\sigma_1^2,\sigma_2^2$分别为$F_1(\mathrm{x})$，$F_2(\mathrm{x})$的方差，则$DX=$____",$p \sigma_1^2+q \sigma_2^2$,$p^2 \sigma_1^2+q^2 \sigma_2^2$,$p \sigma_1^2+q \sigma_2^2+p q\left(\mu_1-\mu_2\right)^2$,$p \sigma_1^2+q \sigma_2^2+p q\left(\sigma_1-\sigma_2\right)^2$,C," C. $p \sigma_1^2+q \sigma_2^2+p q\left(\mu_1-\mu_2\right)^2$
+
+解释：
+
+根据题目的描述，X 的分布函数为 $F(x)=pF_1(x)+qF_2(x)$，其中 $F_1(x)$ 和 $F_2(x)$ 是两个分布函数，常数 $p$ 和 $q$ 满足 $p>0$，$q>0$，$p+q=1$。这个分布叫作 $F_1(x)$ 和 $F_2(x)$ 的混合分布。
+
+设 $\mu_1$ 和 $\mu_2$ 分别为 $F_1(x)$ 和 $F_2(x)$ 的期望，$\sigma_1^2$ 和 $\sigma_2^2$ 分别为 $F_1(x)$ 和 $F_2(x)$ 的方差。
+
+根据混合分布的定义，X 的期望为：
+
+$$\mu = p\mu_1",1

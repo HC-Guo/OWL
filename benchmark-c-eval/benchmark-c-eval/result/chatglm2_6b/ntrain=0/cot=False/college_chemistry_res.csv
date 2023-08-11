@@ -1,0 +1,119 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,"$HO_2$的沸点比$H_2S$的高,可以从____角度来进行解释。",共价键牢固,变形性,氢键,分子间力,C,"$HO_2$的沸点比$H_2S$的高,是因为$H_2O_2$分子之间存在氢键。
+
+答案:C.氢键",1
+1,"$Mg(OH)_2$饱和溶液中的$[OH^-]=10^{-4}mol/dm^3$,若往该溶液中加入NaOH溶液,使溶液中$[OH^-]$的浓度变为原来的10倍,则$Mg(OH)_2$的溶解度在理论上将____",变为原来的$10^{-3}$倍,变为原来的$10^{-2}$倍,变为原来的$10$倍,不发生变化,B,"加入氢氧化钠溶液后，溶液中氢氧根离子浓度变为原来的10倍，即$c(OH^{-})=10c(OH^{-})_{0}$。根据氢氧化镁的溶解平衡，有：
+
+$$\rm{Mg(OH)_{2}(s) ⇌ Mg^{2+}(aq) + 2OH^{-}(aq)}$$
+
+平衡时，$[Mg^{2+}]=[OH^{-}]$，所以原来平衡时$c(Mg^{2+})=c(OH^{-})=10^{-4}mol/dm^3$。
+
+加入氢氧化钠溶液后，$c(OH^{-})=10c(OH^{-})_{0}$，则$c(Mg^{2+})=\dfrac{1}{10}c(OH^{-})=\dfrac{1}{10}×10^{-4}mol/dm^3=10^{-5}mol/dm^3$。
+
+所以，$Mg(OH)_{2}$的溶解度在理论上将变为原来的$10$倍。
+
+答案：C",0
+2,估计下列分子或离子中，键角最小的是____,$NH_3$,$NO_3^{-}$,$NF_3$,$NCl_3$,C,"首先，我们需要知道什么是键角。键角是分子或离子中各个化学键所形成的角度。对于这道题，我们需要比较四个分子或离子中的键角大小，找出最小的那个。
+
+A. $NH_3$：氨分子，其中氮原子和三个氢原子形成了一个三角锥形的结构。氮原子的孤对电子与三个氢原子形成了一个共价键，使得氮原子形成了一个孤对电子的极性。因此，氮原子的杂化轨道是sp3，键角大约为109.5度。
+
+B. $NO_3^{-}$：硝酸根离子，其中氮原子和三个氧原子形成了一个平面三角形的结构。氮原子有一个孤对电子，与三个氧原子形成了一个共价键。因此，氮原子的杂化轨道是sp2，键角大约为120度。
+
+C. $NF_3$：亚硝酸根离子，其中氮原子和三个氟原子形成了一个平面三角形的结构。氮原子有一个孤对电子，与三个氟原子形成了一个共价键。因此，氮原子的杂化轨道是sp2，键角大约为120度。
+
+D. $NCl_3$：氯仿分子，其中氮原子和三个氯原子形成了一个平面三角形的结构。氮原子有一个孤对电子，与三个氯原子形成了一个共价键。因此，氮原子的杂化轨道是sp3，键角大约为109.5度。
+
+综上所述，键角最小的分子或离子是A. $NH_3$。",0
+3,已知$K_b^{\theta}(NH_3·H_2O)=1.8×10^{-5}$，用$NH_3·H_2O$和$NH_4Cl$配制pH=9.00的缓冲溶液时，c($NH_3·H_2O$)/c($NH_4Cl$)=____,5.6,0.56,1.8,3.6,B,"pH=9.00的缓冲溶液中存在c（NH4+）+c（H+）=c（OH-）+c（NH3·H2O），根据电荷守恒得c（NH4+）+c（H+）=c（Cl-）+c（OH-）。因为缓冲溶液中c（H+）=10-9mol/L，所以c（NH4+）=c（Cl-）=10-5mol/L。所以c（NH3·H2O）=1.8×10-6mol/L。所以c（NH3·H2O）/c（NH4Cl）=1.8×10-6mol/10-5mol=1.8。
+
+答案：C",0
+4,根据酸碱质子理论、HCI、HAc和$NH_4^+$酸性由弱到强的顺序为____,$NH_4^+<HAc<HCl$,$HAc<HCl<NH_4^+$,$NH_4^+<HCl<HAc$,$HAc<NH_4^+<HCl$,A,根据酸碱质子理论，酸性由弱到强的顺序为：$NH_4^+<HAc<HCl$。所以正确答案是A。,1
+5,二氧化氮通入NaOH溶液，得到的主要产物是____,$NaNO_2$,$NaNO_2$和$O_2$,$NaNO_3$和NO,$NaNO_3$和$NaNO_2$,D,二氧化氮通入氢氧化钠溶液，根据反应式：2NO2 + 2NaOH = NaNO2 + NaNO3 + H2O，可知得到的主要产物是硝酸钠，故选D。,0
+6,若$[ML_4]^{2+}$的$K_f=a$，$[MY_4]^{2-}$的$K_f=b$，则反应$[ML_4]^{2+}+4Y^-=[MY_4]^{2-}+4L$的平衡常数K为____,ab,a+b,a/b,b/a,D,"ML4 2+ + 4Y- ⇌ MY4 2- + 4L
+
+根据平衡常数的定义，K = c(MY4 2-)·c(L)。
+
+由电荷守恒，ML4 2+ + 4L = MY4 2-。
+
+所以，K = c(MY4 2- )·c(L) = (b/a)×(a/b) = a/b。
+
+答案：C。",0
+7,"某溶液的pH=0.04,则其中$H^+$的浓度为____",$0.912mol/dm^3$,$0.91mol/dm^3$,$0.9mol/dm^3$,$1.1mol/dm^3$,B,"$pH=-\lg [H^+]$，所以 $[H^+]=10^{-pH}$。
+
+将 $pH=0.04$ 代入上式，得到 $[H^+]=10^{-0.04}=0.91mol/dm^3$。
+
+因此，正确答案为 B. $0.91mol/dm^3$。",1
+8,在573K时，反应$N_2(g)+3H_2(g)\rightleftharpoons2NH_3(g)$的$Δ_rG_m^{\theta}=21.93kJ·mol^{-1}$，则反应的经验平衡常数$K_c/(mol·dm^{-3})^2$为____,$4.5×10^{-6}$,$1.0×10^{-2}$,$1.9×10^{-1}$,22.12,D,"反应 $N_2(g)+3H_2(g) \rightleftharpoons 2NH_3(g)$ 的 $Δ_rH_m^{\theta}=-21.93kJ·mol^{-1}$，
+
+$$K_c=\dfrac{c(NH_3)}{c(N_2)×c^{3}(H_2)}$$
+
+$$=\dfrac{c(NH_3)}{c(N_2)×c^{3}(H_2)}=\dfrac{c(NH_3)}{c(N_2)\cdot c^{3}(H_2)}=\dfrac{c(NH_3)}{c(N_2)\cdot c^{3}(H_2)}×\dfrac{c(N_2)}{c(N_2)}×\dfrac{c(H_2)}{c(H_2)}=\dfrac{c(NH_3)}{c(N_2)\cdot c^{3}(H_2)}×\dfrac{1}{c(N_2)}×\dfrac{1}{c(H_2)}=\dfrac{c(NH_3)}{c(N_2)\cdot c^{3}(H_2)}×\dfrac{1}{c(N_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}=\dfrac{c(NH_3)}{c(N_2)\cdot c^{3}(H_2)}×\dfrac{1}{c(N_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}=\dfrac{c(NH_3)}{c(N_2)\cdot c^{3}(H_2)}×\dfrac{1}{c(N_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_2)}×\dfrac{1}{c(H_",0
+9,下列各对含氧酸中，都是一元酸的是____,$H_3BO_3$，$H_3PO_3$,$H_3PO_3$，$H_2CO_3$,$H_2CO_3$，$H_3PO_2$,$H_3BO_3$，$H_3PO_2$,D,答案是A。因为$H_3BO_3$和$H_3PO_3$都是一元酸，可以完全电离出氢离子。而$H_2CO_3$是二元酸，$H_3PO_2$是一元弱酸。,0
+10,"相同质量的$KHC_2O_4·H_2C_2O_2·2H_2O$标定$0.1000mol/dm^3NaOH$和$0.1000mol/dm^3c_{1/5KMnO_4}$的酸性溶液,反应完全时,消耗的体积为$V_{NaOH}$和$V_{KMnO_4}$,则两者的关系是____",$V_{NaOH}=V_{KMnO_4}$,$V_{NaOH}=3/4V_{KMnO_4}$,$V_{NaOH}=2V_{KMnO_4}$,$V_{NaOH}=2/3V_{KMnO_4}$,B,"相同质量的$KHC_2O_4·H_2C_2O_2·2H_2O$标定$0.1000mol/dm^3NaOH$和$0.1000mol/dm^3c_{1/5}KMnO_4$的酸性溶液，根据$KHC_2O_4·H_2C_2O_2·2H_2O$的化学式计算出$n(HC_2O_4^-)$和$n(H_2C_2O_4)$的量，令$n(HC_2O_4^-)$为$x$，$n(H_2C_2O_4)$为$y$，则：
+
+$$\begin{cases} x+y=0.1000mol/dm^3 \\ \dfrac{x}{2}= \dfrac{y}{5} \end{cases}$$
+
+解得：$x=0.0500mol/dm^3$，$y=0.0500mol/dm^3$，所以$n(OH^-)$：$n(KMnO_4)=0.1000mol/dm^3×V_{NaOH}$：$0.1000mol/dm^3×V_{KMnO_4}=1$：$1$，由$V= \dfrac{n}{c}$可知，两者的关系是$V_{NaOH}=V_{KMnO_4}$，故选A。",0
+11,常温下以液态形式存在的是____,$CrO_3$,$MnO_2$,$Mn_2O_7$,$WO_3$,C,答案是D.$WO_3$。在常温下，$WO_3$是以固态形式存在的。,0
+12,下列说法中，正确的是____,单质的焓为零,反应的热效应就是该反应的摩尔焓变,单质的摩尔生成焓为零,由最稳定单质生成1mol化合物时，该化合物的标准摩尔生成含$\Delta_\mathfrak{f}H_\mathfrak{m}^\mathfrak{e}$等于该生成反应的$\Delta_\mathfrak{r}H_\mathfrak{m}^\mathfrak{e}$,D,"A项：单质的焓为零，这是错误的，因为单质也有焓。
+
+B项：反应的热效应就是该反应的摩尔焓变，这也是错误的，因为反应的热效应是反应物和生成物的能量差，而摩尔焓变是生成物的能量和与反应物的能量和的差。
+
+C项：单质的摩尔生成焓为零，这同样是错误的，因为单质的摩尔生成焓是有意义的，正值表示吸热，负值表示放热。
+
+D项：由最稳定单质生成1mol化合物时，该化合物的标准摩尔生成含$\Delta_\mathfrak{f}H_\mathfrak{m}^\mathfrak{e}$等于该生成反应的$\Delta_\mathfrak{r}H_\mathfrak{m}^\mathfrak{e}$，这是正确的。
+
+综上所述，正确答案是D。",0
+13,比较原子核外2s和2p原子轨道的能量，____,所有原子两者都相等,所有原子两者都不等,H的两者相等,Ne的两者相等,C,"这是一个关于构造原理的单项选择题。构造原理告诉我们，在原子中，电子总是尽先尽多地占据一个壳层中的各个轨道，而且自旋状态相同。根据构造原理，我们可以知道，对于同一个电子壳层中的各个轨道，它们的能量是相等的。
+
+分析选项：
+
+A.所有原子两者都相等。这个选项符合构造原理，因为同一个电子壳层中的各个轨道能量相等。
+
+B.所有原子两者都不等。这个选项与构造原理相矛盾，因为构造原理告诉我们，同一个电子壳层中的各个轨道能量相等。
+
+C.H的两者相等。这个选项只适用于氢原子，因为氢原子只有一个电子壳层。对于其他原子，这个选项不正确。
+
+D.Ne的两者相等。这个选项只适用于氖原子，因为氖原子只有两个电子壳层。对于其他原子，这个选项不正确。
+
+综上所述，正确答案是A。",0
+14,下列说法正确的是____,"两种难溶电解质,其中$K^{\theta}_{sp}$小的溶解度一定小","两种难溶电解质,其中$K^{\theta}_{sp}$小的溶解度一定小",盐效应、酸效应﹑配位效应都会增加难溶电解质的溶解度,"同离子效应使难溶电解质的溶解度变小,也使$K^{\theta}_{sp}$变小",C,"A选项表述有误,两种难溶电解质,其中$K_{sp}$小的溶解度不一定小;B选项表述正确,两种难溶电解质,其中$K_{sp}$小的溶解度一定小;C选项表述正确,盐效应、酸效应、配位效应都会增加难溶电解质的溶解度;D选项表述有误,同离子效应使难溶电解质的溶解度变大,也使$K_{sp}$变大。
+
+答案:B、C",0
+15,原子序号为24的元素的基态原子，其核外电子排布为____,[Ar]3d6,[Ar]3d54s1,[Ar]3d44s2,[Ar]4s24p4,B,该元素原子序数为24，即镁元素。镁元素原子核外有12个电子，根据构造原理，分别填充3d和4s轨道。3d轨道有3个轨道，每个轨道2个电子。所以3d轨道上有6个电子。4s轨道有1个轨道，填充2个电子。因此，该元素基态原子的核外电子排布为[Ar]3d64s2，故正确答案为D。,0
+16,根据VSEPR理论，二硫化碳分子应该是____,直线型,钝角三角形,等边三角形,其他三个都不对,A,"根据VSEPR理论,二硫化碳分子应该是直线型。
+
+VSEPR理论是一种分子轨道理论,用于描述分子中电子对的排布。根据VSEPR理论,二硫化碳分子的中心原子碳原子的价层电子对数为2,且没有孤对电子。这种情况下,二硫化碳分子的几何构型应该是直线型。
+
+因此,正确答案是A.直线型。",1
+17,下列物质中不是一元酸的是____,$H_3BO_3$,$HNO_2$,$H_3PO_3$,$H[Ag(CN)_2]$,C,答案是D。一元酸是指只有一个可离子化氢离子的酸。$H[Ag(CN)_2]$中的$H$离子和$Ag$离子形成配位键，不是一元酸。而其他选项中，A是一元酸，B是二元酸，C是一元酸。,0
+18,卤素单质中，在NaOH溶液中不发生歧化反应的是____,$F_2$,$Cl_2$,$Br_2$,$I_2$,A,"在NaOH溶液中，氟气、氯气、溴单质都能与NaOH溶液反应，而碘单质与NaOH不反应。
+
+答案：D. $I_2$",0
+19,对于一个化学反应来说，下列说法中正确的是____,标准反应吉布斯自由能变化值越负，反应速率越快,标准反应焓变越负，反应速率越快,活化能越大，反应速率越快,活化能越小，反应速率越快,D,"本题考查化学反应速率的影响因素。影响化学反应速率的因素有内因和外因,其中内因是主要因素。内因是指反应物分子的结构,包括分子的空间结构、化学键的类型与数目等;外因是指反应物分子的浓度、温度、压强以及催化剂等。
+
+A项:吉布斯自由能是反应物和生成物的状态函数,状态函数的值越大,反应物分子越稳定,反应速率越慢,故A项错误。
+
+B项:焓变是反应物和生成物的能量变化,反应物能量越高,生成物能量越低,反应物越不稳定,反应速率越快,故B项正确。
+
+C项:活化能是分子发生有效碰撞所需要克服的能量,活化能越大,反应物越不稳定,反应速率越慢,故C项错误。
+
+D项:活化能越小,反应物越稳定,反应速率越快,故D项错误。
+
+故正确答案为B。",0
+20,等体积混合pH=1.0与pH=3.0的两种一元强酸溶液，混合溶液pH为____,0.3,1.3,1.5,2,B,"这是一道化学题中的综合应用题，需要我们对强酸的稀释来理解。
+
+根据题意，等体积混合pH=1.0与pH=3.0的两种一元强酸溶液，那么这两种酸的浓度是相同的。
+
+当这两种酸等体积混合时，由于强酸的电离，溶液中氢离子的物质的量大于氢氧根离子的物质的量，即c（H+）＞c（OH-）。
+
+根据pH的定义，pH=-lgc（H+），可知混合溶液的pH小于5.6。
+
+综上所述，答案为A.0.3。",0
+21,用NaOH滴定$H_3BO_3$时，加入多元醇的作用是____,沉淀剂,螯合剂,氧化剂,还原剂,B,"多元醇中含有羟基，具有弱碱性，在滴定时，可与$H_3BO_3$发生中和反应，使溶液中的$H^+$离子浓度降低，从而使平衡向正反应方向移动，提高$H_3BO_3$的含量，起到的作用称为螯合剂。
+
+故正确答案为B.螯合剂。",1
+22,HCl，HBr，HI三种物质的沸点依次升高的主要原因是____,范德华力减小,取向力增大,诱导力增大,色散力增大,D,"HCl，HBr，HI三种物质的沸点依次升高的主要原因是范德华力减小。
+
+这是因为，分子间作用力随着分子量的增大而增大，而分子量越大，分子间作用力越强。在HCl，HBr，HI中，随着原子量的增大，分子间作用力逐渐减小，因此这三种物质的沸点也逐渐升高。",0
+23,____都是广度性质。,$C_v$，Q，V，S,w，U，V，H,P，U，V，G,$\mu_i$，U，H，S,A,答案是D。$\mu_i$，$U$，$H$，$S$都是广度性质。,0

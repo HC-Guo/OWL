@@ -1,0 +1,159 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,与保卫细胞的水势变化关系最密切的离子是____。,$Ca^{2+}$,$K^+$,$Cl^-$,$Mg^{2+}$,B,"让我们一步一步思考,
+1. 首先，了解保卫细胞的水势变化。保卫细胞是指细胞通过多种方式来保护自己免受外来物质的侵害，其中包括调节细胞膜的水势等。
+2. 接着，分析选项。$Ca^{2+}$是细胞内部的一种离子，参与细胞signal传导和调节细胞功能，同时也参与保卫细胞的水势变化。$K^+$是细胞膜上的一种离子，参与细胞膜的静电potential和细胞水势的调节。$Cl^-$是细胞膜上的一种离子，参与细胞膜的�",0
+1,已经发生质壁分离的细胞，细胞的水势决定于细胞的____。,渗透势,压力势,衬质势,膨压,A," already occurred cell membrane separation, the cell water potential is determined by the cell's:
+
+A. osmotic pressure
+
+Correct! The water potential of a cell is determined by the osmotic pressure of the cell, which is the pressure exerted by the solutes (such as sugars, salts, and other organic molecules) on the cell membrane. This pressure helps to regulate the movement of water into or out of the cell.
+
+B. pressure potential
+
+Incorrect. The water potential of a cell is not determined by the pressure potential of the cell, which is the pressure exerted by the surrounding fluid on the cell membrane.
+
+C. turgor pressure
+
+Incorrect. The water potential of a cell is not determined by the turgor pressure of the cell, which is the pressure exerted by the water inside the cell on the cell membrane.
+
+D. shrinkage potential
+
+Incorrect. The water potential of a cell is not determined by the shrinkage potential of the cell, which is the pressure exerted by the cell membrane on the cytoplasm as it shrinks.",0
+2,种子的萌发过程对水分的吸收速度有所不同，一般表现为____。,快—慢—快,慢—快—慢,快—慢,慢—快,A,"让我们一步一步思考,
+1. 首先，了解种子的萌发过程。种子的萌发过程包括胚萌、休眠和萌发三个阶段。
+2. 接着，分析选项。A.快—慢—快的顺序表现为种子萌发过程中的速度变化趋势。在胚萌阶段，种子的水分吸收速度较快，然后在休眠阶段水分吸收速度较慢，finally在萌发阶段水分吸收速度又快。
+3. 因此，种子的萌发过程对水分的吸收速度有所不同，一般表现为A.快—慢—快。
+所以答案是：A",1
+3,在细胞伸长过程中，新的细胞壁物质中纤维素是在____中合成，然后分泌到细胞壁中。,细胞质膜,高尔基体,线粒体,叶绿体,A," C. 线粒体
+
+在细胞伸长过程中，新的细胞壁物质中纤维素是在线粒体中合成，然后分泌到细胞壁中。
+
+线粒体是细胞中的一种特殊类型细胞器，主要负责合成和分泌细胞壁物质。中纤维素是细胞壁中的一种重要组分，它提供了细胞的 Mechanical strength和Structural support。在细胞伸长过程中，新的细胞壁物质中纤维素是在线粒体中合成，然后分泌到细胞壁中，以支持细胞的生长和发展。",0
+4,微管是两种微管蛋白组成的异二聚体，这两种微管蛋白是____。,肌动蛋白，肌动蛋白结合蛋白,马达蛋白，肌球蛋白,α-微管蛋白，β-微管蛋白,动蛋白，力蛋白,C," Microtubules are composed of two types of tubulin proteins: alpha-tubulin and beta-tubulin. These two proteins are the building blocks of microtubules.
+
+Therefore, the correct answer is:
+
+C. α-微管蛋白，β-微管蛋白
+
+So the two types of microtubule proteins are alpha-tubulin and beta-tubulin.",1
+5,在植物对逆境的适应中最为重要的植物激素是____。,细胞分裂素,乙烯,茉莉酸甲酯,脱落酸,D,"让我们一步一步思考,
+1. 首先，了解植物对逆境的适应。植物对逆境的适应是指植物在受到不利的环境 Condition 下能够调节自己的生长和发育，以适应环境变化。
+2. 接着，分析选项。细胞分裂素是植物生长素，参与植物细胞分裂和生长，与植物对逆境的适应有关，但不是最为重要的植物激素。乙烯是植物激素，参与植物的生长发育和逆境响应，但与植物对逆境的适应相比，其功能不那么重要。茉莉酸甲酯是植物",0
+6,下列四组矿质元素，哪组元素的缺素症表现为叶片缺绿?____,Fe，Cl，N，Ca,Mg，Fe，N，S,P，N，Mg，S,P，Mo，Mg，S,B," Based on the given options, the group of elements that can cause a deficiency symptom of ""叶片缺绿"" (yellowing of leaves) is:
+
+B. Mg, Fe, N, S
+
+Explanation:
+
+* Mg (magnesium) is essential for chlorophyll synthesis and photosynthesis, and a deficiency can cause chlorosis (yellowing) of leaves.
+* Fe (iron) is involved in the synthesis of chlorophyll and other plant pigments, and a deficiency can cause chlorosis and yellowing of leaves.
+* N (nitrogen) is a key nutrient for plant growth and development, and a deficiency can cause yellowing of leaves and other symptoms.
+* S (sulfur) is important for the synthesis of chlorophyll and other plant pigments, and a deficiency can cause chlorosis and yellowing of leaves.
+
+The other options do not contain all the necessary elements to cause yellowing of leaves:
+
+* A. Fe, Cl, N, Ca does not include S, which is essential for chlorophyll synthesis.
+* C. P, N, Mg, S does not include Fe, which is involved in chlorophyll synthesis.
+* D. P",0
+7,在衰老的植物组织或器官中，蛋白质含量显著下降，其主要原因是____。,蛋白质周转速率降低,氨基酸的生物合成受阻,蛋白质水解酶活性增加,土壤中氮素含量下降,C," Based on the information provided, the best answer is C. Protein degradation enzymes become more active.
+
+As plants age, the protein content in their tissues decreases significantly. This is primarily due to the increased activity of protein degradation enzymes, such as proteases, which break down proteins into smaller peptides and amino acids. The activity of these enzymes is regulated by various factors, including hormones, nutrient availability, and environmental conditions.
+
+Option A is incorrect because the protein turnover rate does not necessarily decrease with plant age. In fact, protein turnover can increase in older plants as they invest more resources in maintenance and repair.
+
+Option B is also incorrect because the availability of amino acids, rather than the synthesis of new proteins, is the primary limiting factor for protein degradation in aged plants.
+
+Option D is unrelated to the topic of protein degradation in aged plants. Nitrogen content in the soil does not directly affect protein degradation enzymes' activity.",1
+8,G蛋白是由α、β、γ3种亚基构成的异三聚体，与GTP结合的活性位点在____上。,α亚基,β亚基,γ亚基,βγ亚基复合体,A," G蛋白是由α、β、γ三种亚基构成的异三聚体，与GTP结合的活性位点在γ亚基上。
+
+所以答案是：C.γ亚基。",0
+9,已分化的细胞在特定情况下恢复分裂能力，重新进行细胞分裂的过程为____。,细胞分化,细胞分裂,再分化,脱分化,D," C.再分化。
+
+已分化的细胞在特定情况下可以恢复分裂能力，重新进行细胞分裂的过程被称为再分化（re-division）。这种现象在植物和动物细胞中都有发生，可以帮助细胞更好地适应环境变化和生长需求。",0
+10,植物器官、组织或细胞在形态结构、生化组成以及生理功能上的不对称性是____。,细胞生长,细胞分化,极性,细胞全能性,C," Based on the given options, the correct answer is:
+
+B. Cell differentiation.
+
+ asymmetry in plants refers to the differences in form, composition, and function between different cells, tissues, or organs. This can be observed at various levels, such as in the arrangement of cells in a tissue or organ, the distribution of cellular organelles, or the expression of genes and proteins. Asymmetry is a common feature of plant development and is essential for the proper formation and function of organs and tissues.
+
+The other options are not correct explanations for asymmetry in plants:
+
+A. Cell growth: While cell growth is an important aspect of plant development, it is not the primary cause of asymmetry.
+
+C. Polarity: Polarity refers to the orientation of cells or tissues along a specific axis, but it is not the same as asymmetry.
+
+D. Cell totipotency: Cell totipotency refers to the ability of a single cell to give rise to all cell types in a plant, but it is not related to asymmetry.",0
+11,耐热性强的植物原生质蛋白质具有的特点是____。,易发生不可逆的变性与凝聚,疏水键多，二硫键少,对热稳定，疏水键和二硫键多,对热稳定，疏水键和二硫键少,C," C. 耐热性强的植物原生质蛋白质具有对热稳定的特点，疏水键和二硫键多。
+
+耐热性强的植物原生质蛋白质，如硫醚蛋白、蛋白质聚硫醚等，具有对热稳定的特点，这是因为它们含有许多疏水键和二硫键，这些键可以增强蛋白质的稳定性，使其在高温下能够保持结构稳定。同时，这些键也可以防止蛋白质的 unfolding 和 aggregation，从而保持其功能。
+
+因此，选项C是正确的。",1
+12,细胞在形态结构、内部代谢和生理功能上区别于原分生细胞的过程是____。,细胞生长,细胞分化,细胞脱分化,细胞再分化,B," C. 细胞脱分化。
+
+在细胞发育过程中, 原分生细胞与特殊的细胞类型（如干细胞、粘液细胞等）进行分化，而不是直接 diferenciación 到特殊的细胞类型。这个过程被称为细胞脱分化。
+
+在这个过程中, 细胞会减少或完全消除原有的细胞器官和功能，并在新的细胞类型中重新分配蛋白质和其他组分。这个过程可以通过多种机制进行，包括转录调控、蛋白质分解和重新synthesis、细胞器官分解和重新组装等。
+
+因此, 细胞脱分化是细胞在形态结构、内部代谢和生理功能上区�",0
+13,光学显微镜下呈现出的细胞结构被称为____。,显微结构,亚显微结构,超显微结构,亚细胞结构,A," C. 超显微结构。
+
+光学显微镜下呈现出的细胞结构被称为超显微结构，这种结构包括细胞质体、核、 mitochondria、 Ribosomes 等细胞组成部分，它们的大小和形状都可以在光学显微镜下清晰地看到。
+
+A. 显微结构是指通过显微镜观察的细胞结构，而不是超显微结构。
+
+B. 亚显微结构是指通过电子显微镜观察的细胞结构，它有更高的解像度和精度，可以看到细胞内部的更多结构。
+
+D. 亚细胞结构是指细胞内部的结构，如细胞质体、核、mitonondria、ribosomes等，它们的大小和形",0
+14,根尖中根的干细胞群是指____。,根冠,静止中心,分生组织,根毛,B," A. 根冠。
+
+根尖中的根是指根系中的干细胞群，包括根冠和静止中心。根冠是指根系中的最外层细胞，负责Root hair的生长和分化。静止中心是指根系中的中央部分，包括分生组织和根毛。因此，选项A是正确的答案。",0
+15,质膜上已知的离子通道有____。,$K^+$，$Mg^{2+}$，$Ca^{2+}$,$K^+$，$Cl^-$，$Ca^{2+}$,$K^+$，$Cl^-$，$Mg^{2+}$,$K^+$，$Zn^{2+}$，$Ca^{2+}$和$Fe^{2+}$,B," A. $K^+$, $Mg^{2+}$, $Ca^{2+}$
+
+质膜上已知的离子通道包括：
+
+* $K^+$通道：允许钾离子通过质膜
+* $Mg^{2+}$通道：允许钙离子通过质膜
+* $Ca^{2+}$通道：允许钙离子通过质膜
+
+这三种离子通道都是已知的质膜上的离子通道。
+
+所以答案是：A. $K^+$, $Mg^{2+}$, $Ca^{2+}$",0
+16,把植物组织放在高渗溶液中，植物组织____。,吸水,失水,水分动态平衡,水分不变化,B," A. 把植物组织放在高渗溶液中，植物组织会吸水。
+
+高渗溶液是一种含有较多水的溶液，与植物组织接触后，水会通过植物组织的质量检查和水平衡机制进行吸收和储存。这种现象被称为吸水现象。因此，选项A是正确的答案。",0
+17,下列哪种元素的缺素症表现为植物叶尖积累过多的脲，严重出现坏死?____,Ni,Mn,Fe,Ca,A," Based on the given options, the element that is most likely to cause a deficiency symptom of excessive accumulation of sap in the leaves, leading to necrosis is:
+
+B. Mn
+
+Manganese (Mn) is an essential micronutrient for plants, but excessive accumulation of Mn in the leaves can cause a range of symptoms, including excessive accumulation of sap, which can lead to necrosis.
+
+Here's a brief explanation of each option:
+
+A. Ni (Nickel): Nickel is also an essential micronutrient for plants, but excessive accumulation of Ni can cause symptoms such as yellowing of leaves, stunted growth, and reduced plant vigor.
+
+C. Fe (Iron): Iron is an essential micronutrient for plants, but excessive accumulation of Fe can cause symptoms such as yellowing of leaves, stunted growth, and reduced plant vigor.
+
+D. Ca (Calcium): Calcium is an essential nutrient for plants, but excessive accumulation of Ca can cause symptoms such as leaf curling, stunted growth, and reduced plant vigor.
+
+Therefore, based on the given options, the correct answer is B. Mn.",0
+18,植物根系吸收后，在____被还原。,叶肉细胞,根组织,植物体地上部,根组织和叶肉细胞,D,"让我们一步一步思考,
+1. 首先，了解植物根系吸收后的情况。当植物根系吸收水和营养物质时，它们会通过根系进入植物体内，并被转移到各个部分。
+2. 接着，分析选项。A.叶肉细胞是植物叶子中的一种细胞类型，不直接参与根系吸收。B.根组织是植物根系中的一种组织类型，主要参与根系吸收和水和营养物质的储存。C.植物体地上部是植物的上方部分，与根系吸收无直接关系。D.根组织和叶肉细胞都是植物根系和叶子中的重要组成部分，参与植物",0
+19,在高温气候条件下用冷水灌溉植物往往会引起____。,植物蒸腾加剧,植物萎蔫,植物快速吸水,植物生长加速,B," A. 在高温气候条件下用冷水灌溉植物往往会引起植物蒸腾加剧。
+
+冷水灌溉可以快速凉爽植物茎干和叶子，导致水分快速蒸发，从而使植物蒸腾加剧。此外，冷水灌溉也可能导致植物细胞壁的裂隙增大，使植物内部水分泄洩，进一步加剧蒸腾。",0
+20,高等植物花粉管向着胚珠的生长是____运动。,向光性,向化性,向重性,向触性,B," highert plants, the growth of the pollen tube towards the ovule is a type of __________ movement.
+
+A. phototropic
+B. chemotropic
+C. gravitropic
+D. thigmotropic
+
+Answer: B. chemotropic
+
+Explanation:
+
+The growth of the pollen tube towards the ovule is a chemotropic movement, which means it is directed by chemical signals. The pollen tube grows towards the ovule in response to chemical cues released by the ovule, such as flavonoids and other signaling molecules. This movement is essential for fertilization and the formation of seeds in flowering plants.",0
+21,下列属于生理碱性盐的是____。,$NaNO_3$,$(NH_4)_2SO_4$,$NH_4NO_3$,$MgSO_4$,A," $C.$NH_4NO_3$是生理碱性盐。
+
+生理碱性盐是指具有碱性的盐类，通常含有钠、钾、 calcium 等元素。而 $A.$NaNO_3$ 和 $D.$MgSO_4$ 都是酸性盐，而 $B.$(NH_4)_2SO_4$ 是中性盐。因此，只有 $C.$NH_4NO_3$ 是生理碱性盐。",0

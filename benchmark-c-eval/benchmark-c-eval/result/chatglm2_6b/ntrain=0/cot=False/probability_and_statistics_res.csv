@@ -1,0 +1,570 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,设随机变量$X$和$Y$相互独立，且X$\sim N(0，1)，Y\sim N(0$，2)，则$D\left(X^2Y^2\right)=$____,10,20,32,45,C,$D(X^2Y^2)=D(X^2)D(Y^2)={\left(0-0\right)}^{2}×{1-0}=0$，因此答案为A.,0
+1,"设随机变量$(X,Y)$的概率密度为$f(x,y)=\left\{\begin{array}{cc}6y,&0<x<1,0<y<x，\\0,&\text{其他.}\end{array}\right.$,$$\text{则}P\left(X>\frac{1}{2}\mid Y=\frac{1}{3}\right)=$$____",$\frac{3}{4}$,$\frac{2}{3}$,$\frac{1}{4}$,$\frac{1}{3}$,A,"由题意可得$P(X>\frac{1}{2})=\int_{\frac{1}{2}}^{1}f(x,y)dx=\int_{\frac{1}{2}}^{1}6ydx=\frac{3}{2}$，$P(Y=\frac{1}{3})=\int_{\frac{1}{3}}^{1}f(x,y)dx=\int_{\frac{1}{3}}^{1}6ydx=\frac{2}{3}$，所以$P(X>\frac{1}{2})P(Y=\frac{1}{3})=\frac{3}{2}\times\frac{2}{3}=\frac{1}{3}$。
+
+故正确答案为D.",0
+2,"总体的简单样本,$\bar{X}$为样本均值,则$D(\bar{X})=$____",$\frac{3}{80}$,$\frac{9}{16}$,$\frac{3}{1600}$,$\frac{3}{160}$,C,"选项C为正确答案。
+
+在统计学中，样本方差公式为：
+
+$$D(X) = \frac{\sum\_{i=1}^{n}(X_i - \bar{X})^2}{n - 1}$$
+
+当样本数量为无穷大时，$\bar{X}$等于样本均值。因此，
+
+$$D(\bar{X}) = \frac{\sum\_{i=1}^{\infty}(X_i - \bar{X})^2}{\infty - 1} = \frac{\sum\_{i=1}^{\infty}(X_i - \bar{X})^2}{n - 1} = \frac{D(X)}{n - 1}$$
+
+其中，$D(X)$表示原样本方差。
+
+因此，选项C为正确答案。",1
+3,"设总体$X$服从拉普拉斯分布$f(x,\lambda)=\frac{1}{4\lambda}e^{-\frac{|x|}{2\lambda}},-\infty<x<\infty$,其中$\lambda>0$。则$E(|X|)=$____",$\frac{1}{2 \lambda}$,$\frac{1}{\lambda}$,$2 \lambda$,$\lambda$,C,"首先，我们知道$X$服从拉普拉斯分布$f(x,\lambda)=\frac{1}{4\lambda}e^{-\frac{|x|}{2\lambda}},-\infty<x<\infty$,其中$\lambda>0$。
+
+其次，我们需要求$E(|X|)$，即$X$的绝对值的期望值。
+
+根据拉普拉斯分布的性质，我们知道$X$的绝对值$|X|$服从二项分布$B(n,\lambda)$，其中$n$为$X$的取值范围，即$n=\infty$。
+
+所以，$E(|X|)=np=0$。
+
+综上所述，正确答案为选项D：$\lambda$。",0
+4,"设$X_1,X_2,\cdots X_{12}$是来自正态总体$X\sim N\left(0,\sigma^2\right)$的简单样本,随机变量$Y=\frac{\sum_{i=1}^6X_i^2}{\sum_{j=1}^6X_{j+6}^2}$服从的分布为:____",$\chi^2(6)$,$\chi^2(1)$,"$F(5,5)$","$F(6,6)$",D,"首先，根据题目给出的信息，我们知道$X_1,X_2,\cdots,X_{12}$是来自正态总体$X\sim N(0,\sigma^2)$的简单样本。然后，我们需要求解随机变量$Y$的分布。
+
+根据公式，我们可以计算出：
+
+$$E(Y) = \frac{\sum_{i=1}^6X_i^2}{\sum_{j=1}^6X_{j+6}^2} = \frac{1}{6}\sum_{i=1}^6X_i^2 = \frac{1}{6}\sum_{i=1}^{12}X_i^2 = \frac{1}{6}\cdot 2\cdot \sigma^2 = \frac{\sigma^2}{3}$$
+
+$$D(Y) = \frac{\sum_{i=1}^6X_i^4}{\sum_{j=1}^6X_{j+6}^4} = \frac{1}{6}\sum_{i=1}^{12}X_i^4 = \frac{1}{6}\cdot 3\cdot \sigma^4 = \frac{\sigma^4}{18}$$
+
+接下来，我们需要求解$Y$的方差。根据公式，我们可以计算出：
+
+$$V(Y) = E(Y^2) - (E(Y))^2$$
+
+$$= \frac{1}{3}\sum_{i=1}^6X_i^4 - \left(\frac{\sigma^2}{3}\right)^2 = \frac{2}{3}\sum_{i=1}^6X_i^4 - \frac{2}{9}\sigma^4$$
+
+由于$X_i$是来自正态分布的随机变量，所以我们可以利用正态分布的性质，计算出：
+
+$$V(Y) = \frac{2}{3}\cdot \frac{1}{6}\cdot 2\cdot \sigma^2 - \frac{2}{9}\cdot \sigma^4 = \frac{2}{9}\sigma^4 - \frac{2}{9}\sigma^4 = \frac{2}{9}\sigma^4$$
+
+最后，我们需要求解$Y$的概率密度函数。根据公式，我们可以计算出：
+
+$$f(Y) = \frac{d}{dy}\left(\frac{2}{9}\sigma^4\right) = \frac{4}{9}\sigma^3\cdot y$$
+
+因此，随机变量$Y$的概率密度函数为$f(Y) = \frac{4}{9}\sigma^3\cdot y$。
+
+根据选项，我们可以发现只有选项D中的分布与计算结果相符，因此正确答案为D。",1
+5,对于任意两个随机变量X和$Y$，若$E(XY)=EX\cdot EY$，则____,$D(X Y)=D(X) \cdot D(Y)$,$D(X+Y)=D(X)+D(Y)$,X和Y独立,X和Y不相关,D,"C. X和Y独立
+
+根据期望的线性性质,$E(XY) = E(X) \cdot E(Y)$。再根据方差的线性性质,$D(XY) = D(X) \cdot D(Y)$。因此,选项A和B都是错误的。
+
+如果X和Y不独立,那么它们之间存在一定的相关性,因此它们的方差也不可能相等。因此,选项D也是错误的。
+
+因此,正确答案是选项C:X和Y独立。",0
+6,"设$(X_1,X_2,...,X_n)$是取自总体X的一个样本，X的概率密度如下：$f(x)=\begin{cases}\frac12e^{-\frac{(x-\mu)}{2}},x\geq\mu,\\0,其他\end{cases}$,$\mu$为未知参数。则$\mu$的最大似然估计量是.____",$\hat{\mu}=\max _{1 \leq i \leq n} X_i$,$\hat{\mu}=\frac13 \max _{1 \leq i \leq n} X_i$,$\hat{\mu}=\min _{1 \leq i \leq n} X_i$,$\hat{\mu}=\frac12 \min _{1 \leq i \leq n} X_i$,C,"首先，我们需要知道似然估计的定义，即给定一些数据，估计未知参数的最大概率。
+
+根据题目给出的概率密度函数，我们可以得到：
+
+当 $x\geq\mu$ 时，$f(x)=\frac{1}{2}e^{-\frac{(x-\mu)}{2}}$
+
+当 $x<\mu$ 时，$f(x)=0$
+
+因此，对于给定的样本 $(X_1,X_2,...,X_n)$,其概率密度函数为：
+
+$$f(x)=\begin{cases}\frac{1}{2}e^{-\frac{(x-\mu)}{2}},x\geq\mu,\\0,其他\end{cases}$$
+
+我们需要求的是 $\mu$ 的最大似然估计量，即给定样本，使得概率密度函数下的概率最大。
+
+考虑将 $f(x)$ 拆分成两部分来看：
+
+当 $x\geq\mu$ 时，$f(x)=\frac{1}{2}e^{-\frac{(x-\mu)}{2}}$
+
+当 $x<\mu$ 时，$f(x)=0$
+
+因此，我们可以将概率密度函数 $f(x)$ 看作一个概率分布，其中 $x$ 取遍全体实数。
+
+对于任意一个 $x$,它属于的概率密度函数区间为 $[\mu,\infty)$，因此，我们可以将概率密度函数 $f(x)$ 拆分成两部分来看：
+
+当 $x\geq\mu$ 时，$f(x)=\frac{1}{2}e^{-\frac{(x-\mu)}{2}}$
+
+当 $x<\mu$ 时，$f(x)=0$
+
+因此，我们可以将概率密度函数 $f(x)$ 看作一个概率分布，其中 $x$ 取遍全体实数。
+
+对于任意一个 $x$,它属于的概率密度函数区间为 $[\mu,\infty)$，因此，我们可以将概率密度函数 $f(x)$ 拆分成两部分来看：
+
+当 $x\geq\mu$ 时，$f(x)=\frac{1}{2}e^{-\frac{(x-\mu)}{2}}$
+
+当 $x<\mu$ 时，$f(x)=0$
+
+因此，我们可以将概率密度函数 $f(x)$ 看作一个概率分布，其中 $x$ 取遍全体实数。
+
+现在，我们需要求的是 $\mu$ 的最大似然估计量，即给定样本，使得概率密度函数下的概率最大。
+
+根据似然函数的定义，我们可以得到：
+
+$$\hat{\mu}=\sum_{i=1}^n p(x_i)f(x_i)$$
+
+其中，$p(x_i)$ 是样本的概率，$f(x_i)$ 是对应的概率密度函数。
+
+我们需要求的是 $\hat{\mu}$ 的最大值，因此，我们需要对 $\hat{\mu}$ 求偏导数并令其等于 $0$，然后求出偏导数的解。
+
+对 $\hat{\mu}$ 求偏导数，得到：
+
+$$\frac{\partial \hat{\mu}}{\partial \mu}=\sum_{i=1}^n p(x_i)\frac{\partial f(x_i)}{\partial \mu}$$
+
+将 $f(x_i)$ 代入，得到：
+
+$$\frac{\partial \hat{\mu}}{\partial \mu}=\sum_{i=1}^n p(x_i)\frac{1}{2}e^{-\frac{(x_i-\mu)}{2}}$$
+
+令上式等于 $0$,解得：
+
+$$\mu=\frac{1}{3}\sum_{i=1}^n x_i$$
+
+因此，给定样本，使得概率密度函数下的概率最大的 $\mu$ 的最大似然估计量为：
+
+$$\hat{\mu}=\frac{1}{3}\sum_{i=1}^n x_i$$
+
+因此，正确答案为 $\textbf{(B)}$。",0
+7,当事件$A$和$B$同时发生时$C$也发生，则下列式子中成立的是____,$P(C)=P(A \cap B)$,$P(C) \leq P(A)+P(B)-1$,$P(C)=P(A \cup B)$,$P(C) \geq P(A)+P(B)-1$,D,"答案是D. $P(C) \geq P(A)+P(B)-1$。
+
+事件$A$和$B$同时发生时$C$也发生的概率是$P(C) = P(A \cap B) = P(A)P(B)$。
+
+概率的加法原理告诉我们，两个事件的联合概率等于它们各自的概率之和减去它们的交集概率，即$P(A \cup B) = P(A) + P(B) - P(A \cap B)$。
+
+因此，选项A和C都是错误的。
+
+在选项B中，它声称$P(C) \leq P(A) + P(B) - 1$，但这是不正确的。实际上，$P(C) \geq P(A) + P(B) - 1$，因为$P(A \cap B) \leq P(A) + P(B)$。
+
+因此，选项D是正确的。",1
+8,"$$
+\text{设}0<P(A)<1，0<P(B)<1\text{，}
+$$
+$P(A\mid B)+P(\bar{A}\mid\bar{B})=1$，则____",事件A和B互不相容,事件A和B互相对立,事件A和B互不独立,事件A和B相互独立,D,"由题意可得$$P(A\mid B)+P(\overline{A}\mid\overline{B})=1$$
+根据概率的定义可得$$P(A\mid B)=\frac{P(AB)}{P(B)},P(\overline{A}\mid\overline{B})=\frac{P(\overline{AB})}{P(\overline{B})}$$
+将上式代入原式得$$\frac{P(AB)}{P(B)}+\frac{P(\overline{AB})}{P(\overline{B})}=1$$
+化简得$$P(AB)=P(B),P(\overline{AB})=P(\overline{B})$$
+即$$P(A\cap B)=P(B),P(\overline{A}\cap\overline{B})=P(\overline{B})$$
+所以$$P(A\cap B)+P(\overline{A}\cap\overline{B})=P(A\cap B)+P(\overline{A}\cap\overline{B})=P(A\cap B)+P(\overline{B})=1$$
+故选$$D.$$",0
+9,设X和Y分别表示扔n次硬币出现正面和反面的次数，则$X，Y$的相关系数为____,-1,0,\frac{1}{2},1,A,C.\frac{1}{2},0
+10,"设二维随机变量$(X,Y)$在区域$D=\left\{(x,y):x^2+y^2<1\right\}$内均匀分布,则$X$与$Y$为____",独立同分布的随机变量,独立不同分布的随机变量,不独立同分布的随机变量,不独立也不同分布的随机变量,C,"二维随机变量$(X,Y)$在区域$D=\{(x,y):x^2+y^2<1\}$内均匀分布，则$X$与$Y$为独立同分布的随机变量。
+
+解题过程：
+
+1. 根据题意，二维随机变量$(X,Y)$在区域$D=\{(x,y):x^2+y^2<1\}$内均匀分布。
+
+2. 分析二维随机变量$(X,Y)$的性质，得知其对应的区域为正方形$x^2+y^2=1$内。
+
+3. 由于二维随机变量$(X,Y)$在区域$D$内均匀分布，因此其对应的概率密度函数为$f(x,y)=1$。
+
+4. 根据概率密度函数的性质，得知概率密度函数为常数函数的概率变量为独立同分布的随机变量。
+
+5. 综上所述，$X$与$Y$为独立同分布的随机变量。
+
+最终答案：A.独立同分布的随机变量",0
+11,设$X\sim N(1，4)，Y\sim N(3，16)，P\{Y=aX+b\}=1$，且$\rho_{XY}=-1$，则____,"a=2, b=5","a=-2, b=-5","a=-2, b=5","a=2, b=-5",C,"因为 $X\sim N(1,4)$，所以 $E(X)=1$，$D(X)=4$。
+
+因为 $Y\sim N(3,16)$，所以 $E(Y)=3$，$D(Y)=16$。
+
+因为 $\rho_{XY}=-1$，所以 $P(X=1,Y=3)=P(X=1,Y=3)=1$。
+
+因为 $P(Y=aX+b)=1$，所以 $P(Y=aX+b)=P(Y=3+b)=1$，解得 $b=5$。
+
+因为 $P(X=1,Y=3)=P(X=1,Y=3)=1$，所以 $P(X=1,Y=3)=P(X=1,Y=3)=1$，解得 $a=-2$。
+
+所以 $a=-2$，$b=5$。
+
+答案：A。",0
+12,"设总体$X$的分布列如下:
+
+\begin{tabular}{|c|c|c|c|}
+\hline$\boldsymbol{X}$&0&1&2\\
+\hline$\boldsymbol{p}$&$2/5$&$1/5$&$2/5$\\
+\hline
+\end{tabular}
+
+$\left(X_{1},X_{2},\cdots X_{n}\right)$是来自于该总体的样本,$X_{(n)}=\max\left(X_{1},X_{2},\cdots X_{n}\right)$,
+
+(i)$P\left(\mathbf{X}_{(n)}=0\right)=\left(\frac{2}{5}\right)^{n}$,
+(ii)$P\left(X_{(n)}=1\right)=\frac{2}{5}\left(c_{0}^{1}\left(\frac{1}{5}\right)^{n-1}\right.$,
+(iii)$P\left(\mathbf{X}_{(n)}=2\right)=1-\left(\frac{2}{5}\right)^{n}$,
+
+上述(i)、(ii)、(iii)中正确个数为____",2,1,0,3,B,"正确答案为 D. 3
+
+(i) $P(X_1=0)=\left(\frac{2}{5}\right)^n$
+
+(ii) $P(X_1=1)=\frac{2}{5}\left(c_0^1\left(\frac{1}{5}\right)^{n-1}\right)$
+
+(iii) $P(X_1=2)=1-\left(\frac{2}{5}\right)^n$
+
+其中,$c_0$ 表示 $X_1$ 的期望,即 $E(X_1)=0\times\frac{2}{5}+1\times\frac{1}{5}+2\times\frac{2}{5}=\frac{4}{5}$。
+
+(i) 和 (iii) 的推导是正确的。
+
+(ii) 的推导不正确,正确的推导应该是:
+
+$P(X_1=1)=P(X_1=0)\cdot P(X_2=1)+P(X_1=0)\cdot P(X_2=0)$
+
+$=\left(\frac{2}{5}\right)^n\cdot\frac{2}{5}\left(1-c_0^1\right)+\left(\frac{2}{5}\right)^n\cdot c_0^1$
+
+$=\frac{4}{25}\left(1-c_0^1\right)+\frac{2}{5}c_0^1$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}c_0^1\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}c_0^1$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{3}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)\cdot\frac{1}{2}$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{1}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$
+
+$=\frac{2}{5}\left(1-c_0^1\right)\cdot\frac{3}{2}+\frac{2}{5}\left(1-c_0^1\right)$",0
+13,"设随机变量(X,Y)的概率密度为$f(x,y)=\begin{cases}2,0<x<y,0<y<1\\0,其他\end{cases}$.则0<y<1时，f_{X|Y}(x|y)=____","$\begin{cases}\frac{1}{x}, & 0<y<x, \\ 0, & \text { 其他 }\end{cases}$","$\{\begin{array}{cl}\frac{1}{2 x}, & |y|<x, \\0, & \text { 其他}\end{array}$","$\begin{cases}\frac{1}{y}, & 0<x<y, \\ 0, & \text { 其他. }\end{cases}$","$\begin{cases}\frac{1}{2y}, & |x|<y, \\ 0, & \text { 其他. }\end{cases}$",C,"由题意可得当 $0<y<1$ 时，$f_X(x,y)=2$，所以 $f_{X|Y}(x|y)=\begin{cases}\frac{1}{x}, & 0<y<x, \\ 0, & \text { 其他 }\end{cases}$ ，故答案为 A。",0
+14,"设总体$X$的分布律为
+
+\begin{tabular}{|l|l|l|l|}
+\hline$X$&-1&0&2\\
+\hline$P$&$\frac{1}{3}\theta$&$1-\frac{2}{3}\theta$&$\frac{1}{3}\theta$\\
+\hline
+\end{tabular}
+
+$\left(X_{1},X_{2},\cdots,X_{n}\right)$为来自总体的样本,设有以下四个统计量
+
+(i)$\frac{3}{n}\sum_{i=1}^{n}X_{i}$,(ii)$\left.X_{1}+\frac{2}{n-1}\right)_{i=2}^{n}X_{i}$,(iii)$\frac{3}{5n}\sum_{i=1}^{n}X_{i}^{2}$,(iv)$\frac{1}{3n}\sum_{i=1}^{n}X_{i}^{2}$
+
+在上述四个统计量中,是参数$\theta$的一致估计量的个数是____",0,2,1,3,B,"首先，我们需要知道什么是一致估计量。对于一个随机变量$X$，如果对于所有$x$，$P(X=x)=P(X=x+1)$，则称$X$为单调随机变量，其对应的参数为$\theta$。因此，我们需要判断哪些统计量满足这个条件。
+
+对于(i)，我们有$\frac{3}{n}\sum_{i=1}^{n}X_{i}=3\theta$，对于所有$x$，都有$\frac{3}{n}\sum_{i=1}^{n}X_{i}=3\theta$，因此(i)是一个一致估计量。
+
+对于(ii)，我们有$\left.\frac{2}{n-1}X_{i}\right|_{i=2}^{n}=\frac{2}{n-1}\sum_{i=1}^{n-1}X_{i}=2\theta$，因此(ii)也是一个一致估计量。
+
+对于(iii)，我们有$\frac{3}{5n}\sum_{i=1}^{n}X_{i}^{2}=\frac{3}{5}\theta$，对于所有$x$，都有$\frac{3}{5}\theta$，因此(iii)也是一个一致估计量。
+
+对于(iv)，我们有$\frac{1}{3n}\sum_{i=1}^{n}X_{i}^{2}=\frac{1}{3}\theta$，对于所有$x$，都有$\frac{1}{3}\theta$，因此(iv)也是一个一致估计量。
+
+综上所述，有3个统计量是一致估计量，因此答案为D。",0
+15,"设$X_1,...,X_4,X_5$相互独立、且都服从N(0,4).设$\alpha\in(0,1)$,$k>0$,$P(X_1^2+X_2^2+X_3^2+X_4^2\le kX_5^2)=\alpha$则k=____","$\frac{1}{4}F_{\alpha}(4,1)$","$\frac{1}{4}F_{1-\alpha}(4,1)$","$4F_{\alpha}(4,1)$","$4F_{1-\alpha}(4,1)$",D,"首先，根据题目给出的条件，可以得知$X_1,X_2,X_3,X_4,X_5$相互独立且服从均值为$0$，方差为$4$的正态分布。
+
+其次，根据题目中的概率公式，有$P(X_1^2+X_2^2+X_3^2+X_4^2\le kX_5^2)=\alpha$，其中$\alpha\in(0,1)$，$k>0$。
+
+接下来，需要求解$k$的值。根据正态分布的性质，可以得到$F_x(x)=P(X\le x)$，其中$F_x(x)$为$X$的累积分布函数。
+
+因此，有$F_2(k)=P(X_1^2+X_2^2+X_3^2+X_4^2\le kX_5^2)$，$F_1(k)=P(X_1^2+X_2^2+X_3^2+X_4^2\le kX_5^2)$，$F_4(k)=P(X_1^2+X_2^2+X_3^2+X_4^2\le kX_5^2)$，$F_5(k)=P(X_1^2+X_2^2+X_3^2+X_4^2\le kX_5^2)$。
+
+由于$X_1,X_2,X_3,X_4,X_5$相互独立，所以有$F_2(k)=F_1(k)=F_4(k)=F_5(k)$。
+
+因此，$F_2(k)=F_1(k)=F_4(k)=F_5(k)=\frac{1}{2}\left[1-F_5(k)\right]$。
+
+又因为$F_5(k)=P(X_1^2+X_2^2+X_3^2+X_4^2\le kX_5^2)$，所以$F_5(k)=\frac{1}{2}\left[1-P(X_1^2+X_2^2+X_3^2+X_4^2\le kX_5^2)\right]$。
+
+将上述式子代入$F_2(k)$中，得到$F_2(k)=\frac{1}{2}\left[1-\frac{1}{2}\left[1-P(X_1^2+X_2^2+X_3^2+X_4^2\le kX_5^2)\right]\right]$。
+
+化简上式，得到$F_2(k)=\frac{1}{4}F_{\alpha}(4,1)$，其中$\alpha\in(0,1)$，$k>0$。
+
+因此，正确答案为A. $\frac{1}{4}F_{\alpha}(4,1)$。",0
+16,"设$X_1,X_1,\cdots X_8$为来自总体$X\sim N\left(\mu_1,1\right)$的简单样本,$\bar{X},S_1^2$分別是其对应的样本均值与样本方差。$Y_1,Y_1,\cdots,Y_7$为来自总$Y\sim N\left(\mu_2,1\right)$的简单样本,$\bar{Y},S_2^2$分别是其对应的样本均值与样本方差。下列选项正确的是：____",$\sum_{i=1}^8\left(X_i-\mu_1\right)^2+\sum_{i=1}^7\left(Y_i-\mu_2\right)^2 \sim \chi^2(15)$,$E\left(\sum_{i=1}^8\left(X_i-\mu_1\right)^2+\sum_{i=1}^7\left(Y_i-\mu_2\right)^2\right)=15$,$\mathrm{D}(\bar{X}+\bar{Y})=\frac{1}{8}+\frac{1}{7}$,"$\bar{X}-\bar{Y} \sim \mathrm{N}\left(\mu_1-\mu_2, \frac{1}{8}+\frac{1}{7}\right)$",B,"首先，我们可以计算出$\sum_{i=1}^8(X_i-\mu_1)^2$和$\sum_{i=1}^7(Y_i-\mu_2)^2$的期望和方差，分别为：
+
+$$\begin{aligned} \E(\sum_{i=1}^8(X_i-\mu_1)^2) &= \E\left[\sum_{i=1}^8(X_i-\mu_1)^2\right] = \sum_{i=1}^8 \E(X_i-\mu_1)^2 = 8\mu_1^2 - 16\mu_1\mu_2 + \sum_{i=1}^8 \E(X_i-\mu_1)^2 \end{aligned}$$
+
+$$\begin{aligned} \D(\sum_{i=1}^8(X_i-\mu_1)^2) &= \D\left[\sum_{i=1}^8(X_i-\mu_1)^2\right] = \sum_{i=1}^8 \D(X_i-\mu_1)^2 = 16\mu_1^2 - 32\mu_1\mu_2 + \sum_{i=1}^8 \D(X_i-\mu_1)^2 \end{aligned}$$
+
+然后，我们考虑如何计算$\sum_{i=1}^8(X_i-\mu_1)^2+\sum_{i=1}^7(Y_i-\mu_2)^2$的期望和方差。根据中心极限定理，有：
+
+$$\begin{aligned} \E(\sum_{i=1}^8(X_i-\mu_1)^2+\sum_{i=1}^7(Y_i-\mu_2)^2) &= \E\left[\sum_{i=1}^8(X_i-\mu_1)^2+\sum_{i=1}^7(Y_i-\mu_2)^2\right] \\ &= \sum_{i=1}^8 \E(X_i-\mu_1)^2 + \sum_{i=1}^7 \E(Y_i-\mu_2)^2 \\ &= 8\mu_1^2 - 16\mu_1\mu_2 + \sum_{i=1}^8 \E(X_i-\mu_1)^2 + \sum_{i=1}^7 \E(Y_i-\mu_2)^2 \end{aligned}$$
+
+接下来，我们考虑如何计算$\bar{X}+\bar{Y}$的方差。根据方差的定义，有：
+
+$$\begin{aligned} \D(\bar{X}+\bar{Y}) &= \D\left[\bar{X}+\bar{Y}\right] \\ &= \D(\bar{X}) + \D(\bar{Y}) \\ &= \frac{1}{8} + \frac{1}{7} \end{aligned}$$
+
+因此，选项C正确。",0
+17,"若随机变量X的分布函数为$F(x)=pF_1(x)+qF_2(x)$，其中$F_1(x)$，$F_2(x)$为两个分布函数，常数p，q满足:$p>0$，$q>0$，$p+q=1$，那么X的分布叫作$F_1(x)，F_2(x)$的混合分布.设$\mu_1，\mu_2$分别为$F_1(x)，F_2(x)$的期望，$\sigma_1^2,\sigma_2^2$分别为$F_1(\mathrm{x})$，$F_2(\mathrm{x})$的方差，则$DX=$____",$p \sigma_1^2+q \sigma_2^2$,$p^2 \sigma_1^2+q^2 \sigma_2^2$,$p \sigma_1^2+q \sigma_2^2+p q\left(\mu_1-\mu_2\right)^2$,$p \sigma_1^2+q \sigma_2^2+p q\left(\sigma_1-\sigma_2\right)^2$,C,"$DX={\rm σ_1}^2{\rm ρ_1}+{\rm σ_2}^2{\rm ρ_2}+2{\rm ρ_1}{\rm ρ_2}{\rm σ_1}{\rm σ_2}$，${\rm ρ_1}+{\rm ρ_2}=1$，所以$DX={\rm σ_1}^2+{\rm σ_2}^2+2{\rm ρ_1}{\rm ρ_2}{\rm σ_1}{\rm σ_2}={\rm p}\sigma_1^2+{\rm q}\sigma_2^2.$
+
+答案：A. $p \sigma_1^2+q \sigma_2^2$",0

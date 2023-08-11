@@ -1,0 +1,180 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,对于淀粉和纤维素两种物质，下列说法正确的是____,两者都能水解，且水解的最终产物相同,两者含C、H、O三种元素的质量分数相同，且互为同分异构体,它们都属于糖类，且都是溶于水的高分子化合物,都可 用$\left ( C_6H_6O_5\right )_n$表示，但淀粉能发生银镜反应，而纤维素不能,A," A.两者都能水解，且水解的最终产物相同
+
+淀粉和纤维素都是水解物质，它们可以在水中被水解成相同的最终产物。
+
+B.两者含C、H、O三种元素的质量分数相同，且互为同分异构体
+
+淀粉和纤维素都含有C、H、O三种元素，但它们的元素质量分数不同。淀粉含有30%的碳、6%的氢、64%的氧，而纤维素含有45%的碳、5%的氢、50%的氧。它们不是同分异构体。
+
+C.它们都属于糖类，且都是溶于水的高分子化合物
+
+淀粉和纤维素都",1
+1,a mol $Na_2O_2$和 b mol $NaHCO_3$固体混合后，在密闭容器中加热到250℃，使其充分反应，当排出气体为两种气体时，a︰b不可能为：____,$3︰4$,$3︰2$,$2︰3$,$4︰5$,B," $Na_2O_2$和$NaHCO_3$在高温下可以进行以下反应：
+
+$Na_2O_2 + 2NaHCO_3 → 2Na_2CO_3 + H_2O + CO_2$
+
+根据stoichiometry, 1 mole of $Na_2O_2$ reacts with 2 moles of $NaHCO_3$ to produce 2 moles of $Na_2CO_3$, 1 mole of water, and 1 mole of carbon dioxide.
+
+So, if we mix a and b moles of these substances and heat them in a sealed container to 250°C, the reaction will be complete and the gas produced will be a mixture of carbon dioxide and water vapor.
+
+The mole ratio of carbon dioxide to water vapor is 1:2, since there is one mole of carbon dioxide produced for every two moles of water produced.
+
+Therefore, the correct answer is:
+
+C. 2:3
+
+The ratio of carbon dioxide to water vapor is 2:3, which means that for every 2 moles of carbon dioxide produced, there are 3 moles of water vapor produced.",0
+2,X、Y、Z、W、R是5种短周期元素，其原子序数依次增大。X是周期表中原子半径最小的元素，Y原子最外层电子数是次外层电子数的3倍，Z、W、R处于同一周期，R与Y处于同一主族，Z、W原子的核外电子数之和与Y、R原子的核外电子数之和相等。下列说法正确的是____,元素Y、Z、W具有相同电子层结构的离子，其半径依次增大,元素X不能与元素Y形成化合物$X_2Y_2$,元素Y、R分别与元素X形成的化合物的热稳定性：$X_mY > X_mR$,元素W、R的最高价氧化物的水化物都是强酸,C," Based on the information provided, the correct answer is:
+
+C. The thermal stability of compounds formed by elements Y and R is higher than that of compounds formed by element X.
+
+Here's a brief explanation for each statement:
+
+A. The statement is incorrect because the electron configuration of elements Y, Z, and W is not the same.
+
+B. The statement is incorrect because element X can form compounds with element Y, such as $X_2Y_2$.
+
+C. The statement is correct because the thermal stability of compounds formed by elements Y and R is higher than that of compounds formed by element X. This is because the outermost electrons of elements Y and R are more stable, resulting in stronger bonds and higher thermal stability.
+
+D. The statement is incorrect because the oxides of elements W and R are not necessarily strong acids. The oxides of these elements can have a range of properties depending on the specific element and the oxidation state of the metal.",1
+3,下列家庭小实验最合理的是____,将适量的苏打粉放在容器中加热，观察气体的产生,在洁净的水杯中先加入小苏打粉，再加入食醋，观察气体的产生,往稀白粥中加入少量加碘食盐，检验加碘食盐中含有$I_2$,在一瓣橘子上插入两根铜线并与小灯泡连接，验证电流的产生,B," A. 将适量的苏打粉放在容器中加热，观察气体的产生。
+
+这是一个最合理的家庭小实验，因为苏打粉是一种能够快速和简单地生成气体的物质。在加热苏打粉时，氧气会被释放，并且可以通过观察气体的产生来确认。此外，这个实验不需要特殊的设备或化学知识，可以在家庭中轻松完成。",0
+4,下列反应的离子方程式中正确的是____,氯气与水反应:$Cl_2+H_2O = 2H^+ + Cl^- + ClO^-$,氯气通入冷的氢氧化钠溶液中：$2Cl_2+2OH^- = 3Cl^- + ClO^- +H_2O$,氯化亚铁溶液中滴加过量新制氯水：$2Fe^{2+} + Cl_2 = 2Fe^{3+} + 2Cl^-$,少量碳酸钙固体加入足量稀盐酸中：$CO_3^{2-}+2H^+ = CO_2\uparrow +H_2O$,C,"让我们一步一步思考,
+1. 氯气与水反应的离子方程式应该是：$Cl_2+H_2O = 2H^+ + Cl^- + ClO^-$，排除(A)。
+2. 氯气通入冷的氢氧化钠溶液中的反应方程式应该是：$2Cl_2+2OH^- = 3Cl^- + ClO^- +H_2O$，排除(B)。
+3. 氯化亚铁溶液中滴加过量新制氯水的反应方程式应该是：$2Fe^{2+} + Cl_2 = 2Fe^{3+} + 2Cl^-$，排除(C)。
+4. 少量碳酸钙固体加入足量稀盐酸中的反应方程式应该是：$CO_3^{2-}+2H^+ = CO_2\uparrow +H_2O$，排",0
+5,下列物质属于合成聚合物的是____,蛋白质,人造丝,人造棉,聚氯乙烯,D,"让我们一步一步思考,
+1. 蛋白质是生物体内自然存在的大分子，不是合成聚合物，排除(A)。
+2. 人造丝和人造棉都是人工合成的聚合物，但是不是聚氯乙烯，排除(B)和(C)。
+3. 聚氯乙烯是一种合成聚合物，由氯乙烯酸和其他杂原料共价生成，属于合成聚合物。
+所以答案是：D",1
+6,氯的原子序数为17，$^{35}Cl$是氯的一种核素，下列说法正确的是____,$^{35}Cl$原子所含质子数为18,$\frac{1}{18}$的$^1H^{35}Cl$分子所含中子数约为$6.02 \times 10^23$,3.5g$^{35}Cl_{2}$气体的体积约为22.4L,$^{35}Cl_{2}$气体的摩尔质量为70g,B," A. $^{35}Cl$ 原子所含质子数为 18.
+
+证明：
+
+* $^{35}Cl$ 是氯的一种核素，其原子序数为 17。
+* 每个核素都有质子数等于原子序数的半数数量，即 $A = \frac{1}{2} \cdot 17 = 8.5$。
+* 因此，$^{35}Cl$ 原子所含质子数为 $A = 8.5$。
+
+其他选项不正确：
+
+* B. $\frac{1}{18}$ 的 $^1H^{35}Cl$ 分子所含中子数约为 $\frac{1}{18} \cdot 6.02 \times 10^23 = 3.36 \times 10^22$，不是 $6.02 \times 10^23$。
+* C. 3.5g $^{35}Cl_2$ 气体的体积约为 3.5 g $\",0
+7,某有机物在氧气中燃烧生成水蒸气和二氧化碳的物质的量之比为 1：1，由此得出的结论是____,该有机物分子中 C：H：O 原子个数比为 1：2：3,该有机物分子中 C：H 原子个数比为 1：1,该有机物中必定含氧,无法判断该有机物中是否含氧,D," Based on the given information, we can conclude that the organic substance is a hydrocarbon (a compound containing only hydrogen and carbon atoms) since the only products of combustion are water vapor and carbon dioxide.
+
+Therefore, the conclusion is:
+
+B. The organic substance has a C:H atom ratio of 1:1.
+
+We cannot determine whether the substance contains oxygen or not based on the given information.",0
+8,主族元素W、X、Y、Z的原子序数依次增加，且均不大于20。W、X、Y最外层电子数之和为11，W与Y同族且都是复合化肥的营养元素，Z的氢化物遇水可产生最轻的气体。下列说法正确的____,常温常压下X的单质为气态,简单气态氢化物的热稳定性：Y>W,Z的氢化物含有共价键,简单离子半径：W>X,D," based on the information given, the correct answer is:
+
+B. 简单气态氢化物的热稳定性：Y>W
+
+Explanation:
+
+1. W, X, Y, and Z are all main group elements with atomic numbers increasing in sequence.
+2. The outermost electrons of W, X, and Y are 11, and W and Y are both nutrient elements and belong to the same group.
+3. Z's hydride is the lightest gas.
+
+From these statements, we can conclude that:
+
+* X is a gas at room temperature and pressure (A is incorrect, as X is not a gas).
+* Y has a higher thermal stability than W in simple hydrides (B is correct).
+* Z's hydride contains covalent bonds (C is incorrect, as Z's hydride is not a covalent compound).
+* W has a larger simple ion radius than X (D is incorrect, as W and X have similar simple ion radii).",0
+9,氯化铜的稀溶液在盐酸中呈黄绿色，存在的化学平衡$Cu(H_2O)_4]^{2+}（淡蓝色）+4Cl^- \rightleftharpoons(CuCl4)^{2—}（黄绿色）+4H_2O$，下列可使溶液变成淡蓝色的方法是____,减少蒸馏水,加硝酸银溶液,加氯化钠固体,加硫酸钠固体,B,"让我们一步一步思考,
+1. 氯化铜的稀溶液在盐酸中呈黄绿色，表示存在Cu(H2O)4]2+和CuCl4]2-两种化学物种。
+2. 要将溶液变成淡蓝色，需要将Cu(H2O)4]2+和CuCl4]2-化学物种之间的化学平衡Shift到左边。
+3. 根据化学平衡式，可以看到，加入硝酸银溶液（AgNO3）将Cu(H2O)4]2+ reductions to Cu+，使溶液变成淡蓝色。
+所以答案是：B 加硝酸银溶液。",1
+10,下列物质转化需要加入还原剂才能实现的是____,$SO_3^{2-}$→$SO_2$,$HCl$→$Cl_2$,$Na$→$Na^+$,$SO_2$→$S$,D,"让我们一步一步思考,
+1. $SO_3^{2-}$和$HCl$的反应需要加入还原剂才能实现，如Na或H_2O，其中$SO_3^{2-}$被还原为$SO_2$，排除(A)。
+2. $HCl$和$Na$的反应不需要加入还原剂，直接生成$NaCl$，排除(C)。
+3. $SO_2$不需要加入还原剂，直接生成$S$，排除(D)。
+所以答案是：B",0
+11,"在一定温度下的恒容密闭容器中，当下列哪些物理量不再发生变化时，表明下述反应：$A(s) + 2B(g) \rightleftharpoons C(g)+D(g)$已达到平衡状态____
+①混合气体的压强   ②混合气体的密度   ③B的物质的量浓度 ④气体的总物质的量
+⑤混合气体总质量",②③⑤,①②③,②③④,①③④⑤,A," Based on the given reaction:
+
+$A(s) + 2B(g) \rightleftharpoons C(g)+D(g)$
+
+The equilibrium state is reached when the rate of the forward reaction is equal to the rate of the reverse reaction. At this point, the concentrations of all species remain constant, and no further changes occur in the physical quantities.
+
+Therefore, the correct answer is:
+
+D.①③④⑤
+
+The physical quantities that reach equilibrium states are:
+
+① Pressure of the mixed gas: The pressure of the mixed gas will reach a constant value when the reaction reaches equilibrium.
+
+③ Concentration of B: The concentration of B will also reach a constant value when the reaction reaches equilibrium.
+
+④ Total amount of gas: The total amount of gas in the container will remain constant when the reaction reaches equilibrium.
+
+⑤ Total amount of substances: The total amount of all substances in the container will remain constant when the reaction reaches equilibrium.",0
+12,诗句“春蚕到死丝方尽，蜡烛成灰泪始干”中“丝”和“泪”分别指____,纤维素  油脂,蛋白质  烃类,淀粉  油脂,蛋白质  油脂,B," “丝”和“泪”在诗句“春蚕到死丝方尽，蜡烛成灰泪始干”中分别指：
+
+A. 纤维素和油脂
+
+“丝”指纤维素，“泪”指油脂。",0
+13,下列物质中既属于有机物，又属于酸的是____,$H_2CO_3$,$CH_3OH$,$CH_3CH_2OH $,$CH_3COOH$,D,"让我们一步一步思考,
+1. $H_2CO3$为酸，但不是有机物，排除(A)。
+2. $CH_3OH$为有机物，但不是酸，排除(B)。
+3. $CH_3CH_2OH$为有机物和酸，排除(C)。
+4. $CH_3COOH$为有机物和酸，排除(D)。
+所以答案是：D $CH_3COOH$",1
+14,下列物质不能与氢氧化钠溶液发生反应的是____,氯气,碳酸氢钠,二氧化硅,镁,D,"让我们一步一步思考,
+1. 氯气和氢氧化钠溶液可以发生反应，生成氯化钠，排除(A)。
+2. 碳酸氢钠和氢氧化钠溶液可以发生反应，生成碳酸钠，排除(B)。
+3. 二氧化硅和氢氧化钠溶液不能发生反应，排除(C)。
+4. 镁不能与氢氧化钠溶液发生反应，排除(D)。
+所以答案是：C。",0
+15,灼烧绿矾的反应方程式如下：$7(FeSO_4 \cdot 7H_2O)\stackrel{强热}{=}Fe_2O_3 +SO_2\uparrow + SO_3\uparrow +14H_2O$;将生成的气体通入BaCl2溶液中，下列叙述中正确的是____,有$BaSO_4$生成,有$BaSO_3$生成,同时有$BaSO_4$和$BaSO_3$生成,有$SO_3$逸出,A," Based on the reaction equation, we can see that the reaction produces sulfur dioxide gas ($SO_2\uparrow$) and sulfur trioxide gas ($SO_3\uparrow$). Therefore, the correct answer is:
+
+C. Same time have $BaSO_4$ and $BaSO_3$ generated.
+
+Explanation:
+
+The reaction equation indicates that the sulfur dioxide gas and sulfur trioxide gas will be produced simultaneously. When the gas is introduced into the BaCl2 solution, both $BaSO_4$ and $BaSO_3$ will be generated.",0
+16,生石灰中含有碳酸钙和二氧化硅，要检验这两种杂质是否存在，选用的试剂最好是____,稀盐酸,水,烧碱溶液,稀硫酸,A," 生石灰中含有碳酸钙和二氧化硅，要检验这两种杂质是否存在，选用的试剂最好是：
+
+A. 稀盐酸
+
+碳酸钙和二氧化硅都是碱性杂质，稀盐酸可以与其反应，生成沸石和碳酸盐：
+
+CaCO3 + 2HCl → CaCl2 + H2O
+SiO2 + 2HCl → SiCl4 + 2H2O
+
+通过这两个反应，可以确定生石灰中是否含有碳酸钙和二氧化硅。
+
+B. 水
+
+水不能与碳酸钙和二氧化硅进行反应，因此不能用来检测这两种杂质。
+
+C. 烧碱溶液
+
+�",0
+17,已知$2SO_2(g) + O_2(g) \rightleftharpoons  2SO_3(g)$(正反应放热)。若在500℃和催化剂的作用下，该反应在容积固定的密闭容器中进行，下列有关说法正确的是____,若降低温度，可以加快反应速率,使用催化剂是为了加快反应速率,在上述条件下，$SO_2$能完全转化为$SO_3$,达到平衡时，$SO_2$和$SO_3$的浓度一定相等,B," Based on the given information, the correct statement is:
+
+B. 使用催化剂是为了加快反应速率.
+
+Explanation:
+
+1. The reaction is a reversible reaction, and the equilibrium constant is Kc = [SO3]^2 / [SO2] [O2].
+2. At 500°C, the reaction is highly favored forward, and the equilibrium constant is large, indicating that the reaction is highly exothermic.
+3. The presence of a catalyst (in this case, an oxide surface) can significantly increase the reaction rate by providing an alternative reaction pathway with a lower activation energy.
+4. Therefore, using a catalyst is a common practice to enhance the reaction rate, as stated in statement B.
+5. Statement A is incorrect because lowering the temperature will not significantly affect the reaction rate, as the reaction is highly exothermic and the equilibrium constant is large.
+6. Statement C is incorrect because the reaction does not necessarily lead to complete conversion of SO2 to SO3, as the equilibrium constant is less than 1.
+7. Statement D is incorrect because the concentrations of SO2 and SO3 do not necessarily equilibrate at equilibrium, as the reaction is not at equilibrium when the catalyst is present.",0
+18,下列关于物质用途的叙述中，不正确的是____,硅可以用作制造变压器的铁芯材料,二氧化硅可用于制造光导纤维,石墨可用做绝缘材料,石英玻璃可用于制造光学仪器,C,"让我们一步一步思考,
+1. 硅不可以用作制造变压器的铁芯材料，因为硅不具有铁的磁性，不能满足变压器的要求，排除(A)。
+2. 二氧化硅可以用于制造光导纤维，正确，(B)是正确的选项。
+3. 石墨不可用做绝缘材料，因为它不具有绝缘性，排除(C)。
+4. 石英玻璃可以用于制造光学仪器，正确，(D)是正确的选项。
+所以答案是：A",0

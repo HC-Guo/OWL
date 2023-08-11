@@ -1,0 +1,172 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,下列关于法律推理的表述，能够成立的是____。,演绎推理是一种或然性推理,归纳推理是从一般知识推出个别知识的推理,类比推理是判例法国家运用的一种基本的法律推理方法,辩证推理实际上是一种立法活动,C," The correct answer is: C. 类比推理是判例法国家运用的一种基本的法律推理方法.
+
+Here's a brief explanation of each option:
+
+A. 演绎推理是一种或然性推理 - This is incorrect. Deductive reasoning is a type of reasoning that involves drawing conclusions from premises with absolute certainty, and it is not a form of probabilistic reasoning.
+
+B. 归纳推理是从一般知识推出个别知识的推理 - This is incorrect. Inductive reasoning is a type of reasoning that involves making generalizations from specific instances, but it is not limited to deriving individual pieces of knowledge from general knowledge.
+
+D. 辩证推理实际上是一种立法活动 - This is incorrect. Legal reasoning is a process of interpreting and applying the law, but it is not the same as legislation.
+
+Therefore, the correct answer is C. 类比推理是判例法国家运用的一种基本的法律推理方法.",1
+1,某住宅小区业主从事的下列行为中，不必将相关情况告知物业服务人的情形是____。,业主甲将其房屋出租给赵某,业主乙在其住宅上设立居住权供其弟居住,业主丙依法将建筑区划内的绿地改造成花园,业主丁在其住宅上设立地役权,D, C.业主丙依法将建筑区划内的绿地改造成花园是不必将相关情况告知物业服务人的情形。根据《住宅小区管理办法》等相关法规，业主有权在自己的住宅小区内进行一定的改造和使用，包括将绿地改造成花园。因此，业主丙在依法进行这种改造时，不需要将情况告知物业服务人。其他选项都是需要告知物业服务人的情形。,0
+2,张某在甲期刊社发表了一篇颇具价值的学术论文，但未作版权说明。乙期刊社将该学术论文作为资料刊登。则乙期刊社的行为____。,属于合理使用，不必向著作权人支付报酬,属于侵犯著作权的行为,不必经甲期刊社同意，但应向其支付报酬,不必经张某同意，但应向其支付报酬,D," Based on the information provided, the correct answer is B. 乙期刊社的行为属于侵犯著作权的行为。
+
+According to the Copyright Law of the People's Republic of China, the author of a work has the exclusive right to reproduce, distribute, and display the work publicly. Without the authorization of the author, no one is allowed to reproduce, distribute, or display the work publicly.
+
+In this case, 乙期刊社 has reproduced and displayed the academic article publicly without obtaining the authorization from the author, which constitutes a violation of the author's exclusive rights. Therefore, 乙期刊社's behavior is considered as an infringement of the author's copyright.
+
+Option A is incorrect because there is no provision in the Copyright Law that allows for ""合理使用"" of a work without the authorization of the author.
+
+Option C is incorrect because the author's consent is not required for the use of the work, but the user must obtain the authorization from the author.
+
+Option D is incorrect because the author's consent is not required for the use of the work, but the user must obtain the authorization from the author.",0
+3,关于我国宪法修改，下列哪一选项是正确的____。,我国修宪实践中既有对宪法的部分修改，也有对宪法的全面修改,经1/10以上的全国人大代表提议，可以启动宪法修改程序,全国人大常委会是法定的修宪主体,宪法修正案是我国宪法规定的宪法修改方式,A," Based on the information provided, the correct answer is:
+
+C. 全国人大常委会是法定的修宪主体
+
+According to the Constitution of the People's Republic of China, the National People's Congress (NPC) is the highest authority for amending the Constitution. The NPC has the power to initiate and adopt constitutional amendments, and any amendments must be approved by at least two-thirds of the total number of delegates present at the NPC session.
+
+The other options are not accurate:
+
+A. 对宪法的部分修改 and 对宪法的全面修改 are both correct, but they do not accurately describe the role of the NPC in constitutional amendments.
+
+B. 经1/10以上的全国人大代表提议 is not a correct statement of the constitutional amendment process. While the NPC does have the power to initiate constitutional amendments, it is not required to do so based on the number of proposals received.
+
+D. 宪法修正案 is not a correct statement of the constitutional amendment process. While the NPC does have the power to adopt constitutional amendments, it is not the only method by which",0
+4,下列选项中，可以适用不当得利主张请求权的情形是____。,甲为自己正在读大学的弟弟乙支付学费，后甲要求乙返还,丙明知不欠丁的钱而执意向丁还钱，后丙要求丁返还该金钱,张某偿还了欠李某的赌债，后张某要求李某返还赌资,陈某和吴某同在河边放牛，后陈某的一头牛走入吴某的牛群中，而吴某对此并不知情,D," Based on the information provided, the best answer is:
+
+C. 张某偿还了欠李某的赌债，后张某要求李某返还赌资.
+
+In this scenario, 张某 (Zhang) has already paid back the debt owed to 李某 (Li), but is now requesting that 李某 return the gambling money. This is an example of a request for return of a benefit, which is a type of unjust enrichment.",0
+5,刘婆婆回家途中，看见邻居肖婆婆带着外孙小勇和另一家邻居的孩子小囡(均为4岁多)在小区花园中玩耍，便上前拿出几根香蕉递给小勇，随后离去。小勇接过香蕉后，递给小囡一根，小囡吞食时误入气管导致休克，经抢救无效死亡。对此，下列哪一选项是正确的?____,刘婆婆应对小囡的死亡承担民事责任,肖婆婆应对小囡的死亡承担民事责任,小勇的父母应对小囡的死亡承担民事责任,属意外事件，不产生相关人员的过错责任,D," Based on the information provided, the correct answer is A. 刘婆婆应对小囡的死亡承担民事责任.
+
+According to the information, 刘婆婆 gave 小勇 a piece of candy, which was then passed to 小囡, leading to 小囡's death by choking. As the person who provided the candy to 小勇, 刘婆婆 has a responsibility to ensure that the candy is safe for consumption and does not pose a risk to the children playing with it. Therefore, 刘婆婆 should be held responsible for 小囡's death.
+
+Option B is incorrect because 肖婆婆 did not provide the candy to 小囡, and therefore cannot be held responsible for the death. Option C is also incorrect because the parents of 小勇 are not directly involved in the incident and cannot be held responsible for 小囡's death. Option D is incorrect because the incident is not an accident and is caused by 小囡's choking on the candy, which is a preventable harm.",0
+6,下列选项中，能够引起不当得利之债发生的是____。,为回赎绑票向绑匪交付赎金,为邻居垫支话费,冒名将他人稿酬取走,履行期限到来之前向债权人发货,A," A.为回赎绑票向绑匪交付赎金
+
+根据《民法典》第422条的规定，如果债权人为回赎绑票向绑匪交付赎金，则可以引起不当得利之债的发生。这是因为，在债权人为回赎绑票向绑匪交付赎金的情况下，债权人已经为绑匪所得利，因此不能继续要求绑匪履行债务。
+
+其他选项都不能引起不当得利之债的发生：
+
+B.为邻居垫支话费：这种情况下，债权人并没有为他人所得利，因此不能引起不当得利之债。
+
+C.冒名将他人稿酬取走：这种情况下，",1
+7,甲、乙因生活琐事互相斗殴，乙感到不是甲的对手而逃跑。甲紧追不舍，乙逃出500米后被甲赶上。甲用木棍向乙头部猛击。情急之下，乙抽出随身携带的水果刀朝甲刺去，致甲重伤。乙的行为____。,构成故意杀人罪未遂,构成故意伤害罪,构成寻衅滋事罪,不构成犯罪,D," based on the information provided, the best answer is B. 构成故意伤害罪.
+
+甲 and 乙 had a altercation, and 乙 felt that 甲 was not a worthy opponent, so 乙 ran away. 甲 chased after 乙 and caught up with them, then used a wooden club to strike 乙's head. In a fit of rage, 乙 pulled out a knife they were carrying and stabbed 甲, causing serious injury.
+
+From the information provided, it can be inferred that 甲 and 乙 had a premeditated intent to fight each other, and 甲 used a weapon (wooden club) to attack 乙. However, 乙's actions were not premeditated, and they only pulled out the knife in response to being attacked. Therefore, 乙's actions can be considered as a crime of intentional harm, but not premeditated murder.
+
+So the correct answer is B. 构成故意伤害罪.",0
+8,甲、乙是某高校住同一寝室的研究生，二人合用一台电脑。甲向美国某大学申请留美奖学金，并将此事告知乙。美方发出电子邮件，邀请甲赴美留学。恰巧甲不在，乙出于嫉妒，擅自发邮件拒绝美方邀请。数日后甲发电子邮件向美方询问，美方告知甲因其拒绝邀请而不再考虑。乙侵犯了甲的____。,姓名权,名誉权,名称权,隐私权,A," Based on the information provided, 乙 (the second person) has violated 甲's (the first person) 隐私权 (privacy right) by intercepting and responding to the email intended for 甲 without their knowledge or consent.
+
+Therefore, the correct answer is:
+
+D. 隐私权",0
+9,下列要素中，不能作为商标申请注册的是____。,商务标语,声音,字母,颜色组合,A," C. 字母不能作为商标申请注册的，因为商标必须是一个或多个图形符号，而不是一个或多个字母或字符。
+
+所以答案是：C。",0
+10,以牟利为目的，盗接他人通信线路、复制他人电信码号或者明知是盗接、复制的电信设备、设施而使用的，应构成____。,非法经营罪,侵占罪,盗窃罪,破坏公用电信设施罪,C," Based on the information provided, the correct answer is B. 侵占罪 (invasion of privacy).
+
+The crime of 侵占罪 is defined in Article 246 of the Criminal Law of the People's Republic of China, which states that ""whoever, with the intention of seeking profits, illegally intrudes into or intercepts the communication of others, or illegally obtains, possesses, or uses the communication equipment or facilities of others, shall be punished by imprisonment or criminal detention.""
+
+The behavior of using someone else's communication line, copying their telecommunication codes, or using their telecommunication equipment or facilities without their permission, as described in the question, constitutes an invasion of privacy and is therefore punishable under Article 246 of the Criminal Law.",0
+11,下列不属于告诉才处理的情形是____。,侵占罪,侮辱罪未严重危害社会秩序和国家利益的,虐待罪致使被害人重伤、死亡的,暴力干涉婚姻自由罪，未致使被害人死亡的,C," C. 虐待罪致使被害人重伤、死亡的不属于告诉才处理的情形。
+
+根据中国刑法的规定，虐待罪是一种严重的犯罪行为，可能会导致被害人的重伤或死亡。因此，这种情形不属于告诉才处理的范畴。
+
+而A、B、D三项都属于告诉才处理的情形。侵占罪、侮辱罪未严重危害社会秩序和国家利益的都是不属于严重犯罪的行为，可以通过告诉才处理。暴力干涉婚姻自由罪，未致使被害人死亡的也是一种不属于严重犯罪的行为，可以通过告��",1
+12,甲因盗窃罪案发被捕，在侦查人员对其审讯期间，甲交代了自己与乙在交通工具上抢劫3万元的犯罪事实，并协助侦查机关将乙抓获。对甲的抢劫罪____。,可以从轻或者减轻处罚,可以减轻或者免除处罚,可以免除处罚,应当减轻或者免除处罚,D," Based on the information provided, 甲's confession and assistance in capturing 乙 can be considered as mitigating circumstances, which may reduce 甲's punishment for the robbery crime.
+
+According to the Criminal Law of the People's Republic of China, Article 23, if a criminal suspect confesses to the crime and provides important clues or evidence, the people's procuratorate may consider reducing the punishment or mitigating the sentence.
+
+Therefore, the correct answer is:
+
+B. 可以减轻或者免除处罚
+
+Note: The specific punishment reduction or mitigation will depend on the specific circumstances of the case and the discretion of the court.",0
+13,在下列犯罪形态中，适用“从一重处断”原则予以论处的是____。,结果加重犯,继续犯,想象竞合犯,吸收犯,C," “从一重处断”原则是我国刑法中的一个基本原则，它认为在同一种犯罪形态中，如果犯罪者在不同的时间和场合犯罪多次，应当从一重处断，即从最严重的一次犯罪处断。
+
+根据这个原则，在下列犯罪形态中，适用“从一重处断”原则予以论处的是：
+
+A.结果加重犯。结果加重犯是指在一次犯罪中，犯罪者已经得到了一定的成果，然后又继续犯罪，从而导致了更多的损害。这种情况下，应当从结果加重犯处断，即从最后一次犯罪处断。
+
+B.继续犯。继续犯是指犯��",0
+14,下列选项中，属于无因行为的是____。,出售房屋,汇票的出票,赠与电脑,继承遗产,B,"让我们一步一步思考,
+1. 无因行为是指不受任何外部因素影响，而 solely based on the subject's own intention and will that the act is performed.
+2. 对于下列选项，考查无因行为的程度：
+A. 出售房屋：出售房屋是一种常见的经济活动，受到多种因素的影响，如房价、地价、买家等。因此，出售房屋不属于无因行为。
+B. 汇票的出票：汇票的出票也是一种常见的经济活动，受到多种因素的影响，如汇票价格、市场情况等。因此，汇票的出票也不属于无因行Behavior。
+C. 赠与电脑：赠与电脑是一种纯粹的无因行",0
+15,与《大清律例》相比，《大清现行刑律》的变化不包括____。,取消了六部分篇的法典编纂体例,删除了“十恶”重罪等内容,对于婚姻、继承、田宅、钱债等纯属民事性质的行为不再科刑,增加了一些新罪名，诸如妨害国交罪、妨害选举罪、私铸银元罪等,B," Comparing the ""Great Qing Legal Code"" (大清律例) with the ""Great Qing Current Criminal Law"" (大清现行刑律), the changes include:
+
+A. The deletion of the ""six section"" (六部) format for the legal code.
+
+B. The deletion of the ""ten evils"" (十恶) and other content related to ""heavy crimes.""
+
+C. The exclusion of civil matters such as marriage, inheritance, land ownership, and debts from the scope of criminal law.
+
+D. The addition of new crimes such as ""obstructing state affairs,"" ""obstructing elections,"" and ""counterfeiting currency.""
+
+Therefore, the correct answer is:
+
+C. 对于婚姻、继承、田宅、钱债等纯属民事性质的行为不再科刑。",0
+16,《刑法》第115条第2款规定“过失犯前款罪的……”，属于____。,简单罪状,叙明罪状,空白罪状,引证罪状,D," C. 空白罪状。
+
+根据《刑法》第115条第2款，“过失犯前款罪的……”，是指未遂犯罪的情形，即犯罪行为未遂行或未达到完整性的情形。这种情形属于空白罪状，因为犯罪行为的完整性和效果没有实现。",0
+17,下列选项中，属于代理情形的是____。,甲委托乙把自己的孩子从幼儿园接回来,丙接受丁的委托，以丁的名义与戊签订买卖合同,赵某接受钱某的委托，将钱某不接受缔约要求的意思表示向孙某作了回复,远大公司由法定代表人李某与宏远公司法定代表人周某签订加工承揽合同,B,"让我们一步一步思考,
+1. 代理情形是指一个人或组织代表另一个人或组织行使权力或义务的情形。
+2. A项甲委托乙把自己的孩子从幼儿园接回来，不属于代理情形，是一种父母子子关系的问题。
+3. B项丙接受丁的委托，以丁的名义与戊签订买卖合同，属于代理情形，丙是代表丁的人。
+4. C项赵某接受钱某的委托，将钱某不接受缔约要求的意思表示向孙某作了回复，也属于代理情形，赵某是代表钱某的人。
+5. D项远大公司由法定代表人李�",0
+18,甲、乙、丙三人分别出资30万元、30万元、40万元购买重型货车一辆，从事长途运输。三人约定：甲负责驾驶，乙负责对车管理维护，而丙负责招揽业务，且3年内不得分割共有物。三人对其他事项未作约定。甲、丙二人未经乙的同意，擅自签订抵押合同将该车抵押给不知情的丁，并办理了抵押登记。后来，甲因疲劳驾驶发生事故，造成行人戊受伤。对此，下列说法正确的是____。,甲、乙、丙对于货车享有的权利份额，应当按照出资额确定,戊只能要求甲赔偿损失,丁善意取得货车的抵押权,甲、乙、丙可以随时请求分割共有物,A," based on the information provided, the correct answer is:
+
+B. 戊只能要求甲赔偿损失
+
+reasoning:
+
+1. 甲、乙、丙三人共同拥有货车，没有对其他事项作约定。
+2. 甲、丙二人擅自签订抵押合同，将货车抵押给不知情的丁，这是无法得到乙的同意。
+3. 由于甲的驾驶导致事故，造成行人受伤，这是一种损害。
+4. 根据法律，只有甲有责任对损害行人赔偿，因为甲是事故的直接 causer。
+5. 乙、丙无法对事故中的损害赔偿，因为他们没有与事故直接相关。
+
+therefore, the correct answer is B. 戊只能要求甲",0
+19,幼儿园教师甲在幼儿园卫生间多次用针刺戳肖某等10余名幼儿的臀部，虽未造成伤害后果，但情节十分恶劣。甲的行为应认定为____。,侮辱罪,猥亵儿童罪,虐待被监护、看护人罪,故意伤害罪,C," based on the information provided, the behavior of the kindergarten teacher, 甲, should be classified as:
+
+B. Child molestation.
+
+The teacher's repeated use of needles to poke the buttocks of over 10 children, despite not causing any harm, is a form of child molestation. The behavior is not only inappropriate but also degrading and harmful to the children's physical and emotional well-being. It is important to recognize the gravity of this situation and hold the teacher accountable for their actions.",0
+20,下列关于我国刑法中罪刑法定原则的理解，正确的是____。,简单罪状因缺乏明确性不符合罪刑法定原则,将习惯法视为刑法的渊源不违反罪刑法定原则,罪刑法定原则不允许有利于被告人的新法溯及既往,罪刑法定原则中的“法”不包括行政法规,D,"让我们一步一步思考,
+1. 简单罪状因缺乏明确性不符合罪刑法定原则，这是正确的理解。根据我国刑法的规定，罪状必须明确、具体、可证明、不可抗力，否则无法构成犯罪。
+2. 将习惯法视为刑法的渊源不违反罪刑法定原则，这也是正确的理解。我国刑法的源流包括习惯法、法律、judicial precedent等，这些源流均可以为刑法的发展提供依据。
+3. 罪刑法定原则不允许有利于被告人的新法溯及既往，这是错误的理解。我国刑法中有新法溯及既往的规",0
+21,甲、乙同为儿童玩具生产商。六一节前夕，丙与甲商谈进货事宜。乙知道后向丙提出更优惠条件，并指使丁假借订货与甲接洽，报价高于丙以阻止甲与丙签约。丙经比较与乙签约，丁随即终止与甲的谈判，甲因此遭受损失。对此，下列哪一说法是正确的?____,乙应对甲承担缔约过失责任,丙应对甲承担缔约过失责任,丁应对甲承担缔约过失责任,乙、丙、丁无须对甲承担缔约过失责任,C," based on the information provided, the correct answer is:
+
+B. 丙应对甲承担缔约过失责任
+
+Explanation:
+
+According to the information provided, 丙 (Xu) and 甲 (Ma) were in negotiations for a business deal, but 乙 (Yu) intervened and offered 甲 more favorable conditions to persuade him to break off the deal with 丙. As a result, 甲 suffered a loss.
+
+Under the circumstances, 丙 should be held responsible for the breach of contract, as they were the one who initiated the negotiations and failed to fulfill their obligations under the contract. 乙 and 丁 (Ding) were not directly involved in the contract and did not cause the breach, so they are not responsible for the loss suffered by 甲.
+
+Therefore, the correct answer is B. 丙应对甲承担缔约过失责任.",0
+22,甲将其对乙享有的10万元货款债权转让给丙，丙再转让给丁，乙均不知情。乙将债务转让给戊，得到了甲的同意。丁要求乙履行债务，乙以其不知情为由抗辩。下列哪一表述是正确的?____,甲将债权转让给丙的行为无效,丙将债权转让给丁的行为无效,乙将债务转让给戊的行为无效,如乙清偿10万元债务，则享有对戊的求偿权,D," Based on the information provided, the correct answer is:
+
+C. 乙将债务转让给戊的行为无效
+
+According to the law, a debtor cannot transfer their debt to another person without the creditor's consent. In this case, 甲 transferred the debt to 丙, and 丙 transferred the debt to 丁, but 乙 did not give their consent to any of these transfers. Therefore, these transfers are invalid, and 乙 is not bound by them.
+
+Option A is incorrect because the transfer of the debt from 甲 to 丙 is not the issue here - it is the transfer from 丙 to 丁 that is the problem.
+
+Option B is incorrect for the same reason.
+
+Option D is incorrect because 乙 is not seeking to enforce their debt against 戊 - they are claiming that they are not bound by the transfers from 甲 to 丙 and from 丙 to 丁.",0
+23,伪证罪只能发生在____。,立案侦查以前,起诉之后,立案、侦查、起诉和审判过程中,判决宣告以后,C," C. 伪证罪只能发生在立案、侦查、起诉和审判过程中。
+
+根据我国刑法的规定，伪证罪是指在刑事程序中，知道自己的犯罪事实，但故意伪造或隐瞒事实，以致对刑事案件的调查、审判造成误导或妨碍的行为。这种行为通常会发生在刑事案件的调查和审判过程中，因此选项C是正确的。",1

@@ -1,0 +1,188 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,下列叙述中最符合自由水生理功能的是:____,运输营养物质和代谢废物,与细胞内的其他物质结合,作为溶剂，使无机盐成为离子状态,细胞结构的组成成分,A,"让我们一步一步思述,
+1. 自由水生理功能指的是水在生物体内的自由状态下的功能，包括运输、Buffer、溶剂等等。
+2. 运输营养物质和代谢废物是自由水的一种重要功能，但不是唯一的功能。
+3. 与细胞内的其他物质结合是自由水的另一种功能，但不是唯一的功能。
+4. 作为溶剂，使无机盐成为离子状态是自由水的一种功能，但不是唯一的功能。
+5. 细胞结构的组成成分是自由水的一种功能，但不是唯一的功能。
+所以答案是：A.运输营养物质和代谢废物。",1
+1,下列有关生物膜系统的叙述中，正确的是____,细胞膜、小肠黏膜等都属于细胞的生物膜系统,所有的酶都附着在生物膜上,分泌蛋白合成和运输过程中，内质网膜面积减小，细胞膜的面积增大,生物膜的组成成分和结构都是一样的,C," A. 细胞膜、小肠黏膜等都属于细胞的生物膜系统。
+
+生物膜系统包括细胞膜、小肠黏膜、内质网膜等，它们都是细胞的一部分，共同参与细胞内部和外部的物质交换和细胞活动的调控。
+
+B. 所有的酶都附着在生物膜上。
+
+酶是细胞内部和外部的多种生物分子之一，它们可以附着在生物膜上，参与各种生物过程。但不是所有的酶都附着在生物膜上，有些酶可能会附着在细胞内部的其他结构上。
+
+C. 分泌蛋白合成和运输过程中",0
+2,A（抗病）对a（不抗病），B（高杆）对b（矮杆），亲本为AAbb与aaBB，杂交后得到F1，对F1测交，子代中，矮杆抗病的个体的基因型为____,AaBb,Aabb,AAbb,aabb,B," Based on the given information, we know that the parents are AAbb and aaBB, and the F1 generation is obtained by crossing them. We also know that the F1 generation exhibits both tall and dwarf traits, and that the dwarf trait is associated with resistance to a certain disease.
+
+To determine the genotype of the F1 generation, we can use the following steps:
+
+1. Determine the possible genotypes of the parents:
+	* AAbb (tall and dwarf)
+	* aaBB (dwarf and dwarf)
+2. Determine the possible genotypes of the F1 generation:
+	* AaBb (tall and dwarf)
+	* Aabb (tall and dwarf)
+	* aabb (dwarf and dwarf)
+3. Identify the genotype of the F1 generation based on the phenotypes observed:
+	* If all the F1 individuals are tall and dwarf, then the genotype is AaBb or Aabb.
+	* If all the F1 individuals are dwarf and resistant to the disease, then the genotype is aabb.
+
+Therefore, the genotype of the F1 generation is AaBb or Aabb.
+
+So the answer is:
+",0
+3,"在下列实例中，分别属于相对性状和性状分离的是____
+①羊的长角与短腿
+②水稻的非糯性和糯性
+③兔的粗毛和狗的细毛
+④高茎豌豆与矮茎豌豆杂交,后代全为高茎豌豆
+⑤开红花的牡丹与开白花的牡丹杂交,后代全开粉红花
+⑥白毛兔与白毛兔杂交后代中出现了灰毛兔",②⑥,②④,①⑤,③⑤,A," A.②⑥
+
+Explanation:
+
+② Water rice and its non-glutinous and glutinous varieties have different physical properties, but they are both rice varieties and belong to the same species.
+
+⑥ White rabbits and white rabbits crossed with gray rabbits have offspring that are all gray, indicating that the gray color is a dominant trait.
+
+Both of these examples demonstrate the concept of phenotypic separation, where different physical characteristics of an organism are inherited independently of each other.",1
+4,有关记忆细胞的叙述中，不正确的是____,受同一抗原刺激后，迅速形成大量的抗体,受同一抗原刺激后，迅速形成浆细胞,受同一抗原刺激后，迅速形成效应T细胞,是B细胞或T细胞增殖分化形成的,A,"让我们一步一步思考,
+1. 记忆细胞是指具有快速响应抗原的免疫细胞，其中包括B细胞和T细胞。
+2. 受同一抗原刺激后，B细胞和T细胞都会增殖分化形成。
+所以答案是：D.是B细胞或T细胞增殖分化形成的。
+
+而A、B、C选项都不正确，因为：
+
+* A：受同一抗原刺激后，B细胞和T细胞都会增殖分化形成，而不是迅速形成大量的抗体。
+* B：受同一抗原刺激后，B细胞和T细胞都会",0
+5,下列关于生物育种的叙述，正确的是____,多倍体育种不能产生新物种,单倍体育种会产生定向变异,杂交育种的子代间会产生生殖隔离,诱变育种可改变种群基因频率,D,"让我们一步一步思考,
+1. 多倍体育种不能产生新物种，因为多倍体的基因组不能被传递给后代。
+2. 单倍体育种会产生定向变异，因为单倍体的基因组会受到自然选择的影响，导致变异。
+3. 杂交育种的子代间会产生生殖隔离，因为杂交育种的基因组不能被传递给后代。
+4. 诱变育种可以改变种群基因频率，因为诱变育种可以将特定的基因引入种群中，导致种群基因频率的变化。
+所以答案是：A。",0
+6,下列说法正确的是____,较大的分子，如葡萄糖等只有通过主动运输才能进入细胞,所有的细胞都具有相同的细胞膜结构，即由磷脂分子构成膜的基本支架，“嵌入”支架或“漂浮”在支架两侧的蛋白质的种类和数量相同,叶绿体中的色素都有吸收光能的作用,在叶绿体的内膜、类囊体上和基质中含有多种进行光合作用所必需的酶,C," A. 较大的分子，如葡萄糖等只有通过主动运输才能进入细胞。
+
+详细解释：
+
+1. 葡萄糖等大分子无法通过细胞膜的分子通途进入细胞，需要通过主动运输方式进入细胞。
+2. 细胞膜的分子通途只能Allow certain small molecules to pass through, such as oxygen and carbon dioxide.
+3. 大分子，如葡萄糖等，需要使用特殊的蛋白质，如葡萄糖转运蛋白，来将其transport into the cell.
+
+所以，选项A是正确的。",0
+7,新冠病毒刚刚爆发时检测病患并及时隔离的措施属于____,注射疫苗,控制传染源,切断传播途径,保护易感人群,B," A.注射疫苗不是新冠病毒爆发时的措施，而是在疫苗开发和接种过程中使用的方法。
+
+B.控制传染源是新冠病毒爆发时的重要措施，包括隔离病人、寻找和隔离Close contacts，限制人员流动等。
+
+C.切断传播途径是新冠病毒爆发时的措施，包括减少人员流动、关闭非必需的公共场所、减少集会等。
+
+D.保护易感人群是新冠病毒爆发时的措施，包括鼓励易感人群避免外出、减少接触风险、提供医",0
+8,用普通小麦（为六倍体）的花粉经花药离体培养技术培育成的植株是____,单倍体，体细胞内含有一个染色体组,单倍体，体细胞内含有三个染色体组,三倍体，体细胞内含有三个染色体组,六倍体，体细胞内含有六个染色体组,B," Based on the information provided, the correct answer is C. three-fold, because the flower of common wheat (as a hexaploid) is used to cultivate the plants, and the three-fold nature of the plant is maintained in the cultivation process.
+
+Here's a breakdown of the answer choices:
+
+A. Single-fold: This is incorrect because the plant is not single-fold, but rather three-fold.
+
+B. Single-fold with three chromosome sets: This is also incorrect because the plant has six chromosome sets, not three.
+
+D. Hexaploid: This is incorrect because the plant is not hexaploid, but rather three-fold.",0
+9,检测某一组织细胞，发现其分解有机物速率减慢，且细胞萎缩。这说明该细胞正在____,分化,分裂,衰老,癌变,C," based on the given information, the best answer is C. senescence.
+
+senescence is a state of cellular aging, characterized by a slowdown in the rate of cellular metabolism and a loss of cellular organelles and functions. this is often accompanied by cell shrinkage and a decrease in the cell's ability to divide.
+
+the fact that the cell's rate of decomposing organic matter has slowed down and the cell has shrunk suggests that the cell is undergoing senescence.
+
+answer A, differentiation, is the process by which a cell becomes specialized in structure and function. this is not mentioned in the given information.
+
+answer B, mitosis, is the process by which a cell divides into two daughter cells. this is also not mentioned in the given information.
+
+answer D, cancer, is a condition in which cells grow and divide uncontrollably, and is not related to the given information.",1
+10,小麦抗锈病对易染病为显性。现有甲、乙两种抗锈病小麦，其中一种为纯种，若要鉴别和保留纯合的抗锈病小麦，下列最简便易行的方法是____,甲×乙,甲×乙得F1再自交,甲、乙分别和隐性类型测交,甲×甲、乙×乙,D," C. 甲、乙分别和隐性类型测交
+
+ationale:
+
+1. 纯种和隐性类型测交可以鉴别纯合的抗锈病小麦。
+2. 甲、乙分别和隐性类型测交可以保留纯合的抗锈病小麦。
+
+ therefore, the most simple and convenient method to identify and preserve pure-bred resistant wheat is to cross-breed the two types of wheat (甲 and 乙) and test the F1 hybrid for resistance to powdery mildew.",0
+11,下列有关细胞与细胞结构的叙述正确的是____,"细胞核是细胞的控制中心,能控制细胞遗传和代谢",能分解衰老、损伤细胞器的酶是在溶酶体中合成的,核仁与tRNA的合成有关,可用高倍显微镜观察内质网和高尔基体,A," A、B、C 都是正确的叙述。
+
+1. A：细胞核是细胞的控制中心，能控制细胞遗传和代谢，是正确的叙述。
+2. B：能分解衰老、损伤细胞器的酶是在溶酶体中合成的，是正确的叙述。
+3. C：核仁与tRNA的合成有关，是正确的叙述。
+
+D 是错误的叙述，高倍显微镜不能直接观察内质网和高尔基体，而是通过电子顺化显微镜或其他方法来观察。
+
+所以答案是：A、B、C。",1
+12,"萨顿假说认为“基因是由染色体携带着从亲代传递给子代的"".下列相关推测错误的是____",体细胞中基因和染色体是成对存在的,体细胞中成对的基因一个来自父方，另一个来自母方，同源染色体也是如此,不同物种的细胞中基因数量和染色体数量的比值是一定的,"减数分裂时,同源染色体上的非等位基因无法自由组合",C," based on the statement ""基因是由染色体携带着从亲代传递给子代的"", the correct answer is:
+
+B. 体细胞中成对的基因一个来自父方，另一个来自母方，同源染色体也是如此.
+
+The statement is incorrect because the genes on the same chromosome are not necessarily paired, and the number of genes and chromosomes can vary between species.
+
+The other options are not related to the statement:
+
+A. 体细胞中基因和染色体是成对存在的 - This is a correct statement, but it is not related to the error in the given statement.
+
+C. 不同物种的细胞中基因数量和染色体数量的比值是一定的 - This is not a correct statement, as the number of genes and chromosomes can vary greatly between species.
+
+D. 减数分裂时,同源染色体上的非等位基因无法自由组合 - This is not a correct statement, as the non-allelic gen",0
+13,在电子显微镜下观察到植物细胞有丝分裂末期细胞板的周围聚集着许多小囊泡，这些小囊泡属于细胞的哪种结构？小囊泡可能含有何种物质____,内质网　蛋白质、磷脂,高尔基体　蛋白质、磷脂,内质网　纤维素、果胶,高尔基体　纤维素、果胶,D," Based on the observation of small vacuoles surrounding the cell plates in plant cells under electron microscopy, the correct answer is:
+
+A. Endoplasmic reticulum (ER) - proteins, lipids
+
+The small vacuoles surrounding the cell plates are likely to be ER cisternae, which are membranous structures that are involved in protein synthesis and lipid metabolism. The ER is a network of membranous tubules and cisternae that is responsible for synthesizing and transporting proteins and lipids within the cell. The presence of these small vacuoles suggests that the cell is actively engaged in protein synthesis and lipid metabolism, which are important functions of the ER.",0
+14,煎饺是我国北方地区特色传统小吃之一，以面粉和肉馅为主要食材制作成水饺，水饺煮熟放凉后用植物油煎制而成。煎饺表面酥黄，口感香脆。下列说法错误的是____,肉馅中的蛋白质在高温加热过程中肽键断裂使其结构松散，利于人体消化,煎制水饺时所用的植物油大多含有不饱和脂肪酸，在室温下呈液态,面粉中富含的植物多糖必须经过消化分解成葡萄糖，才能被人体吸收,肉馅中的糖原属于多糖，不能直接被细胞吸收利用,A," based on the description, the correct answer is:
+
+B. 煎制水饺时所用的植物油大多含有不饱和脂肪酸，在室温下呈液态
+
+Explanation:
+
+1. 肉馅中的蛋白质在高温加热过程中肽键断裂使其结构松散，利于人体消化 is incorrect, as the heat from the pan is not enough to break the protein structures in the meat filling.
+2. C. 面粉中富含的植物多糖必须经过消化分解成葡萄糖，才能被人体吸收 is incorrect, as the starch in the flour is already in a digestible form and does not need to be broken down further.
+3. D. 肉馅中的糖原属于多糖，不能直接被细胞吸收利用 is incorrect, as the sugar in the meat filling is a simple sugar and can be directly absor",0
+15,"已知21四体的胚胎不能成活。现有一对夫妇均为21三体综合征患者，假设他们在产生配子时，第21号的三体染色体一条移向细胞的一极，两条移向另一极,则他们生出患病女孩的概率是____",  1/2,  1/3,  2/3,  1/4,B," This is a problem of genetics and probability.
+
+The probability of the couple having a child with the 21st chromosome abnormality can be calculated as follows:
+
+1. The probability of the couple having a child with a normal 21st chromosome is 1/2, as each parent has a normal 21st chromosome.
+2. The probability of the couple having a child with a 21st chromosome abnormality due to a deletion of one chromosome is 1/3, as there is a 1/3 chance that the deleted chromosome will be inherited from either the father or the mother.
+3. The probability of the couple having a child with a 21st chromosome abnormality due to a duplication of one chromosome is 1/3, as there is a 1/3 chance that the duplicated chromosome will be inherited from either the father or the mother.
+4. The probability of the couple having a child with a 21st chromosome abnormality due to a translocation of one chromosome is 1/4, as there is a 1/4 chance that the translocated chromosome will be inherited from either the father or the mother.
+
+Since the couple has a 21st chromosome abnormality, the probability of",0
+16,细胞的生长、增殖、衰老、凋亡等生命历程对人体的生命活动而言是不可或缺的。下列相关判断正确的是____,细胞在生长过程中，体积虽然增大，但其物质运输效率并没有增强,人体发育过程中，细胞增殖改变了子细胞的遗传物质导致了细胞分化,细胞的衰老导致人体的衰老，延缓人体衰老就要设法阻止细胞的衰老,细胞凋亡由遗传物质控制，只发生在老年个体，能加速人体的衰老死亡,A," Based on the given options, the correct statement is:
+
+B. During the development of the human body, cell proliferation changes the inherited material of child cells, leading to cell differentiation.
+
+Explanation:
+
+A. The statement is partially correct, but the material transport efficiency does not necessarily increase during cell growth.
+
+C. The statement is incorrect. Cell senescence does not directly cause human aging, and delaying cell senescence does not necessarily prolong human lifespan.
+
+D. The statement is incorrect. Cell death is not solely controlled by genetic material, and it can occur in young individuals as well as the elderly. Accelerating cell death can indeed contribute to human aging and death, but it is not the sole cause.",0
+17,一正在复制的DNA分子，解旋的时候一条链上的G变成了C，则此DNA分子经n次复制后，发生差错的DNA占子代DNA总数的____,$\frac{1}{2}$,$\frac{1}{{2}^{n}-1}$,$\frac{1}{{2}^{n}}$,$\frac{1}{4}$,A,"让我们一步一步思考,
+1. 在DNA复制过程中，G对应C的错误替换会导致DNA序列的变化。
+2. 如果这个DNA分子经过n次复制，那么每次复制后都会有一定的差错率，这个差错率可以用概率来表示。
+3. 假设这个DNA分子经过n次复制后，差错率为p，那么每次复制后的差错率为p^n。
+4. 根据差错率的定义，每次复制后的差错概率为：
+
+P(error) = 1 - P(no error)
+
+其中，P(no error) = (1 - p)^n
+
+5. 所以，差错DNA占子代DNA总数的概率为：
+
+P(mutant) = P(error) x P(no error)
+
+= (1 - P(no",0
+18,下列关于水稻细胞内ATP的叙述，错误的是____,能与ADP相互转化,只能由细胞呼吸产生,可为物质跨膜运输提供能量,释放的磷酸基团能与某些蛋白质结合,B,"让我们一步一步思考,
+1. ATP是细胞内最重要的能量currency，能与ADP相互转化，提供能量 для细胞的各种功能。
+2. 水稻细胞内ATP不能只由细胞呼吸产生，因为水稻细胞也可以通过光合作用、糖分解等方式获得ATP。
+3. ATP可以为物质跨膜运输提供能量，即使用ATP来驱动跨膜运输。
+4. ATP的磷酸基团能与某些蛋白质结合，如ATP Binding Proteins（ABPs），这种结合可以调控ATP的分布和活动。
+所以答案是：B。",1

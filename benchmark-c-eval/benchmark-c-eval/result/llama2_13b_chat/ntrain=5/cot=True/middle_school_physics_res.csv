@@ -1,0 +1,133 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,在全国中小学安全教育平台中，安全用电常识是其中一项重要的教育内容。下列做法符合安全用电要求的是____,用铜丝替代保险丝,更换灯泡时断开电源开关,开关接在灯泡和零线之间,使用测电笔时手接触笔尖金属体,B," A. 用铜丝替代保险丝
+
+在安全用电中，使用铜丝代替保险丝是一项重要的做法，因为铜丝具有更高的隔离性和防火性，可以减少电气风险。保险丝通常是用于防止电流漏斗的，但是在某些情况下，它们可能会导致电流漏斗，从而危害人身和财产安全。铜丝可以替代保险丝，提高安全性。
+
+其他选项都不符合安全用电要求：
+
+B. 更换灯泡时断开电源开关：在更换灯泡时，应该先断开电源开关，然后进行更换，以避免电击和电流漏斗。
+",0
+1,四冲程柴油机在工作过程中，将内能转化为机械能的冲程是____,吸气冲程,压缩冲程,做功冲程,排气冲程,C," four-stroke diesel engine in operation, the internal energy is converted into mechanical energy through the following processes:
+
+1. Intake stroke: Air is drawn into the cylinder, creating a vacuum.
+2. Compression stroke: The air is compressed, increasing its temperature and pressure.
+3. Power stroke: The compressed air is ignited, causing the piston to move down and turn the crankshaft, generating power.
+4. Exhaust stroke: The exhaust gases are expelled from the cylinder.
+
+Therefore, the correct answer is:
+
+B. Compression stroke.
+
+The compression stroke is the process where the internal energy is converted into mechanical energy, by compressing the air and increasing its temperature and pressure.",0
+2,歌词“小小竹排江中游，巍巍青山两岸走”，前句描述的运动物体和后一句的参照物分别是____,青山 青山,竹排 青山,竹排 竹排,青山 竹排,C," Based on the lyrics ""小小竹排江中游，巍巍青山两岸走""， the correct answer is D. 青山竹排.
+
+The first line ""小小竹排江中游"" describes a small boat sailing in the middle of the river, while the second line ""巍巍青山两岸走"" refers to the mountains on both sides of the river.",0
+3,头球（运动员用头碰撞飞行中的足球）是足球比赛中常用的技术，下列说法正确的是____,头球过程中，头对足球的力改变了足球的运动状态,足球被顶飞，是因为头对足球的力大于足球对头的力,头对足球的作用力消失时，足球的惯性也消失,足球在空中飞行时，以运动员为参照物，足球是静止的,A,"让我们一步一步思考,
+1. 首先，我们分析选项：(A) 的说法正确，因为头球过程中，头对足球的力会改变足球的运动状态，如减速或改变方向；(B) 的说法错误，因为足球被顶飞是因为头对足球的力大于足球对头的力，而不是因为足球被顶低了；(C) 的说法错误，因为头对足球的作用力不会消失，而是会在足球运动过程中不断地作用；(D) 的说法错误，因为足球在空中飞行时，不能以运动员为参照物，而是需要根据物理法律来解释其运动状态。
+2. 根据以上分析，正确的选项是A。
+所以答案是：A。",1
+4,自行车的各个部分中，减小了有害摩擦的是____,车胎,车把,车轴,脚踏板面,C," A. 车胎。
+
+自行车的各个部分中，车胎是减小有害摩擦的部分。车胎的材料和结构设计可以减少与路面的摩擦力，从而降低车辆的摩擦力和阻力，提高自行车的行驶效率和运动体验。",0
+5,下列实例中关于压强和摩擦力的说法正确的是____,轴承中装有滚珠是为了增大摩擦,磁悬浮列车悬浮行驶是为了增大摩擦,鸟的嘴很尖细，在凿树时可以减小压强,月球车装有很多轮子是为了减小压强,D,"让我们一步一步思考,
+1. 首先，我们分析选项：(A) 的说法错误，因为滚珠是为了减少摩擦的，不是增大摩擦；(B) 的说法错误，因为磁悬浮列车悬浮行驶是为了减少摩擦，不是增大摩擦；(C) 的说法错误，因为鸟的嘴很尖细不是为了减少压强，而是为了减少摩擦；(D) 的说法错误，因为月球车装有许多轮子是为了减少压强，而不是增大压强。
+2. 根据以上分析，正确的选项是D。
+所以答案是：D。",1
+6,对于静止在水平轨道上的“复兴号”列车，下列分析中正确的是____,列车所受重力和列车对铁轨的压力是一对相互作用力,列军所受重力和铁轨对列车的支持力是一对相互作用力,列车所受重力和铁轨对列车的支持力是一对平衡力,列车对铁轨的压力和铁轨对列车的支持力是一对平衡力,C," A. 列车所受重力和列车对铁轨的压力是一对相互作用力。
+
+列车在水平轨道上静止时，它会受到重力的作用，同时也会对铁轨产生压力。这两种力是相互作用的，需要考虑两者的相互作用来确定列车的状态。
+
+其他选项都不正确：
+
+B. 列车所受重力和铁轨对列车的支持力是一对相互作用力。 列车不仅受到重力的作用，还需要铁轨的支持以保持静止状态。
+
+C. 列车所受重力和铁轨对列车的支持力是一对平衡力。 这个选项错误，因为列车不仅受到重力的作用",0
+7,“万物生长靠太阳”，绿色植物的生长需要阳光。物理学研究表明，不透明物体的颜色是由它反射的色光决定的，由此可以推测，不利于绿色植物生长的光是____,红光,黄光,绿光,紫光,C," “万物生长靠太阳”，绿色植物的生长需要阳光。物理学研究表明，不透明物体的颜色是由它反射的色光决定的，由此可以推测，不利于绿色植物生长的光是：
+
+C. 绿光
+
+绿色植物的生长需要绿光，而绿光是光的一种频谱Components，位于蓝光和红光之间。绿光有一定的波长和能量，能够被绿色植物使用于 photosynthesis 过程中。而红光和黄光则不利于绿色植物生长，因为它们的波长和能量不适合绿色植物的 photosynthesis 过程。
+
+所以答案是：C. 绿光。",1
+8,下列过程，属于内能转化为机械能的是____,从滑梯上滑下时臀部发热,电热水壶烧水,内燃机的做功冲程,向下压活塞引燃棉花,C,"让我们一步一步思考,
+1. 首先，我们分析选项：
+	* (A) 从滑梯上滑下时臀部发热，这是一种内能转化为机械能的过程，因为滑梯上的能量变化为臀部的动能。
+	* (B) 电热水壶烧水，这是一种内能转化为热能的过程，因为电热水壶中的能量变化为水的热能。
+	* (C) 内燃机的做功冲程，这是一种内能转化为机械能的过程，因为内燃机中的能量变化为机械能。
+	* (D) 向下压活塞引燃棉花，这是一种内能转化为机械能的过程，因为压活塞的能量变化为棉花的机械能。
+2. 根",0
+9,能解释“倒影”形成的是____,光的色散,光的折射,光的反射,光的直线传播,C," “倒影”是指光线在反射后，与原来的光线方向相反的现象。这种现象是由于光的反射而引起的。因此，正确的选项是C。
+
+光的反射是指光线在碰到表面后，changes its direction and bounces back的现象。 When light reflects off a surface, it changes its direction and bounces back. This is what causes the ""inverse"" image of an object to appear on the surface.
+
+因此，答案是C。",1
+10,中国国家航天局宣布，2018年5月21日5时28分，我国在西昌卫星发射中心用“长征四号丙”运载火箭，成功将“鹊桥号”中继星发射升空，为“嫦娥四号”月球探测任务提供地月间的中继通信，负责地球与未来“嫦娥四号”通信的中继接力。下列说法正确的是____,中继星与地月间不可能靠电磁波通信,地球和太阳系中的其他行星起源于不同的星云,发射当天地球运行在绕太阳公转轨道中的夏至与秋分之间,月球的自转周期和公转周期相同，人类只能看到月球的正面,D," Based on the information provided, the correct answer is:
+
+C. 发射当天地球运行在绕太阳公转轨道中的夏至与秋分之间.
+
+Here's why:
+
+1. The statement ""中继星与地月间不可能靠电磁波通信"" is incorrect. The relay satellite is used to establish communication between the Earth and the Moon, and it is possible to use electromagnetic waves for this purpose.
+2. The statement ""地球和太阳系中的其他行星起源于不同的星云"" is incorrect. The Earth and other planets in the solar system are all thought to have formed from the same star cloud, the solar nebula.
+3. The statement ""月球的自转周期和公转周期相同"" is incorrect. The Moon's self-rotation period is about 27.3 days, while its orbital period around the Earth is about 27.4 days.
+4. The statement ""人类只能看到月球的正面"" is incorrect. While it is true that the far side of the Moon is not visible from Earth, the relay satellite can communicate with both the Earth and the Moon, allowing for communication with the Moon's far side as well",0
+11,生活处处有物理，以下估测最接近生活实际的是____,宿迁六月份平均气温约为10 °C,初中生背负沉重的书包上学，书包平均重300 N,初中生课桌高度约为75 cm,中考体育考试中某同学50 m短跑成绩约为4 s,C," A. 宿迁六月份平均气温约为10 °C 是生活中最接近的数据，因为日常生活中最关心的是气温的变化，而这个数据正好是生活中最常见的气温范围。
+
+B. 初中生背负沉重的书包上学，书包平均重300 N 是一个非常特殊的数据，不符合生活中的日常情况，因为大多数初中生不会背负这么重的书包。
+
+C. 初中生课桌高度约为75 cm 是一个非常具体的数据，但是不是生活中最接近的数据，因为不同的课桌高度可能会有所不同。
+
+D. 中考体育考试中某同学50 m短跑成绩约为4 s 是一个非",0
+12,下列实例中，属于增大摩擦的是____,往自行车轴承中加润滑油,行李箱下安装滚动轮子,骑自行车刹车时用力捏闸,将滑梯的滑道做得光滑,C," A. 往自行车轴承中加润滑油。
+
+解释：
+
+* 增大摩擦的方法包括增加摩擦面积、增加摩擦力、减少摩擦速度等。
+* 在自行车轴承中加润滑油可以增加摩擦面积，从而增大摩擦。
+* 其他选项中，行李箱下安装滚动轮子（B）不会增大摩擦，而是减少摩擦。骑自行车刹车时用力捏闸（C）不是增大摩擦的方法。将滑梯的滑道做得光滑（D）也不是增大摩擦的方法。",0
+13,下列做法中，符合安全用电原则的是____,高压线下钓鱼,机壳没有接地,绝缘皮破损,安装避雷针,D,"让我们一步一步思考,
+1. 首先，我们分析选项：
+	* (A) 高压线下钓鱼可能会导致电气短路，从而导致电击或火災，不符合安全用电原则。
+	* (B) 机壳没有接地可能会导致机壳与地面之间的防雷措施失效，不符合安全用电原则。
+	* (C) 绝缘皮破损可能会导致电流泄漏，从而导致电击或火災，不符合安全用电原则。
+	* (D) 安装避雷针可能会减少雷击的风险，符合安全用电原则。
+2. 根据以上分析，正确的选项是D。
+所以答案是：D。",1
+14,超导现象是指某些物质在温度很低时电阻变为零的现象。如果某种超导材料能应用于实际，最适合用来制作____,保险丝,输电导线,电炉丝,变阻器的电阻丝,B," Superconductivity is a phenomenon where certain materials can conduct electricity with zero resistance at very low temperatures. If a superconducting material were to be applied in practical use, it would be most suitable for use in:
+
+A. Insulators: Superconducting materials can be used to create extremely thin insulating layers, which can be used to reduce energy loss in electrical devices.
+
+B. Electrical wires: Superconducting wires can conduct electricity with zero resistance, making them ideal for use in high-power electrical systems, such as power transmission lines.
+
+C. Heating elements: Superconducting materials can be used to create extremely efficient heating elements, as they can conduct electricity with zero resistance and do not lose any energy to heat.
+
+D. Variators: Superconducting materials can be used to create highly efficient variators, which can be used to control the flow of electrical current in electrical systems.
+
+Therefore, the correct answer is A. Insulators.",0
+15,棒球比赛时，向斜上方击球时的情景中，下列有关说法正确的是____,击球的一瞬间，棒对球的力大于球对棒的力,球在上升过程中，重力势能转化为动能,球上升到最高点时，若所受力全部消失，球将做减速直线运动,球下落过程中速度越来越大，因为重力改变了球的运动状态,D,"让我们一步一步思考,
+1. 首先，我们分析选项：
+	* (A) 的说法错误，因为在击球的一瞬间，棒子和球的力都是同时存在的，不能说一个力大于另一个；
+	* (B) 的说法部分正确，球在上升过程中，重力势能确实会转化为动能，但不是所有的重力势能都会转化为动能；
+	* (C) 的说法部分正确，球上升到最高点时，如果所受力全部消失，球将停止运动，不会做减速直线运动；
+	* (D) 的说法错误，球下落过程中速度不会越来越大，因为重力改变了球的运动状态，会导致球加速下落。
+2. 根据以上分析，正确的选项是B。
+所以��",0
+16,下列关于力和运动的说法，正确的是____,物体运动状态发生改变，一定受到力的作用,行驶的汽车急刹车时，乘客会出现向后倾的现象,用力推桌子，桌子静止不动，因为推力小于摩擦阻力,踢出去的足球能在空中飞行，是因为足球没有受到力的作用,A,"让我们一步一步思考,
+1. 首先，我们分析选项：(A) 的说法正确，因为物体的运动状态发生改变，一定受到力的作用；(B) 的说法错误，因为行驶的汽车急刹车时，乘客会出现向后倾的现象，这是因为急刹车时的加速度使得乘客的重心倾移，而不是由于力的作用；(C) 的说法错误，因为用力推桌子，桌子静止不动，是因为推力小于摩擦阻力，这是因为桌子没有受到力的作用；(D) 的说法错误，因为足球在空中飞行是由于它受到了风 resistance 和重力的作用，不是没有受到力的作用。
+2.",0
+17,声音可以表达情感，传递信息，对于声现象的理解正确的是____,教师讲课的声音是由声带振动产生的,“静止鸣笛”是在传播过程中减弱噪音,声音的振幅越大，音调越高,只要物体在振动，我们就能听到声音,A," A. 教师讲课的声音是由声带振动产生的。
+
+声音是由物体振动引起的，当物体振动时，它会产生声波，这些声波会在空气中传播，最终被人听到。在这个过程中，声带是一个重要的部件，它是人类听音的重要结构。
+
+B. “静止鸣笛”是在传播过程中减弱噪音。
+
+静止鸣笛是指在声音传播过程中，通过一些技术手段来减弱噪音的现象。这种现象并不是声音本身的特点，而是声音传播过程中的一种方法。
+
+C. 声音的振幅越大，音调越高。
+
+声音的�",1
+18,为加强校园安全管理，在校内安装监控摄像机，来自物体的光经过摄像机的镜头后形成____,倒立、缩小的实像,正立、放大的实像,倒立、放大的虚像,正立、缩小的虚像,A," Based on the information provided, the correct answer is B. 正立、放大的实像.
+
+When light passes through a camera lens, it forms an image that is inverted and magnified. This means that the image formed by the light passing through the camera lens is a real image that is larger than the object itself.
+
+Therefore, option B is the correct answer.",0

@@ -1,0 +1,7 @@
+*.xml
+*.idea
+*.DS_Store
+.DS_Store
+*.pyc
+#*.cpython-38.pyc
+#.idea/csv-plugin.xml

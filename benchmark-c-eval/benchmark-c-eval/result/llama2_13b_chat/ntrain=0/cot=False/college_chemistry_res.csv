@@ -1,0 +1,254 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,"$HO_2$的沸点比$H_2S$的高,可以从____角度来进行解释。",共价键牢固,变形性,氢键,分子间力,C," C. 氢键
+
+$HO_2$的沸点比$H_2S$高的原因可以从氢键的角度来解释。氢键是分子中氢原子与其他原子之间的键，它们的存在对分子的稳定性和热稳定性具有重要作用。
+
+$HO_2$ molecule has a hydrogen bond between the oxygen and hydrogen atoms, which is a strong intermolecular force. This force helps to stabilize the molecule and increase its boiling point.
+
+On the other hand, $H_2S$ molecule does not have a hydrogen bond, so it has a lower boiling point than $HO_2$.
+
+Therefore, the correct answer is C. 氢键.",1
+1,"$Mg(OH)_2$饱和溶液中的$[OH^-]=10^{-4}mol/dm^3$,若往该溶液中加入NaOH溶液,使溶液中$[OH^-]$的浓度变为原来的10倍,则$Mg(OH)_2$的溶解度在理论上将____",变为原来的$10^{-3}$倍,变为原来的$10^{-2}$倍,变为原来的$10$倍,不发生变化,B," C. 变为原来的$10$倍
+
+解释：
+
+当NaOH溶液加入$Mg(OH)_2$饱和溶液时，NaOH会与$Mg(OH)_2$发生化学反应，生成更多的OH- 离子。由于[$OH^-]$的浓度增加了10倍，因此$Mg(OH)_2$的溶解度也会增加。
+
+根据盐的溶解度定律，盐的溶解度与溶液中离子的浓度直接相关。因此，在这个问题中，$Mg(OH)_2$的溶解度将变为原来的10倍，即$10^{-3}$倍。
+
+因此，正确的选择是C. 变为原来的$10$倍。",0
+2,估计下列分子或离子中，键角最小的是____,$NH_3$,$NO_3^{-}$,$NF_3$,$NCl_3$,C," Certainly! I'd be happy to help you with that.
+
+ Based on the molecular structure, the molecule with the smallest bond angle is:
+
+C. NF3
+
+The bond angle in NF3 is around 120 degrees, which is the smallest among the four options.
+
+Therefore, the correct answer is C. NF3.",1
+3,已知$K_b^{\theta}(NH_3·H_2O)=1.8×10^{-5}$，用$NH_3·H_2O$和$NH_4Cl$配制pH=9.00的缓冲溶液时，c($NH_3·H_2O$)/c($NH_4Cl$)=____,5.6,0.56,1.8,3.6,B," C. 1.8.
+
+According to the equation:
+
+pH = pK_b + log10([Base]/[Acid])
+
+where pK_b is the negative logarithm of the dissociation constant of the base, and [Base] and [Acid] are the concentrations of the base and acid, respectively.
+
+Given:
+
+K_b^(θ)(NH3·H2O) = 1.8 × 10^(-5)
+
+We want to prepare a buffer solution with a pH of 9.00 using NH3·H2O and NH4Cl.
+
+First, we can calculate the pH of the NH3·H2O solution using the equation above:
+
+pH = pK_b + log10([NH3·H2O])
+= 9.00 + log10(1.8 × 10^(-5))
+= 9.00 + (-5)
+= 4.00
+
+Since the pH of the NH3·H2O solution is 4.00, we know that the concentration of NH3·H2O is 1.8 × 10^(-5) M.
+
+Now, we can calculate the concentration of NH4Cl",0
+4,根据酸碱质子理论、HCI、HAc和$NH_4^+$酸性由弱到强的顺序为____,$NH_4^+<HAc<HCl$,$HAc<HCl<NH_4^+$,$NH_4^+<HCl<HAc$,$HAc<NH_4^+<HCl$,A," C. $NH_4^+<HCl<HAc$ 是正确的答案。
+
+根据酸碱质子理论，酸性由弱到强的顺序为：
+
+1. $NH_4^+$ (弱酸)
+2. HAc (中性)
+3. HCl (强酸)
+
+因此，$NH_4^+$ 是最弱的酸，HCl 是最强的酸。",0
+5,二氧化氮通入NaOH溶液，得到的主要产物是____,$NaNO_2$,$NaNO_2$和$O_2$,$NaNO_3$和NO,$NaNO_3$和$NaNO_2$,D," Certainly! As a Chinese AI assistant, I can help you with that.
+
+The correct answer is C. $NaNO_3$ and NO.
+
+When sodium nitrite (NaNO2) is added to a solution of sodium hydroxide (NaOH), it reacts to form sodium nitrate (NaNO3) and nitric oxide (NO):
+
+2NaNO2 + 2NaOH → 2NaNO3 + NO + H2O
+
+Therefore, the main product of this reaction is sodium nitrate and nitric oxide. Option A, $NaNO2$, is not a correct answer, as it is the reactant and not the product. Option B, $NaNO2$ and $O2$, is also not a correct answer, as there is no oxygen present in the reaction. Option D, $NaNO3$ and $NaNO2$, is also not a correct answer, as there is no sodium nitrate present in the reaction.",0
+6,若$[ML_4]^{2+}$的$K_f=a$，$[MY_4]^{2-}$的$K_f=b$，则反应$[ML_4]^{2+}+4Y^-=[MY_4]^{2-}+4L$的平衡常数K为____,ab,a+b,a/b,b/a,D," C. a/b
+
+解释：
+
+根据平衡常数的定义，我们知道：
+
+$$K = \frac{([ML_4]^{2+})^2}{4!} \times \frac{1}{([MY_4]^{2-})^2}$$
+
+由于 $[ML_4]^{2+}$ 和 $[MY_4]^{2-}$ 都是离子，因此它们的摩尔积分为 1，所以：
+
+$$K = \frac{([ML_4]^{2+})^2}{4!} \times \frac{1}{([MY_4]^{2-})^2} = \frac{a^2}{4!} \times \frac{1}{b^2}$$
+
+取平方根，得：
+
+$$K = \sqrt{\frac{a^2}{4!} \times \frac{1}{b^2}} = \sqrt{\frac{a}{4} \times \frac{1}{b}} = \frac{a}{4b}$$
+
+所以，正确的答案是 C. a/b。",0
+7,"某溶液的pH=0.04,则其中$H^+$的浓度为____",$0.912mol/dm^3$,$0.91mol/dm^3$,$0.9mol/dm^3$,$1.1mol/dm^3$,B," Certainly! As a Chinese AI assistant, I can help you with that.
+
+The pH of a solution is defined as the negative logarithm of the hydrogen ion concentration, so we can use the following equation to calculate the hydrogen ion concentration:
+
+pH = -log[H+]
+
+Given that the pH of the solution is 0.04, we can calculate the hydrogen ion concentration as follows:
+
+[H+] = 10^(-pH)
+
+[H+] = 10^(-0.04)
+
+[H+] = 0.912 mol/dm^3
+
+Therefore, the correct answer is:
+
+A. 0.912 mol/dm^3
+
+So, the correct answer is A. $0.912mol/dm^3$.",0
+8,在573K时，反应$N_2(g)+3H_2(g)\rightleftharpoons2NH_3(g)$的$Δ_rG_m^{\theta}=21.93kJ·mol^{-1}$，则反应的经验平衡常数$K_c/(mol·dm^{-3})^2$为____,$4.5×10^{-6}$,$1.0×10^{-2}$,$1.9×10^{-1}$,22.12,D," C. $1.9\times10^{-1}$
+
+The correct answer is C. $1.9\times10^{-1}$
+
+The equation for the reaction is:
+
+$N_2(g)+3H_2(g) \rightleftharpoons 2NH_3(g)$
+
+The change in Gibbs free energy (ΔG) for the reaction is given by:
+
+ΔG = ΔH - TΔS
+
+where ΔH is the change in enthalpy, T is the temperature, and ΔS is the change in entropy.
+
+From the given information, we can calculate the change in Gibbs free energy as follows:
+
+ΔG = 21.93 kJ/mol - TΔS
+
+Since the temperature is given as 573 K, we can calculate the change in entropy as follows:
+
+ΔS = -R(573 K) = -8.26 J/mol·K
+
+Substituting this value into the equation above, we get:
+
+ΔG = 21.93 kJ/mol - T(-8.26 J/mol·K)
+
+Solving for ΔG, we get:
+
+ΔG = -17.39 kJ/mol
+
+",0
+9,下列各对含氧酸中，都是一元酸的是____,$H_3BO_3$，$H_3PO_3$,$H_3PO_3$，$H_2CO_3$,$H_2CO_3$，$H_3PO_2$,$H_3BO_3$，$H_3PO_2$,D," Certainly! As a Chinese AI assistant, I can help you with that.
+
+The correct answer is C. $H_2CO_3$，$H_3PO_2$.
+
+Explanation:
+
+All the compounds in the list are one-proton acids, except for $H_3BO_3$, which is a three-proton acid. Therefore, the correct answer is C. $H_2CO_3$，$H_3PO_2$.",0
+10,"相同质量的$KHC_2O_4·H_2C_2O_2·2H_2O$标定$0.1000mol/dm^3NaOH$和$0.1000mol/dm^3c_{1/5KMnO_4}$的酸性溶液,反应完全时,消耗的体积为$V_{NaOH}$和$V_{KMnO_4}$,则两者的关系是____",$V_{NaOH}=V_{KMnO_4}$,$V_{NaOH}=3/4V_{KMnO_4}$,$V_{NaOH}=2V_{KMnO_4}$,$V_{NaOH}=2/3V_{KMnO_4}$,B," Based on the information provided, we can see that the volume of the $0.1000mol/dm^3NaOH$ solution is $V_{NaOH}$, and the volume of the $0.1000mol/dm^3c_{1/5KMnO_4}$ solution is $V_{KMnO_4}$.
+
+Since the two solutions have the same concentration, we can assume that they have the same molarity. Therefore, the volume of the $0.1000mol/dm^3NaOH$ solution is equal to the volume of the $0.1000mol/dm^3c_{1/5KMnO_4}$ solution.
+
+The correct answer is:
+
+A. $V_{NaOH}=V_{KMnO_4}$",1
+11,常温下以液态形式存在的是____,$CrO_3$,$MnO_2$,$Mn_2O_7$,$WO_3$,C," Certainly! As a Chinese AI assistant, I can help you with that. The correct answer is C.$Mn_2O_7$.
+
+Here's the explanation:
+
+At room temperature, manganese(II) oxide ($MnO_2$) exists in a liquid state. Therefore, the correct answer is C.$Mn_2O_7$.
+
+The other options are not correct because:
+
+A.$CrO_3$ is chromium(III) oxide, which is a solid at room temperature.
+B.$MnO_2$ is manganese(II) oxide, which exists in a liquid state at room temperature.
+D.$WO_3$ is tungsten(III) oxide, which is a solid at room temperature.",1
+12,下列说法中，正确的是____,单质的焓为零,反应的热效应就是该反应的摩尔焓变,单质的摩尔生成焓为零,由最稳定单质生成1mol化合物时，该化合物的标准摩尔生成含$\Delta_\mathfrak{f}H_\mathfrak{m}^\mathfrak{e}$等于该生成反应的$\Delta_\mathfrak{r}H_\mathfrak{m}^\mathfrak{e}$,D," C. 单质的摩尔生成焓为零。
+
+解释：
+
+A. 单质的焓为零，不正确。单质的焓不等于零，因为它们具有积分焓。
+
+B. 反应的热效应就是该反应的摩尔焓变，不正确。反应的热效应是反应中发生的热量变化，而不是反应的摩尔焓变。
+
+D. 由最稳定单质生成1mol化合物时，该化合物的标准摩尔生成含$\Delta_\mathfrak{f}H_\mathfrak{m}^\mathfrak{e}$等于该生成反应的$\Delta_\mathfrak{r}H_\mathfrak{m}^\mathfrak{e}$，不正确。这是一个化学反应的平衡常数，而不是单质的摩尔生成焓。
+
+因此，正确的选项是C. 单质的摩",0
+13,比较原子核外2s和2p原子轨道的能量，____,所有原子两者都相等,所有原子两者都不等,H的两者相等,Ne的两者相等,C," C. H的两者相等。
+
+原子核外2s和2p原子轨道的能量的关系是：
+
+2s > 2p
+
+所以，H的2s和2p原子轨道的能量都相等。
+
+Therefore, the correct answer is C. H的两者相等.",1
+14,下列说法正确的是____,"两种难溶电解质,其中$K^{\theta}_{sp}$小的溶解度一定小","两种难溶电解质,其中$K^{\theta}_{sp}$小的溶解度一定小",盐效应、酸效应﹑配位效应都会增加难溶电解质的溶解度,"同离子效应使难溶电解质的溶解度变小,也使$K^{\theta}_{sp}$变小",C," C. 盐效应、酸效应、配位效应都会增加难溶电解质的溶解度。
+
+$K^{\theta}_{sp}$是难溶电解质的溶解度常数，表示难溶电解质在溶剂中的溶解度。如果两种难溶电解质的$K^{\theta}_{sp}$都小，那么它们的溶解度也将小。因此选项A不正确。
+
+选项B也不正确，因为$K^{\theta}_{sp}$的大小与难溶电解质的溶解度无直接关系。
+
+选项D是错误的，同离子效应会使难溶电解质的溶解度增加，而不是减小。",1
+15,原子序号为24的元素的基态原子，其核外电子排布为____,[Ar]3d6,[Ar]3d54s1,[Ar]3d44s2,[Ar]4s24p4,B," Certainly! As a Chinese AI assistant, I can help you with that. The correct answer is:
+
+C.[Ar]3d44s2
+
+The atomic number of the element with atomic number 24 is Krypton (Kr). The electronic configuration of the ground state (basis) of Krypton is [Ar] 3d44s2.",0
+16,根据VSEPR理论，二硫化碳分子应该是____,直线型,钝角三角形,等边三角形,其他三个都不对,A," A. 直线型
+
+根据VSEPR理论，二硫化碳分子的形态结构应该是直线型，因为碳原子和硫原子之间的键长相等，形成一条直线。这符合VSEPR理论中的""同一个平面上的原子数相等""的原则。
+
+B. 钝角三角形
+C. 等边三角形
+D. 其他三个都不对 都不是正确的选项。",1
+17,下列物质中不是一元酸的是____,$H_3BO_3$,$HNO_2$,$H_3PO_3$,$H[Ag(CN)_2]$,C," Certainly! As a Chinese AI assistant, I can help you with that.
+
+The correct answer is B. $HNO_2$.
+
+Here's why:
+
+A. $H_3BO_3$ is a trihydrogen phosphate, which is a polyatomic ion and not a single acid.
+
+C. $H_3PO_3$ is also a trihydrogen phosphate, which is a polyatomic ion and not a single acid.
+
+D. $H[Ag(CN)_2]$ is a complex compound of silver and cyanide, which is not a single acid.
+
+Therefore, the correct answer is B. $HNO_2$, which is a single acid.",1
+18,卤素单质中，在NaOH溶液中不发生歧化反应的是____,$F_2$,$Cl_2$,$Br_2$,$I_2$,A," C.$Br_2$
+
+理由：
+
+在NaOH溶液中，卤素单质会与NaOH发生歧化反应，生成相应的氢卤酸和Na+ ion。其中，F-、Cl-、Br- 和 I- 卤素单质都能与 NaOH 发生歧化反应。
+
+However, among these four options, only Br2 does not undergo ionization in NaOH solution. This is because Br2 is a stable molecule and does not easily dissociate into Br+ and I- ions. Therefore, the correct answer is C.$Br_2$.",0
+19,对于一个化学反应来说，下列说法中正确的是____,标准反应吉布斯自由能变化值越负，反应速率越快,标准反应焓变越负，反应速率越快,活化能越大，反应速率越快,活化能越小，反应速率越快,D," C. 活化能越大，反应速率越快
+
+中国关于college_chemistry考试的单项选择题，正确答案是C. 活化能越大，反应速率越快。
+
+根据化学反应的基本原理，活化能是一种度量反应的能量变化，反应速率与活化能直接相关。当反应的活化能越大时，反应速率就越快。因此，选项C是正确的。
+
+其他选项的解释如下：
+
+A. 标准反应吉布斯自由能变化值越负，反应速率越快
+
+这个选项错误，因为标准反应吉布斯自由能变化值与反应速率不直接相关。
+
+B. 标准反应焓变越负，反应速率越快
+
+这个选项错误，因为标准反应焓变与反应速�",0
+20,等体积混合pH=1.0与pH=3.0的两种一元强酸溶液，混合溶液pH为____,0.3,1.3,1.5,2,B," C. 1.5.
+
+When you mix two strong acids with different concentrations, the pH of the resulting mixture will be between the pH of the two acids. In this case, the pH of the mixture will be between 1.0 and 3.0, so the correct answer is C. 1.5.",0
+21,用NaOH滴定$H_3BO_3$时，加入多元醇的作用是____,沉淀剂,螯合剂,氧化剂,还原剂,B," C. 氧化剂。
+
+用NaOH滴定$H_3BO_3$时，加入多元醇的作用是氧化剂，可以将$H_3BO_3$转化为$H_3BO_4$，从而使$H_3BO_3$的滴定结果更加准确。",0
+22,HCl，HBr，HI三种物质的沸点依次升高的主要原因是____,范德华力减小,取向力增大,诱导力增大,色散力增大,D," C. 诱导力增大。
+
+HCl、HBr和HI三种物质的沸点随着分子量的增加而升高，这是因为随着分子量增加，分子之间的距离增加，引起了更多的距离电离和气相溶剂-液相溶剂的交换，从而增加了诱导力，使液体更容易膨胀成气体，导致沸点升高。
+
+因此，选项C是正确答案。",0
+23,____都是广度性质。,$C_v$，Q，V，S,w，U，V，H,P，U，V，G,$\mu_i$，U，H，S,A," C. P，U，V，G 是正确答案。
+
+解释：
+
+在化学中，广度性质（英文名称：thermodynamic properties）是指描述物质的热力学性质，如热容量（Cv）、热稳定性（U）、热势能（H）和热容量系数（S）等。这些质量都是广度性质。
+
+因此，选项C中的P、U、V、G都是广度性质。",0

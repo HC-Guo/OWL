@@ -1,0 +1,166 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,下列叙述中最符合自由水生理功能的是:____,运输营养物质和代谢废物,与细胞内的其他物质结合,作为溶剂，使无机盐成为离子状态,细胞结构的组成成分,A," C. 作为溶剂，使无机盐成为离子状态。
+
+解释：水作为一种溶剂，可以将无机盐转化为离子状态，以便生物体内的各种化学反应。这种功能被称为自由水生理功能。",0
+1,下列有关生物膜系统的叙述中，正确的是____,细胞膜、小肠黏膜等都属于细胞的生物膜系统,所有的酶都附着在生物膜上,分泌蛋白合成和运输过程中，内质网膜面积减小，细胞膜的面积增大,生物膜的组成成分和结构都是一样的,C," C. 分泌蛋白合成和运输过程中，内质网膜面积减小，细胞膜的面积增大。
+
+生物膜系统包括细胞膜、小肠黏膜等，这些膜都属于细胞的生物膜系统。
+
+所有的酶都不附着在生物膜上，而是在细胞质中进行活动。
+
+在分泌蛋白合成和运输过程中，内质网膜面积减小，细胞膜的面积增大，这是正确的。
+
+因此，选项C是正确的答案。",1
+2,A（抗病）对a（不抗病），B（高杆）对b（矮杆），亲本为AAbb与aaBB，杂交后得到F1，对F1测交，子代中，矮杆抗病的个体的基因型为____,AaBb,Aabb,AAbb,aabb,B," C. AAbb 是正确答案。
+
+解释：
+
+A（抗病）对a（不抗病），B（高杆）对b（矮杆）是两个不同的遗传因素。在这个问题中，我们知道parental（亲本）是AAbb和aaBB，这意味着它们各自拥有一个抗病基因（A）和一个矮杆基因（b）。
+
+在杂交后得到的F1个体中，每个个体可能拥有两种不同的基因，一种来自于父母AAbb，另一种来自于aaBB。因此，F1个体的基因型可能是AaBb、Aabb、aabb等。
+
+在这个问题中，我们需要找出矮杆抗病的个体的基因型。由于矮杆基因是b，抗病基因是A，因此矮",0
+3,"在下列实例中，分别属于相对性状和性状分离的是____
+①羊的长角与短腿
+②水稻的非糯性和糯性
+③兔的粗毛和狗的细毛
+④高茎豌豆与矮茎豌豆杂交,后代全为高茎豌豆
+⑤开红花的牡丹与开白花的牡丹杂交,后代全开粉红花
+⑥白毛兔与白毛兔杂交后代中出现了灰毛兔",②⑥,②④,①⑤,③⑤,A," C. ①⑤.
+
+解释：
+
+①羊的长角与短腿是一个例子 OF 相对性状，因为羊的长角和短腿是不同的特征，但是它们都是来自于同一个个体。
+
+⑤开红花的牡丹与开白花的牡丹杂交是一个例子 OF 性状分离，因为牡丹的开花颜色是一个遗传特征，开红花和开白花都是不同的遗传型。
+
+②水稻的非糯性和糯性是一个例子 OF 相对性状，因为水稻的非糯性和糯性是不同的特征，但是它们都是来自于同一个个体。
+
+③兔的粗毛和狗的细毛是一个例子 OF 相对性状，因为兔",0
+4,有关记忆细胞的叙述中，不正确的是____,受同一抗原刺激后，迅速形成大量的抗体,受同一抗原刺激后，迅速形成浆细胞,受同一抗原刺激后，迅速形成效应T细胞,是B细胞或T细胞增殖分化形成的,A," C.受同一抗原刺激后，迅速形成效应T细胞是 incorrect.
+
+The correct answer is D.是B细胞或T细胞增殖分化形成的.
+
+Here's the explanation:
+
+ Memory cells, including B cells and T cells, are formed through clonal selection, a process in which a small number of antigen-specific cells are selected and expanded to form a large population of memory cells. This process is triggered by antigen exposure and is characterized by the rapid formation of effector cells, such as B cells and T cells, which are specific to the antigen.
+
+Therefore, option C is incorrect, as there is no mention of T cells in the description. Option D is correct, as the description states that B cells and T cells are formed through clonal selection.",0
+5,下列关于生物育种的叙述，正确的是____,多倍体育种不能产生新物种,单倍体育种会产生定向变异,杂交育种的子代间会产生生殖隔离,诱变育种可改变种群基因频率,D," C. 杂交育种的子代间会产生生殖隔离。
+
+生物育种是指一种或多种生物种群的演化过程，其中包括多倍体、单倍体、杂交育种等。
+
+A. 多倍体育种不能产生新物种是错误的，因为多倍体育种可以产生新的物种，例如，遗传学研究发现了一些多倍体种群的新物种。
+
+B. 单倍体育种会产生定向变异是错误的，因为单倍体育种的变异是随机的，不会导致新的物种的产生。
+
+D. 诱变育种可改变种群基因频率是错误的，因为诱变育种不能改变种群基因频率，只能改变个体的遗传特征。
+
+因此，正确",0
+6,下列说法正确的是____,较大的分子，如葡萄糖等只有通过主动运输才能进入细胞,所有的细胞都具有相同的细胞膜结构，即由磷脂分子构成膜的基本支架，“嵌入”支架或“漂浮”在支架两侧的蛋白质的种类和数量相同,叶绿体中的色素都有吸收光能的作用,在叶绿体的内膜、类囊体上和基质中含有多种进行光合作用所必需的酶,C," A. 较大的分子，如葡萄糖等只有通过主动运输才能进入细胞。
+
+解释：
+
+高中生物学中，细胞具有细胞膜，这个膜防止了较大的分子，如葡萄糖等进入细胞。只有通过主动运输，例如蛋白质和磷脂等，细胞才能够吸收这些分子。
+
+因此，选项A是正确的。",0
+7,新冠病毒刚刚爆发时检测病患并及时隔离的措施属于____,注射疫苗,控制传染源,切断传播途径,保护易感人群,B," C. 切断传播途径。
+
+新冠病毒爆发时，检测病患并及时隔离的措施是切断传播途径，以防止病毒传播。这包括隔离病患、停止社交媒体活动、减少人员流动、增加医疗人员的个人防護等措施。
+
+A. 注射疫苗是指在疫苗接种后，通过免疫力增强来预防疾病的方法。
+
+B. 控制传染源是指防止疾病传染源的方法，如隔离病患、消毁病原体等。
+
+D. 保护易感人群是指针",0
+8,用普通小麦（为六倍体）的花粉经花药离体培养技术培育成的植株是____,单倍体，体细胞内含有一个染色体组,单倍体，体细胞内含有三个染色体组,三倍体，体细胞内含有三个染色体组,六倍体，体细胞内含有六个染色体组,B," C.三倍体，体细胞内含有三个染色体组。
+
+解释：
+
+用普通小麦（为六倍体）的花粉经花药离体培养技术培育成的植株，由于它们是三倍体，因此每个植株都含有三个染色体组。",0
+9,检测某一组织细胞，发现其分解有机物速率减慢，且细胞萎缩。这说明该细胞正在____,分化,分裂,衰老,癌变,C," C. 衰老 (senescence)
+
+The correct answer is C. senescence, which refers to the state of cells that have stopped dividing and are no longer able to reproduce. This is often seen in cells that have been exposed to stress, damage, or other forms of injury. The slowing down of the decomposition of organic matter and the shrinkage of the cell are both indicative of senescence.
+
+A. mitosis (cell division) is the process by which a cell divides into two daughter cells, and is not related to the slowing down of decomposition or cell shrinkage.
+
+B. meiosis (cell division) is the process by which a cell divides into four daughter cells, and is not related to the slowing down of decomposition or cell shrinkage.
+
+D. cancer (tumor) is the abnormal growth of cells, and is not related to the slowing down of decomposition or cell shrinkage.",1
+10,小麦抗锈病对易染病为显性。现有甲、乙两种抗锈病小麦，其中一种为纯种，若要鉴别和保留纯合的抗锈病小麦，下列最简便易行的方法是____,甲×乙,甲×乙得F1再自交,甲、乙分别和隐性类型测交,甲×甲、乙×乙,D," C. 甲、乙分别和隐性类型测交。
+
+Explanation:
+
+To identify and preserve pure lines of resistant wheat, the simplest and most straightforward method is to cross-pollinate the two types of wheat (甲 and 乙) and then test the F1 hybrid for resistance. This method is known as ""test-crossing"" and is widely used in plant breeding.
+
+Option A, 甲×乙, is not a reliable method for identifying pure lines of resistant wheat, as the F1 hybrid may not exhibit the same level of resistance as the parental lines.
+
+Option B, 甲×乙得F1再自交, is a more complex method that involves self-pollination of the F1 hybrid, which may not be practical or feasible in all cases.
+
+Option D, 甲×甲、乙×乙, is not a valid method for identifying pure lines of resistant wheat, as it does not involve crossing the two types of wheat.",0
+11,下列有关细胞与细胞结构的叙述正确的是____,"细胞核是细胞的控制中心,能控制细胞遗传和代谢",能分解衰老、损伤细胞器的酶是在溶酶体中合成的,核仁与tRNA的合成有关,可用高倍显微镜观察内质网和高尔基体,A," A. 细胞核是细胞的控制中心，能控制细胞遗传和代谢。
+
+解释：
+
+细胞核是细胞的控制中心，它包含细胞的遗传物质和代谢物质，可以控制细胞的生长、分裂和代谢过程。因此选项A是正确的。
+
+选项B是错误的，能分解衰老、损伤细胞器的酶是在溶酶体中合成的，但这并不是细胞核的功能。
+
+选项C是错误的，核仁与tRNA的合成并没有直接关系。
+
+选项D是错误的，高倍显微镜可以观察细胞的外部结构，但不能直接观察",1
+12,"萨顿假说认为“基因是由染色体携带着从亲代传递给子代的"".下列相关推测错误的是____",体细胞中基因和染色体是成对存在的,体细胞中成对的基因一个来自父方，另一个来自母方，同源染色体也是如此,不同物种的细胞中基因数量和染色体数量的比值是一定的,"减数分裂时,同源染色体上的非等位基因无法自由组合",C," Based on the statement you provided, the correct answer is B. 体细胞中成对的基因一个来自父方，另一个来自母方，同源染色体也是如此.
+
+The statement you provided is a description of the inheritance of genes from parents to offspring, and the relationship between genes and chromosomes. The correct answer is that each gene in a diploid cell comes in a pair, with one gene coming from each parent, and that the same is true for the corresponding chromosomes.
+
+Option A is incorrect because the number of genes and chromosomes in a diploid cell is not always the same.
+
+Option C is incorrect because the number of genes and chromosomes in different species can vary greatly.
+
+Option D is incorrect because non-allelic genes on the same chromosome can freely combine during meiosis, not during mitosis.",0
+13,在电子显微镜下观察到植物细胞有丝分裂末期细胞板的周围聚集着许多小囊泡，这些小囊泡属于细胞的哪种结构？小囊泡可能含有何种物质____,内质网　蛋白质、磷脂,高尔基体　蛋白质、磷脂,内质网　纤维素、果胶,高尔基体　纤维素、果胶,D," C. 内质网纤维素、果胶。
+
+在植物细胞中，小囊泡是内质网的一种结构，它们是由纤维素和果胶组成的。小囊泡可能含有蛋白质和磷脂，但这些物质不是它们的主要组成部分。
+
+A. 内质网蛋白质、磷脂是指细胞内质网中的蛋白质和磷脂分子，而不是小囊泡。
+
+B. 高尔基体蛋白质、磷脂是指细胞高尔基体中的蛋白质和磷脂分子，而不是小囊泡。
+
+D. 内质网纤维素、果胶是指内质网中的纤维素和",0
+14,煎饺是我国北方地区特色传统小吃之一，以面粉和肉馅为主要食材制作成水饺，水饺煮熟放凉后用植物油煎制而成。煎饺表面酥黄，口感香脆。下列说法错误的是____,肉馅中的蛋白质在高温加热过程中肽键断裂使其结构松散，利于人体消化,煎制水饺时所用的植物油大多含有不饱和脂肪酸，在室温下呈液态,面粉中富含的植物多糖必须经过消化分解成葡萄糖，才能被人体吸收,肉馅中的糖原属于多糖，不能直接被细胞吸收利用,A," C. 面粉中富含的植物多糖必须经过消化分解成葡萄糖，才能被人体吸收。
+
+其他选项的错误说法如下：
+
+A. 肉馅中的蛋白质在高温加热过程中肽键断裂使其结构松散，利于人体消化。 (错误的是肽键断裂不是肉馅中蛋白质的一种分解方式)
+
+B. 煎制水饺时所用的植物油大多含有不饱和脂肪酸，在室温下呈液态。 (错误的是植物油的热力学性质不是煎制水饺的关键因素)
+
+D. 肉馅中的糖原属于多糖，不能直接被",0
+15,"已知21四体的胚胎不能成活。现有一对夫妇均为21三体综合征患者，假设他们在产生配子时，第21号的三体染色体一条移向细胞的一极，两条移向另一极,则他们生出患病女孩的概率是____",  1/2,  1/3,  2/3,  1/4,B," C. 2/3
+
+解释：
+
+根据遗传学的知识，21三体综合征是一种由X染色体上的三个不同的点突然变化引起的疾病。这种疾病的遗传方式是遗传性的，即父母的遗传因素会影响子女的疾病风险。
+
+在这个问题中，我们知道，这对夫妇都是21三体综合征患者，这意味着他们都有三个X染色体，其中一个X染色体有三个不同的点突然变化。这三个点突然变化的概率是1/3，因此每一个X染色体上的点突然变化的概率也是1/3。
+
+现在，我们想知道这对夫妇生出患病女孩的�",0
+16,细胞的生长、增殖、衰老、凋亡等生命历程对人体的生命活动而言是不可或缺的。下列相关判断正确的是____,细胞在生长过程中，体积虽然增大，但其物质运输效率并没有增强,人体发育过程中，细胞增殖改变了子细胞的遗传物质导致了细胞分化,细胞的衰老导致人体的衰老，延缓人体衰老就要设法阻止细胞的衰老,细胞凋亡由遗传物质控制，只发生在老年个体，能加速人体的衰老死亡,A," A. 细胞在生长过程中，体积虽然增大，但其物质运输效率并没有增强。
+
+解释：
+
+细胞的生长、增殖、衰老和凋亡是人体生命活动的重要组成部分。在生长过程中，细胞体积增大，但物质运输效率并没有增强，这是因为细胞内部的物质运输机制和氧气供应系统的发展，使得细胞内部的物质运输效率得到了提高。
+
+因此，选项A是正确的。",1
+17,一正在复制的DNA分子，解旋的时候一条链上的G变成了C，则此DNA分子经n次复制后，发生差错的DNA占子代DNA总数的____,$\frac{1}{2}$,$\frac{1}{{2}^{n}-1}$,$\frac{1}{{2}^{n}}$,$\frac{1}{4}$,A," Based on the given information, the correct answer is B. $\frac{1}{{2}^{n}-1}$.
+
+When a G nucleotide in a replicating DNA molecule is miscopied as a C, it results in a point mutation. The probability of this mutation occurring in a single replication event is 1/2, as there is a 50% chance of the G being miscopied as a C.
+
+However, if this mutation occurs in n consecutive replication events, the probability of it occurring in the final DNA molecule is not 1/2, but rather (1/2)^n, as the probability of the mutation occurring in each subsequent replication event is multiplicative.
+
+Therefore, the correct answer is B. $\frac{1}{{2}^{n}-1}$, which represents the probability of the mutated DNA molecule containing the point mutation after n replication events.",0
+18,下列关于水稻细胞内ATP的叙述，错误的是____,能与ADP相互转化,只能由细胞呼吸产生,可为物质跨膜运输提供能量,释放的磷酸基团能与某些蛋白质结合,B," C. 可为物质跨膜运输提供能量。
+
+水稻细胞内ATP的叙述中，错误的是指ATP只能由细胞呼吸产生。 ATP 是细胞内的能量质料，可以与 ADP 相互转化，并且可以为物质跨膜运输提供能量。但是，ATP 不能直接释放磷酸基团能，也不能与某些蛋白质结合。
+
+因此，正确的选项是 C. 可为物质跨膜运输提供能量。",0

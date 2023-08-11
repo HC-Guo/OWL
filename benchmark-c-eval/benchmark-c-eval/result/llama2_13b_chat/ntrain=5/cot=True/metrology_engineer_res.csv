@@ -1,0 +1,168 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,测量某一量值，其结果为：10.5，10.7，10.3，求其B类标准不确定度为____。(其中n=2时，极差系数C=1.13；n=3时，极差系数C=1.69；n=4时，极差系数C=2.060),0.35,0.12,0.19,0.24,D," According to the formula for the standard deviation of a sample mean, we have:
+
+σ = σ_n / sqrt(n)
+
+where σ_n is the standard deviation of the sample, and n is the sample size.
+
+For n = 2, we have:
+
+σ = 1.13 / sqrt(2) = 0.35
+
+For n = 3, we have:
+
+σ = 1.69 / sqrt(3) = 0.19
+
+For n = 4, we have:
+
+σ = 2.060 / sqrt(4) = 0.24
+
+Therefore, the B-class standard uncertainty for the measured value 10.5, 10.7, 10.3 is:
+
+D.0.24",0
+1,在电学计量中，为了消除热电势带来的系统误差，常常改变测量仪器的电流方向，取两次读数和的二分之一为测量读数结果，这样的测量方法称为____。,补偿测量法,基本测量法,间接测量法,符合测量法,A," Ah, a question about electronics measurement! Let me think...
+
+The correct answer is A. Compensation measurement method.
+
+In electronics measurement, to eliminate the system error caused by the thermal voltage, the measurement instrument's current direction is changed, and the average of two readings is taken as the measurement result. This method is called compensation measurement method.
+
+Here's a breakdown of the options:
+
+A. Compensation measurement method: This is the correct answer.
+
+B. Basic measurement method: This is not the correct answer, as the basic measurement method is a different technique used in electronics measurement.
+
+C. Indirect measurement method: This is also not the correct answer, as the indirect measurement method is a different technique used in electronics measurement.
+
+D. Accurate measurement method: This is not the correct answer, as accurate measurement method is a general term that refers to any method used to ensure accurate measurements, and is not specific to electronics measurement.
+
+I hope that helps!",1
+2,国家计量检定规程是由____组织编写并批准颁布，在全国范围内施行，作为确定计量器具法定地位的技术文件。,全国专业计量技术委员会,全国计量测试学会,国家计量院,国务院计量行政部门,D," based on the information provided, the correct answer is:
+
+C.国家计量院
+
+According to the information, the national metrology regulations are formulated and approved by the National Metrology Institute, which is the correct answer.",0
+3,SI基本单位共有七个并有相应的单位符号，以下哪个符号是正确的。____,质量--m,物质的量--mm,热力学温度--℃,电流--A,D," SI基本单位共有七个，分别是：
+
+1. 质量 (mass) - kg
+2. 时间 (time) - s
+3. 长度 (length) - m
+4. 温度 (thermodynamic temperature) - K
+5. amount of substance (amount of substance) - mol
+6. 电压 (electric potential difference) - V
+7. 电流 (electric current) - A
+
+根据题目，正确的符号是：
+
+C. 热力学温度 -- ℃
+
+所以答案是：C。",0
+4,计量的最终目的是____。,实现单位统一,为国民经济和科学技术发展服务,维护人民利益,确保量值准确,B,"让我们一步一步思考,
+1. 计量的最终目的是为国民经济和科学技术发展服务。
+所以答案是：B。",1
+5,测量传感器是指____。,一种指示式计量器具,输入和输出为同种量的仪器,提供与输入量有确定关系的输出量的器件,通过转换得到的指示值或等效信息的仪器,C," C. 测量传感器是指提供与输入量有确定关系的输出量的器件。
+
+输入和输出为同种量的仪器是指示式计量器具，这种仪器只能输出指示值，而不是实际的量值。而通过转换得到的指示值或等效信息的仪器则是指示仪器。
+
+因此，选项C是正确的。",1
+6,某计量技术机构拟建立以一等铂电阻温度计为计量标准器的计量标准，用于检定二等铂电阻温度计，则该计量标准应命名为____。,一等铂电阻温度计检定装置,一等铂电阻温度计标准装置,二等铂电阻温度计标准装置,二等铂电阻温度计标准器组,B," based on the information provided, the correct answer is:
+
+B. one platinum resistance thermometer standard device
+
+Explanation:
+
+According to the information provided, the plan is to establish a measurement standard using a one platinum resistance thermometer as the reference standard, and then use this standard to calibrate or verify the accuracy of two-point platinum resistance thermometers. Therefore, the correct name for this measurement standard should include the term ""platinum resistance thermometer"" and indicate that it is a standard device.
+
+Option B is the most appropriate answer, as it accurately reflects the purpose and content of the measurement standard.",1
+7,依据JJF1002-2010《国家计量检定规程编写规则》，下列关于计量检定规程编写原则的说法中，错误的是____。,计量检定规程的编写应符合国家有关法律、法规的规定,计量检定规程的编写应符合范围必须明确，在其界定的范围内，按需要力求完整,在考虑操作的可行性及实施的经济性的前提下，尽量采用最新技术,根据国情，积极采用国际法制计量组织（OIML）发布的国际建议，国际文件及有关的国际组织（如ISO，IEC等）发布的国际标准,C," Based on JJF1002-2010《National Measurement and Testing Regulations Compilation Rules》, the incorrect statement about the principles of measurement regulation writing is:
+
+D. Based on the country's situation, actively adopt international legal metrology organizations (OIML) published international recommendations, international documents, and relevant international organizations (such as ISO, IEC, etc.) published international standards.
+
+The correct answer is B. The scope of the measurement regulation should be clear and well-defined, and the range of measurement should be specified in the regulation.
+
+The other options are not correct because:
+
+A. The measurement regulation should be based on national laws and regulations, not international ones.
+
+C. While it is important to consider the feasibility and cost-effectiveness of measurement operations, the measurement regulation should not be based solely on these factors.
+
+Therefore, the correct answer is B. The scope of the measurement regulation should be clear and well-defined, and the range of measurement should be specified in the regulation.",0
+8,我国法定计量单位包括SI辅助单位在内的具有专门名称的SI导出单位共有____个。,7,16,20,21,D," C. 我国法定计量单位包括SI辅助单位在内的具有专门名称的SI导出单位共有20个。
+
+根据中国国家标准GB/T 14544-2017 ""计量单位和计量方式""的规定，我国法定计量单位包括SI基本单位和SI辅助单位两类，共有20个。SI基本单位包括长度、面积、体积、质量、时间、温度、压力、功率等等，SI辅助单位包括亮度、射频功率、频率等等。",0
+9,对一个被测量进行重复观测，在所得的一系列测量值中，出现了与其他值偏离较远的个别值时，应____。,将这些值剔除,保留所有的数据，以便保证测量结果的完整性,判别其是否是异常值，确为异常值的予以剔除,废弃这组测量值，重新测量，获得一组新的测量值,C,"对一个被测量进行重复观测，在所得的一系列测量值中，出现了与其他值偏离较远的个别值时，应：
+
+C. 判别其是否是异常值，确为异常值的予以剔除。
+
+这是因为，如果在重复观测中出现了异常值，可能是测量器的偏差或其他因素的影响，这些异常值可能会对测量结果产生负面影响。因此，应该对这些异常值进行判别，确定它们是否是真正的异常值，并将它们剔除。这样可以保证测量结果的准确性和完整性。
+
+其他选项的解释如下：
+
+A. 将这些值剔除：这是一种可能的解决方案，但是不一定是最��",0
+10,借助于一切可利用的有关信息进行科学判断，得到估计的标准偏差为____标准不确定度。,A类,B类,合成,扩展,B," based on all available information to make a scientific judgment, the estimated standard uncertainty is:
+
+B. B class
+
+The correct answer is B. B class.",1
+11,型式评价结束后，经审查合格的，由____向申请单位颁发型式批准证书。,计量技术机构,受理申请的政府计量行政部门,上级政府计量主管部门,国家质检总局,B," based on the information provided, the correct answer is:
+
+B. 受理申请的政府计量行政部门
+
+According to the information, after the type approval evaluation is completed, the approved type shall be issued with a type approval certificate by the government metrology authority that accepted the application.",1
+12,下列关于计量标准考核的说法中，错误的是____。,新建计量标准的考核应首先进行书面审查，基本符合要求后再进行现场考核,计量标准考核坚持逐项逐条考核原则，但列入计量标准简化考核目录的可按规定简化,考评员须经国家或省级质量技术监督部门考核合格,计量标准考核实施组长负责制，每项计量标准一般由1至2名考评员执行考核任务,D,"让我们一步一步思考,
+1. 新建计量标准的考核应首先进行书面审查，基本符合要求后再进行现场考核。
+这是错误的说法，应该是在现场考核前进行书面审查，以确保计量标准的基本要求符合要求。
+所以答案是：A。",0
+13,强制检定与非强制检定均属于____。,行政规定,法制检定,法律规定,合同规定,B,"让我们一步一步思考,
+1. 强制检定和非强制检定都属于法制检定，它们都是根据法律规定进行的检定。
+所以答案是：C.法律规定",0
+14,社会公用计量标准器具由____级以上地方人民政府计量行政部门根据本地区的需要统一组织建立。,省,市,县,相关部门,C," Based on the information provided, the correct answer is:
+
+B. 市 (city)
+
+Social public measurement standards are established by the city-level people's government measurement administrative departments according to the needs of the local area.",0
+15,通常把被测量值为零时测量仪器的示值相对于标尺零刻线之差值称为____。,零位误差,固有误差,零值误差(即零值的基值误差),测量仪器的偏移,C," correct! The answer is C. zero-value error (also known as zero-point error).
+
+Zero-value error refers to the difference between the indicated value of a measuring instrument when the measured value is zero, and the true zero value of the instrument. It is a type of bias that can occur in measuring instruments, and it can be caused by various factors such as manufacturing errors, aging, and environmental conditions.
+
+The other options are not correct definitions of zero-value error:
+
+A. Zero-position error is a type of error that occurs when the measuring instrument is not properly aligned or positioned, and it can cause the indicated value to be incorrect.
+
+B. Inherent error is a type of error that is inherent to the measuring instrument and cannot be eliminated, and it is not related to the zero-value error.
+
+D. Offset is a type of error that occurs when the measuring instrument indicates a value that is not equal to the true value, and it can be caused by various factors such as manufacturing errors, aging, and environmental conditions. However, offset is not the same as zero-value error, as it can occur at any value, not just at zero.",1
+16,下列关于《计量标准技术报告》内容的表述中，正确的是____。,计量标准的测量范围应与计量标准器所提供的测量范围相同,计量标准的不确定度分段给出时，应给出各段的最小不确定度,检定或校准结果的测量不确定度评定结果应小于计量标准的扩展不确定度,检定或校准结果验证时如果不可能采用传递比较法，可采用多个实验室之间比对的方法,D,"让我们一步一步思考,
+1. 计量标准的测量范围应与计量标准器所提供的测量范围相同，这是对计量标准的要求。
+2. 计量标准的不确定度分段给出时，应给出各段的最小不确定度，这是对计量标准的要求。
+3. 检定或校准结果的测量不确定度评定结果应小于计量标准的扩展不确定度，这是对检定或校准结果的要求。
+4. 检定或校准结果验证时如果不可能采用传递比较法，可采用多个实验室之间比对的方法，这是对检定或校准结果的要求。
+
+因此，正确的答案是：A、B、C、D。",0
+17,《注册证》每一注册有效期为____年。在有效期限内是注册计量师的____凭证，由注册计量师本人保管和使用。,5，资质,3，资质,5，执业,3，执业,C," Based on the information provided, the correct answer is:
+
+B.3, 资质
+
+Each registration is valid for 3 years, and during this period, the registration certificate is a proof of qualification for the registered metrology technician. The registration certificate should be kept by the registered technician themselves and used as proof of their qualification.",0
+18,以下在证书上给出的k=2的扩展不确定度中____的表示方式是正确的。,U=0.00800mg,Ur=8×10-3,U=523.8μm,0.0000008m,B," A.U=0.00800mg 是正确的表示方式。
+
+其他选项中，B.Ur=8×10-3 是不正确的表示方式，应为 U 是一个数值，而不是一个符号。
+
+C.U=523.8μm 是不正确的表示方式，应为 U 是一个数值，而不是一个长度单位。
+
+D.0.0000008m 是不正确的表示方式，应为 U 是一个数值，而不是一个长度单位。
+
+所以答案是：A。",0
+19,使测量仪器的规定计量特性不受损也不降低，其后仍可在额定操作条件下运行而能承受的极端条件称____,参考条件,额定操作条件,正常使用条件,极限条件,D,"让我们一步一步思考,
+1. 使测量仪器的规定计量特性不受损也不降低，其后仍可在额定操作条件下运行而能承受的极端条件，这种情况被称为参考条件。
+所以答案是：A。",0
+20,____是对测量所包括的硬件和软件的统称。,测量设备,测量仪器,测量基准,测量标准,A," C. 测量基准是对测量所包括的硬件和软件的统称。
+
+测量基准包括测量仪器、测量设备、测量软件等，它们共同确定测量结果的准确性和可靠性。",0
+21,证书、报告的副本____,应按规定的保存期保存,根据需要可以保存也可以不保存,只能是原件的复印件才能保证与原件完全一致,应永久保存,A," A. 证书、报告的副本应按规定的保存期保存。
+
+根据规定，证书、报告的副本应该按照有关的保存期限保存，以便在需要时进行查阅和审核。保存期限的长短取决于具体的证书、报告类型和使用场景，通常是在1年至5年之间。",1
+22,长方形面积是通过测量其长度和宽度用其乘积来确定的，同体密度是根据测量物体的质量和体积的结果，按密度定义公式计算的。这种测量方法通常称为____。,定义测量法,替代测量法,间接测量法,符合测量法,C,"让我们一步一步思考,
+1. 长方形面积是通过测量其长度和宽度用其乘积来确定的，同体密度是根据测量物体的质量和体积的结果，按密度定义公式计算的。这种测量方法通常称为间接测量法。
+所以答案是：C。",1
+23,稳定性是指测量仪器保持其计量特性随时间____的能力。,响应变化,慢变化,稳定,恒定,D, A. 稳定性是指测量仪器保持其计量特性随时间的能力，即测量仪器在时间上的稳定性。,0

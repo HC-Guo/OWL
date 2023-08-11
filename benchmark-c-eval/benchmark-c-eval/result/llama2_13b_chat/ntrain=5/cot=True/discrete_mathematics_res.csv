@@ -1,0 +1,150 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,"下列集合中与$\mathbf{\{}1,2\}$不相等的是:____","$\{1,2\}\cup\phi$","$\{1,2\}$","$\{1,2,2\}$",$\{x|\ x\in{\mathcal{R}}\land x^{2}-3x+2=0\}$,B," C.$\{1,2,2\}$ 是与 $\mathbf{\{}1,2\}$ 不相等的集合。
+
+解释：
+
+* A.$\{1,2\}\cup\phi$ 是与 $\mathbf{\{}1,2\}$ 相等的集合，因为 $\phi$ 是空集。
+* B.$\{1,2\}$ 是与 $\mathbf{\{}1,2\}$ 相等的集合。
+* D.$\{x|\ x\in{\mathcal{R}}\land x^{2}-3x+2=0\}$ 是与 $\mathbf{\{}1,2\}$ 不相等的集合，因为这个集合包含了除了 1 和 2 之外的所有实数。",0
+1,令P：天气很冷，Q：老王来了，则命题“虽然天气很冷，但是老王还是来了”可符号化为____,P∧Q,P→Q,P∧﹁Q,P→﹁Q,A," Based on the given information, we can symbolize the statement ""虽然天气很冷，但是老王还是来了"" as:
+
+D. P → ¬Q
+
+Explanation:
+
+* P: 天气很冷 (weather is very cold)
+* Q: 老王来了 (Mr. Wang has come)
+
+The statement ""虽然天气很冷，但是老王还是来了"" can be symbolized as ""even though the weather is very cold, Mr. Wang still came"". This can be represented using the logical negation operator ¬ (not) and the conditional operator → (implies). The statement is saying that the fact that the weather is cold does not prevent Mr. Wang from coming.
+
+Therefore, the correct answer is D. P → ¬Q.",0
+2,对于集合A上的二元关系R，若$B\subseteq A$，$C\subseteq A$，$R\uparrow\ B$代表关系R在集合B上受限，则下列是正确的____,$R[B\cap C]=R[B]\cap R[C]$,$R[B]-R[C]=R[B-C]$,$B\subseteq A\Leftrightarrow R[B]\subseteq R[A]$,$R\uparrow(B\cup C)=R\uparrow B\cup R\uparrow C$,D," Based on the given information, the correct answer is:
+
+C. $B\subseteq A\Leftrightarrow R[B]\subseteq R[A]$
+
+The statement $R\uparrow(B\cup C)=R\uparrow B\cup R\uparrow C$ is not correct, as the union of two relations is not necessarily equal to the relation restricted to the union.
+
+The statement $R[B]-R[C]=R[B-C]$ is also not correct, as the difference of two relations is not necessarily equal to the relation restricted to the difference.
+
+The correct statement is $B\subseteq A\Leftrightarrow R[B]\subseteq R[A]$, which means that if $B\subseteq A$, then $R[B]\subseteq R[A]$, and if $R[B]\subseteq R[A]$, then $B\subseteq A$.",0
+3,下列说法错误的是____,"若简单图每个节点的度大于等于$\frac{n}{2}$,则$G$有$H$回路",简单图$G$存在$H$回路的充要条件是其闭合图存在$H$回路,简单图$G$的任意结点$v_i$，$v_j$之间恒有$d(v_{j})+d(v_{j})\geq n{-}1$， 则$G$存在$H$回路,简单图的闭合图唯一,C," C. 下列说法错误的是：C.
+
+其他三个选项都是正确的：
+
+A. 简单图每个节点的度大于等于 $\frac{n}{2}$ 则 $G$ 有 $H$ 回路，是正确的。
+
+B. 简单图 $G$ 存在 $H$ 回路的充要条件是其闭合图存在 $H$ 回路，也是正确的。
+
+D. 简单图的闭合图唯一，是正确的。
+
+而选项C是错误的，因为简单图的任意结点$v_i$，$v_j$之间恒有$d(v_{j})+d(v_{j})\geq n{-}1$，不是一个必要条件。",1
+4,给定n个结点的一个图，它是一个树的下列说法中，____是不对的。,无回路的连通图,无回路但若增加一条新边就有回路,连通且m=n-1， 其中m是边数，n是结点数,所有结点的度数>2,D," given an graph with n vertices, the statement that is not true is:
+
+D. 所有结点的度数>2.
+
+A graph with n vertices can have at most n-1 edges, so the maximum degree of any vertex is n-1. Therefore, it is possible for a graph with n vertices to have all vertices with degree 2 or less.
+
+The other statements are possible for a graph with n vertices:
+
+A. 无回路的连通图: A graph with n vertices can be a tree, which is a connected acyclic graph.
+
+B. 无回路但若增加一条新边就有回路: If a graph with n vertices is acyclic, adding a new edge can form a cycle.
+
+C. 连通且m=n-1: A connected graph with n vertices must have at least n-1 edges, so the statement is true.",0
+5,六阶群的任何非平凡子群一定不是____,2阶,5阶,3阶,6阶,D,"让我们一步一步思考,
+
+1. 六阶群S6的任何非平凡子群一定不是2阶，因为S6中只有一个2阶子群，即({1, 2, 3, 4, 5, 6})，而其他的子群都是3阶或更高阶的。
+2. 而S6中的3阶子群都是平凡的，因为它们只有一个元素。因此，非平凡子群的阶数必然大于3。
+3. 而S6中的5阶子群也都是平凡的，因为它们只有一个元素。因此，非平凡子群的阶数必然大于5。
+4. 最后，我们可以看到S6中的6阶子群只有一个，即({1, 2, 3, 4, 5, 6})，这个子群是非平凡的，因此非平凡子群的阶数可",0
+6,下面说法____是错误的,不存在既自反又反自反的关系,存在即对称又反对称的关系,存在即不对称又不反对称的关系,由一个有序对构成的二元关系一定是一个传递关系。,A," C. 存在即不对称又不反对称的关系是错误的说法。
+
+ reason:
+
+* 如果一个关系是不对称的，那么它就不能是反对称的。
+* 如果一个关系是反对称的，那么它就必然是对称的。
+
+ therefore, if a relation is neither symmetric nor antisymmetric, then it cannot be both symmetric and antisymmetric.
+
+So, the correct answer is C. 存在即不对称又不反对称的关系是错误的说法。",0
+7,设图G是有6个顶点的连通图，总度数为20，则从G中删去____边后使之变成树。,10,5,3,2,B,"让我们一步一步思考,
+1. 由于G是连通图，所以它的度数为20是满足所有顶点之间存在路径的必要条件。
+2. 如果从G中删去一个边，可能会导致G变成树，但是这并不是唯一的选择。
+3. 如果删去G中的任意一个边，G将变成两个分开的子图，这两个子图都是树。因此，我们可以选择删去任意一个边，使G变成树。
+所以答案是：D.2",0
+8,设G为平面图，则下面可能不正确的选项是_____,G = (G*)*,G*= ((G*)*)*,(G*)* = (G*)*)*)*,((G*)*)*= ((((G*)*)*)*)*,A," setting G as a plane graph, we can determine which option is incorrect:
+
+1. A. G = (G*)*: This option is incorrect because the product of a graph and its adjacency matrix is not necessarily a graph. The adjacency matrix of a graph G is a matrix that represents the edges of G, but it is not a graph in its own right.
+2. B. G*= ((G*)*)*: This option is incorrect because the adjacency matrix of a graph G is not necessarily a square matrix. The adjacency matrix of a graph G is a matrix that represents the edges of G, but it may not have the same number of rows and columns.
+3. C. (G*)* = (G*)*)*: This option is incorrect because the adjacency matrix of a graph G is not necessarily a square matrix, and it may not have the same number of rows and columns.
+4. D. ((G*)*)*= ((((G*)*)*)*)*: This option is incorrect because the adjacency matrix of a graph G is not necessarily a square matrix, and it may not have the same number of rows and columns.
+
+Therefore, the correct answer is:
+
+B. G*= ((G*)*)*.",0
+9,已知一棵树T中有度为5，4，3，2的顶点各一个，其余为树叶顶点，T的树叶顶点数为哪项？____,8,7,6,5,A," Certainly! Let's analyze the given information:
+
+1. The tree T has a degree of 5, 4, 3, 2, and 1.
+2. Each of the degrees 5, 4, and 3 has exactly one vertex.
+3. The remaining vertices are leaf vertices.
+
+From point 2, we can deduce that there are exactly 3 leaf vertices with degree 2. Since each leaf vertex has degree 2, there are a total of 3 x 2 = 6 leaf vertices.
+
+From point 3, we can deduce that the number of leaf vertices is 6. Therefore, the answer is:
+
+C. 6",0
+10,含5个顶点、3条边的不同构的简单图有几个?____,2,3,4,5,C,"让我们一步一步思考,
+1. 含5个顶点的简单图有5!/2! = 5 × 4 × 3 × 2 × 1 = 120 种不同构。
+2. 含3条边的简单图有3! = 3 × 2 × 1 = 6 种不同构。
+3. 将120种不同构的简单图中的每个图中的顶点数减去3，得到不同构的简单图的数目。
+所以答案是：C.4",1
+11,下面说法错误的是____,邻接矩阵能表示自环，也能表示重边,有向图邻接矩阵的第$i$行非零元的数目恰好是$\nu_{i}$的正度。第$j$列非零元的数目是$\nu_{j}$的负度,关联矩阵能表示重边，不能表示自环,有向图关联矩阵第$i$行中1 的数目是$\nu_{i}$的正度，-1 的数目是$\nu_{i}$的负度。,A," The correct answer is:
+
+B. 有向图邻接矩阵的第$i$行非零元的数目恰好是$\nu_{i}$的正度。第$j$列非零元的数目是$\nu_{j}$的负度.
+
+Explanation:
+
+The statement ""有向图邻接矩阵的第$i$行非零元的数目恰好是$\nu_{i}$的正度"" is incorrect. The degree of a vertex in an directed graph is the number of edges pointing to it, not the number of edges it points to. Therefore, the number of non-zero elements in the $i$th row of the adjacency matrix represents the number of edges pointing to the $i$th vertex, not the degree of the $i$th vertex.
+
+The correct statement is: ""有向图邻接矩阵的第$i$行非零元的数目是$\nu_{i}$的负度"".
+
+The statement ""关联矩阵能表示重边，不能表示自环"" is also incorrect. The adjacency matrix of a graph can represent both edges and self-",0
+12,下式不一定成立的是____,$(\forall x)(P(x)\wedge Q(x))=(\forall x)P(x)\wedge(\forall x)Q(x)$,$(\exists x)(P(x)\lor Q(x))=(\exists x)P(x)\lor(\exists x)Q(x)$,$(\forall x)(\forall y)(P(x)\lor{Q(x)}(y))=(\forall x)P(x)\lor(\forall x)Q(x)$,$(\exists x)(P(x)\wedge Q(x))=(\exists x)P(x)\wedge(\exists x)Q(x)$,D," The correct answer is:
+
+C. $\forall x \forall y (P(x) \lor Q(x)) = \forall x P(x) \lor \forall x Q(x)$
+
+Explanation:
+
+The statement $\forall x \forall y (P(x) \lor Q(x))$ implies that for all $x$ and all $y$, either $P(x)$ or $Q(x)$ is true. However, this does not imply that both $P(x)$ and $Q(x)$ are true for all $x$. In other words, the existence of one or the other is not sufficient to guarantee the existence of both.
+
+On the other hand, the statement $\forall x P(x) \lor \forall x Q(x)$ implies that either $P(x)$ or $Q(x)$ is true for all $x$. This is a stronger statement than the original one, as it implies that both $P(x)$ and $Q(x)$ are true for all $x$.
+
+The other options are not correct because:
+
+A. $P(x) \wedge Q(x) = \exists x (P(x) \lor Q(x))$ is a tautology, and does not imply anything about the existence of $P(x)$ and $Q(x)$ separately.
+
+B. $P(x",0
+13,设A={2，3，4，6，9，12，18}，A中的整除关系R是偏序关系，那么在偏序集<A，R>中，下列说法正确的是____,A的最大元素是18；,A 的最小元素是2；,B= {3，9}的上界只有 18；,B= {4，9} 没有上下界。,D," given that A = {2, 3, 4, 6, 9, 12, 18} and R is a divisibility relation on A, we need to determine which of the following statements are true in the partially ordered set (A, R).
+
+A. The maximum element of A is 18.
+
+Since R is a divisibility relation, we know that for any two elements a and b in A, if a divides b, then a is less than or equal to b. Therefore, the maximum element of A is 18, since it is the largest element in A that is less than or equal to all other elements.
+
+B. The minimum element of A is 2.
+
+Since R is a divisibility relation, we know that for any two elements a and b in A, if a divides b, then a is less than or equal to b. Therefore, the minimum element of A is 2, since it is the smallest element in A that is less than or equal to all other elements.
+
+C. The supremum of B = {3, 9} is only 18.
+
+Since B = {3, 9} is a subset of A, we know that the supremum of B is the largest element in B that is less than or equal to all elements in A. Since 18 is the largest element",0
+14,设G为平面图，则下面可能不连通的图是____,G的闭合图,G*,(G*)*,(((G)*)*)*,A,"让我们一步一步思考,
+1. G 是平面图，则 G* 是 G 的一个射影，即 G 的每个结点都有一个投影到 G* 中的一个结点。
+2. C((G*)*)* 是 G* 的一个射影，即 G* 的每个结点都有一个投影到 C((G*)*)* 中的一个结点。
+3. D((((G)*)*)*)* 是 (((G)*)*)* 的一个射影，即 (((G)*)*)* 的每个结点都有一个投影到 D((((G)*)*)*)* 中的一个结点。
+4. 由于 G 是平面图，因此 G* 和 C((G*)*)* 都是平面图，而 D((((G)*)*)*)* 是一个不连通的图。
+所以答案是：D.((((G)*)*)*)*",0
+15,"一个无向图有五个结点，其中4个的度数是1,2,3,4,则第5个结点的度数不可能是____",0,2,4,5,D,"让我们一步一步思考,
+1. 对于一个无向图，度数最大的结点是图的一个顶点。
+2. 在给定的无向图中，度数最大的结点是4，因此第5个结点的度数不可能是4。
+3. 因为度数最大的结点是4，所以第5个结点的度数至多为3。
+所以答案是：B.2",0

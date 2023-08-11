@@ -1,0 +1,236 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,当$x=-3$ 时，下列分式无意义的是____,$\frac{x-3}{x}$,$\frac{x+3}{x}$,$\frac{x}{x-3}$,$\frac{x}{x+3}$,D, C. $\frac{x}{x-3}$ 是无意义的，因为 $x=-3$ 时，$x-3$ 是负数，所以这个分式会导致 Nan 或 Inf 的结果。,0
+1,如果 $x=3$是关于 x的$2x+m=7$方程 的解，那么 $m$的值为____,-1,2,1,-2,C," Sure! I'd be happy to help you with that.
+
+If $x=3$ is a solution to the equation $2x+m=7$, then we can substitute $x=3$ into the equation to get:
+
+2(3)+m=7
+
+Expanding the left-hand side of the equation, we get:
+
+6+m=7
+
+Therefore, the value of $m$ is:
+
+m=1
+
+So, the correct answer is:
+
+C.1
+
+I hope this helps! Let me know if you have any other questions.",1
+2,⊙O是一个正n边形的外接圆，若⊙O的半径与这个正n边形的边长相等，则n的值为____,3,4,5,6,D," C. 5.
+
+ reasoning:
+
+Given that ⊙O is a circle that passes through the vertices of a regular n-gon, and the radius of ⊙O is equal to the length of the sides of the regular n-gon, we can conclude that the circle is tangent to all sides of the polygon.
+
+Since the circle is tangent to all sides, the sum of the interior angles of the polygon is equal to 360 degrees, which is a characteristic property of regular polygons.
+
+Therefore, the value of n can be determined by the number of sides of the polygon. In this case, the polygon has n sides, so n = 5.
+
+So, the correct answer is C. 5.",0
+3,下列等式变形错误的是 ____,"若$a=b$,则$3a-1=3b-1$","若$a=b$,则$a c^{2}=b c^{2}$","若$\frac{a}{c^{2}}=\frac{b}{c^{2}}$,则$a =b $","若$a c^{2}=b c^{2}$,则$a=b$",D," Certainly! I'd be happy to help you with that.
+
+The correct answer is C. 若$\frac{a}{c^{2}}=\frac{b}{c^{2}}$,则$a =b $
+
+Here's the explanation:
+
+If we have two fractions, $\frac{a}{c^{2}}$ and $\frac{b}{c^{2}}$, and they have the same value, then we can conclude that $a = b$.
+
+The other options are not correct because:
+
+A. $3a-1=3b-1$ is not necessarily true even if $a=b$.
+
+B. $a c^{2} = b c^{2}$ is not necessarily true even if $a=b$.
+
+D. $a c^{2} = b c^{2}$ does not imply that $a = b$.",0
+4,“垃圾分类”已经在全国开展得如火如荼，某回收公司有四包可回收垃圾，每包以标准克数（ 千克）为基准，超过的千克数记作正数，不足的千克数记作负数，以下数据是记录结果，其中表示实际重量最接近标准千克数的是 ____,-1,2,-0.5,0,D," C.-0.5 是正确答案。
+
+解释：
+
+根据提供的数据，每个包的实际重量都比标准千克数有所偏差。其中，第一包的实际重量是1.2千克，比标准千克数多了0.2千克，第二包的实际重量是0.8千克，比标准千克数少了0.2千克，第三包的实际重量是1.1千克，比标准千克数多了0.1千克，第四包的实际重量是0.9千克，比标准千克数少了0.1千克。
+
+因此，实际重量最接近标准千克数的是第三包，其实际重量是1.1千克，与标准千克数的1千克差别只有0.1千克，所以选择C.-0.5 为正确答案。",0
+5,某施工队承接了60公里的修路任务，为了提前完成任务，实际每天的工作效率比原计划提高了25％，结果提前60天完成了这项任务．设原计划每天修路x公里，根据题意列出的方程正确的是____,$\frac{60\times (1+25 \%)}{x} -\frac{60}{x}=60$,$\frac{60}{x}-\frac{60\times (1+25 \%)}{x} =60$,$\frac{60 }{ (1+25 \%)x} -\frac{60}{x}=60$,$ \frac{60}{x}-\frac{60 }{ (1+25 \%)x} =60$,D," C. $\frac{60}{ (1+25 \%)x} -\frac{60}{x}=60$
+
+解释：
+
+设原计划每天修路x公里，则实际每天修路x \* (1 + 25%)公里。
+
+根据题意，我们知道修路任务提前60天完成，因此：
+
+60 = x \* (1 + 25%) + 60
+
+解释出x = 40，即原计划每天修路40公里。
+
+因此，正确的方程是：
+
+C. $\frac{60}{ (1+25 \%)x} -\frac{60}{x}=60$
+
+即：
+
+$\frac{60}{40(1+25\%)} -\frac{60}{40} = 60$
+
+解释出：
+
+$\frac{60}{40(1+25\%)} = \frac{60}{40 \* 1.25} = \frac{60}{50} = 1.2$
+
+$\frac{60}{40} = 1",0
+6,线段$AB=9$ ，点C在线段$AB$上，且有$AC=\frac{1}{3}AB$ ， M是AB 的中点，则 MC等于____,$3$,$\frac{3}{2}$,$\frac{9}{2}$,$\frac{15}{2}$,B," Hello! I'd be happy to help you with your question.
+
+Given that the line segment $AB = 9$ and point $C$ is on the line segment $AB$, with $AC = \frac{1}{3}AB$, and $M$ is the midpoint of $AB$, we can let $M$ be the point that divides $AB$ into two equal parts.
+
+Using the fact that $AC = \frac{1}{3}AB$, we can write:
+
+$$AC = \frac{1}{3}AB \Rightarrow AM = \frac{2}{3}AB$$
+
+Since $M$ is the midpoint of $AB$, we know that $AM = \frac{1}{2}AB$.
+
+Substituting the value of $AB$ into the previous equation, we get:
+
+$$AM = \frac{1}{2} \cdot 9 = 4.5$$
+
+Therefore, the correct answer is:
+
+B. $\frac{3}{2}$
+
+I hope this helps! Let me know if you have any other questions.",1
+7,下列命题正确的是____,三角形的重心是三条高线的交点,等腰三角形底边上的中线不一定垂直于底边,线段垂直平分线上的点到线段两端的距离相等,含根号的数都是无理数,C," C. 线段垂直平分线上的点到线段两端的距离相等。
+
+解释：
+
+A. 三角形的重心是三条高线的交点 是 incorrect. 三角形的重心是三条高线的交点，但这并不是所有三角形的特征。
+
+B. 等腰三角形底边上的中线不一定垂直于底边 是 incorrect. 等腰三角形的中线是垂直于底边的，但这并不是所有三角形的特征。
+
+D. 含根号的数都是无理数 是 incorrect. 含根号的数可以是理数或无理数，取决于它的根号是负数、正数还是零。
+
+因此，正确的答案是 C. 线段垂直平分线上的点到线段两端的距离相等。",1
+8,下列各组代数式中为同类项的是____,$-2xy$与$2x$,$5x^2y$与$-2xy^2$,$5x^5y^4$与$-5x^5z^4$,$-xy$与$\frac{3}{2}y x$,D," Sure! I'd be happy to help. Here's the correct answer:
+
+B. $5x^2y$ 与 $-2xy^2$
+
+Explanation:
+
+All the terms in this group have the same degree of x and y, so they are of the same class.",0
+9,下列命题是真命题的是____,两条直线被第三条直线所截，同旁内角互补,三角形内角和为180°,三角形的一个外角等于它的两个内角之和,同角的余角互补,B," C. 三角形的一个外角等于它的两个内角之和。
+
+中文名称：三角形的一个外角等于它的两个内角之和。
+
+解释：三角形的一个外角和两个内角之和都是180度，因此外角和两个内角之和也是180度。",0
+10,抛物线$y=-x^2+2x-2$的顶点坐标为____,"(-1,1)","(1,-1)","(-1,-1)","(1,-3)",B," Certainly! I'd be happy to help you with that.
+
+The equation of the parabola is $y = -x^2 + 2x - 2$. To find the vertex of the parabola, we need to find the point where the parabola opens upward.
+
+We can set $y = 0$ and solve for $x$:
+
+$0 = -x^2 + 2x - 2$
+
+We can factor the left-hand side of the equation:
+
+$0 = (-x + 1)(-x + 2)$
+
+So, we have two possible solutions:
+
+$x = 1$ and $x = 2$
+
+Therefore, the vertex of the parabola is $(1, 1)$ and $(2, 1)$.
+
+The correct answer is C. (-1, 1).",0
+11,某商场销售甲、乙两种服装，已知乙服装每件的成本比甲服装贵50元，甲、乙服装均按成本价提高40％   作为标价出售.一段时间后，甲服装卖出了350件，乙服装卖出了200件，销售金额为 129500元，若用方程$350\times1.4x+200\times1.4\times\left(x+50\right)=129500$   表示其中的数量关系，则式子中 所表示的量是____,甲服装的标价,乙服装的标价,甲服装的成本价,乙服装的成本价,C," C. 甲服装的成本价
+
+解释：
+
+根据问题描述，甲服装每件的成本比乙服装贵50元，这意味着甲服装的成本价为乙服装的成本价加50元。
+
+由于甲服装卖出了350件，所以甲服装的销售金额为350 x 1.4 x 50 = 59000元。
+
+同理乙服装卖出了200件，所以乙服装的销售金额为200 x 1.4 x 50 = 34000元。
+
+因此，甲服装的成本价是销售金额的40%，即129500元的40%，则是：
+
+129500 x 0.4 = 51800元
+
+所以，甲服装的成本价为51800元。",1
+12,下列说法正确的是____(1)抛一枚硬币，正面一定朝上； (2)掷一颗骰子，点数一定不大于6；(3)为了解一种灯泡的使用寿命，宜采用普查的方法；(4)“明天的降水概率为80%”，表示明天会有80％的地方下雨．,1个,2个,3个,4个,A," C.3个。
+
+解释：
+
+1. 抛一枚硬币，正面一定朝上：这是一个随机事件，硬币的两面都有Equal probability，所以这个说法不正确。
+2. 掷一颗骰子，点数一定不大于6：这是一个归一化的随机事件，骰子的点数有6个可能，所以这个说法也不正确。
+3. 为了解一种灯泡的使用寿命，宜采用普查的方法：这是一个统计问题，需要采用普查的方法来解决，所以这个说法正确。
+4. “明天的降水概率为80%”，表示明天会有80％的地方下雨：这是一个概率问题，需要使用概率理论来解决，所以这个说法也不正确",0
+13,我国古代数学著作《孙子算经》中有一道题：“今有木，不知长短，引绳度之，余绳四尺五，屈绳量之，不足一尺，问木长几何？”大致意思是：“用一根绳子去量一根木条，绳子剩余4.5尺，将绳子对折再量木条，木条剩余1尺，问木条长多少尺？”设绳子长x尺，木条长y尺，则根据题意所列方程组正确的是____,"$\begin{cases}x-y=4.5,\\ \dfrac{1}{2}x-y=1\end{cases}$","$\begin{cases}x-y=4.5,\\ y-\dfrac{1}{2}x=1\end{cases}$","$\left\{\begin{matrix}x+y=4.5,\\ y-\dfrac{1}{2}x=1\end{matrix}\right.$","$\left\{\begin{matrix}x-y=4.5,\\ x-\frac{1}{2}y=1\end{matrix}\right.$",B," Hello! I'd be happy to help you with that. The correct answer is:
+
+A. $\begin{cases}x-y=4.5,\\ \dfrac{1}{2}x-y=1\end{cases}$
+
+Here's how we can solve this problem:
+
+We know that the length of the rope is 4.5 meters, and the length of the wood is y meters. We also know that the length of the wood after being cut is 1 meter less than the length of the rope.
+
+So, we can set up the following equation:
+
+x - y = 4.5 (since the length of the rope is 4.5 meters)
+
+We also know that the length of the wood after being cut is 1 meter less than the length of the rope, so we can write:
+
+y - (1/2)x = 1 (since the length of the wood after being cut is 1 meter less than the length of the rope)
+
+Now we have two equations and two variables (x and y). Solving these equations simultaneously, we get:
+
+x = 4.5 + 1 = 5.5 meters
+y = 4.5 - 1 = 3.5 meters
+
+So, the length of the wood is 3.5 meters, and the length",0
+14,甲、乙两班学生参加植树造林，已知甲班每天比乙班多植5棵树，甲班植80棵树所用的天数与乙班植70棵树所用的天数相等．若设甲班每天植树x棵，则根据题意得出的方程是____,$\frac{80}{x-5}=\frac{70}{x}$,$\frac{80}{x}=\frac{70}{x+5}$,$\frac{80}{x+5}=\frac{70}{x}$,$\frac{80}{x}=\frac{70}{x-5}$,D," C. $\frac{80}{x+5} = \frac{70}{x}$
+
+解释：
+
+根据题意，甲班每天植树x棵，比乙班多植5棵，所以甲班植树的天数为x+5，而乙班植树的天数为x。
+
+因此，甲班每天植树的棵数为80，可以写成：
+
+80 = $\frac{80}{x+5}$
+
+比较，可以得到：
+
+C. $\frac{80}{x+5} = \frac{70}{x}$
+
+这个方程表达了甲班每天植树x棵，比乙班多植5棵的关系。",0
+15,下列判断错误的的是____,$2x^{2}y^{2}$是二次单项式,单项式 $a$的系数和次数都是 1,数字3是单项式,$2\pi r$的系数是$2\pi$,A," A.$2x^{2}y^{2}$是二次单项式。
+
+解释：
+
+* A.$2x^{2}y^{2}$ 是一个二次单项式，因为它只有两个变量 $x$ 和 $y$，且每个变量的次数都是 2。
+* B.单项式 $a$ 的系数和次数都是 1 是错误的，因为单项式 $a$ 的系数可以是任意的数字，而不是必须是 1。
+* C.数字3是单项式 是错误的，因为数字 3 不是单项式。
+* D.$2\pi r$ 的系数是 $2\pi$ 是错误的，因为 $2\pi r$ 是圆的周长，而不是单项式。",1
+16,下列图形中有稳定性的是____,平行四边形,直角三角形,长方形,正方形,B," A. 平行四边形 (correct answer)
+
+Explanation:
+
+The stable shape in the options is the parallelogram. A parallelogram is a quadrilateral with both pairs of opposite sides parallel. It has a stable structure and does not change shape when a force is applied, unlike the other options.",0
+17,阳光文具店出售笔袋和水笔，笔袋每个12元，水笔每个2元，促销期间购一个笔袋送一个水笔，某人共付款 150元，购得笔袋、水笔共 35个（含赠品），则此人购得笔袋的个数为____,9,10,11,12,B," C.11
+
+解释：
+
+共付款150元，购得笔袋和水笔共35个，每个笔袋12元，则笔袋的数量可以算出来：
+
+150元 / 12元 = 12.5
+12.5 x 35 = 425
+
+因此，购得笔袋的个数为11。",0
+18,"一元二次方程$x^2-3x=1$的两个实数根为$\alpha$,$\beta$,则$\alpha+\beta$的值为____",3,-1,-3,1,A," A.3
+
+解释：
+
+一元二次方程$x^2-3x=1$可以 rewrite 为 $x^2 - 3x + 1 = 0$。
+
+解方程，得 $x = \frac{3 \pm \sqrt{3^2 - 4(1)}}{2} = \frac{3 \pm \sqrt{9 - 4}}{2} = \frac{3 \pm \sqrt{5}}{2}$。
+
+ therefore， $\alpha = \frac{3 + \sqrt{5}}{2}$ and $\beta = \frac{3 - \sqrt{5}}{2}$。
+
+ hence， $\alpha + \beta = \frac{3 + \sqrt{5}}{2} + \frac{3 - \sqrt{5}}{2} = 3$。
+
+ therefore， the correct answer is A.3.",1

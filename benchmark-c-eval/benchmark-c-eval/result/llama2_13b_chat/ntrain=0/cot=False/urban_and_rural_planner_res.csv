@@ -1,0 +1,252 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,对于固体污染物的控制规划内容，不够突出的是____。,电子污染物,生活垃圾,医疗废物,工业固体废物,A," D.工业固体废物。
+
+根据中国的urban_and_rural_planner考试标准，固体污染物的控制规划内容应该强调工业固体废物的处理和管理，而不是电子污染物、生活垃圾或医疗废物。",0
+1,竖向设计设计标高中，当建筑物无进车道时，一般室内地坪比室外地坪面高出____,0.30～0.90m,0.45～0.60m,0.25～0.30m,0.25～0.35m,B," C. 0.25～0.30m
+
+根据中国的建筑设计标准，当建筑物无进车道时，竖向设计设计标高中，室内地坪比室外地坪面高出0.25～0.30米。
+
+所以，选项C是正确的答案。",0
+2,城市总体规划的强制性内容，在防灾方面没涉及的灾害是____。,洪灾,震灾,涝灾,火灾,C," C.涝灾。
+
+根据中国的城市总体规划标准《城市总体规划（GB50035-2018）》，城市总体规划的强制性内容包括防灾准备，但防灾方面没有涉及到火灾。因此，选项D火灾不符合题目要求。
+
+而选项A洪灾和选项B震灾都不是城市总体规划的强制性内容。",1
+3,地下电力缆保护区的宽度为地下电力电缆线路地面标桩两侧各____所形成两平行线内区域。,0.5m,0.75m,1.0m,1.5m,B," C. 1.0m 是正确的答案。
+
+根据中国的城乡规划标准，地下电力缆保护区的宽度应当为地下电力电缆线路地面标桩两侧各形成两平行线内区域。这个区域的宽度通常为1.0米。
+
+所以，选项C：1.0m是正确的答案。",0
+4,下列城市全部由国务院公布为历史文化名城的是____,延安、淮安、泰安、瑞安、雅安,金华、银川、同仁、铁岭、无锡,韩城、聊城、邹城、晋城、塔城,歙县、寿县、祁县、浚县、代县,D," C.韩城、聊城、邹城、晋城、塔城。
+
+根据国务院的公布，以下城市全部被誉为历史文化名城：韩城、聊城、邹城、晋城、塔城。
+
+A.延安、淮安、泰安、瑞安、雅安是中国历史名城，但并非历史文化名城。
+
+B.金华、银川、同仁、铁岭、无锡不是历史文化名城。
+
+D.歙县、寿县、祁县、浚县、代县不是历史文化名城。",0
+5,《村庄整治技术导则》中提出，对于“空心村”，在住房制度上提出的政策是____。,拆除已坍塌的房屋,一户一宅,迁村并点,宅基地向村中心集中,B," C. 迁村并点。
+
+根据《村庄整治技术导则》，对于“空心村”，建议迁村并点，即将村庄中的聚落集中到村庄中心，以便更好地规划村庄的基础设施和公共空间。这种方式可以减少村庄的分散性，提高村庄的生活水平和便利性。
+
+A. 拆除已坍塌的房屋是指拆除已经坍塌的房屋，而不是迁移居民。
+
+B. 一户一宅是指每户一处宅基地，而不是迁村并点。
+
+D. 宅基地向村中心集中是指将宅基地集中在村庄中心，而不是迁村并点。",0
+6,下列不属于村庄规划的具体内容的是____。,社会经济规划,道路交通规划,绿化景观规划,市政规划,A," C.绿化景观规划。
+
+村庄规划主要涉及到农村发展、园林绿化、公共服务等方面，而绿化景观规划则是城市规划中的一个重要方面，主要关注城市绿地的规划和管理。因此，绿化景观规划不属于村庄规划的具体内容。",0
+7,居住区的规划布局形式类型中不包括____。,居住区—小区—组团,居住区—组团,街坊式,联合式组团,D," C. 街坊式。
+
+居住区的规划布局形式类型中不包括街坊式。街坊式是指城市的传统聚落格局，其特点是建筑物密集，巷道狭窄，通常有围墙或围栏，且有着较强的社区感。而居住区的规划布局形式通常包括小区、组团、联合式组团等。",0
+8,造成城乡生产力结构根本区别的是____。,文化观念的差异,生产力结构的差异,职能的差异,物质形态的差异,B," B. 生产力结构的差异。
+
+城乡生产力结构的根本区别是由于城市地区的生产力结构更加复杂和多样化，而农村地区的生产力结构相对较为简单和单一。这种区别主要表现在城乡各种产业的结构和规模上，以及城乡居民的生活方式和社会背景上。",1
+9,以下不属于液化石油气气化站与混气站的布置原则的是____。,液化石油气气化站与混气站的站址应靠近负荷区,站址应是地势平坦、开阔、不易积存液化石油气的地段,站址应与站外建筑物保持规范所规定的防火间距要求,作为机动气源的混气站不能与气源厂、城市煤气储配站合设,D," B.站址应是地势平坦、开阔、不易积存液化石油气的地段。
+
+根据中国的城乡规划标准（GB50037-2018），液化石油气气化站和混气站的布置原则包括：
+
+1. 站址应是地势平坦、开阔、不易积存液化石油气的地段，以避免液化石油气的积存和泄漏。
+2. 站址应与站外建筑物保持规范所规定的防火间距要求。
+3. 作为机动气源的混气站不能与气源厂、城市煤气储配站合设。
+
+因此，选项B是正确的答案。",0
+10,世界上现存最高的木塔是中国____,河南登封嵩岳寺塔,山西应县佛宫寺释迦塔,山东济南神通寺四门塔,陕西扶风法门寺塔,B," A. 河南登封嵩岳寺塔
+
+ correct! The tallest wooden tower in the world is the Huayan Temple Pagoda in Henan Province, China, which stands at a height of 84 meters (276 feet).",0
+11,采用一元线性回归的方法分析预测规划期城市人口规模的主要依据是____。,可以准确预测规划远期的人口数量,在某一时间段内城市人口的数量与时间，是一组相关的线性函数关系,城市人口遵循直线增长的规律,已掌握了充足的城市人口历年变动的资料,B," Based on the information provided, the correct answer is B. 在某一时间段内城市人口的数量与时间，是一组相关的线性函数关系.
+
+The one-liner regression method is used to analyze the main factors affecting the prediction of urban population scale, and the relationship between urban population and time is a set of linear functional relationships. This indicates that the population of the city changes in a linear manner over time, and the one-liner regression method can accurately predict the population size at a certain time point based on the historical data.
+
+Option A is incorrect because the one-liner regression method cannot guarantee accurate predictions for long-term planning. Option C is also incorrect because the population growth of the city does not necessarily follow a linear trend. Option D is not relevant to the given question.",1
+12,下列属于工业固体废物的产生量的预测方法的是____,单位产品法,百元产值法,人均指标法,增长率法,A," C. 人均指标法。
+
+工业固体废物的产生量的预测方法包括人均指标法、单位产品法、百元产值法等方法。人均指标法是一种基于人均生产量的预测方法，即通过对历史生产数据进行分析和预测，计算出未来一定时间内每个工业固体废物生产单位的均值，然后根据这些均值预测未来的生产量。这种方法能够考虑到工业固体废物生产的各种因素，如生产技术、 raw material 质量、生产设备等，因此是一种比较准确的预测方法。",0
+13,以下有关城市规划编制单位资质管理的说法正确的是____。,三个以上城市规划编制单位合作编制城市规划时，有关规划编制单位应当共同向任务所在地相应的主管部门备案,城市规划编制单位合并或者分立，应当在批准之日起15日内重新申请办理《资质证书》,申请乙级、丙级资质的，由所在地市、县人民政府城市规划主管部门审批，核发《资质证书》，并报国务院城市规划主管部门备案,乙、丙级城市规划编制单位跨省、自治区、直辖市设立的分支机构中，非独立法人的机构，不得以分支机构名义承揽业务,C," C.申请乙级、丙级资质的，由所在地市、县人民政府城市规划主管部门审批，核发《资质证书》，并报国务院城市规划主管部门备案。
+
+根据中国城市规划法规，城市规划编制单位应当在申请乙级、丙级资质的时候，由所在地市、县人民政府城市规划主管部门审批，核发《资质证书》，并报国务院城市规划主管部门备案。这是正确的选择。
+
+A、B和D是错误的选择。
+
+A：三个以上城市规划编制单位合作编制城市规划时，有关�",1
+14,下列不属于堆肥方法运用于固体垃圾处理优点的是____,占地较小,投资较低,产品可用作肥料,无害化程度很高,A," C. 产品可用作肥料。
+
+堆肥方法的优点包括：
+
+* 占地较小（A）
+* 投资较低（B）
+* 产品可用作肥料（C）
+* 无害化程度很高（D）
+
+中国的urban_and_rural_planner考试中会提问 relate to 堆肥方法的优点和缺点，以及其应用场景。",0
+15,公民、法人和社会团体为了促进城市规划有效、合理地实施，为了维护自己的合法权利，可以依法对城市规划行政机关做出的具体行政行为提出____。,行政诉讼,民事诉讼,行政仲裁,申诉,A," C. 行政仲裁。
+
+根据中国法律，公民、法人和社会团体可以依法对城市规划行政机关做出的具体行政行为提出行政仲裁，以便维护自己的合法权利。
+
+A. 行政诉讼是指对行政机关的行政决定或行政行为进行诉讼的legal procedure，不是对城市规划行政机关的具体行政行为的仲裁方式。
+
+B. 民事诉讼是指对其他个人或机构的民事纠纷的法律程序，与城市规划行政机关的具体行政行为无关。
+
+D. 申诉是指向相关部门或机构提出投诉或申请的行为，不是对城市规划行政机关的��",0
+16,下列哪一项不是城市总体规划中城市发展目标的内容?____,城市性质,用地规模,人口规模,基础设施和公共设施配套水平,A," C.人口规模不是城市总体规划中城市发展目标的内容。
+
+城市总体规划是指规划城市的发展规划，包括城市的规划、设施建设、交通运输、环境保护、住房建设等方面的规划。城市发展目标通常包括提高城市的生活水平、提高城市的经济效益、促进城市的社会发展、保护城市的环境等方面的目标。
+
+人口规模则是指城市的人口数量和分布情况，是城市规划中的一个重要因素。但是人口规模本身不是城市发展目标的内容，而是一个影响城市发展的因素。
+
+因此，C.人口规模不是城市总体规��",0
+17,工商业活动集聚的场所是____，也是从事工商业活动的人群聚居的场所。,乡村,郊区,田园,城市,D," C. 田园。
+
+工商业活动集聚的场所是田园，也是从事工商业活动的人群聚居的场所。",0
+18,大修的城市道路竣工后____年内不得挖掘；因特殊情况需要挖掘的，须经县级以上城市人民政府批准。,3,4,5,6,A," C.5 大修的城市道路竣工后5年内不得挖掘。
+
+根据中国的城市道路建设和管理规定，大修的城市道路竣工后5年内不得挖掘，这是为了保证道路的稳定和安全。如果因特殊情况需要挖掘的，须经县级以上城市人民政府批准。
+
+因此，选项C是正确的答案。",0
+19,洛杉矶的交通发展模式为____。,以小汽车为主、公交为辅的交通模式,以小汽车为主体的交通模式,以轨道公交为主、小汽车和地面公交为辅的交通模式,公交为主、小汽车为主导(公交与小汽车并重),B," C. 以轨道公交为主、小汽车和地面公交为辅的交通模式。
+
+洛杉矶的交通发展模式是以轨道公交为主体，小汽车和地面公交为辅的模式。洛杉矶市政府在城市规划和交通建设方面强调综合发展，即以轨道公交为主体，小汽车和地面公交为辅，以减少交通堵塞和排 emission，提高城市的生活质量和环境清洁度。",0
+20,根据《中华人民共和国环境影响评价法》的规定，下列关于规划环境影响评价的内容和审批表述中不正确的是____,未编写有关环境影响的篇章或者说明的规划草案，审批机关不予审批,专项规划的编制机关在报批规划草案时，必须将环境影响登记表一并附送审批机关审查,专项规划的环境影响报告书应当包括环境影响评价的结论,规划有关环境影响的篇章或者说明，应当对规划实施后可能造成的环境影响作出分析、预测和评估,B," Based on the ""Law of the People's Republic of China on Environmental Impact Assessment"", the correct answer is:
+
+D. 规划有关环境影响的篇章或者说明，应当对规划实施后可能造成的环境影响作出分析、预测和评估.
+
+According to the law, the environmental impact assessment report should include an analysis, prediction, and evaluation of the potential environmental impacts of the planning implementation. The other options are not correct:
+
+A. 未编写有关环境影响的篇章或者说明的规划草案，审批机关不予审批 (incorrect, the planning department should include a chapter or explanation on environmental impact in the planning proposal)
+
+B. 专项规划的编制机关在报批规划草案时，必须将环境影响登记表一并附送审批机关",1
+21,根据《城市道路绿化规划与设计规范》的规定，城市道路绿化规划与设计的基本原则不包括____。,城市绿化树木与市政公用设施的相互位置应统筹安排，并应保证树木有必要的立地条件与生长空间,城市道路绿化应以地被植物为主，地被植物、乔木、灌木相结合，不得裸露土壤,修建城市道路时，宜保留有价值的原有树木，对古树名木应予以保护,城市道路绿化应符合车行视线和行车净空要求,B," Based on the ""Urban Road Greening Planning and Design Standards"" of China, the basic principle of urban road greening planning and design does not include:
+
+C. Retaining valuable existing trees and protecting ancient trees.
+
+Therefore, the correct answer is C.",1
+22,根据《历史文化名城名镇名村保护条例》，保护规划应当自历史文化名城、名镇、名村批准公布之日起____年内编制完成。,半,1,2,3,B," According to the ""Regulations on the Protection of Historical and Cultural Cities, Towns, and Villages,"" the protection planning should be completed within _____ years after the approval date.
+
+根据《历史文化名城名镇名村保护条例》，保护规划应当自历史文化名城、名镇、名村批准公布之日起____年内编制完成。
+
+The correct answer is C. 2 years.
+
+根据《历史文化名城名镇名村保护条例》，保护规划应当自历史文化名城、名镇、名村批准公布之日起2年内编制完成。",0
+23,下列有关法律效力选项中不正确的是____,在一定主体制定的法律规范中，按照特定的、更为严格的程序制定的法律规范，其效力等级高于按照普通程序制定的法律规范,当同一制定机关按照相同程序就同一领域问题制定了两个以上法律规范时，后来法律规范的效力高于先前制定的法律规范,同一主体在某领域既有一般性立法又有特殊立法时，特殊立法通常优于一般性立法,国家机关授权下级国家机关制定的所有的法律、法规，其在效力上等同于授权机关自己制定的法律、法规,D," C. 同一主体在某领域既有一般性立法又有特殊立法时，特殊立法通常优于一般性立法。
+
+根据中国法律系统中的主体法律原则，同一主体在某领域既有一般性立法又有特殊立法时，特殊立法通常会优先于一般性立法。这是因为特殊立法更加细化地考虑了特定的情况和需求，可以更好地满足实际情况的需求。
+
+A、B、D 三个选项都不正确。
+
+A. 在一定主体制定的法律规范中，按照特定的、更为严格的程序制定的法律规范，其效力等级高于按照普通程序制定的法律��",0
+24,城市公共交通系统的核心设施是____。,公交换乘枢纽,城市各级公共中心,市级公交干线,城市对外客运交通枢纽,A," C. 市级公交干线。
+
+ correct! 城市公共交通系统的核心设施是市级公交干线。",0
+25,根据《城市抗震防灾规划管理规定》，下列关于城市抗震防灾规划编制要求的表述不正确的是____。,城市抗震防灾规划中的抗震设防标准、建设用地评价与要求、抗震防灾措施应当列为城市总体规划的强制性内容，作为编制城市详细规划的依据,城市抗震防灾规划的规划范围应当与城市总体规划相一致，但其应在城市总体规划实施之后进行,城市抗震防灾规划应当按照城市规模、重要性和抗震防灾的要求，分为甲、乙、丙三种模式,位于地震基本烈度七度及七度以上地区的大城市应按照甲类模式编制,B," Based on the ""Regulations on Urban and Rural Planning Management"" of China, the correct answer is:
+
+B. The scope of the earthquake disaster prevention and mitigation plan should be consistent with the overall scope of the city's urban and rural planning, but it should be formulated after the implementation of the city's overall plan.
+
+According to the regulations, the earthquake disaster prevention and mitigation plan should be formulated based on the city's overall planning, taking into account the city's scale, importance, and earthquake disaster prevention and mitigation requirements. The plan should be formulated after the implementation of the city's overall plan, and it should be reviewed and revised as necessary.
+
+Therefore, option B is the correct answer.",1
+26,港口岸线分配原则是____。,主要考虑与城市道路衔接,“深水深用、浅水浅用、避免干扰、各得其所”,客运港位于货运港的上风方向,综合考虑船舶航行、货物装卸、库场储存及后方集疏,B," B. “深水深用、浅水浅用、避免干扰、各得其所” 是 correct answer.
+
+The principle of port layout is to ""深水深用、浅水浅用、避免干扰、各得其所"" (Shallow water shallow use, deep water deep use, avoid interference, each has its own). This principle emphasizes the efficient use of water depth and avoiding interference between different types of cargo and operations.",1
+27,根据《省级国土空间规划编制指南(试行)》，以城镇建设、农业生产和工业生产等为主的国土空间开发活动是指____,国土空间开发,国土空间利用,国土空间规划,国土空间保护,A," C. 国土空间规划。
+
+根据《省级国土空间规划编制指南(试行)》，国土空间规划是指以城镇建设、农业生产和工业生产等为主的国土空间开发活动。",0
+28,下列不符合《人民防空法》规定的是____,城市是人民防空的重点,国家对城市实行分类防护,城市防护类别、防护标准由中央军事委员会规定,城市人民政府应当制定防空袭方案及实施计划，必要时可以组织演习,C," C. 城市防护类别、防护标准由中央军事委员会规定。
+
+根据《人民防空法》的规定，城市防护类别和防护标准由中央军事委员会规定，而不是由城市人民政府制定。因此选项C是正确的答案。",1
+29,在城市规划分析中，下列用来反映数据离散程度的是____,平均数,众数,标准差,频数分布,C," C. 标准差。
+
+在城市规划分析中，使用标准差可以反映数据离散程度，而不是平均数（A）、众数（B）或频数分布（D）。",1
+30,城市交通调查的目的是____。,进行城市交通规划、城市道路系统规划和城市道路设计的基础工作,收集城市公共交通客运总量、货运总量，对外交通客、货运总量等运输现状与发展资料,根据调查的资料，分析城市车辆以及客、货运量的增长特点和规律,摸清城市道路上的交通状况，城市交通的产生、分布、运行规律以及现状存在的主要问题,D," D. 摸清城市道路上的交通状况，城市交通的产生、分布、运行规律以及现状存在的主要问题。
+
+城市交通调查的主要目的是了解城市道路上的交通状况，包括交通量、速度、停车时间、交通流量分布等方面的情况，以便为城市交通规划、道路系统规划和道路设计提供数据支持。
+
+A、B和C选项都不是城市交通调查的主要目的。
+
+A选项是进行城市交通规划、城市道路系统规划和城市道路设计的基础工作，而不是通过调查来获取数据。
+
+B选项是收集城市公共交通客运总量、货运总量，对外交通客、货运总量等运输现状与发展资料，而不",1
+31,下列以满足交通运输的要求为主要功能并承担城市主要的交通量及与对外交通联系的道路是____。,生活性道路,交通性道路,主干路,快速路,B," B. 交通性道路。
+
+根据中国的城市规划和交通规划标准，交通性道路是指城市主要的交通量及与对外交通联系的道路，具有以下特点：
+
+1. 主要功能是满足交通运输的要求，而不是供应生活用途。
+2. 具有较高的交通能力和较快的速度，能够满足城市内外的交通需求。
+3. 通常位于城市主干道路的中心或边缘，与其他道路相连，形成紧密的交通网络。
+
+因此，选项B是正确答案。",1
+32,建设单位应当按照规划条件进行建设；确需变更的，必须向____提出申请。,城市、县人民政府土地主管部门,城市、县人民政府国土资源部门,城市、县人民政府建设行政主管部门,城市、县人民政府城乡规划主管部门,D," C. 城市、县人民政府建设行政主管部门。
+
+根据中国的法律和规定，建设单位应当按照规划条件进行建设，如果需要变更规划，必须向相关部门申请。在这种情况下，建设单位应当向城市或县人民政府建设行政主管部门提出申请，以便获得相关的批准和指导。",0
+33,在城市详细规划阶段预测用电负荷，一般采用下列哪种方法?____,人均综合用电量指标法,单位建设用地负荷指标法,单位建筑面积负荷指标法,电力弹性系数法,C," C. 单位建筑面积负荷指标法
+
+在城市详细规划阶段预测用电负荷，一般采用单位建筑面积负荷指标法，这是因为建筑面积是城市规划中最重要的一个因素，建筑面积的大小直接影响用电负荷的大小。人均综合用电量指标法和电力弹性系数法都不能准确地预测用电负荷。",1
+34,在规划实施过程中由城乡规划主管部门核发的证书不包括____。,建设用地规划许可证,建设工程规划许可证,乡村建设规划许可证,建设工程施工许可证,D," C. 乡村建设规划许可证。
+
+根据中国的城乡规划法规，城乡规划主管部门在规划实施过程中需要发布证书，这些证书包括：
+
+* 建设用地规划许可证（A）
+* 建设工程规划许可证（B）
+* 乡村建设规划许可证（C）
+
+而建设工程施工许可证（D）是建设工程施工过程中由建设部门发布的证书，不是在规划实施过程中由城乡规划主管部门发布的证书。",0
+35,下列关于建筑与等高线之间关系的表述，错误的是____,建筑与等高线平行,建筑与等高线垂直,建筑与等高线重合,建筑与等高线斜交,C," C. 建筑与等高线重合。
+
+ correct! The relationship between buildings and the height line is that they are parallel, not perpendicular, vertical, or oblique.",1
+36,依据《城市用地分类与规划建设用地标准》，其规划人均公共管理与公共服务用地面积指标不应少于____。,5.0m^2/人,5.5m^2/人,6.0m^2/人,6.5m^2/人,B," According to the ""Urban and Rural Planning and Construction Land Use Standard"" of China, the per capita public management and public service land area indicator should not be less than:
+
+C. 6.0m^2/person
+
+Therefore, the correct answer is C.",0
+37,城市供热一级管网宜采用____。,闭式,开式,开式双管制,闭式单管制,A," C. 开式双管制。
+
+中国城市供热一级管网的采用标准是开式双管制，这种方式可以充分利用热能资源，提高热能利用率，降低能源投入和环境污染。",0
+38,下列关于村庄规划的表述，哪项是错误的?____,应以行政村为单位,应向村民公示,方案由县级城乡规划行政主管部门组织专家和相关部门进行技术审查,成果由村委会报县级人民政府审批,D," C. 方案由县级城乡规划行政主管部门组织专家和相关部门进行技术审查 是错误的。
+
+ correct answer:
+
+A. 应以行政村为单位
+
+Explanation:
+
+In China, village planning is typically conducted at the township level, and the township government is responsible for organizing and leading the planning process. Therefore, the correct answer is ""应以行政村为单位"" (should be based on the township).
+
+The other options are not correct because:
+
+B. 应向村民公示 (should be publicly notified to the villagers) is not the primary responsibility of the township government, but rather the responsibility of the village committee.
+
+D. 成果由村委会报县级人民政府审批 (the results should be reported to the county-level people's government for approval) is not the correct order of the planning process, as the township government should be the primary entity responsible for reviewing and approving the plans.",0
+39,根据《城市规划编制单位资质管理规定》，下列关于城市规划编制单位资质监督管理的表述中，不正确的是____。,城市规划编制单位提交的城市规划编制成果，应当在文件扉页注明单位资质等级和证书编号,禁止无城市规划编制的机构对城市规划编制单位实行资质年检制度,发证部门或其委托的机构对城市规划编制单位实行资质年检制度,甲、乙级城市规划编制单位跨省、自治区、直辖市承担规划编制任务时，未向其人民政府城市规划行政主管部门备案的，由该人民政府城市规划行政主管部门给予警告，责令其补办备案手续，并处1万元以上5万元以下的罚款,D," Based on the ""Regulations on the Qualification Management of Urban and Rural Planning Units"" in China, the incorrect statement is:
+
+B. 禁止无城市规划编制的机构对城市规划编制单位实行资质年检制度.
+
+According to the regulations, it is not prohibited for organizations without urban and rural planning qualifications to implement qualification year-end reviews on urban and rural planning units. Therefore, option B is incorrect. The correct answer is:
+
+A. 城市规划编制单位提交的城市规划编制成果，应当在文件扉页注明单位资质等级和证书编号.
+
+This statement is correct, as urban and rural planning units are required to indicate their qualification level and certificate number on the cover page of their planning submissions.",0
+40,以下对城市所具有的基本特征的概括，表述不正确的是____。,城市的发展动态是变化和多样的,城市的概念是相对存在的,以要素聚集为基本特征,不具有系统性,D," C.以要素聚集为基本特征。
+
+对城市所具有的基本特征的概括应该是以要素聚集为基本特征，而不是变化和多样的（A）、相对存在的（B）或不具有系统性（D）。",0
+41,下列符合核电厂选址要求的是____,便于拦河筑坝的河流狭窄处或水库水流下游处,电厂铁路专用线选线要尽量减少对国家干线通过能力的影响,靠近负荷中心，以减少输电费用,工程地质条件良好，土地耐力高，非地质断裂带,C," C. 靠近负荷中心，以减少输电费用。
+
+根据中国的城乡规划考试题，选择项C是正确的答案。靠近负荷中心可以减少输电费用，因为输电费用是电厂建设的重要考虑因素之一。",1
+42,____是建立城市艺术骨架和组织城市空间的重要手段之一，它可以把城市空间组织成一个有秩序、有韵律的整体。,城市绿化,城市水面,城市制高点,城市轴线,D," C. 城市轴线。
+
+ correctly! 城市轴线是建立城市艺术骨架和组织城市空间的重要手段之一，可以把城市空间组织成一个有秩序、有韵律的整体。",0
+43,为了定量分析采取某项措施对于减少城市污染的效果，所开发的系统属于____,决策支持系统,事务管理系统,管理信息系统,专家系统,B," C. 管理信息系统。
+
+为了定量分析采取某项措施对于减少城市污染的效果，需要集成和分析大量的数据，这种系统属于管理信息系统。
+
+A. 决策支持系统 是用于帮助决策者做出更好的决策的系统，不直接关于城市污染的管理。
+
+B. 事务管理系统 是用于管理企业或组织的日常业务，也不直接关于城市污染的管理。
+
+D. 专家系统 是用于咨询和帮助专业人员做出决策的系统，也不直接关于城市污染的管理。",0
+44,计算道路网的密度，分析管线穿越地块的问题，可以采用矢量叠合的____的叠合。,点和面,线和面,面和面,点和线,B," C.面和面。
+
+计算道路网的密度和分析管线穿越地块的问题可以采用矢量叠合的面和面方法。这种方法可以快速地计算出道路网的密度和管线的穿越情况，帮助urban和rural planner更好地规划城市和农村地区的交通和基础设施。",0
+45,标志着欧洲进入封建社会的中世纪的是____。,奥匈帝国的灭亡,古希腊的灭亡,波斯帝国的灭亡,罗马帝国的灭亡,D," A. 奥匈帝国的灭亡。
+
+欧洲进入封建社会的中世纪是指中世纪的开始，这个时期 caracterized by the rise of feudalism and the decline of the Roman Empire. The fall of the Roman Empire, specifically the fall of the Western Roman Empire, is considered a turning point in European history and marked the beginning of the Middle Ages. Therefore, option A is the correct answer.",0

@@ -1,0 +1,119 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,"近日，泰州首个“泰有礼”主题街在海陵区城北街道正式亮相。主题街上设立的文明新风展示牌和主题雕像，传递着爱国爱家、礼让谦恭、诚信做事的中华传统美德。“泰有礼”主题街的设立有利于____
+
+①提升市民的文明素质  ②增强民族文化认同感
+③重塑政府的良好形象  ④优化城市的人文环境",①④,①②④,①②,②③④,B," Based on the information provided, the correct answer is B.①②④.
+
+The establishment of the ""泰有礼"" (Tài yǒu lǐ) theme street in Hainan District, Tianjin, with its cultural and artistic displays, is aimed at transmitting the traditional Chinese virtues of love for the motherland, respect for elders, and integrity in one's duties. These virtues are essential for cultivating civic morality and enhancing the city's humanistic environment.
+
+Therefore, the correct answer is B, which includes all three options:
+
+① 提升市民的文明素质 (Improving civic morality)
+② 增强民族文化认同感 (Enhancing national cultural identity)
+④ 优化城市的人文环境 (Optimizing the city's humanistic environment)",1
+1,"非公有制经济是我国社会主义市场经济的重要组成问题，我国鼓励、支持、引导非公有制经济发展是因为非公有制经济____
+
+①广泛吸纳社会资金，是国民经济的主导力量 ②有利于增长税收、扩大就业、促进经济增长
+③是我国社会主义经济制度的基础，占主体地位 ④在促进大众创业和万众创新方面发挥重要作用",①②,①③,②④,③④,C," C.②④ 是正确答案。
+
+非公有制经济是我国社会主义市场经济的重要组成问题，我国鼓励、支持、引导非公有制经济发展是因为非公有制经济可以吸纳社会资金，是国民经济的主导力量（②），同时也有利于增长税收、扩大就业、促进经济增长（①）。非公有制经济是我国社会主义经济制度的基础，占主体地位（③），而不是社会主义市场经济的基础（④）。",1
+2,"要坚持市场在资源配置中起决定性作用，其原因有____ 
+
+①为了保持经济发展的活力 ②市场配置资源是最有效率的形式
+③政府履行职能可以保持宏观经济的稳定 ④可以加强和优化公共服务，促进共同富裕",①②,①③,②④,③④,A," A. ①②
+
+根据选项中的内容，可以确定正确答案是A. ①②。
+
+中国在资源配置中坚持市场在资源配置中起决定性作用的原因主要是为了保持经济发展的活力。这是因为市场配置资源是最有效率的形式，可以最好地 allocate resources and optimize the allocation of resources.
+
+其次，政府履行职能可以保持宏观经济的稳定，但这并不是坚持市场在资源配置中起决定性作用的原因。加强和优化公共服务也是重要的，但不是直接 relacionado con la pregunta.",1
+3,下列场景中，你认为符合礼仪要求的是____,在博物馆参观边听讲解人员讲解，边吃香甜味重的食品,在楼道里遇到不教自己的本校老师，主动问好,家庭聚会时，刚一上菜就自顾自的吃起来,在图书馆阅读区域，和同伴私语，随意大声接打电话,B," B. 在楼道里遇到不教自己的本校老师，主动问好。
+
+中国的礼仪要求 emphasizes the importance of respect for others, particularly for those in positions of authority or elderly individuals. In scenario B, the student is showing respect for their teacher by initiating a greeting, even though the teacher is not familiar to them. This behavior is in line with the expectations of middle school students in China.
+
+Scenario A is not in line with the expectations of middle school students in China, as it involves eating and listening to a lecture at the same time, which is considered rude. Scenario C is also not appropriate, as it involves eating without waiting for everyone to be served, which is considered impolite. Scenario D is not related to the topic of middle school politics.",1
+4,2018年9月27日，习近平在视察中国石油辽阳石化公司时强调，国有企业地位重要、作用关键、不可替代，是党和国家的重要依靠力量。对此认识正确的有____,国有经济是国民经济的主导力量,国有经济是社会主义经济制度的基础,国家限制国有经济的壮大和发展,国有经济将取代非公有制经济的地位,A," B.国有经济是社会主义经济制度的基础。
+
+根据习近平的讲话，国有企业是国家和党的重要依靠力量，是社会主义经济制度的基础。这个讲话表达了中国政府对国有企业的重视和支持，而不是认为国有经济是国民经济的主导力量（A），也不是认为国有经济将取代非公有制经济的地位（D）。",0
+5,时至近日，中美经历了九次经贸高级别磋商，并取得实质性进展。这表明____,发展与合作是当今时代的主题,经济全球化的背景下，我国经济发展面临着许多风险和挑战,对话交流成为当今国际社会发展友好关系、解决国际争端、促进合作的主要方式,中美之间不再有任何的矛盾与分歧,C," C. 对话交流成为当今国际社会发展友好关系、解决国际争端、促进合作的主要方式。
+
+中美经贸高级别磋商是一例，表明对话交流在当今国际社会发展中扮演着重要的角色，帮助解决国际争端、促进合作。",1
+6,2022年，是全面建设社会主义现代化国家，向第二个百年奋斗目标进军的重要一年也是喜迎中国共产党二十大胜利召开的重要一年。下列关于中国共产党的说法错误的是____,中国共产党在整个国家机关体系中居于最高地位,中国共产党是中国特色社会主义事业的领导核心,党的领导是中国特色社会主义制度的最大优势,党的初心和使命是为中国人民谋幸福、为中华民族谋复兴,A," C. 党的领导是中国特色社会主义制度的最大优势。
+
+中国共产党是中国特色社会主义事业的领导核心，而不是在整个国家机关体系中居于最高地位（A），也不是为中国人民谋幸福和中华民族谋复兴（D）。中国特色社会主义制度的最大优势是党的领导（C）。",0
+7,美团外卖骑手小杨为了赶时间多送，闯红灯被交警罚款100元；撞伤小王的私家车，弄坏保险杠，赔偿800元；私家车车主把小杨打成重伤被判拘役3个月，罚金10000元。上述违法行为分别是____,民事违法行为、行政违法行为、刑事违法行为,行政违法行为、刑事违法行为、民事违法行为,刑事违法行为、行政违法行为、民事违法行为,行政违法行为，民事违法行为、刑事违法行为,D," C. 刑事违法行为、行政违法行为、民事违法行为。
+
+解释：
+
+1. 美团外卖骑手小杨闯红灯被交警罚款100元，这是一种行政违法行为。
+2. 小杨撞伤小王的私家车，弄坏保险杠，赔偿800元，这是一种民事违法行为。
+3. 私家车车主把小杨打成重伤被判拘役3个月，罚金10000元，这是一种刑事违法行为。",0
+8,"坚持和发展中国特色社会主义的总任务是____
+
+①实现社会主义现代化 ②坚持以经济建设为中心
+③实现中华民族伟大复兴 ④坚持“五位一体”总布局",①②,①③,②④,③④,B," C. 坚持“五位一体”总布局。
+
+中国特色社会主义的总任务是坚持“五位一体”总布局，即坚持中国特色社会主义、坚持经济建设为中心、坚持社会发展、坚持文化和道德价值观、坚持和发展中国特色社会主义。
+
+①实现社会主义现代化和②坚持以经济建设为中心是中国特色社会主义的重要方向，但不是总任务。
+
+③实现中华民族伟大复兴是中国特色社会主义的历史任务，但不是总任务。
+
+④坚持“五位一体”总布局是中国特色社会主义的总任务。",0
+9,"2019年5月10日，国家市场监管总局就“西安奔驰漏油事件”及相关问题约谈奔驰，明确要求，经销商不得以提供金融服务为由收取费用，必须发布服务公约和收费清单，确保收费公开透明。此项规定有助于保护消费者的____
+
+①安全权 ②自主选择权 
+③知情权 ④公平交易权",①②③,①②④,②③④,①③④,C," C. ②③④.
+
+根据国家市场监管总局的规定，经销商不得以提供金融服务为由收取费用，必须发布服务公约和收费清单，确保收费公开透明。这种规定有助于保护消费者的知情权（③）和公平交易权（④）。而安全权（①）和自主选择权（②）不是 directly related to this regulation.",1
+10,下列人员的工作单位属于个体经济的是____,小宁夫妻经营的小餐馆,小红就职的国有企业,小君工作的镇办企业,小安应聘的外资企业,A," C. 小君工作的镇办企业。
+
+根据中国的职业教育和培训政策，中学生在学习时期内，可以在镇办企业或者社会团体机构担任实习生或者兼职工作，这样可以帮助学生获得实践经验和职业发展的机会。因此，小君工作的镇办企业是一个正确的选项。",0
+11,同学们围绕“人治”与“法治”展开了系列讨论，下列观点不正确的是____,人治强调法律只是作为办事的参考,法治强调法律制度的理性及一般指导作用,法治具有可预期性、可操作性、可救济性,法治是公共透明的规则之治，人治优于法治,D," Based on the information provided, the correct answer is B.法治强调法律制度的理性及一般指导作用.
+
+人治（renzhidi） refers to the idea that the rule of law should be based on human reason and morality, rather than simply following the law as a set of rules. This perspective emphasizes the importance of considering the broader social and ethical implications of legal decisions, rather than just applying the law as a set of strict rules.
+
+法治（fa zhì）, on the other hand, emphasizes the importance of the law as a set of rules and regulations that provide a framework for society. It emphasizes the importance of the legal system in maintaining social order and stability, and in providing a fair and impartial framework for resolving disputes.
+
+Therefore, option B is the correct answer, as it reflects the idea that the law should be based on reason and morality, rather than simply being a set of strict rules. Options A and D are incorrect, as they do not accurately reflect the meaning of the terms ""人治"" and ""法治"". Option C is also incorrect, as it is not a accurate description of the concept of ""法治"".",0
+12,2018年11月1日，习近平总书记主持召开民营企业座谈会并发表重要讲话，强调我国民营经济只能壮大、不能弱化。这是因为____,民营经济是国民经济的主导力量,民营经济是社会主义经济制度的基础,只有民营经济才能促进大众创业、万众创新,我国坚持以公有制为主体、多种所有制经济共同发展,D," C. 只有民营经济才能促进大众创业、万众创新。
+
+根据习近平总书记的讲话，他强调了民营经济的重要性，认为只有民营经济才能促进大众创业、万众创新。这也是中国现代化建设的重要策略之一。",0
+13,"国家主席习近平强调：“要从保护人民健康、保障国家安全、维护国家长治久安的高度，把生物安全纳入国家安全体系。”对此，认识正确的有____
+
+①生物安全涉及国家重要利益 ②保障生物安全就能实现国家安全
+③生物安全关系人民幸福安康 ④生物安全问题只对经济造成危害",①②,①③,②④,③④,B," Based on the information provided, the correct answer is B.①③.
+
+国家主席习近平强调：“要从保护人民健康、保障国家安全、维护国家长治久安的高度，把生物安全纳入国家安全体系。” This emphasizes the importance of prioritizing the health and safety of the people and the country, and incorporating biological safety into the national security system.
+
+Therefore, the correct answer is B, which includes both ①生物安全涉及国家重要利益 (biological safety is related to the country's major interests) and ③生物安全关系人民幸福安康 (biological safety is related to the people's happiness and health).",1
+14,“风声、雨声、读书声，声声人耳；家事、国事、天下事，事事关心。”这副对联给我们的启示是____,要参加社会实践活动，热心帮助贫困儿童,要学好文化知识，其他事情与自己无关,要关心社会发展，关注国家大事,事必躬亲，大小事都要亲力亲为,C," C. 要关心社会发展，关注国家大事。
+
+解释：
+
+这副对联提出了三种声音，分别是风声、雨声和读书声，表达了三种不同的情感和意识。风声 symbolizes 社会的动乱和变革，雨声 symbolizes 人们的思想和情感的深沟，读书声 symbolizes 知识和文化的积累和传承。而“家事、国事、天下事” three types of matters，强调了关注社会发展、国家大事和天下大事的重要性。
+
+因此，正确选项是C. 要关心社会发展，关注国家大事。",1
+15,2019年3月5日十三届全国人大一次会议上，李克强总理在政府工作报告中提出2019年国内生产总值增长的预期目标是____,5%-5.5%,5.5%-6%,6%-6.5%,6.5%-7%,C," C. 6%-6.5%
+
+根据2019年3月5日十三届全国人大一次会议上李克强总理在政府工作报告中提出的国内生产总值增长的预期目标，是6%-6.5%。",1
+16,"现在的世界是____
+
+ ①一个开放的世界 ②一个发展的世界
+ ③一个紧密联系的世界 ④一个没有贫困和战争的世界",①②③,①②④,②③④,①③④,A," C. ②③④.
+
+中国关于middle_school_politics考试中，现在的世界是一个紧密联系的世界（③），因为人们在全球化时代，通过科技和交流，已经形成了一个紧密的联系和互动网络，这使得世界变得更加紧密联系。而不存在贫困和战争（④），这也是现代世界的目标之一。因此，选项C是正确的答案。",0
+17,当今世界，科学技术日新月异，全球竞争不断升级，中国要把握世界的发展趋势，积极谋求自身发展，提高国际竞争力，促进发展，要把提升____放在首位。,发展质量,制造业,国防实力,传统产业,A," C. 国防实力。
+
+根据提问的内容和选项的选择，可以确定正确答案是C. 国防实力。中国要把握世界的发展趋势，积极谋求自身发展，提高国际竞争力，这和提高国防实力有直接关系。而A. 发展质量、B. 制造业和D. 传统产业都不是 directly related to the topic.",0
+18,每年春暖花开之际也是我国“两会”之时。全国“两会”指的是____,全国人民代表大会和中共中央全会,全国人民代表大会和中国人民政治协商会议,全国人民代表大会和中国共产党全国代表大会,中国共产党全国代表大会和中国人民政治协商会议,B," C. 全国人民代表大会和中国共产党全国代表大会。
+
+中国的""两会""指的是全国人民代表大会和中国共产党全国代表大会。这两个机构都是中国的最高权力机构，负责制定国家政策和法律，并对国家的经济、社会和文化发展产生重要影响。",0
+19,“法定职责必须为，法无授权不可为。”宪法的核心价值追求是____,依法行政,保证人民当家作主,公正司法,规范权力运行,D," C.公正司法。
+
+“法定职责必须为，法无授权不可为”是中国宪法的核心价值追求，强调法律是国家的最高规约，国家和公民的行为必须遵循法律规范，保证人民的权利和利益。因此，正确的选项是C.公正司法。",0
+20,5亿人，织就了世界上最大的社会保障网。上述举措旨在实现____,国家富强,民族振兴,人民幸福,国有经济将取代非公有制经济的地位,C," C. 人民幸福。
+
+中国政府的中长期目标之一是实现人民幸福，而不是国家富强或民族振兴。中国政府通过提供各种社会保障和公共服务来保障人民的基本需求和权益，如医疗卫生、教育、社会保障、公共住房等，以实现人民的幸福和发展。
+
+因此，选项C是正确答案。",1

@@ -1,0 +1,74 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,一般来说，一个人对社会的贡献越大，他的____,社会地位就越高,个人价值就越高,社会价值就越高,自我完善就越高,C," general, the more a person contributes to society, the higher their:
+
+C. social value.
+
+So the answer is C. Social value.",1
+1,我国森林法把每年____定为全国统一的“植树节”,44990,44996,44997,45000,C," based on the information provided, the correct answer is:
+
+C. 44997
+
+According to the Forest Law of China, March 12th of each year is designated as the national uniform ""Tree Planting Day"" (中国全国统一的 ""植树节"" ).",1
+2,爱国主义包含着情感、思想、行为三个方面，其中____是灵魂,情感,思想,行为,意志,B," correct! 爱国主义包含着情感、思想、行为三个方面，其中情感是灵魂。
+
+所以答案是：A.情感",0
+3,实现人生价值的根本途径是____,培养正确的人生态度,自觉提高自我的主体素质和能力,进行有意识、有目的的创造性实践活动,选择与社会主导价值观相一致的人生价值目标,C,"让我们一步一步思考,
+1. 实现人生价值的根本途径是培养正确的人生态度。
+所以答案是：A",0
+4,人生不仅仅是一个自然过程，还包含着极为丰富的____,社会存在,社会内容,社会过程,社会关系,B,"让我们一步一步思考,
+1. 人生不仅仅是一个自然过程，还包含着极为丰富的社会存在。
+所以答案是：A.社会存在",0
+5,人才素质的灵魂是____,德,智,体,美,A,"让我们一步一步思考,
+1. 人才素质的灵魂是德。德意味着人才的内在素质和品格，包括诚实、坚定、勤奋、优雅、谨慎等。
+所以答案是：A.德。",1
+6,人生观的核心____,人生价值,人生目的,人生态度,人生信仰,B,"让我们一步一步思考,
+1. 人生观的核心是人生目的。人生目的是指人们对自己生活的意义和目标的认识和追求。
+所以答案是：B.人生目的。",1
+7,社会主义经过长期的发展，在高度发达的基础上最终会转变为____,资本主义社会,共产主义社会,帝国主义,垄断主义,B," Based on the development of socialism, it is believed that it will eventually transform into a:
+
+B. Communist society.
+
+Therefore, the correct answer is: B. Communist society.",1
+8,科学发展观的本质和核心是____,全面发展,协调发展,统筹发展,以人为本,D,"让我们一步一步思考,
+1. 科学发展观的本质和核心是以人为本。
+所以答案是：D.以人为本。",1
+9,现代人才综合素质的灵魂是____,人才的思想道德素质,人才的文化素质,人才的心理素质,人才的身体素质,A,"让我们一步一步思考,
+1. 现代人才综合素质的灵魂是人才的思想道德素质。
+所以答案是：A",1
+10,下列关于人的社会关系与自然关系的表述错误的是____,人在与自然发生关系的过程中结成了社会关系,人与人的社会关系极大地影响着人与自然的关系,自然关系是社会关系的基础，社会关系是自然关系的延伸,协调好人与自然的关系，就需要协调好人与人之间的社会关系,C," The correct answer is B. 人与人的社会关系极大地影响着人与自然的关系.
+
+The statement B suggests that social relationships between people have a profound impact on people's relationships with nature, which is incorrect. Social relationships between people do not directly affect people's relationships with nature.
+
+The other options are not correct because:
+
+A. People do not form social relationships with nature, but rather with other people.
+
+C. The relationship between social relationships and natural relationships is not a one-way street, and both are influenced by a variety of factors.
+
+D. Coordinating social relationships between people does not necessarily coordinate people's relationships with nature.",0
+11,社会主义荣誉观是____的重要组成部分,科学发展观,马克思注意历史观,马克思主义世界观,社会主义道德观,D,"让我们一步一步思考,
+1. 社会主义荣誉观是社会主义道德观的重要组成部分。
+所以答案是：D.社会主义道德观。",1
+12,"人生的自我价值,是指____",人对自然界的利用和改造,人对社会和他人所作的贡献,个体的人生活动对社会、他人所具有价值,个体的人生活动对自己生存和发展所具有的价值,D,"让我们一步一步思考,
+1. 人生的自我价值是指个体的人生活动对自己生存和发展所具有的价值。
+所以答案是：D.个体的人生活动对自己生存和发展所具有的价值。",1
+13,人生目的主要回答____,人为什么活着,世界本源是什么,人应怎样对待生活,怎样的人生才有意义,A," Based on the context of the previous questions, it is likely that the answer is:
+
+A. 人为什么活着 (Why do people live)
+
+The previous questions have focused on the theme of national identity, love, and the purpose of life, which are all related to the question of why people live.",1
+14,马克思主义理想信念的基础是____,信仰,科学,坚定,革命,B,"让我们一步一步思考,
+1. 马克思主义理想信念的基础是科学。马克思主义是一种根据科学原则和实践经验的哲学和政治思想，强调科学的发展和人类的自由。
+所以答案是：B.科学",1
+15,理想，是人们在实践中形成的，具有____的对美好未来的追求和向往，是人们的政治立场和世界观在人生奋斗目标上的体现。,实现必然性,不可实现性,超越客观性,实现可能性,D,"让我们一步一步思考,
+1. 理想是人们在实践中形成的，具有向往美好未来的追求和政治立场和世界观在人生奋斗目标上的体现。因此，理想具有实现可能性。
+所以答案是：D.实现可能性。",1
+16,在当今时代任何一个具有爱国情怀的人，都应大力弘扬以____为核心的时代精神。,解放思想,改革创新,自强不息,出国深造,B,"让我们一步一步思考,
+1. 在当今时代，任何一个具有爱国情怀的人都应大力弘扬以“自强不息”为核心的时代精神。自强不息是中国共产党和中国人民的基本精神，是实现国家富强、人民幸福的根本保证。
+所以答案是：C.自强不息。",0
+17,我国社会主义法律的本质特征表现为____的统一。,阶级性和人民性,强制性和惩罚性,教育性和阶级性,教育性和强制性,A,"让我们一步一步思考,
+1. 我国社会主义法律的本质特征是强制性和惩罚性，它是为了保护社会稳定和公平发展而设立的。
+所以答案是：B.强制性和惩罚性。",0
+18,一个人社会价值的实质是____,贡献,成功,劳动,创造,A,"让我们一步一步思考,
+1. 一个人社会价值的实质是贡献。贡献是指通过自己的努力和创造力为社会做出贡献的行为，这种行为可以是为社会的发展、进步、和改进做出贡献，也可以是为他人的利益做出贡献。
+所以答案是：A.贡献。",1

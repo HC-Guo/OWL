@@ -1,0 +1,302 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,求极限：$\lim_{x\rightarrow0}\frac{\int_{x^2}^x{\frac{\sin\left(xt\right)}{t}}\mathrm{d}t}{x^2}=$____,$\frac{5}{6}$,1,$\frac{7}{6}$,$\frac{4}{3}$,B," $ $\int_{x^2}^x{\frac{\sin\left(xt\right)}{t}}\mathrm{d}t$ can be represented as:
+
+$$\int_{x^2}^x{\frac{\sin\left(xt\right)}{t}}\mathrm{d}t = \int_{0}^x{\frac{\sin\left(xt\right)}{t}}\mathrm{d}t - \int_{0}^{x^2}{\frac{\sin\left(xt\right)}{t}}\mathrm{d}t$$
+
+Now, let's evaluate the integrals separately:
+
+$$\int_{0}^x{\frac{\sin\left(xt\right)}{t}}\mathrm{d}t = \int_{0}^x{\frac{\sin\left(xt\right)}{x}\cdot\frac{1}{x}}dx = \frac{1}{x}\int_{0}^x{\sin\left(xt\right)dx}$$
+
+$$\int_{0}^{x^2}{\frac{\sin\left(xt\right)}{t}}\mathrm{d}t = \int_{0}^{x^2}{\frac{\sin\left(xt\right)}{x^2}\cdot\frac{1}{x^2}}dx = \frac{1}{x^2}\int_{0}^{x^2}{\sin\left(xt\right)dx",0
+1,设$n$为正整数，求极限：$\lim_{x\rightarrow+\infty}\left[\frac{x^n}{\left(x-1\right)\left(x-2\right)\cdots\left(x-n\right)}\right]^x=$____,$e^{\frac{(n-1)(n+1)}{2}}$,$e^{\frac{(n-1)n}{2}}$,$e^{\frac{n(n+1)}{2}}$,$e^{\frac{n^{2}}{2}}$,C," We have
+
+$$\lim_{x\rightarrow+\infty}\left[\frac{x^n}{\left(x-1\right)\left(x-2\right)\cdots\left(x-n\right)}\right]^x$$
+
+Let $x = nt$, then
+
+$$\lim_{x\rightarrow+\infty}\left[\frac{x^n}{\left(x-1\right)\left(x-2\right)\cdots\left(x-n\right)}\right]^x = \lim_{t\rightarrow\infty}\left[\frac{(nt)^n}{\left(nt-1\right)\left(nt-2\right)\cdots\left(nt-n\right)}\right]^{nt}$$
+
+Now, we have
+
+$$\lim_{t\rightarrow\infty}\left[\frac{(nt)^n}{\left(nt-1\right)\left(nt-2\right)\cdots\left(nt-n\right)}\right]^{nt} = \lim_{t\rightarrow\infty}\left(\frac{n}{nt-1}\right)^n\left(\frac{n}{nt-2}\right)^n\cdots\left(\frac{n}{nt-n}\right)$$
+
+Since $\frac{n}{nt-1}, \frac{n}{nt-2}, \cdots, \frac{n",0
+2,设平面区域$D$由直线$y=\frac{1}{2}x-\frac{1}{2\sqrt{5}}$、$y=2x-\frac{2}{\sqrt{5}}$和$y=x$围成，函数$z=3xy+3$在$D$上的最大值和最小值分别是M和m，则____,"$M=6,m=3$","$M=\dfrac{27}{5},m=3$","$M=\dfrac{18}{5},m=3$","$M={\frac{27}{5}},m={\frac{117}{40}}$",D," To find the maximum and minimum values of the function $z=3xy+3$ within the region $D$, we need to find the critical points of the function and evaluate them.
+
+First, we can find the critical points by setting the derivative of $z$ with respect to $x$ and $y$ to zero:
+
+$$\frac{\partial z}{\partial x} = 3y - 3 = 0$$
+$$\frac{\partial z}{\partial y} = 3x + 3 = 0$$
+
+Solving these equations, we get two critical points:
+
+$$(x,y) = (\frac{1}{2}, \frac{1}{2\sqrt{5}}) \quad \text{and} \quad (x,y) = (2, \frac{2}{\sqrt{5}})$$
+
+Next, we need to evaluate the values of the function at these critical points to determine the maximum and minimum values.
+
+At the first critical point, we have:
+
+$$z(\frac{1}{2}, \frac{1}{2\sqrt{5}}) = 3(\frac{1}{2})(\frac{1}{2\sqrt{5}}) + 3 = \frac{3}{2\sqrt{5}}$$
+
+At the second critical point, we have:
+
+$$z(2, \frac{2",0
+3,设函数$f\left(x\right)$连续，且$f\left(x\right)>0$，求积分：$int_0^1{\ln f\left(x+t\right)}\mathrm{d}t=$____,$\int_0^x{\ln \frac{f\left( t+2 \right)}{f\left( t \right)}}\mathrm{d}t+\int_0^1{\ln f\left( t \right)}\mathrm{d}t$,$\int_0^1{\ln \frac{f\left( t+2 \right)}{f\left( t \right)}}\mathrm{d}t+\int_0^1{\ln f\left( t \right)}\mathrm{d}t$,$\int_0^2x{\ln \frac{f\left( t+1 \right)}{f\left( t \right)}}\mathrm{d}t+\int_0^1{\ln f\left( t \right)}\mathrm{d}t$,$\int_0^x{\ln \frac{f\left( t+2 \right)}{f\left( t \right)}}\mathrm{d}t+\int_0^1{\ln f\left( t \right)}\mathrm{d}t$,A," We have:
+
+$$\int_0^1{\ln f\left(x+t\right)}\mathrm{d}t = \int_0^1{\ln f\left(x+t\right) - \ln f\left(x\right)}\mathrm{d}t + \int_0^1{\ln f\left(x\right)}\mathrm{d}t$$
+
+By the fundamental theorem of calculus, we have:
+
+$$\int_0^1{\ln f\left(x+t\right) - \ln f\left(x\right)}\mathrm{d}t = \int_0^1{\frac{f\left(x+t\right) - f\left(x\right)}{f\left(x\right)}}\mathrm{d}t$$
+
+Since $f\left(x\right)$ is continuous and positive, we have $f\left(x+t\right) - f\left(x\right) = \int_x^{x+t}f\left(u\right)\mathrm{d}u - f\left(x\right) = \int_x^{x+t}f\left(u\right)\mathrm{d}u - f\left(x\right)$
+
+
+Therefore,
+
+$$\int_0^1{\",0
+4,设有界区域$\Omega$由平面$2x+y+2z=2$与三个坐标平面围成，$\Sigma$为整个表面的外侧；\\计算曲面积分：$I=\iint_{\Sigma}{\left(x^2+1\right)\mathrm{d}y\mathrm{d}z-2y\mathrm{d}z\mathrm{d}x+3z\mathrm{d}x\mathrm{d}y}=$____,$\frac{1}{2}$,1,$\frac{3}{2}$,$\frac{5}{2}$,A," To calculate the surface integral of the given surface $\Sigma$, we need to evaluate the following integral:
+
+$$I = \iint_{\Sigma} \left(x^2 + 1\right) dydz - 2y dz dx + 3z dx dy$$
+
+First, we can simplify the integrand by combining like terms:
+
+$$I = \iint_{\Sigma} \left(x^2 + 1\right) dydz - 2y dz dx + 3z dx dy = \iint_{\Sigma} \left(x^2 + 1\right) dydz - 2y dz dx + 3z dx dy$$
+
+Next, we can use the fact that the surface $\Sigma$ is defined by the equation $2x + y + 2z = 2$ to simplify the integral further:
+
+$$I = \iint_{\Sigma} \left(x^2 + 1\right) dydz - 2y dz dx + 3z dx dy = \iint_{\Sigma} \left(x^2 + 1\right) dydz - 2y dz dx + 3z dx dy$$
+
+Now, we can evaluate the integral by integrating over the surface $\Sigma$:
+
+$$I = \iint_{\Sigma} \left(x^2 + 1\right",0
+5,已知$\int_0^{+\infty}{\frac{\sin x}{x}\mathrm{d}x=\frac{\pi}{2}}$，则$\int_0^{+\infty}{\int_0^{+\infty}{\frac{\sin x\sin\left(x+y\right)}{x\left(x+y\right)}}}\mathrm{d}x\mathrm{d}y$=____,$\frac{\pi ^2}{12}$,$\frac{\pi ^2}{8}$,$\frac{\pi ^2}{4}$,$\frac{\pi ^2}{2}$,B," Using the given integral, we have:
+
+$$\int_0^{+\infty}{\int_0^{+\infty}{\frac{\sin x\sin\left(x+y\right)}{x\left(x+y\right)}}}\mathrm{d}x\mathrm{d}y$$
+
+Let $u = x+y$, then $du = 2dx$, and $0 \leq x,y \leq +\infty$.
+
+So, we have:
+
+$$\int_0^{+\infty}{\int_0^{+\infty}{\frac{\sin x\sin u}{xu}}}\mathrm{d}x\mathrm{d}u$$
+
+Now, we can use the given integral to evaluate the above integral:
+
+$$\int_0^{+\infty}{\int_0^{+\infty}{\frac{\sin x\sin u}{xu}}}\mathrm{d}x\mathrm{d}u = \int_0^{+\infty}{\frac{\sin u}{u}}\int_0^{+\infty}{\frac{\sin x}{x}}dxdu$$
+
+Using the substitution $u = \pi/2 - x$, we get:
+
+$$\int_0^{+\infty}{\frac{\sin u}{u}}\int_0^{+\infty}{\frac{\sin x}{x}}dxdu = \int_0^{+\infty}{\frac{\sin u}{u",0
+6,"设曲线$C=\left\{(x,y,z):x={\sqrt{3}}\cos(t),y={\sqrt{3}}\sin(t),z={\frac{2}{3}}t^{\frac{3}{2}},0\leq t\leq5\right\}$，则曲线积分$\int_C(x^2+y^2)\mathrm{d}s=$____",$\frac{3}{4}\left(16\sqrt{2}-3\sqrt{3}\right)$,$2\bigl(16\sqrt{2}-3\sqrt{3}\bigr)$,$\frac{9}{4}\left(16\sqrt{2}-3\sqrt{3}\right)$,$\frac{3}{2}\left(16\sqrt{2}-3\sqrt{3}\right)$,B," To compute the line integral of $C$, we need to evaluate the integral of $x^2+y^2$ over the curve $C$.
+
+First, we can rewrite the curve $C$ in terms of $t$, the parameter of the curve:
+
+$$C = \left\{(x,y,z) \mid x = \sqrt{3} \cos(t), y = \sqrt{3} \sin(t), z = \frac{2}{3} t^\frac{3}{2}, 0 \leq t \leq 5\right\}$$
+
+Next, we can compute the differential element of the curve:
+
+$$\mathrm{d}s = \sqrt{3} \cos(t) \cdot \sqrt{3} \sin(t) \cdot \frac{2}{3} t^\frac{3}{2} \cdot \mathrm{d}t = 3 \sqrt{3} t^\frac{3}{2} \cdot \mathrm{d}t$$
+
+Now, we can compute the line integral:
+
+$$\int_C (x^2+y^2) \mathrm{d}s = \int_0^5 \left(\sqrt{3} \cos(t)\right)^2 + \left(\sqrt{3} \sin(t)\right)^2 \cdot 3 \sqrt",0
+7,"计算二重积分:$\iint_D{x\mathrm{d}x\mathrm{d}y}=$.其中$D$为由直线$y=-x+2,x$轴以及曲线$y=\sqrt{2x-x^2}$所围成的平面区域.____",$\frac{\pi}{4}+\frac{1}{3}$,$\frac{\pi}{2}+\frac{1}{3}$,$\frac{\pi}{2}+\frac{1}{4}$,$\frac{\pi}{2}+\frac{2}{3}$,A," To compute the double integral, we need to evaluate the integral of $x$ over the region $D$, which is the area bounded by the line $y=-x+2$, the $x$ axis, and the curve $y=\sqrt{2x-x^2}$.
+
+First, let's find the area of the region bounded by the line $y=-x+2$ and the $x$ axis. The area of this region is given by:
+
+$$A = \int_{0}^{2} x dx = \frac{2}{2} = 1$$
+
+Next, let's find the area of the region bounded by the curve $y=\sqrt{2x-x^2}$ and the $x$ axis. The area of this region is given by:
+
+$$B = \int_{0}^{1} x \sqrt{2x-x^2} dx = \int_{0}^{1} x \sqrt{2x} dx$$
+
+Now, we can evaluate the integral:
+
+$$B = \frac{1}{2} \int_{0}^{1} x \sqrt{2x} dx = \frac{1}{2} \left[ \frac{1}{2} x^2 \right]_{0}^{1} = \frac{1}{4}$$
+
+Finally, we can compute the double integral by adding the areas",0
+8,求极限：$L=\lim_{n\rightarrow\infty}\sqrt{n}\left(1-\sum_{k=1}^n{\frac{1}{n+\sqrt{k}}}\right)$=____,$\frac{1}{3}$,$\frac{2}{3}$,1,$\frac{4}{3}$,B," We have
+
+$$L = \lim_{n\to\infty}\sqrt{n}\left(1-\sum_{k=1}^n{\frac{1}{n+\sqrt{k}}}\right)$$
+
+Let's use the fact that $\sum_{k=1}^n{\frac{1}{n+\sqrt{k}}}$ is a geometric series to write
+
+$$\sum_{k=1}^n{\frac{1}{n+\sqrt{k}}} = \frac{1}{n+\sqrt{1}} + \frac{1}{n+\sqrt{2}} + \cdots + \frac{1}{n+\sqrt{n}}$$
+
+Now, we can see that $\frac{1}{n+\sqrt{k}}$ is a constant multiple of $\frac{1}{n}$, so we can write
+
+$$\sum_{k=1}^n{\frac{1}{n+\sqrt{k}}} = \frac{1}{n}\sum_{k=1}^n{\frac{1}{\sqrt{k}}}$$
+
+The sum on the right-hand side is a harmonic series, which is known to be divergent. Therefore, the limit does not exist.
+
+So, the answer is:
+
+D. $\frac{4}{3}$",0
+9,"$x=1$是函数$f\left(x\right)=\frac{bx^2+x+1}{ax+1}$的可去间断点，求$a,b$的值？____","$a=-1,b=-2$","$a=-2,b=-1$","$a=-2,b=-2$","$a=-1,b=0$",A," To find the values of $a$ and $b$, we can set $x=1$ in the function $f(x) = \frac{bx^2 + x + 1}{ax + 1}$ and solve for $a$ and $b$.
+
+So, we have:
+
+$$f(1) = \frac{b(1)^2 + 1 + 1}{a(1) + 1} = \frac{b + 2}{a + 1}$$
+
+Since $f(1) = 1$, we can solve for $a$ and $b$ as follows:
+
+$$\begin{aligned}
+a + 1 &= 1 \\
+b + 2 &= 1
+\end{aligned}$$
+
+Solving these equations, we get:
+
+$$\begin{aligned}
+a &= -1 \\
+b &= -2
+\end{aligned}$$
+
+Therefore, the values of $a$ and $b$ are $-1$ and $-2$, respectively.
+
+So, the correct answer is:
+
+A.$a=-1,b=-2$",1
+10,求$\sum_{n=1}^{\infty}{\frac{\left(-1\right)^{n+1}-2^n}{n}x^n}$的和函数.____,"$\ln\left(1-2x-x^2\right),x\in\left[-\dfrac{1}{2},\dfrac{1}{2}\right)$","$\ln\left(1-x-x^2\right),x\in\left(-\dfrac{1}{2},\dfrac{1}{2}\right)$","$\ln\left(1-2x-2x^2\right),x\in\left[-\dfrac{1}{2},\dfrac{1}{2}\right)$","$\ln\left(1-x-2x^2\right),x\in\left[-\dfrac{1}{2},\dfrac{1}{2}\right)$",D," To find the antiderivative of $\sum_{n=1}^{\infty}{\frac{\left(-1\right)^{n+1}-2^n}{n}x^n}$, we can use the following formula:
+
+$$\sum_{n=1}^{\infty}{\frac{a_n}{n}x^n}=\ln\left(1+\sum_{n=1}^{\infty}{a_n x^{n-1}}\right)$$
+
+where $a_n$ are the coefficients of the power series. In this case, we have:
+
+$$a_n=\begin{cases}-\frac{1}{n}, & n\text{ is odd } \ \\ \frac{1}{n}, & n\text{ is even } \end{cases}$$
+
+Therefore, we can write:
+
+$$\sum_{n=1}^{\infty}{\frac{\left(-1\right)^{n+1}-2^n}{n}x^n}=\ln\left(1+\sum_{n=1}^{\infty}{\frac{-\left(-1\right)^{n+1}}{n}x^{n-1}}+\sum_{n=1}^{\infty}{\frac{2^n}{n}x^{n-1}}\right)$$
+
+Now, we can evaluate the sums separately:
+
+$$\sum_{n=1}^{\infty}{\frac{-\left(-1\right",0
+11,求极限：$\lim_{x\rightarrow0}\frac{\sqrt{1+x\cos x}-\sqrt{1+\sin x}}{x^3}=$____,$-\dfrac{1}{3}$,$-\dfrac{1}{4}$,$-\dfrac{1}{5}$,$-\dfrac{1}{6}$,D," $ $\\
+
+首先，我们可以利用下面两个等式来rewrite the given limit:
+
+$$\begin{aligned}
+\lim_{x\to 0}\frac{\sqrt{1+x\cos x}-\sqrt{1+\sin x}}{x^3}
+&= \lim_{x\to 0}\frac{\sqrt{1+x\cos x}-\sqrt{1+x\sin x}}{x^3} \\
+&= \lim_{x\to 0}\frac{\sqrt{1+x\cos x-\sin x}}{x^3}
+\end{aligned}$$
+
+现在，我们可以使用 Taylor series expansion of $\sqrt{1+u}$ about $u=0$ to rewrite the numerator and denominator:
+
+$$\begin{aligned}
+\lim_{x\to 0}\frac{\sqrt{1+x\cos x-\sin x}}{x^3}
+&= \lim_{x\to 0}\frac{\sqrt{1+x\cos x-\sin x}}{x^3} \\
+&= \lim_{x\to 0}\frac{1+x\cos x-\sin x}{x^3} \\
+&= \lim_{x\to 0}\left(1-\frac{\sin x}{x}\right) \\
+&= 1-\lim",0
+12,求极限：$\lim_{n\rightarrow\infty}\sum_{k=1}^n{\frac{k}{\left(k+1\right)!}}=$____,1,0,-1,2,A," This is an infinite series, and we can use the formula for the sum of an infinite geometric series to find the limit:
+
+$$\sum_{k=1}^n{\frac{k}{\left(k+1\right)!}} = \frac{1}{1!} + \frac{1}{2!} + \frac{1}{3!} + \cdots + \frac{1}{n!} \tag{1}$$
+
+Since the denominators of the fractions in the series are all positive integers, we can write:
+
+$$\sum_{k=1}^n{\frac{k}{\left(k+1\right)!}} = \frac{1}{1!} + \frac{1}{2!} + \frac{1}{3!} + \cdots + \frac{1}{n!}\tag{2}$$
+
+Now, as $n \to \infty$, the term $1/1!$ becomes negligible compared to the other terms, so we can ignore it. Therefore, we have:
+
+$$\lim_{n\rightarrow\infty}\sum_{k=1}^n{\frac{k}{\left(k+1\right)!}} = \frac{1}{2!} + \frac{1}{3!} + \frac{1}{4!} + \cdots \tag{3}$$
+
+The sum on the right-hand side is a geometric series with first",0
+13,"已知曲线C是圆$(x-1)^{2}+(y-6)^{2}=25$上从点$A(1,1)$沿逆时针方向到$B(4,2)$的一段弧，则$\oint_{C}(3\ln(1+y)+5x^{2})\mathrm{d}x+\Bigl({\frac{3x}{1+y}}-2y\Bigr)\mathrm{d}y=$____",$108+3\ln\Bigl(\frac{27}{2}\Bigr)$,$3\ln\left(\dfrac{81}{2}\right)-102$,$102+3\ln\Bigl(\frac{81}{2}\Bigr)$,$3\ln\left(\dfrac{27}{2}\right)-97$,C," To solve this problem, we can use the following steps:
+
+1. Find the equation of the tangent line to the circle $x^2 + y^2 = 25$ at the point $(1,1)$;
+2. Use the tangent line to find the equation of the arc of the circle from the point $(1,1)$ to the point $(4,2)$;
+3. Evaluate the integral of the function $3\ln(1+y) + 5x^2$ over the arc of the circle.
+
+Step 1: Find the equation of the tangent line to the circle $x^2 + y^2 = 25$ at the point $(1,1)$;
+
+The circle can be parametrized as follows:
+
+$$x = 1 + t\cos(t)$$
+$$y = 1 + t\sin(t)$$
+
+where $t$ is a parameter.
+
+To find the equation of the tangent line at the point $(1,1)$, we need to find the derivative of the parametrization with respect to $t$.
+
+$$\frac{dx}{dt} = \cos(t)$$
+$$\frac{dy}{dt} = \sin(t)$$
+
+Therefore, the equation of the tangent line at the point $(1,1)$ is:
+
+$$y",0
+14,"设$D$是全平面，$f\left(x\right)=\begin{cases}
+x\text{，}-1\leq x\leq2\\
+0\text{，}\text{其他}\\
+\end{cases}$；计算$\iint_D{f\left(x\right)f\left(x^2-y\right)}\mathrm{d}\sigma=$____",$\frac{9}{4}$,$\frac{5}{2}$,$\frac{11}{4}$,3,A," We need to compute the double integral of $f(x)f(x^2-y)$ over the domain $D = \mathbb{R}^2$.
+
+First, we can observe that $f(x) = x$ for $-1 \leq x \leq 2$ and $f(x) = 0$ otherwise. Therefore, the integral over the region where $x^2 - y > 0$ is zero, and we can focus on the integral over the region where $x^2 - y \leq 0$.
+
+In this region, we have $x^2 - y \leq 0$, so we can rewrite the integrand as $f(x)f(x^2-y) = f(x)(-x^2 + y) = -x^3 + x^2y$.
+
+Now, we can integrate over the region $D$ using the substitution $u = x^2 - y$, which gives $du = 2x dx - dy$. Therefore, we have
+
+$$\iint_D{f\left(x\right)f\left(x^2-y\right)}\mathrm{d}\sigma = \int_{-1}^2\int_{-1}^{2x-1} -x^3 + x^2y\cdot 2x - dy\ dx$$
+
+$$= \int_{-1}^",0
+15,计算广义积分：$\int_0^{+\infty}{\frac{\mathrm{d}x}{\left(1+x^2\right)\left(1+x^4\right)}}$____,$\frac{\pi}{8}$,$\frac{\pi}{4}$,$\frac{\pi}{2}$,$\frac{\pi}{3}$,B," This is an improper integral, and it does not exist in the classical sense, because the function $\frac{1}{(1+x^2)(1+x^4)}$ is not defined at $x=0$. However, we can use the technique of analytic continuation to extend the function to the whole complex plane, and then use Cauchy's integral formula to evaluate the integral.
+
+First, we can use the fact that $\frac{1}{(1+x^2)(1+x^4)} = \frac{1}{2(x^2+1)^2}$ to simplify the integrand. Then, we can use the fact that $\int_{-\infty}^{\infty} \frac{1}{x^2+1} dx = \pi$ to evaluate the integral.
+
+Using the complex function theory, we can extend the function $\frac{1}{(1+x^2)(1+x^4)}$ to the whole complex plane, except for the point $x=0$. At this point, the function has a simple pole, and we can use the residue theorem to evaluate the integral.
+
+The residue of the function $\frac{1}{(1+x^2)(1+x^4)}$ at $x=0$ is given by:
+
+$$\text{Res}_{x=0} \frac{1}{(1+x^2)(1+x",0
+16,已知数列$\left\{a_n\right\}$，其中$a_n=\cos n\alpha$，其前$n$$项和为$S_n$.求：$S_n=$____,$\frac{\cos \frac{n}{2}\alpha \cdot \sin \frac{n\alpha}{2}}{\sin \frac{\alpha}{2}}$,$\frac{\cos \frac{n+1}{2}\alpha \cdot \sin \frac{n\alpha}{2}}{\sin \frac{\alpha}{2}}$,$\frac{\cos \frac{n+1}{2}\alpha \cdot \sin \frac{n\alpha}{2}}{\sin \frac{\alpha}{3}}$,$\frac{\cos \frac{n-1}{2}\alpha \cdot \sin \frac{n\alpha}{2}}{\sin \frac{\alpha}{2}}$,B," Given the sequence $\left\{a_n\right\}, n=1,2,\ldots$, where $a_n = \cos n\alpha$, we need to find the sum of the first $n$ terms, $S_n$.
+
+We can write the sum as:
+
+$$S_n = a_1 + a_2 + \cdots + a_n$$
+
+Using the formula for the cosine of a sum, we can rewrite the sum as:
+
+$$S_n = \cos(n\alpha) + \cos((n-1)\alpha) + \cdots + \cos(\alpha)$$
+
+Since the cosine function is periodic with period $2\pi$, we can simplify the sum as:
+
+$$S_n = \cos(n\alpha) + \cos((n-1)\alpha) + \cdots + \cos(\alpha) = \sum_{k=1}^n \cos(k\alpha)$$
+
+Now, we can use the formula for the discrete cosine transform (DCT) to evaluate the sum:
+
+$$S_n = \sum_{k=1}^n \cos(k\alpha) = \frac{1}{\sin(\frac{\alpha}{2})} \sum_{k=1}^n \sin(k\alpha + \frac{\alpha}{2})$$
+
+Using the fact that $\",0
+17,计算定积分：$\int_{-1}^1{\frac{\mathrm{d}x}{\left(1+\mathrm{e}^x\right)\left(1+x^2\right)}}$____,$\frac{\pi}{8}$,$\frac{\pi}{4}$,$\frac{\pi}{2}$,$\pi$,B," This is an improper integral, and it cannot be evaluated in the classical sense because the integrand is not defined at $x = -1$ and $x = 1$. However, we can evaluate this integral using the following substitution:
+
+$$\int_{-1}^1 \frac{\mathrm{d}x}{\left(1+\mathrm{e}^x\right)\left(1+x^2\right)} = \int_{-1}^1 \frac{\mathrm{d}x}{\left(1+\mathrm{e}^x\right)\left(x^2+1\right)} = \int_{-1}^1 \frac{\mathrm{d}x}{\left(1+\mathrm{e}^x\right)(x+1)} = \int_{-1}^1 \frac{\mathrm{d}x}{1+\mathrm{e}^x(x+1)} = \int_{-1}^1 \frac{\mathrm{d}x}{1+\mathrm{e}^x} - \int_{-1}^1 \frac{\mathrm{d}x}{x+1}$$
+
+The first integral on the right-hand side can be evaluated as:
+
+$$\int_{-1}^1 \frac{\mathrm{d}x}{1+\mathrm{e}^x} = \int_{-1}^1 \frac{\mathrm{d}x}{1+\mathrm{e}^{ix}} = ",0
+18,求极限：$\lim_{x\rightarrow0}\frac{\tan2x^2-x^2}{\sin x^2+3x^2}=$____,$\frac{1}{2}$,$\frac{1}{4}$,$\frac{1}{8}$,$\frac{3}{5}$,B," $\lim_{x\rightarrow0}\frac{\tan2x^2-x^2}{\sin x^2+3x^2}$
+
+We have
+
+$$\tan2x^2=2x\frac{\sin x}{1+\cos x}$$
+
+So,
+
+$$\lim_{x\rightarrow0}\frac{\tan2x^2-x^2}{\sin x^2+3x^2}$$
+
+$$=\lim_{x\rightarrow0}\frac{2x\frac{\sin x}{1+\cos x}-x^2}{1+\cos x+3x^2}$$
+
+$$=\lim_{x\rightarrow0}\frac{2x-\frac{x^2}{1+\cos x}}{1+\cos x+3x^2}$$
+
+$$=\lim_{x\rightarrow0}\frac{2x-x^2/2}{1+\cos x+3x^2}$$
+
+$$=\lim_{x\rightarrow0}\frac{2x-x^2/2}{3x^2+1}$$
+
+$$=\lim_{x\rightarrow0}\frac{2-x^2/6}{3x^2+1}$$
+
+$$=\frac{2-0}{3\cdot0+1}$$
+
+$$=\frac{2}{3}$$
+
+Therefore, the limit is $\frac{2",0

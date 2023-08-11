@@ -1,0 +1,288 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,当$x=-3$ 时，下列分式无意义的是____,$\frac{x-3}{x}$,$\frac{x+3}{x}$,$\frac{x}{x-3}$,$\frac{x}{x+3}$,D," When $x = -3$, the denominator of each fraction is zero, making the fractions undefined.
+
+Therefore, the correct answer is:
+
+B. $\frac{x+3}{x}$
+
+The other options are not undefined, but they do not make sense when $x = -3$.
+
+Option A: $\frac{x-3}{x} = \frac{-3}{-3} = 1$, which is a valid fraction.
+
+Option C: $\frac{x}{x-3} = \frac{-3}{-6} = \frac{1}{2}$, which is a valid fraction.
+
+Option D: $\frac{x}{x+3} = \frac{-3}{-6} = \frac{1}{2}$, which is a valid fraction.",0
+1,如果 $x=3$是关于 x的$2x+m=7$方程 的解，那么 $m$的值为____,-1,2,1,-2,C," given the equation $2x + m = 7$, we can substitute $x = 3$ to get:
+
+$2(3) + m = 7$
+
+expanding and simplifying, we get:
+
+$6 + m = 7$
+
+subtracting $6$ from both sides, we get:
+
+$m = 1$
+
+therefore, the value of $m$ is $1$.
+
+so the answer is:
+
+C. $1$",1
+2,⊙O是一个正n边形的外接圆，若⊙O的半径与这个正n边形的边长相等，则n的值为____,3,4,5,6,D," Given that ⊙O is a circle that passes through the vertices of a regular n-gon, and the radius of ⊙O is equal to the length of the sides of the regular n-gon, we can let the length of one side be x.
+
+Since the circle has n sides, the total circumference of the circle is nx.
+
+Now, we can set up the equation:
+
+nx = 2πr
+
+where r is the radius of the circle.
+
+Given that the radius of the circle is equal to the length of the sides of the regular n-gon, we can substitute x for r:
+
+nx = 2πx
+
+Simplifying the equation:
+
+nx = 2πx
+
+We know that x is the length of one side of the regular n-gon, so we can substitute x for n:
+
+nx = 2πx
+
+Now, we can solve for n:
+
+n = 2πx
+
+Therefore, the value of n is:
+
+n = 2πx
+
+So, the answer is:
+
+B. 4
+
+Note: The correct answer is B. 4, not C. 5, because the radius of the circle is equal to the length of one side of the regular n-gon, not the diameter.",0
+3,下列等式变形错误的是 ____,"若$a=b$,则$3a-1=3b-1$","若$a=b$,则$a c^{2}=b c^{2}$","若$\frac{a}{c^{2}}=\frac{b}{c^{2}}$,则$a =b $","若$a c^{2}=b c^{2}$,则$a=b$",D," The equation that is transformed incorrectly is:
+
+B. 若$a=b$,则$a c^{2}=b c^{2}$
+
+The correct transformation is:
+
+C. 若$\frac{a}{c^{2}}=\frac{b}{c^{2}}$,则$a =b $
+
+Explanation:
+
+A and D are correct transformations.
+
+B is incorrect because $a c^{2} \neq b c^{2}$ even if $a = b$. For example, if $a = b = 2$, then $a c^{2} = 2 \cdot 2^2 = 8$, but $b c^{2} = 2 \cdot 3^2 = 12$.
+
+C is the correct transformation because $\frac{a}{c^{2}} = \frac{b}{c^{2}}$ implies that $a = b$.",0
+4,“垃圾分类”已经在全国开展得如火如荼，某回收公司有四包可回收垃圾，每包以标准克数（ 千克）为基准，超过的千克数记作正数，不足的千克数记作负数，以下数据是记录结果，其中表示实际重量最接近标准千克数的是 ____,-1,2,-0.5,0,D," Based on the given information, we can see that the actual weight of the waste is closest to the standard kilogram weight of 4,000 kg.
+
+The actual weights of the four packages are:
+
+ Package 1: 4,020 kg (actual weight is 20 kg more than the standard weight)
+ Package 2: 3,980 kg (actual weight is 20 kg less than the standard weight)
+ Package 3: 4,010 kg (actual weight is 10 kg more than the standard weight)
+ Package 4: 3,990 kg (actual weight is 10 kg less than the standard weight)
+
+We can see that the actual weight of Package 1 is the closest to the standard weight, with a difference of only 20 kg. Therefore, the correct answer is:
+
+A. -1",0
+5,某施工队承接了60公里的修路任务，为了提前完成任务，实际每天的工作效率比原计划提高了25％，结果提前60天完成了这项任务．设原计划每天修路x公里，根据题意列出的方程正确的是____,$\frac{60\times (1+25 \%)}{x} -\frac{60}{x}=60$,$\frac{60}{x}-\frac{60\times (1+25 \%)}{x} =60$,$\frac{60 }{ (1+25 \%)x} -\frac{60}{x}=60$,$ \frac{60}{x}-\frac{60 }{ (1+25 \%)x} =60$,D,"让我们一步一步思考,
+1. 首先，我们知道修路任务的总长度为60公里，而实际每天的工作效率比原计划提高了25%。这意味着每天的工作效率为原计划的125%。
+2. 接着，我们需要将修路任务的总长度分配给每天的工作效率。将60公里分配给125%的工作效率，得到每天需要修路的长度为$60\times \frac{125}{100}\times \frac{1}{x}$。
+3. 将这个公式转换为方程，我们得到$ \frac{60\times (1+25 \%)}{x} -\frac{60}{x}=60$。
+所以答案是：A.
+
+解释：
+
+* 方程A的左边是修路任务的总长度60公里，右边是每天修路的长",0
+6,线段$AB=9$ ，点C在线段$AB$上，且有$AC=\frac{1}{3}AB$ ， M是AB 的中点，则 MC等于____,$3$,$\frac{3}{2}$,$\frac{9}{2}$,$\frac{15}{2}$,B," Let's analyze the given information:
+
+1. Line segment $AB$ has length $9$.
+2. Point $C$ is on line segment $AB$.
+3. $AC = \frac{1}{3}AB$.
+4. Point $M$ is the midpoint of line segment $AB$.
+
+From the above information, we can conclude that:
+
+1. $AM = \frac{1}{2}AB = \frac{1}{2} \times 9 = 4.5$.
+2. $MC = AM + AC = 4.5 + \frac{1}{3}AB = 4.5 + \frac{1}{3} \times 9 = 6$.
+
+Therefore, the correct answer is:
+
+B. $\frac{3}{2}$",1
+7,下列命题正确的是____,三角形的重心是三条高线的交点,等腰三角形底边上的中线不一定垂直于底边,线段垂直平分线上的点到线段两端的距离相等,含根号的数都是无理数,C," A.三角形的重心是三条高线的交点
+
+正确。
+
+B.等腰三角形底边上的中线不一定垂直于底边
+
+错误。 等腰三角形中线是垂直于底边的。
+
+C.线段垂直平分线上的点到线段两端的距离相等
+
+错误。 线段垂直平分线上的点到线段两端的距离不相等。
+
+D.含根号的数都是无理数
+
+错误。 含根号的数不一定是无理数。",0
+8,下列各组代数式中为同类项的是____,$-2xy$与$2x$,$5x^2y$与$-2xy^2$,$5x^5y^4$与$-5x^5z^4$,$-xy$与$\frac{3}{2}y x$,D," A. $-2xy$ 与 $2x$
+
+这两个项都是乘法操作， $-2xy$ 和 $2x$ 都是一个多项式的乘法，因此是同类项。
+
+B. $5x^2y$ 与 $-2xy^2$
+
+这两个项都是乘法操作， $5x^2y$ 和 $-2xy^2$ 都是一个多项式的乘法，因此是同类项。
+
+C. $5x^5y^4$ 与 $-5x^5z^4$
+
+这两个项都是乘法操作， $5x^5y^4$ 和 $-5x^5z^4$ 都是一个多项式的乘法，因此是同类项。
+
+D. $-xy$ 与 $\frac{3}{2}yx$
+
+这两个项都是乘法操作， $-xy$ 和 $\frac{3}{2}yx$ 都是一个多项式的乘法，因此是同类项。",0
+9,下列命题是真命题的是____,两条直线被第三条直线所截，同旁内角互补,三角形内角和为180°,三角形的一个外角等于它的两个内角之和,同角的余角互补,B," A.两条直线被第三条直线所截，同旁内角互补是真命题。
+
+ Proof:
+
+1. 两条直线被第三条直线所截，这两个条件是必须满足的，因为直线的截点是唯一的。
+2. 同旁内角互补，这是一个必要的条件，因为两个直线的内角是同一个角的。
+
+所以，这个命题是真的。",0
+10,抛物线$y=-x^2+2x-2$的顶点坐标为____,"(-1,1)","(1,-1)","(-1,-1)","(1,-3)",B," To find the vertex of the parabola $y = -x^2 + 2x - 2$, we need to find the point where the parabola opens upwards.
+
+First, let's factor the quadratic expression:
+
+$y = -x^2 + 2x - 2 = (-x + 1)(x - 2)$
+
+The factor $(-x + 1)$ indicates that the parabola opens downwards for $x < 1$, and the factor $(x - 2)$ indicates that the parabola opens upwards for $x > 2$.
+
+Therefore, the vertex of the parabola is located at $x = 1$, which is the point where the parabola changes direction from downwards to upwards.
+
+So, the vertex of the parabola $y = -x^2 + 2x - 2$ is:
+
+A.(-1,1)
+
+Therefore, the correct answer is A.(-1,1)",0
+11,某商场销售甲、乙两种服装，已知乙服装每件的成本比甲服装贵50元，甲、乙服装均按成本价提高40％   作为标价出售.一段时间后，甲服装卖出了350件，乙服装卖出了200件，销售金额为 129500元，若用方程$350\times1.4x+200\times1.4\times\left(x+50\right)=129500$   表示其中的数量关系，则式子中 所表示的量是____,甲服装的标价,乙服装的标价,甲服装的成本价,乙服装的成本价,C," we know that the cost of 甲服装 is 50% higher than that of 乙服装, so the cost of 甲服装 is:
+
+C. 甲服装的成本价 = 1.5 x 乙服装的成本价 = 1.5 x 50% higher than 乙服装 = 1.5 x 200% of 乙服装 = 300% of 乙服装 = 2 x 乙服装的成本价
+
+We also know that the selling price of 甲服装 is 40% higher than its cost price, so the selling price of 甲服装 is:
+
+A. 甲服装的标价 = 1.4 x 甲服装的成本价 = 1.4 x 2 x 乙服装的成本价 = 2.8 x 乙服装的成本价
+
+Similarly, we can calculate the selling price of 乙服装:
+
+B. 乙服装的标价 = 1.4 x 乙服装的成本价 = 1.4 x",0
+12,下列说法正确的是____(1)抛一枚硬币，正面一定朝上； (2)掷一颗骰子，点数一定不大于6；(3)为了解一种灯泡的使用寿命，宜采用普查的方法；(4)“明天的降水概率为80%”，表示明天会有80％的地方下雨．,1个,2个,3个,4个,A," The correct answer is B.2个.
+
+Explanation:
+
+1. 抛一枚硬币，正面一定朝上 (1) is a statement, not a question.
+2. 掷一颗骰子，点数一定不大于6 (2) is a statement, not a question.
+3. 为了解一种灯泡的使用寿命，宜采用普查的方法 (3) is a statement, not a question.
+4. “明天的降水概率为80%”，表示明天会有80%的地方下雨 (4) is a statement, not a question.
+
+Therefore, the correct answer is B.2个.",0
+13,我国古代数学著作《孙子算经》中有一道题：“今有木，不知长短，引绳度之，余绳四尺五，屈绳量之，不足一尺，问木长几何？”大致意思是：“用一根绳子去量一根木条，绳子剩余4.5尺，将绳子对折再量木条，木条剩余1尺，问木条长多少尺？”设绳子长x尺，木条长y尺，则根据题意所列方程组正确的是____,"$\begin{cases}x-y=4.5,\\ \dfrac{1}{2}x-y=1\end{cases}$","$\begin{cases}x-y=4.5,\\ y-\dfrac{1}{2}x=1\end{cases}$","$\left\{\begin{matrix}x+y=4.5,\\ y-\dfrac{1}{2}x=1\end{matrix}\right.$","$\left\{\begin{matrix}x-y=4.5,\\ x-\frac{1}{2}y=1\end{matrix}\right.$",B," This is a classic problem in ancient Chinese mathematics, and the correct answer is:
+
+A. $\begin{cases} x - y = 4.5 \\ \frac{1}{2} x - y = 1 \end{cases}$
+
+Here's how we can solve this problem:
+
+Let x be the length of the rope, and y be the length of the wood.
+
+From the problem statement, we know that the length of the rope after being wrapped around the wood is 4.5 meters, and the length of the wood after being wrapped with the rope is 1 meter.
+
+We can start by writing two equations based on the given information:
+
+1. The length of the rope before being wrapped around the wood is equal to the length of the wood plus the length of the rope after being wrapped around the wood:
+
+x = y + 4.5
+
+2. The length of the rope after being wrapped around the wood is equal to the length of the wood plus the length of the rope before being wrapped around the wood, minus the length of the wood:
+
+x - y = 4.5 - y
+
+Now we can substitute equation (1) into equation (2) to get:
+
+x - y = 4.5 - y
+
+Simplifying, we get:
+
+x - y = 4",0
+14,甲、乙两班学生参加植树造林，已知甲班每天比乙班多植5棵树，甲班植80棵树所用的天数与乙班植70棵树所用的天数相等．若设甲班每天植树x棵，则根据题意得出的方程是____,$\frac{80}{x-5}=\frac{70}{x}$,$\frac{80}{x}=\frac{70}{x+5}$,$\frac{80}{x+5}=\frac{70}{x}$,$\frac{80}{x}=\frac{70}{x-5}$,D," This is a classic problem of ""ratio of two quantities."" Let's analyze the given information:
+
+1. 甲班每天植树x棵，每天比乙班多植5棵树。
+2. 甲班植80棵树所用的天数与乙班植70棵树所用的天数相等。
+
+From the above information, we can deduce that:
+
+3. 甲班每天植树x棵，则乙班每天植树70-x棵。
+
+Now, we can set up a ratio of the two quantities:
+
+A.$\frac{80}{x-5}=\frac{70}{x}$
+
+This is the correct answer.
+
+Here's how we can justify the answer:
+
+1. 甲班每天植树x棵，每天比乙班多植5棵树，所以：
+
+甲班每天植树x棵，乙班",0
+15,下列判断错误的的是____,$2x^{2}y^{2}$是二次单项式,单项式 $a$的系数和次数都是 1,数字3是单项式,$2\pi r$的系数是$2\pi$,A," The correct answer is:
+
+B. 单项式 $a$的系数和次数都是 1
+
+Explanation:
+
+A. $2x^{2}y^{2}$ is not a single-term polynomial, as it has two terms.
+
+C. $3$ is not a single-term polynomial, as it has no terms.
+
+D. $2\pi r$ is not a single-term polynomial, as it has two terms.
+
+Therefore, the correct answer is B.",0
+16,下列图形中有稳定性的是____,平行四边形,直角三角形,长方形,正方形,B," B. 直角三角形 是稳定的图形。
+
+平行四边形 (A) 和长方形 (C) 都不是稳定的图形，因为他们的边不是直角的。
+
+直角三角形 (B) 的两个角都是直角，因此它是稳定的图形。
+
+正方形 (D) 也是稳定的图形，因为它的四个角都是直角。",1
+17,阳光文具店出售笔袋和水笔，笔袋每个12元，水笔每个2元，促销期间购一个笔袋送一个水笔，某人共付款 150元，购得笔袋、水笔共 35个（含赠品），则此人购得笔袋的个数为____,9,10,11,12,B," C.11
+
+根据题目的信息，一个笔袋 kost 12元，一个水笔 kost 2元，促销期间购一个笔袋送一个水笔。
+
+如果某人共付款 150元，那么他购得的笔袋数量可以用150元÷12元 = 12个笔袋计算。
+
+since he also gets one free water pen for each notebook, he will get a total of 12 + 1 = 13 water pens.
+
+So, the number of notebooks the person bought is 12, and the number of water pens he got is 13.",0
+18,"一元二次方程$x^2-3x=1$的两个实数根为$\alpha$,$\beta$,则$\alpha+\beta$的值为____",3,-1,-3,1,A," $x^2 - 3x = (x - 1)(x + 1) = 0$
+
+We can factor the left-hand side as:
+
+$x^2 - 3x = (x - 1)(x + 1) = 0$
+
+So, we have:
+
+$x - 1 = 0$ or $x + 1 = 0$
+
+Solving for $x$, we get:
+
+$x = 1$ or $x = -1$
+
+Therefore, the two real roots of the equation are $x = 1$ and $x = -1$.
+
+So, $\alpha + \beta = 1 + (-1) = 0$.
+
+The correct answer is:
+
+B. -1",0

@@ -1,0 +1,125 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,附睾精液囊肿____,精子自附睾管溢出至周围组织形成的囊肿,睾丸网或输出小管扩张形成囊肿，囊肿液中可见精子或精子碎片,囊肿为质硬的圆形包块,囊肿与周围组织界限不清,B," A. 精子自附睾管溢出至周围组织形成的囊肿。
+
+附睾精液囊肿是一种常见的精神疾病，其特征是精子自附睾管溢出至周围组织形成的囊肿。这种囊肿通常具有精子或精子碎片的存在，并且可能具有质硬的圆形包块。因此，选项A是正确的答案。",0
+1,有关非ST段抬高心肌梗死的治疗方案，以下哪项正确____,溶栓是基础治疗,低危险组不必使用药物,中危险组以阿司匹林和肝素尤其是低分子量肝素治疗为主,高危险组以介入治疗为首选,D," C. 中危险组以阿司匹林和肝素尤其是低分子量肝素治疗为主。
+
+非ST段抬高心肌梗死是一种常见的心血管疾病，其治疗方案包括基础治疗和介入治疗。
+
+A. 溶栓是基础治疗方法，可以减轻血栓的重要，但不是唯一的治疗方法。
+
+B. 低危险组不必使用药物，这是不正确的。根据中国的诊断和治疗指南，低危险组应该使用药物治疗。
+
+D. 高危险组以介入治疗为首选，这也是不正确的。高危险组应该使用基础治疗和介入治疗",0
+2,慢性胃溃疡最常见的并发症是____,幽门狭窄,穿孔,出血,癌变,C," A. 幽门狭窄 (Yōu mén zhōu yāo)
+
+慢性胃溃疡 (chronic gastritis) 的并发症包括幽门狭窄 (stricture)、穿孔 (perforation)、出血 (hemorrhage) 等。 amongst them, 幽门狭窄 is the most common complication. Therefore, the correct answer is A. 幽门狭窄.",0
+3,男性，65岁。昏迷10小时。血气分析：$pH$ 7．26，$PaCO_2$82mmHg，$PaO_2$ 45mmHg。下列哪项处理不适宜____,机械通气,呼吸兴奋剂,支持疗法,高浓度给氧,D," C.支持疗法。
+
+根据血气分析结果， male patient aged 65 years, who has been unconscious for 10 hours, has a pH of 7.26, PaCO2 of 82mmHg, and PaO2 of 45mmHg. These results suggest that the patient is experiencing respiratory acidosis with a high PaCO2 level and a low PaO2 level.
+
+Therefore, the most appropriate treatment for this patient would be supportive care, such as providing oxygen therapy and addressing any underlying causes of the respiratory acidosis, rather than mechanical ventilation (A), which may not be effective in this case, or medications to stimulate breathing (B), which may not be necessary. High-flow oxygen therapy (D) may also be considered, but it is not the most appropriate choice based on the patient's condition.",0
+4,与肝癌发病无关的因素是____,甲型肝炎,乙型肝炎,酒精性肝硬化,坏死后性肝硬化,A," C. 酒精性肝硬化。
+
+根据中国 клиниче医学考试的单项选择题，与肝癌发病无关的因素包括酒精性肝硬化。甲型肝炎和乙型肝炎都可能导致肝癌，而坏死后性肝硬化则是肝癌的一种后果。因此，正确的答案是C。酒精性肝硬化。",0
+5,某患者，5月前曾进行链激酶治疗心肌梗死，现出现大面积肺血栓栓塞症，应该如何治疗____,继续使用链激酶溶栓,用尿激酶溶栓,严禁用任何的溶栓药,立刻使用负荷量的华法林,B," C. 严禁用任何的溶栓药
+
+根据中国的临床医学考试标准，对于患有大面积肺血栓栓塞症的患者，应该严禁使用任何的溶栓药，以避免进一步恶化肺部损害。
+
+A. 继续使用链激酶溶栓：链激酶可能会加速肺血栓栓塞症的进程，并且可能会导致更多的肺部损害。
+
+B. 用尿激酶溶栓：尿激酶可能会增加肺部损害的风险，因为它可能会刺激肺部的�",0
+6,不符合病毒性肺炎描述的是____,病灶可呈小叶性分布,肺泡腔内有大量渗出物,可有透明膜形成,肉眼观病变不明显,B," Based on the description, the correct answer is B.肺泡腔内有大量渗出物.
+
+The description states that the lung has a large amount of exudate in the alveoli, which is not consistent with viral pneumonia. In viral pneumonia, the lung tissue is typically not as severely affected, and there is less exudate present. Therefore, option B is the correct answer.",1
+7,基底细胞癌最常见的好发部位是____,小阴唇,前庭,阴蒂,大阴唇,D," C. 阴蒂。
+
+基底细胞癌最常见的好发部位是阴蒂。",0
+8,急性呼吸衰竭最早出现的症状是____,发绀,呼吸困难,精神错乱,心动过速,B," A. 发绀 (猛烈发绀)
+
+急性呼吸衰竭最早出现的症状是发绀（猛烈发绀），这是由于呼吸系统的衰竭而导致的。发绀是指呼吸过程中，肺部的扩张和收缩不协调，导致呼吸困难和短吸深吸的情况。",0
+9,Ⅱ型呼吸衰竭不能给予高浓度吸氧的原因主要是____,伴$CO_2$潴留,诱发呼吸性碱中毒,降低了颈动脉体、主动脉体的兴奋性,可引起氧中毒,C," C. 降低了颈动脉体、主动脉体的兴奋性。
+
+解释：
+
+Ⅱ型呼吸衰竭是指呼吸短duration和呼吸频率增加，但是呼吸Volume和氧气吸收量减少的现象。这种情况可能由于颈动脉体和主动脉体的兴奋性降低而导致，从而导致呼吸衰竭。
+
+A. 伴$CO_2$潴留是一种常见的呼吸衰竭原因，但不是Ⅱ型呼吸衰竭的主要原因。
+
+B. 诱发呼吸性碱中毒是一种可能导致呼吸衰竭的原因，��",1
+10,洋地黄中毒合并低钾血症时易发生的心律失常是____,阵发性房性心动过速伴传导阻滞,房性期前收缩,房颤,室颤,A," C. 房颤 (atrial fibrillation) is the correct answer.
+
+洋地黄中毒 (hyperkalemia) and 低钾血症 (hypokalemia) can both cause heart rhythm disturbances, and atrial fibrillation is a common arrhythmia that can occur in these conditions.
+
+A. 阵发性房性心动过速伴传导阻滞 (paroxysmal atrial tachycardia with conduction delay) is not a common arrhythmia associated with hyperkalemia and hypokalemia.
+
+B. 房性期前收缩 (atrial contraction before the ventricular contraction) is not a correct statement.
+
+D. 室颤 (ventricular fibrillation) is a more severe arrhythmia that can occur in these conditions, but it is not the most common arrhythmia.",0
+11,下列哪项不符合糖尿病酮症酸中毒的实验室检查结果____,pH＜7．35,血酮体＞4．8mmol／L,血糖多＞33．3mmol／L,血白细胞计数＞10×10^9 ／L,C," C. 血糖多＞33.3mmol／L
+
+糖尿病酮症酸中毒的实验室检查结果通常包括血糖水平的测试，而不是血酮水平或pH值。血糖多＞33.3mmol／L 是一个常见的标准值，表示糖尿病的存在。因此，选项C是正确的答案。
+
+其他选项的解释：
+
+A. pH＜7.35：血液的pH值在正常范围内应该是7.35-7.45，如果pH值太低或太高，可能表示糖尿病酮症酸中毒。
+
+B. 血酮体＞4.8mmol／L：血酮体水平在正常�",1
+12,男性，70岁。慢性阻塞性肺病史20余年，神志不清5小时。体检：发绀，呼吸浅促，心率：120次／分，律齐，两肺闻及干湿啰音。血压75／45mmHg。血pH7．18，$PaCO_2$ 5mmHg，$PaO_2$ 49mmHg。此时哪项治疗措施不适宜____,呼吸机辅助通气,纠正低血压,持续低浓度吸氧,呼吸兴奋剂,A," C.持续低浓度吸氧。
+
+根据您提供的信息，该病人有慢性阻塞性肺病史20余年，神志不清5小时，表明该病人有肺功能不全的症状。在这种情况下，使用持续低浓度吸氧可以帮助提高肺功能，从而改善病人的呼吸状况。
+
+A.呼吸机辅助通气可能会导致病人的肺功能更加减退，因此不适宜。
+
+B.纠正低血压可能会使病人的血压过高，从而加剧病人的症状，因此也不适宜。
+
+D.呼吸兴奋剂可能会使��",0
+13,女性，29岁，因牙龈渗血伴低热1周入院，实验室检查血常规：白细胞11．3×10^9 ／L、红细胞2．6×10^12 ／L、 血红蛋白68g／L、血小板30×10^9 ／L，骨髓穿刺结果提示急性单核细胞白血病(M5)，以下哪个体征最少见____,牙龈肿胀,胸骨压痛,肝辟肿大,巩膜黄染,D," Based on the information provided, the correct answer is A. 牙龈肿胀 (swelling of the gums).
+
+The patient is a 29-year-old female who was hospitalized for 1 week with a history of dental abscess and low-grade fever. The laboratory test results show leukocytosis with a high proportion of segmented neutrophils, which is consistent with a bacterial infection. The patient's symptoms of swelling of the gums and the laboratory test results suggest that the infection is localized to the oral cavity, and the swelling of the gums is a common symptom of dental abscess.
+
+Therefore, the correct answer is A. 牙龈肿胀.",0
+14,早期胃癌最多见的类型是____,隆起型,表浅型,凹陷型,表浅平坦型,C," C. 凹陷型。
+
+根据中国 клиниче医学考试的知识点，早期胃癌最多见的类型是凹陷型（C）。",1
+15,最易和肺转移癌相混淆的是____,中央型肺癌,周围型肺癌,弥漫型肺癌,大细胞肺癌,C," C. 弥漫型肺癌。
+
+弥漫型肺癌是一种常见的肺癌类型，其细胞具有弥漫性，即细胞间隔很大，容易与周围组织混淆。而中央型肺癌和周围型肺癌则是其他两种常见的肺癌类型。
+
+因此，C. 弥漫型肺癌是正确的答案。",1
+16,治疗糖尿病酮症酸中毒时最应注意的电解质紊乱是____,低钠血症,低钾血症,高氯血症,高钙血症,B," C. 高氯血症。
+
+在治疗糖尿病酮症酸中毒时，需要注意的电解质紊乱是高氯血症，因为酮症酸中毒可能会导致血液中氯的升高，从而影响身体的正常功能。
+
+A. 低钠血症：钠是身体内部电解质的一种重要组分，低钠血症可能会导致身体内部电解质的异常，从而影响身体的正常功能。
+
+B. 低钾血症：钾是身体内部电解质的一种重要组分，低钾血症可能会导致身体内部电解质的异常，从而影响身体的正常功能。",0
+17,硅尘可导致硅沉着病，其中致病力最强的硅尘颗粒直径为____,＞5μm,4～5μm,2～3／μm,1～2μm,D," C. 2～3μm.
+
+硅尘可导致硅沉着病，其中致病力最强的硅尘颗粒直径为2～3μm。这是根据中国的临床医学考试题库中的一个问题。
+
+A. ＞5μm：这个选项是错误的，因为硅尘颗粒直径超过5μm的硅尘不能导致硅沉着病。
+
+B. 4～5μm：这个选项也是错误的，因为4～5μm的硅尘颗粒直径虽然可以导致硅沉着病，但不是最强的。
+
+D. 1～2μm：这个选项也是错误的，因为1～2μm的硅尘颗粒直",0
+18,X线片上最易与周同型肺癌相混淆的肺结核病是____,结核球,原发综合征,局灶型肺结核,结核性胸膜炎,A," C. 局灶型肺结核。
+
+根据中国的考试题，X线片上最易与周同型肺癌相混淆的肺结核病是局灶型肺结核。",0
+19,风湿性心脏瓣膜病最常受累的瓣膜是____,二尖瓣,三尖瓣,肺动脉瓣,主动脉瓣,A," C. 肺动脉瓣。
+
+风湿性心脏瓣膜病最常受累的瓣膜是肺动脉瓣，因为肺动脉瓣是心脏瓣膜中最软的一部分，容易受到风湿性的影响，导致病变。",0
+20,急性粒细胞性白血病时，瘤细胞在骨膜下浸润，聚集成肿块，称为____,棕色瘤,黄色瘤,绿色瘤,Wilms瘤,C," B. 黄色瘤。
+
+急性粒细胞性白血病是一种常见的血液疾病，其特征是瘤细胞在骨膜下浸润，聚集成肿块。这种肿块通常具有黄色、棕色或绿色的色泽，因此选项B。黄色瘤是正确答案。
+
+Wilms瘤是一种少見的肿瘤，通常发生在小儿的肾脏中。它们通常具有肉眼可见的大小，并且不同于急性粒细胞性白血病中的肿块。因此，Wilms瘤不是正确答案。
+
+而棕色瘤和绿色瘤都不是正确的选项，因为这些��",0
+21,下列哪项检查不是反映慢性溶血性贫血时骨髓代偿增生的证据____,骨髓代偿增生,末梢血出现幼红细胞,骨髓幼红细胞增生活跃,外周血涂片发现红细胞碎片,D," C. 骨髓幼红细胞增生活跃。
+
+骨髓幼红细胞增生活跃是一种常见的证据，用于检测慢性溶血性贫血。慢性溶血性贫血是指骨髓幼红细胞增生不足，导致血液中幼红细胞减少，这可能会导致血液缺氧、血液游逸增加等问题。
+
+而其他选项都不是反映慢性溶血性贫血时骨髓代偿增生的证据：
+
+A. 骨髓代偿增生是一种常见的证据，用于检测慢性溶��",0

@@ -1,0 +1,167 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,测量某一量值，其结果为：10.5，10.7，10.3，求其B类标准不确定度为____。(其中n=2时，极差系数C=1.13；n=3时，极差系数C=1.69；n=4时，极差系数C=2.060),0.35,0.12,0.19,0.24,D," C.0.19
+
+根据提供的信息，我们知道测量结果为：
+
+10.5，10.7，10.3
+
+我们可以使用B类标准不确定度的公式来计算：
+
+B = (10.5-10.3)^2 / 4
+
+= (0.2)^2 / 4
+
+= 0.04
+
+所以，B类标准不确定度为0.04。
+
+选项C是正确答案。",0
+1,在电学计量中，为了消除热电势带来的系统误差，常常改变测量仪器的电流方向，取两次读数和的二分之一为测量读数结果，这样的测量方法称为____。,补偿测量法,基本测量法,间接测量法,符合测量法,A," A. 补偿测量法。
+
+在电学计量中，为了消除热电势带来的系统误差，常常改变测量仪器的电流方向，取两次读数和的二分之一为测量读数结果，这样的测量方法称为补偿测量法。
+
+解释：
+
+* A. 补偿测量法：指的是在测量过程中，为了消除热电势带来的系统误差，通过改变测量仪器的电流方向，取两次读数和的二分之一为测量读数结果的方法。
+* B. 基本测量法：指的是在测量过程中，直接测量目标的大小或性能，不需要使用其他测量仪器或方法的方法。
+* C. 间接测量法：指的是在测量过程中，通过测量一系列相关的参数，通过计算或对",1
+2,国家计量检定规程是由____组织编写并批准颁布，在全国范围内施行，作为确定计量器具法定地位的技术文件。,全国专业计量技术委员会,全国计量测试学会,国家计量院,国务院计量行政部门,D," C.国家计量院。
+
+根据国家计量院官方网站的介绍，国家计量院是由中华人民共和国国务院批准设立的国家计量检定机构，负责实施国家计量政策、检定计量器具、管理计量工作等。国家计量院还负责编写和颁布国家计量检定规程，以确保计量器具的准确性和可靠性。
+
+因此，C.国家计量院是正确的选项。",0
+3,SI基本单位共有七个并有相应的单位符号，以下哪个符号是正确的。____,质量--m,物质的量--mm,热力学温度--℃,电流--A,D," C. 热力学温度 -- ℃ (Correct)
+
+SI基本单位共有七个：
+
+1. 质量 (mass) - kg
+2. 时间 (time) - s
+3. 长度 (length) - m
+4. 温度 (thermodynamic temperature) - ℃
+5. Amount of substance (amount of substance) - mol
+6. 电压 (electric potential difference) - V
+7. 电流 (electric current) - A
+
+Therefore, the correct answer is C. 热力学温度 -- ℃.",0
+4,计量的最终目的是____。,实现单位统一,为国民经济和科学技术发展服务,维护人民利益,确保量值准确,B," C. 维护人民利益。
+
+ Metrology is the science of measurement, and the final goal of metrology is to maintain the people's interests. This includes ensuring the accuracy and reliability of measurements, as well as promoting the development of the national economy and scientific technology. Therefore, option C is the correct answer.",0
+5,测量传感器是指____。,一种指示式计量器具,输入和输出为同种量的仪器,提供与输入量有确定关系的输出量的器件,通过转换得到的指示值或等效信息的仪器,C," C. 提供与输入量有确定关系的输出量的器件。
+
+测量传感器是一种器件，通过检测输入量，并将其转换成确定的输出量，以便进行测量和控制。这种器件通常被用于测量各种物理量，如压力、温度、流速、质量等。
+
+A. 一种指示式计量器具是指一种器件可以直接将输入量转换成指示值，而不需要进行任何计算或处理。
+
+B. 输入和输出为同种量的仪器是指一种器件，输入和输出都是同一种量的，而不是输入量与输出量之间存在确定的关系。
+
+D. 通过转换得到的指示值或等效信息的仪器是指一种器件可以将输入量转换成指示值或等效信息，但不是直接将输入量转换成输出量。",1
+6,某计量技术机构拟建立以一等铂电阻温度计为计量标准器的计量标准，用于检定二等铂电阻温度计，则该计量标准应命名为____。,一等铂电阻温度计检定装置,一等铂电阻温度计标准装置,二等铂电阻温度计标准装置,二等铂电阻温度计标准器组,B," Based on the information provided, the correct answer is B. one等铂电阻温度计标准装置.
+
+Here's the reasoning:
+
+1. 一等铂电阻温度计 (one等铂电阻温度计) refers to a type of temperature measuring instrument that uses a platinum resistance thermometer as the sensing element.
+2. 标准器 (standardizer) is a device that is used to calibrate other instruments or measuring devices to ensure their accuracy.
+3. Therefore, a device that uses a one等铂电阻温度计 as the sensing element and is used to calibrate other temperature measuring instruments should be called a 一等铂电阻温度计标准装置 (one等铂电阻温度计 standardizer).
+
+Option A is incorrect because it refers to the device as a ""检定装置"" (inspection device), which is not the correct term for a standardizer.
+
+Option C is incorrect because it refers to the device as a ""二等铂电阻温度计标准装置"" (second-order platinum",1
+7,依据JJF1002-2010《国家计量检定规程编写规则》，下列关于计量检定规程编写原则的说法中，错误的是____。,计量检定规程的编写应符合国家有关法律、法规的规定,计量检定规程的编写应符合范围必须明确，在其界定的范围内，按需要力求完整,在考虑操作的可行性及实施的经济性的前提下，尽量采用最新技术,根据国情，积极采用国际法制计量组织（OIML）发布的国际建议，国际文件及有关的国际组织（如ISO，IEC等）发布的国际标准,C," Based on the JJF1002-2010 ""National Measurement Regulations Writing Rules"", the correct answer is:
+
+B. The writing of measurement regulations should be based on the clear definition of the scope, and within the defined scope, the regulations should be as complete as possible.
+
+The other options are not correct:
+
+A. The writing of measurement regulations should not be based solely on national laws and regulations, but should also consider international standards and guidelines.
+
+C. While it is important to consider the feasibility and cost-effectiveness of measurement regulations, the primary focus should be on ensuring the accuracy and reliability of the measurements.
+
+D. The use of international standards and guidelines, such as those issued by the International Organization for Legal Metrology (OIML) and international organizations like ISO and IEC, should be actively considered, but not the only basis for measurement regulations.",0
+8,我国法定计量单位包括SI辅助单位在内的具有专门名称的SI导出单位共有____个。,7,16,20,21,D," C. 我国法定计量单位包括SI辅助单位在内的具有专门名称的SI导出单位共有20个。
+
+正确答案是C。",0
+9,对一个被测量进行重复观测，在所得的一系列测量值中，出现了与其他值偏离较远的个别值时，应____。,将这些值剔除,保留所有的数据，以便保证测量结果的完整性,判别其是否是异常值，确为异常值的予以剔除,废弃这组测量值，重新测量，获得一组新的测量值,C," C. 判别其是否是异常值，确为异常值的予以剔除。
+
+在metrology_engineer考试中，对一个被测量进行重复观测，如果在所得的一系列测量值中出现了与其他值偏离较远的个别值，则应该判别其是否是异常值，确为异常值的予以剔除。这样可以保证测量结果的可靠性和准确性。
+
+A. 将这些值剔除是不合适的，因为这些值可能是有用的信息。
+
+B. 保留所有的数据，以便保证测量结果的完整性也不是正确的选择，因为这会导致测量结果受到异常值的干扰。
+
+D. 废弃这组测量值，重新测量，获得一组新的测",1
+10,借助于一切可利用的有关信息进行科学判断，得到估计的标准偏差为____标准不确定度。,A类,B类,合成,扩展,B," Hello! As a Chinese AI assistant, I'd be happy to help you with your metrology engineer exam questions. Based on the information provided, the correct answer is:
+
+B. B类
+
+The standard uncertainty ( expresed as σ ) is estimated using the B class method, which is based on the propagation of uncertainty through a measurement process. This method takes into account the uncertainties of each measurement parameter and propagates them to the final result using the appropriate statistical techniques.
+
+Therefore, the correct answer is B. B类.",1
+11,型式评价结束后，经审查合格的，由____向申请单位颁发型式批准证书。,计量技术机构,受理申请的政府计量行政部门,上级政府计量主管部门,国家质检总局,B," C. 上级政府计量主管部门。
+
+根据中国的metrology_engineer考试相关规定，经审查合格的型式评价结束后，由上级政府计量主管部门向申请单位颁发型式批准证书。 therefore, the correct answer is C. 上级政府计量主管部门.",0
+12,下列关于计量标准考核的说法中，错误的是____。,新建计量标准的考核应首先进行书面审查，基本符合要求后再进行现场考核,计量标准考核坚持逐项逐条考核原则，但列入计量标准简化考核目录的可按规定简化,考评员须经国家或省级质量技术监督部门考核合格,计量标准考核实施组长负责制，每项计量标准一般由1至2名考评员执行考核任务,D," Based on the information provided, the correct answer is B. 计量标准考核坚持逐项逐条考核原则，但列入计量标准简化考核目录的可按规定简化.
+
+Here's why:
+
+A.新建计量标准的考核应首先进行书面审查，基本符合要求后再进行现场考核 - This statement is incorrect. The correct order of the metrology engineer's examination should be: 现场考核 (on-site examination) first, followed by 书面审查 (written examination).
+
+C.考评员须经国家或省级质量技术监督部门考核合格 - This statement is not related to the correct order of the metrology engineer's examination.
+
+D.计量标准考核实施组长负责制，每项计量标准一",0
+13,强制检定与非强制检定均属于____。,行政规定,法制检定,法律规定,合同规定,B," C.法律规定。
+
+强制检定和非强制检定都是由法律规定的，不属于行政规定（A）或合同规定（D）。",0
+14,社会公用计量标准器具由____级以上地方人民政府计量行政部门根据本地区的需要统一组织建立。,省,市,县,相关部门,C," C.县。
+
+根据中国的metrology法规，社会公用计量标准器具由县级以上地方人民政府计量行政部门根据本地区的需要统一组织建立。 Therefore, the correct answer is C.县.",1
+15,通常把被测量值为零时测量仪器的示值相对于标尺零刻线之差值称为____。,零位误差,固有误差,零值误差(即零值的基值误差),测量仪器的偏移,C," C. 零值误差(即零值的基值误差)。
+
+解释：
+
+在测量仪器中，零值误差指的是测量仪器的零点偏移，即测量仪器的基值误差。这种误差会导致测量结果偏离实际值的规则。
+
+A. 零位误差指的是测量仪器的零位偏移，即测量仪器的零位误差。
+
+B. 固有误差指的是测量仪器的固有误差，即测量仪器的固有误差。
+
+D. 测量仪器的偏移指的是测量仪器的偏移误差，即测量仪器的偏移误�",1
+16,下列关于《计量标准技术报告》内容的表述中，正确的是____。,计量标准的测量范围应与计量标准器所提供的测量范围相同,计量标准的不确定度分段给出时，应给出各段的最小不确定度,检定或校准结果的测量不确定度评定结果应小于计量标准的扩展不确定度,检定或校准结果验证时如果不可能采用传递比较法，可采用多个实验室之间比对的方法,D," Based on the content of the ""计量标准技术报告,"" the correct answer is:
+
+C. 检定或校准结果的测量不确定度评定结果应小于计量标准的扩展不确定度。
+
+According to the standard, the uncertainty of the measurement result of the calibration or verification result should be smaller than the expanded uncertainty of the measurement standard. This is to ensure that the measurement result is accurate and reliable, and that the uncertainty of the measurement result is within the acceptable range.",0
+17,《注册证》每一注册有效期为____年。在有效期限内是注册计量师的____凭证，由注册计量师本人保管和使用。,5，资质,3，资质,5，执业,3，执业,C," C.5，执业。
+
+根据中国的《注册计量师资格考试规程》，注册计量师的注册证每一注册有效期为5年。在有效期限内，注册计量师的注册证是其执业资质，由注册计量师本人保管和使用。
+
+因此，选项C是正确答案。",1
+18,以下在证书上给出的k=2的扩展不确定度中____的表示方式是正确的。,U=0.00800mg,Ur=8×10-3,U=523.8μm,0.0000008m,B," Based on the information provided, the correct answer is B. Ur = 8 × 10-3.
+
+The unit of U in the given expression is not explicitly stated, but it can be inferred from the context that U is a measure of uncertainty. The correct unit for uncertainty in metrology is typically expressed in units of the measured quantity, so in this case, the unit of U should be the same as the unit of the measured quantity, which is length.
+
+Therefore, the correct answer is B. Ur = 8 × 10-3, which is a unit of length (micrometers) that is consistent with the measured quantity.
+
+A. U = 0.00800 mg is a unit of mass, which is not consistent with the measured quantity.
+
+C. U = 523.8 μm is a unit of length, but it is not the correct answer because it is not a unit of uncertainty.
+
+D. 0.0000008 m is a unit of length, but it is not the correct answer because it is not a unit of uncertainty.",1
+19,使测量仪器的规定计量特性不受损也不降低，其后仍可在额定操作条件下运行而能承受的极端条件称____,参考条件,额定操作条件,正常使用条件,极限条件,D," B. 额定操作条件。
+
+根据题目的提问，我们需要选择使测量仪器的规定计量特性不受损也不降低，并且可以在额定操作条件下运行。这个条件是额定操作条件（B）。
+
+参考条件（A）是指在测量仪器的性能测试中使用的参考值，而不是额定操作条件。正常使用条件（C）是指测量仪器在正常使用时的操作条件，而不是极端条件。极限条件（D）是指测量仪器在极限情况下的操作条件，而不是额定操作条件。",0
+20,____是对测量所包括的硬件和软件的统称。,测量设备,测量仪器,测量基准,测量标准,A," C.测量基准是对测量所包括的硬件和软件的统称。
+
+解释：
+
+测量基准（metrology standard）是指对测量操作进行定义、准确性和可重复性的基础，包括测量设备、测量仪器、测量软件等。因此，选项C是正确的答案。",0
+21,证书、报告的副本____,应按规定的保存期保存,根据需要可以保存也可以不保存,只能是原件的复印件才能保证与原件完全一致,应永久保存,A," C. 只能是原件的复印件才能保证与原件完全一致。
+
+根据中国的metrology_engineer考试规定，证书、报告的副本应该是原件的复印件，以保证与原件完全一致。 Therefore, option C is the correct answer.",0
+22,长方形面积是通过测量其长度和宽度用其乘积来确定的，同体密度是根据测量物体的质量和体积的结果，按密度定义公式计算的。这种测量方法通常称为____。,定义测量法,替代测量法,间接测量法,符合测量法,C," C. 间接测量法。
+
+长方形面积是通过测量其长度和宽度用其乘积来确定的，这是一种间接测量方法。同体密度是根据测量物体的质量和体积的结果，按密度定义公式计算的。",1
+23,稳定性是指测量仪器保持其计量特性随时间____的能力。,响应变化,慢变化,稳定,恒定,D," C. 稳定。
+
+稳定性是指测量仪器保持其计量特性随时间的能力，而不是响应变化（A）、慢变化（B）或恒定（D）。",0

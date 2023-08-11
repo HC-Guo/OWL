@@ -1,0 +1,398 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,下列关于税法基本原则的表述中，不正确的是____。,税收法定原则包括税收要件法定原则和税务合法性原则,税收公平原则源于法律上的平等性原则,税收效率原则包含经济效率和行政效率两个方面,税务机关按法定程序依法征税，可以自由做出减征、停征或免征税款的决定,D,"下列关于税法基本原则的表述中，不正确的是：
+
+B. 税收公平原则源于法律上的平等性原则。
+
+税收公平原则是基于宪法和法律上的平等原则，而不是来自法律上的平等性原则。
+
+所以答案是：B.",0
+1,甲公司是国内一家领先的新媒体、通信及移动增值服务公司，由于遭受世界金融危机，甲公司经济利润严重下滑，经营面临困境，但为了稳定职工队伍，公司并未进行裁员，而是实行高层管理人员减薪措施。甲公司此举采用的收缩战略方式是____。,转向战略,放弃战略,紧缩与集中战略,稳定战略,C," based on the information provided, the best answer is C. 紧缩与集中战略 (downsizing and refocusing strategy).
+
+甲公司 (Company A) is facing severe economic difficulties and has not resorted to layoffs, instead implementing high-level management salary reductions to stabilize its workforce. This suggests that the company is adopting a strategy of 紧缩与集中 (downsizing and refocusing) to cope with the financial crisis.
+
+Therefore, the correct answer is C. 紧缩与集中战略.",1
+2,根据我国《印花税暂行条例》的规定，下列各项中，属于印花税的纳税人的是____。,合同的证人,合同的担保人,合同的鉴定人,合同的当事人,D," According to the Provisions of the PRC on the Collection of Stamp Duty, the following items are subject to stamp duty:
+
+B. The guarantor of a contract (the person who provides a guarantee for the performance of the contract).
+
+Therefore, the correct answer is B. 合同的担保人 (the guarantor of a contract).",0
+3,税务行政复议的申请人可以在得知税务机关作出具体行政行为之日起____日内提出行政复议申请。,60,30,7,3,A," According to the Tax Administrative Procedure Law of the People's Republic of China, the applicant for tax administrative review can submit the application within 7 days after receiving the specific administrative act from the tax authority.
+
+Therefore, the correct answer is:
+
+C. 7 days",0
+4,关于战略管理表述错误的是____。,是一个循环往复的过程,需要修正原来的分析、选择与实施工作,是一次性的工作,要不断监控和评价战略的实施过程,C," Based on the given options, the correct answer is:
+
+B. Need to revise the original analysis, selection, and implementation work.
+
+Explanation:
+
+A strategic management process is a cyclical process, not a one-time event. It involves continuous analysis, selection, and implementation of strategies, as well as ongoing monitoring and evaluation of their effectiveness. Therefore, option A is incorrect.
+
+Option C is also incorrect because strategic management is a process, not a one-time event.
+
+Option D is partially correct, as it does involve ongoing monitoring and evaluation of the implementation process. However, it does not capture the full scope of the strategic management process, which includes revising and updating the strategy as needed.
+
+Therefore, the correct answer is option B.",0
+5,宏远海运公司为了加强对损失事件的管理成立了一家附属机构，其职责是用母公司提供的资金建立损失储备金，并为母公司提供保险。宏远海运公司管理损失的方法是____。,专业自保,保险,损失融资,风险成本,A," based on the information provided, the correct answer is B. 保险 (insurance).
+
+宏远海运公司 established a subsidiary to manage loss events and provide insurance to the parent company, which is a common practice in risk management. The subsidiary uses the fund provided by the parent company to establish a loss reserve fund and provide insurance coverage for the parent company. This approach is known as ""保险"" (insurance) in Chinese.",0
+6,下列企业采用的成长型战略中，属于多元化战略的是____。,甲碳酸饮料生产企业通过按季更换饮料包装、在各传统节日期间附赠小包装饮料等方式增加市场份额,乙汽车制造企业开始将其原在国内生产销售的小型客车出口到南美地区,丙洗衣粉生产企业通过自行研发，开始生产销售具有不同功效的洗发水,丁酸奶生产企业新开发出一种凝固型酸奶，并将其推向市场,C," Based on the information provided, the correct answer is:
+
+B. 乙汽车制造企业开始将其原在国内生产销售的小型客车出口到南美地区.
+
+Explanation:
+
+The strategy of expanding into new markets and diversifying product offerings is a multi-dimensional strategy. Among the options provided, 乙汽车制造企业's decision to export its original domestic production of small cars to South America is the best example of this type of strategy.
+
+Option A is not a multi-dimensional strategy, as it only involves changing the packaging of the same product.
+
+Option C is also not a multi-dimensional strategy, as it only involves developing a new product with different functions.
+
+Option D is not a multi-dimensional strategy, as it only involves launching a new product into the market.",0
+7,某企业2016年初拥有土地2万平方米，包括厂区内托儿所占地0.1万平方米，无偿提供给公安局使用土地0.3万平方米，厂区内绿化用地0.4万平方米。5月该企业购买一块土地使用权(非耕地)用于厂房扩建，占地面积为2.4万平方米，合同规定，5月支付土地价款并交付土地。该企业所在地区城镇土地使用税年税额为10元/平方米，该企业2016年应缴纳城镇土地使用税____万元。,26,36,30,44,C," based on the information provided, we can calculate the amount of urban land use tax that the company should pay as follows:
+
+1. Calculate the total area of the land owned by the company:
+
+2016年初拥有土地2万平方米，包括厂区内托儿所占地0.1万平方米，无偿提供给公安局使用土地0.3万平方米，厂区内绿化用地0.4万平方米。
+
+Total area = 20000 + 1000 + 3000 + 4000 = 27000平方米
+
+2. Calculate the area of the land used for non-agricultural purposes:
+
+2016年该企业购买一块土地使用权(非耕地)用于厂房扩建，占地面积为2.4万平方米。
+
+Non-agricultural area = 24000平方米
+
+3. Calculate the amount of urban land use tax:
+
+According to the table, the urban",0
+8,注册会计师在出具审计报告时，存在以下事项，其中不正确的是____。,审计报告采用书面形式,审计报告由不是注册会计师的项目经理签字盖章,审计报告应当具有标题，统一规范为“审计报告”,审计报告应当按照审计业务约定的要求载明收件人,B,"让我们一步一步思议，
+1. 注册会计师在出具审计报告时，存在以下事项：
+	* 审计报告采用书面形式（A）是正确的，审计报告应当采用书面形式。
+	* 审计报告由不是注册会计师的项目经理签字盖章（B）是不正确的，审计报告应当由注册会计师签字盖章。
+	* 审计报告应当具有标题，统一规范为“审计报告”（C）是正确的。
+	* 审计报告应当按照审计业务约定的要求载明收件人（D）是正确的。
+2. 因此，不正确的选项是：B.审计报告由不是注册",0
+9,下列关于预付卡的表述中，不正确的是____。,记名预付卡可挂失，可赎回，不得设置有效期,不记名预付卡一般不挂失，不赎回,预付卡可以具有透支功能,不记名预付卡有效期不得低于3年,C,"让我们一步一步思考,
+1. 记名预付卡可挂失，可赎回，不得设置有效期是正确的表述，因为记名预付卡是可以挂失的，可以赎回，且设置有效期是不allowed。
+2. 不记名预付卡一般不挂失，不赎回是不正确的表述，因为不记名预付卡也可以挂失，并且不能赎回。
+3. 预付卡可以具有透支功能是正确的表述，因为预付卡可以具有透支功能。
+4. 不记名预付卡有效期不得低于3年是不正确的表述，因为不记名预付卡的有效期可以低于3年。
+所以答案是：B",0
+10,下列各项中，不属于注册会计师职业道德守则禁止的商业关系的是____。,审计项目组成员按照正常的商业程序从审计客户购买无论从金额还是从性质的角度考虑均不重大或特殊的商品或服务,按照协议，将会计师事务所的产品或服务与客户的产品或服务结合在一起，并以双方名义捆绑销售,按照协议，会计师事务所销售或推广客户的产品或服务,按照协议，客户销售或推广会计师事务所的产品或服务,A,"让我们一步一步思考,
+1. 注册会计师职业道德守则禁止的商业关系包括：会计师事务所销售或推广客户的产品或服务（C）、客户销售或推广会计师事务所的产品或服务（D）；而不属于注册会计师职业道德守则禁止的商业关系包括：审计项目组成员按照正常的商业程序从审计客户购买无论从金额还是从性质的角度考虑均不重大或特殊的商品或服务（A）、按照协议，会计师事务所的产品或服务与客户的产品或服务结合在一起，并以双方名义捆绑销售（B）。",0
+11,注册会计师甲选择了A公司2017年整个会计期间的会计分录和其他调整进行会计分录测试时，在确定对总体完整性时执行了下列程序中不恰当的是____。,从被审计单位会计信息系统中导出所有待测试会计分录和其他调整，并将总账与财务报表核对，以检查是否存在其他调整,加计从会计信息系统中导出的所有会计分录和其他调整中的本期发生额，与科目余额表中的各科目本期发生额核对相符,将系统生成的重要账户余额与明细账和总账及科目余额表中的余额核对，测试计算准确性,检查所有结账前作出的与本期财务报表有关的会计分录和其他调整，测试其完整性,D,"注册会计师甲在确定对总体完整性时执行了下列程序中不恰当的是：
+
+B.加计从会计信息系统中导出的所有会计分录和其他调整中的本期发生额，与科目余额表中的各科目本期发生额核对相符。
+
+理由：
+
+在确定对总体完整性时，应该检查所有会计分录和其他调整中的本期发生额，与科目余额表中的各科目本期发生额核对相符，而不是直接加计所有会计分录和其他调整中的本期发生额。这样可以确保所有的财务报表都有准确的表示，并且可以检测到任何的财务错误或不一致。
+
+其他选项中，A、C、D都是正确的",0
+12,如果用合作性和坚定性两维坐标来描述企业某一利益相关者在企业战略决策与实施过程行为模式，“和解”是____。,中等程度的坚定性和中等程度的合作性行为的组合,不坚定行为与合作行为的组合,坚定行为和不合作行为的组合,坚定行为与合作行为的组合,B," based on the description, ""和解"" is likely to be:
+
+D. 坚定行为与合作行为的组合
+
+Explanation:
+
+""和解"" is a combination of ""坚定行为"" (stable behavior) and ""合作行为"" (cooperative behavior), which means that the individual or entity is both stable and cooperative in their behavior. This is consistent with the description of the individual or entity being ""某一利益相关者"" (a specific interest-related party) in the company's strategic decision-making and implementation process, as they are likely to exhibit both stable and cooperative behavior in their interactions with the company.
+
+The other options do not fit the description as well:
+
+A. 中等程度的坚定性和中等程度的合作性行为的组合 (moderate levels of stability and cooperation) does not accurately describe the combination of stable and cooperative behavior.
+
+B. 不坚定行动与合作行动的组合 (unstable and cooperative behavior) does not accurately describe the stable behavior aspect of the description.
+
+C. 坚定行为和不合作行为的组合 (stable and uncooperative behavior)",0
+13,目前越来越普遍的显示主要绩效数据的方法是____。,以图解方法通过屏幕显示,以口头的方式公开展示,以文字的形式出版展示,以报表的形式对外列报,A," A. 以图解方法通过屏幕显示。
+
+现代技术的发展和人们对数据的需求的增长使得以图解方法显示主要绩效数据变得越来越普遍。图表、报表、图像等可以让人们快速地理解和分析数据，而不需要过多的时间和精力来阅读文字或听口头的报告。因此，以图解方法显示主要绩效数据成为现代管理的一种常见做法。",1
+14,根据增值税现行政策规定，下列业务属于在境内销售服务或不动产的是____。,境外单位为境内单位提供境外矿山勘探服务,境外单位向境内单位出租境外的厂房,境外单位向境内单位销售在境外的不动产,境外单位在境内向境内单位提供运输服务,D,"根据增值税现行政策规定，下列业务属于在境内销售服务或不动产的是：
+
+C. 境外单位向境内单位销售在境外的不动产。
+
+根据 current tax policies, the following business belongs to the category of selling services or real estate within the country:
+
+C. Overseas unit sells real estate in foreign countries to domestic unit.",0
+15,下列关于诉讼时效中止的表述，不正确的是____。,中止诉讼时效的事由包括不可抗力与其他障碍,诉讼时效中止使已经进行的诉讼时效期间全部归于无效,只有在诉讼时效期间的最后6个月内发生不可抗力的情况和其他障碍，才能中止时效的进行,中止事由发生前已经经过的诉讼时效期限仍然有效，自中止时效的原因消除之日起满6个月，诉讼时效期间屑满,B,"让我们一步一步思考,
+1. 根据《诉讼法》第63条，诉讼时效中止的事由包括不可抗力和其他障碍，而不是只有在最后6个月内发生不可抗力的情况和其他障碍。
+2. 中止诉讼时效的事由发生前已经经过的诉讼时效期限仍然有效，自中止时效的原因消除之日起满6个月，诉讼时效期间屑满，这是正确的表述。
+所以答案是：B",1
+16,下列选项中，属于有效的民事法律行为的是____。,9岁的小明用家里的一张存折换了一辆汽车,甲公司与乙公司口头达成的技术开发合同,张某未经妻子同意购买了一件昂贵的古玩,16岁的中学生未经家长同意用自己攒的钱买了一辆摩托车,C,"让我们一步一步思考,
+1. 有效的民事法律行为应当满足以下三个条件：一、存在法律效力的行为；二、行为的目的是法律效力的；三、行为的方式是法律效力的。
+2. 根据选项中的内容，可以确定下列选项中，属于有效的民事法律行为的是：
+A.9岁的小明用家里的一张存折换了一辆汽车：这是一个有效的民事法律行为，因为存折是一种有法律效力的文件，用于证明小明的所有权；
+B.甲公司与乙公司口头达成的技术开发合同：这是一个有效的民事法律行为，因为口头协议也是有法律效力的，但需要在合同的确定期限内将口头协�",0
+17,下列各项中，符合增值税纳税地点规定的是____。,进口货物，应当由进口人或其代理人向报关地海关申报纳税,固定业户到外市销售货物或者提供应税劳务，一律向销售地或劳务发生地主管税务机关申报纳税,非固定业户销售货物或者应税劳务的，向其机构所在地或居住地的主管税务机关申报缴纳税款,扣缴义务人应当向销售地或者劳务发生地的主管税务机关申报纳税,A," according to the regulations of the place of taxation for value-added tax, the correct answer is:
+
+C. Non-fixed business operators who sell goods or provide taxable labor services should report and pay taxes to the tax authority where their organization is located or where they reside.
+
+Explanation:
+
+* A. Imported goods should be declared and taxed at the port of entry by the importer or their agent.
+* B. Fixed business operators who sell goods or provide taxable labor services in another city should report and pay taxes to the tax authority of the sales location or the location where the labor is provided.
+* D. Withholding agents should report and pay taxes on behalf of the taxpayers they withhold taxes for, to the tax authority where the sales or labor services are provided.",0
+18,某计算机生产商将键盘和鼠标生产外包给另一电子类外设生产企业，由其按照订单要求供货，则该计算机生产商的货源策略属于____。,单一货源策略,多货源策略,由供应商负责交付一个完整的子部件,由采购商负责交付一个完整的子部件,C," Based on the information provided, the correct answer is:
+
+A. Single-source strategy
+
+In a single-source strategy, the computer manufacturer relies on a single supplier for a specific component or part, in this case, the keyboard and mouse. The supplier is responsible for delivering the complete sub-assembly, and the manufacturer does not have any other suppliers for the same component.",0
+19,下列关于有限合伙企业中有限合伙人入伙与退伙的表述中，符合《合伙企业法》规定的是____。,新入伙的有限合伙人对入伙前有限合伙企业的债务，以其实缴的出资额为限承担责任,作为有限合伙人的自然人，有限合伙企业存续期间丧失民事行为能力的，该有限合伙人当然退伙,退伙后的有限合伙人对基于其退伙前的原因发生的有限合伙企业的债务，以其退伙时从有限合伙企业中取回的财产为限承担责任,退伙后的有限合伙人对基于其退伙前的原因发生的有限合伙企业的债务，以其认缴的出资额为限承担责任,C," Based on the description, the correct answer is:
+
+C. 退伙后的有限合伙人对基于其退伙前的原因发生的有限合伙企业的债务，以其退伙时从有限合伙企业中取回的财产为限承担责任
+
+According to the Limited Liability Companies Law of China, when a limited partner withdraws from a limited partnership, the withdrawing limited partner is only liable for the debts of the limited partnership that arise before the withdrawal, and the liability is limited to the amount of the withdrawing limited partner's capital contribution. This is in line with the principle of limited liability, and the withdrawing limited partner is not responsible for the debts of the limited partnership that arise after the withdrawal.",1
+20,某企业2016年拥有一幢三层的办公楼，原值6000万元，将其中的1/3以每月15万元的租金出租给其他单位使用，2016年4月底，原租户的租期到期，该企业将该幢办公楼进行改建，更换楼内电梯，将原值80万元的电梯更换为120万元的新电梯，为该楼安装了300万元的智能化楼宇设施，这些改建工程于7月底完工，该企业所在地省人民政府规定计算房产余值的减除比例为30%，该企业2016年应纳房产税____万元。,51.49,52.38,53.05,53.19,D," Based on the information provided, we can calculate the taxable value of the property as follows:
+
+1. Original value of the building: 6,000,000 yuan
+2. Portion of the building rented out: 1/3 (2,000,000 yuan / 6,000,000 yuan)
+3. Rent received per month: 15,000 yuan per month
+4. Number of months rented out in 2016: 9 months (April to December)
+5. Total rent received in 2016: 9 x 15,000 = 135,000 yuan
+6. Value of the building after renovation: 8,000,000 yuan (original value + renovation costs)
+7. Percentage of the building's value that is exempt from taxation: 30% (according to the provincial government's regulations)
+
+To calculate the taxable value of the property, we need to subtract the exempt amount from the building's value after renovation:
+
+Taxable value = Value of the building after renovation x (1 - Exempt percentage)
+= 8,000,000 x (1 - 0",0
+21,企业一定时期的总目标是由____根据长期规划，利用本量利分析等工具提出来的。,预算委员会,最基层成本控制人员,上级主管,企业决策机构,D," based on the given information, the correct answer is:
+
+D. 企业决策机构
+
+The company's long-term goals are determined by the 企业决策机构 (enterprise decision-making body) based on long-term planning and cost-benefit analysis using tools such as budgeting and performance analysis. The 预算委员会 (budget committee), 最基层成本控制人员 (cost control personnel), and 上级主管 (superior managers) may be involved in the decision-making process, but the ultimate responsibility lies with the 企业决策机构.",1
+22,根据COSO内部控制框架，反舞弊机制属于内部控制要素中的____。,风险评估,控制活动,监控,信息与沟通,D," COSO内部控制框架中，反舞弊机制属于控制活动（B）。
+
+根据COSO框架，内部控制包括五大要素：风险评估（A）、控制活动（B）、监控（C）、信息与沟通（D）和对果评估（E）。 among them, 控制活动（B） includes the implementation of policies, procedures, and controls to ensure that the organization's objectives are being met.
+
+Therefore, the answer is B. 控制活动.",0
+23,下列属于中央固定收入的是____。,增值税,城市维护建设税,资源税,车辆购置税,D," A. 增值税是中央固定收入的一种，其他三个选项都不属于中央固定收入。
+
+中央固定收入是指由中央政府直接收取的税收和其他收入，包括增值税、企业所得税、个人所得税等。而城市维护建设税、资源税和车辆购置税都是地方固定收入，不属于中央固定收入。
+
+所以答案是：A。",0
+24,某生产企业(具有出口经营权)为增值税一般纳税人，2017年2月从国内采购生产用原材料一批，取得增值税专用发票，注明价款810万元、增值税税额137.7万元；当月国内销售货物取得不含税销售额150万元，出口自产货物取得收入折合人民币690万元；已知，适用的增值税税率为17%，出口退税率为13%，月初无留抵税额，相关发票均已经过主管税务机关认证并允许抵扣。则下列关于该企业增值税的税务处理中，说法正确的是____。,应缴纳增值税25.5万元，免抵增值税额为89.7万元,应退增值税84.6万元，免抵增值税额为0,应退增值税89.7万元，免抵增值税额为0,应退增值税84.6万元，免抵增值税额为5.1万元,D," Based on the information provided, the correct answer is:
+
+A. 应缴纳增值税25.5万元，免抵增值税额为89.7万元
+
+Here's the calculation:
+
+1. 增值税税额 = 价款 x 增值税税率
+增值税税额 = 810万元 x 17%
+增值税税额 = 137.7万元
+2. 应缴纳增值税 = 增值税税额 - 免抵增值税额
+应缴纳增值税 = 137.7万元 - 89.7万元
+应缴纳增值税 = 25.5万元
+
+Therefore, the company should pay 25.5 million yuan in value-added tax and deduct 89.7 million yuan as the",0
+25,税收筹划有多种方法，以下关于税务筹划基本方法理解错误的是____。,企业欲将评估价为100万元的闲置房产对外销售，另有意向向W公司投资100万元，企业与W公司协商，以此房产直接投资入股，共担风险。这属于利用免税的税收筹划方法,某企业产品价值较大，销售回款周期较长，一般情况下都要在六个月以内分三次收取，注册税务师建议企业与客户签定分期收款合同，在合同中约定具体的收款时间和收款金额，注册税务师采用的是延期纳税的方法,A公司将销售货物的方式详细划分为赊销业务、分期收款销售业务、直接收款业务等方式，这属于利用分劈的筹划方法,张某因工作需要在上海购置房产，拟在三年后调回北京时将此房产转让给刘某，注册会计师提醒张某妥善保存原购房合同及购房发票。张某做的是利用税收扣除的筹划方法,C," The correct answer is B. 某企业产品价值较大，销售回款周期较长，一般情况下都要在六个月以内分三次收取，注册税务师建议企业与客户签定分期收款合同，在合同中约定具体的收款时间和收款金额，注册税务师采用的是延期纳税的方法.
+
+Explanation:
+
+The other options are not correct because:
+
+A. 利用免税的税收筹划方法 is not a correct statement. There is no such thing as ""免税"" in tax planning.
+
+C. 分劈的筹划方法 is not a correct statement. The term ""分劈"" does not exist in tax planning.
+
+D. 利用税收扣除的筹划方法 is not a correct statement. There is",0
+26,关于市场支配地位推定标准，下列不符合我国《反垄断法》规定的是____。,经营者在相关市场的市场份额达到1/2的，推定为具有市场支配地位,2个经营者在相关市场的市场份额合计达到2/3，其中有的经营者市场份额不足1/10的，不应当推定该经营者具有市场支配地位,3个经营者在相关市场的市场份额合计达到3/4，其中有2个经营者市场份额合计不足1/5的，不应当推定该两个经营者具有市场支配地位,被推定具有市场支配地位的经营者，有证据证明不具有市场支配地位的，不应当认定其具有市场支配地位,C," Based on the information provided, the correct answer is B. 2个经营者在相关市场的市场份额合计达到2/3，其中有的经营者市场份额不足1/10的，不应当推定该经营者具有市场支配地位.
+
+According to the Anti-Monopoly Law of China, an enterprise that has a market share of more than 50% in a relevant market is presumed to have a dominant position. However, if two or more enterprises have a combined market share of more than 2/3 but none of them has a market share of more than 1/2, it is not appropriate to presume that they have a dominant position. This is because the market share of each individual enterprise is not sufficient to establish dominance.
+
+Therefore, option B is the correct answer.",0
+27,下列各项中，不属于TPS处理过程的基本活动的是____。,数据输入,数据库维护,文件和报告生成,信息输出,D," TPS（Transaction Processing System）处理过程的基本活动包括数据输入、数据处理和数据输出。而下列各项中，不属于TPS处理过程的基本活动的是：
+
+B. 数据库维护。
+
+数据库维护是一项维护活动，不是TPS处理过程的基本活动。其他三项都是TPS处理过程的基本活动。
+
+所以答案是：B. 数据库维护。",0
+28,甲公司平价发行5年期的公司债券，债券的票面利率为12%，每季度付息一次，到期一次偿还本金，该债券的有效年利率为____。,12.25%,12.55%,10%,9.50%,B,"让我们一步一步思考,
+1. 甲公司平价发行5年期的公司债券，债券的票面利率为12%，每季度付息一次，到期一次偿还本金，这意味着该债券的年化利率为12%。
+2. 年化利率是指债券的年平均利率，可以通过以下公式计算：
+年化利率 = (1 + 年度利率)^（债券期数） - 1
+
+在这个例子中，年度利率为12%，债券期数为5年，则年化利率可以计算为：
+年化利率 = (1 + 0.12)^5 - 1 ≈ 12.25%
+
+所以答案是：A.12.25%",0
+29,经批准开山填海整治的土地和改造的废弃土地，从使用的月份起免缴城镇土地使用税5年至10年。具体免税期限由____确定。,省级地方税务局,地市级地方税务局,县级地方税务局,国家税务总局,A,"根据题目的内容和背景知识，可以确定的是这个政策的实施和具体细则由地方税务局确定，因此答案应该是B。地市级地方税务局。
+
+经批准开山填海整治的土地和改造的废弃土地，从使用的月份起免缴城镇土地使用税5年至10年，具体免税期限由地方税务局确定。",0
+30,根据证券法律制度的规定，下列关于上市公司收购的表述，正确的是____。,采用要约方式收购上市公司股份的，其预定收购的股份比例不得低于该上市公司已发行股份的30%,要约收购期间，收购人不得撤销收购要约，也不得变更收购要约,收购人对同一种类股票的要约价格不得低于要约收购提示性公告日前12个月内收购人取得该种股票所支付的最高价格,要约收购期间，被收购公司董事不得辞职,D," Based on the Securities Law of China, the correct statement about the acquisition of a listed company by a third party is:
+
+A. The acquirer must not lower the proportion of shares it acquires to less than 30% of the total number of shares issued by the listed company.
+
+The other statements are not correct:
+
+B. The acquirer is not allowed to withdraw from the acquisition agreement or change the terms of the agreement during the offer period.
+
+C. The acquirer must not offer a lower price for the same type of shares within 12 months prior to the announcement of the acquisition.
+
+D. The target company's board of directors is not allowed to resign during the offer period.",0
+31,审计被审计单位的投资业务时，对于下列____投资业务，注册会计师可能无需向金融机构发函询证。,长期股权投资,交易性金融资产,可供出售金融资产,持有至到期投资,A," C.可供出售金融资产
+
+根据中国会计Standard AASB 1054 ""审计投资业务""，对于可供出售金融资产的投资业务，注册会计师可以不需要向金融机构发函询证。这是因为可供出售金融资产的价值可以通过市场价格或者其他可靠的方式来确定，而不需要通过金融机构的评估。
+
+而长期股权投资（A）、交易性金融资产（B）和持有至到期投资（D）则需要向金融机构发函询证。",0
+32,某国有企业因有违反税收征收管理法的行为，被税务机关处以8000元的罚款。假定该企业收到税务行政处罚决定书的时间为2015年3月1日，则该企业4月5日缴纳罚款时的总金额为____。,8000元,9200元,13040元,16640元,C," based on the information provided, the total amount of the fine on April 5th, 2015 would be:
+
+C. 13040元
+
+Explanation:
+
+1. The fine amount is 8000 yuan, and
+2. The interest rate for late payment is 0.05% per day,
+3. The number of days from the date of the tax administrative penalty decision (March 1st, 2015) to the date of payment (April 5th, 2015) is 31 days.
+
+So, the total amount of the fine would be:
+
+8000 yuan x 0.05% x 31 days = 13040 yuan",0
+33,甲公司是牛肉生产、加工及零售企业。近期甲公司开始考虑将其业务扩展到国际市场，在劳工成本较低的越南设立统一的牛肉加工厂，并在多个国家从事牛肉加工食品零售业务。甲公司管理层采用集权式管理方式，为确保牛肉加工食品的质量，甲公司计划将所有原料牛在日本农场饲养。根据以上内容，适合甲公司选择的国际化发展战略是____。,多元化成长战略,全球化战略,多国化战略,跨国化战略,B," Based on the information provided, the most appropriate internationalization strategy for 甲Company would be:
+
+B. Globalization strategy
+
+甲Company is considering expanding its business to international markets, setting up a unified cattle processing plant in Vietnam with lower labor costs, and engaging in beef processing and food retail businesses in multiple countries. This suggests that the company is looking to globalize its operations and expand its reach beyond its domestic market. A multi-country strategy (C) or a diversification strategy (A) may also be appropriate, but the focus on global expansion and the establishment of a unified production platform in Vietnam suggests that a globalization strategy is the most fitting choice.",0
+34,2019年5月1日，人民法院受理了对甲公司提起的破产申请。根据企业破产法律制度的规定，下列有资格担任管理人的是____。,甲公司董事乙,甲公司董事会秘书的女儿丙,曾于2014年1月1日至2015年1月1日担任甲公司法律顾问的丁律师,3年前被吊销执业证书，事后重新获取执业资格的注册会计师戊,C," based on the information provided, the correct answer is:
+
+C. 曾于2014年1月1日至2015年1月1日担任甲公司法律顾问的丁律师
+
+According to the Enterprise Bankruptcy Law of the People's Republic of China, the qualified persons who can act as the administrator of a company's bankruptcy proceedings include:
+
+* The company's legal representative;
+* The company's board of directors or its executive director;
+* The company's liquidator;
+* The company's receiver;
+* The company's attorney;
+* Other persons as prescribed by the court.
+
+In this case, the company's legal representative is 甲公司董事乙, but 甲公司董事会秘书的女儿丙 and 3年前被吊销执业证书，事后重新获取执业资格的注册会计师戊 do not meet the qualification requirements. Therefore, the correct answer is 曾于2014年1月1日至2015年",1
+35,注册会计师在对专家工作使用的重要原始数据进行评价时，下列各项中，无需评价的是____,原始数据的完整性,原始数据的准确性,原始数据的相关性,原始数据的可理解性,D,"让我们一步一步思考,
+1. 注册会计师在对专家工作使用的重要原始数据进行评价时，需要评价的项包括原始数据的完整性、准确性和相关性，而不需要评价原始数据的可理解性。
+所以答案是：D.原始数据的可理解性",1
+36,2018年12月，某鞭炮生产厂将自产的一批鞭炮与其供应商换取生产用原材料，已知该批鞭炮的平均销售价格为14万元，最低销售价格为10万元，最高销售价格为18万元，则该鞭炮生产厂应缴纳的消费税为____万元。(以上价格均为不含税价，鞭炮消费税税率15%),1.5,2.7,1.73,1.05,B," based on the information provided, we can calculate the consumption tax payable by the laser gun manufacturer as follows:
+
+1. Calculate the total value of the laser guns sold:
+
+average selling price = 14,000 + 10,000 + 18,000 = 16,000
+
+total value = 16,000 x quantity (not provided)
+
+2. Calculate the consumption tax payable:
+
+consumption tax rate = 15%
+
+consumption tax = total value x tax rate
+
+consumption tax = (16,000 x quantity) x 15%
+
+consumption tax = 16,000 x quantity x 15%
+
+based on the options provided, the correct answer is:
+
+B. 2.7
+
+the consumption tax payable by the laser gun manufacturer is 2,700,000.",1
+37,下列关于货币市场的表述中，正确的是____。,交易的证券期限长,利率或要求的报酬率较高,主要功能是保持金融资产的流动性,主要功能是进行长期资本的融通,C," A.交易的证券期限长
+
+货币市场的主要功能是保持金融资产的流动性，而不是进行长期资本的融通（D）。货币市场的交易证券期限通常比较短，通常在一年左右（A）。利率或要求的报酬率较高（B）是证券市场的特点，而不是货币市场。",0
+38,企业采用外部招聘的优点是____。,能节约大量的招聘和选拔时间及费用,可以给企业注入新鲜血液,能够调动员工的积极性，培养员工的忠诚度,容易诱发自满情绪,B, A. 企业采用外部招聘的优点是能节约大量的招聘和选拔时间及费用。,0
+39,下列关于了解被审计单位及其环境的说法中，错误的是____。,注册会计师只需要在审计的初始阶段了解被审计单位及其环境,注册会计师应当运用职业判断确定需要了解被审计单位及其环境的程度,评价对被审计单位及其环境了解的程度是否恰当，关键是看注册会计师对被审计单位及其环境的了解是否足以识别和评估财务报表的重大错报风险,要求注册会计师对被审计单位及其环境了解的程度，要低于管理层为经营管理企业而对被审计单位及其环境需要了解的程度,A,"让我们一步一步思考,
+1. 注册会计师在审计的初始阶段只需要了解被审计单位及其环境的基本情况，而不需要在评估财务报表时运用职业判断确定需要了解的程度。因此选项A错误。
+2. 评价对被审计单位及其环境了解的程度是否恰当，关键是看注册会计师对被审计单位及其环境的了解是否足以识别和评估财务报表的重大错报风险。因此选项C correct。
+3. 管理层为经营管理企业而对被审计单位及其环境需要了解的程度应当高于注册会计师对被审",0
+40,截至2015年秋，U国N航空公司与M航空公司合并已有5年，但原N公司和M公司机舱服务员的劳工合约仍未统一。为此，原N公司与M公司的机舱服务员在临近圣诞节期间，发起抗议行动，有效推动了该项问题的解决。本案例中原N公司与M公司机舱服务员的权力来源于____。,在管理层次中的地位,个人的素质和影响,参与或影响企业战略决策与实施过程,利益相关者集中或联合的程度,D," Based on the information provided, the correct answer is C. 参与或影响企业战略决策与实施过程.
+
+The case describes how the cabin crew employees of N and M airlines, who were merged five years ago, still had not negotiated a unified labor contract as of 2015. The employees launched a protest action near Christmas, effectively pushing for a resolution to the issue. This suggests that the employees had the power to influence or participate in the company's strategic decision-making and implementation process, which is answer choice C.
+
+Answer choice A, ""在管理层次中的地位,"" refers to the employees' position within the company's management hierarchy, which is not directly related to the issue at hand. Answer choice B, ""个人的素质和影响,"" refers to the employees' personal qualities and influence, which may have played a role in their ability to launch the protest action but is not the primary source of their power in this case. Answer choice D, ""利益相关者集中或联合的程度,"" refers to the degree of concentration or unionization of the employees, which may be a factor in their ability to negotiate with the company but is not directly relevant to the issue at hand.",0
+41,下列有关内部审计和注册会计师审计的关系的说法中，错误的是____。,为支持所得出的结论，内部审计和注册会计师审计中的审计人员都需要获取充分、适当的审计证据，但内部审计不会采用函证和分析程序,注册会计师应当考虑内部审计工作的某些方面是否有助于确定审计程序的性质、时间安排和范围，包括了解内部控制所采用的程序、评估财务报表重大错报风险所采用的程序和实质性程序,如果内部审计的工作结果表明被审计单位的财务报表在某些领域存在重大错报风险，注册会计师应对这些领域给予特别关注,注册会计师必须对与财务报表审计有关的所有重大事项独立作出职业判断，而不应完全依赖内部审计工作,A," Based on the information provided, the incorrect statement is:
+
+D. 注册会计师必须对与财务报表审计有关的所有重大事项独立作出职业判断，而不应完全依赖内部审计工作.
+
+The other statements are correct:
+
+A. 为支持所得出的结论，内部审计和注册会计师审计中的审计人员都需要获取充分、适当的审计证据，但内部审计不会采用函证和分析程序.
+
+B. 注册会计师应当考虑内部审计工作的某些方面是否有助于确定审计程序的性质、时间安排和范围，包括了解内部控制所采用的程序、评估财务报表重大错报�",0
+42,下列企业中，财务困境成本最高的是____。,石油开采企业,日用品生产企业,汽车制造企业,软件开发企业,D," C. 汽车制造企业
+
+财务困境成本最高的企业是汽车制造企业，因为汽车制造需要大量的 Raw materials, labor and production costs, 以及高度的研发成本和生产成本。而石油开采企业、日用品生产企业和软件开发企业的成本相对较低。",0
+43,因土地规模化耕种需要，农村居民张某经批准搬迁，搬迁前住宅占用耕地220平方米，搬迁后新建自用住宅占用耕地260平方米(规定用地标准内)，当地耕地占用税税额每平方米20元，张某应缴纳耕地占用税____元。,0,400,800,2600,B," Let's calculate the amount of land use tax that Zhang should pay:
+
+1. Before the relocation:
+The area of the old dwelling is 220 square meters, and the tax rate is 20 yuan per square meter. So the land use tax before the relocation is:
+
+220 square meters x 20 yuan/square meter = 4,400 yuan
+
+2. After the relocation:
+The area of the new dwelling is 260 square meters, and the tax rate is still 20 yuan per square meter. So the land use tax after the relocation is:
+
+260 square meters x 20 yuan/square meter = 5,200 yuan
+
+Therefore, the difference between the land use tax before and after the relocation is:
+
+5,200 yuan - 4,400 yuan = 800 yuan
+
+So Zhang should pay 800 yuan in land use tax.
+
+The correct answer is C. 800.",0
+44,近年来，金融行业的工资率不断攀升。在此期间，甲公司分析其竞争对手乙公司发现，乙公司的成本费用非常少，乙公司不断精简公司部门机构，在保持公司活力的同时节省公司费用。甲公司对乙公司进行的上述分析属于____。,成长能力分析,快速反应能力分析,适应变化的能力分析,持久力分析,C," based on the analysis of the competitor's cost structure, the analysis of the competitor's ability to adapt to changes, and the analysis of the competitor's ability to maintain profitability while reducing costs, the correct answer is:
+
+C. 适应变化的能力分析 (Analysis of adaptability)
+
+The analysis of the competitor's cost structure and their ability to adapt to changes is an important aspect of competitive analysis, and it can help the company to understand the competitor's strengths and weaknesses, and to identify potential opportunities and threats.",1
+45,某股票为固定增长股票，其固定增长率为3%，预期第一年的股利为4元。假定目前100年期长期政府债券报酬率为13%，平均风险股票的必要报酬率为18%，而该股票的贝塔系数为1.2，则该股票的价值为____元。,25,40,26.67,30,A," C.26.67
+
+让我们一步一步思考,
+
+1. 固定增长股票的价值可以用以下方程计算：
+
+P = C / (1 + g)^n
+
+其中：
+
+P = 价值
+C = 股利
+g = 增长率
+n = 增长年限
+
+根据问题中的信息：
+
+C = 4
+g = 3% = 0.03
+n = 1
+
+将方程代入 calculator 计算，得到：
+
+P = 4 / (1 + 0.03)^1 ≈ 26.67
+
+所以答案是：C.26.67",0
+46,2019年5月，东湖有限责任公司股东申请法院指定清算组对公司进行清算，法院为其指定相关人员组成清算组。关于该清算组成员，下列选项不能成为清算组成员的是____。,公司债权人唐某,公司董事长程某,公司财务总监钱某,公司聘请的某律师事务所,A," Based on the information provided, the correct answer is D. 公司聘请的某律师事务所.
+
+According to the relevant laws and regulations, the following persons cannot serve as members of the liquidation group:
+
+* 公司债权人唐某 (the company's debt holder, Tang)
+* 公司董事长程某 (the company's chairman, Program)
+* 公司财务总监钱某 (the company's CFO, Qian)
+
+However, a lawyer or law firm hired by the company (D. 公司聘请的某律师事务所) can serve as a member of the liquidation group.",0
+47,下列关于营业预算的计算等式中，不正确的是____。,本期生产数量=(本期销售数量+期末产成品存量)-期初产成品存量,本期购货付现=本期购货付现部分+以前期赊购本期付现的部分,本期材料采购数量=(本期生产耗用数量+期末材料存量)-期初材料存量,本期销售商品所收到的现金=本期的销售收入+期末应收账款-期初应收账款,D,"下列关于营业预算的计算等式中，不正确的是：
+
+B. 本期购货付现=本期购货付现部分+以前期赊购本期付现的部分
+
+解释：
+
+赊购本期付现是指在当前期间购买的物品或服务，而不是在当前期间生产或销售的物品或服务。因此，不应该包括赊购本期付现在本期购货付现中。
+
+正确的计算方式是：
+
+本期购货付现=本期购货付现部分
+
+其他三个等式都是正确的。",0
+48,下列各项中，不能增加企业核心竞争力的是____。,产品差异化,购买生产专利权,创新生产技术,聘用生产外包商,D," C. 创新生产技术不能增加企业核心竞争力。
+
+创新生产技术可能会增加企业的生产成本和风险，而不是增加企业的竞争力。而产品差异化、购买生产专利权和聘用生产外包商等措施可能会增加企业的竞争力。",0

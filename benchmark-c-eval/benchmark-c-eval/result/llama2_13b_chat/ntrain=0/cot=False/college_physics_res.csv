@@ -1,0 +1,150 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,α粒子在加速器中被加速，当其质量为静止质量的 3 倍时，其动能为静止能量的____,2倍,3倍,4倍,5倍,A," C. 4倍。
+
+根据保尔森的原理，α粒子在加速器中被加速时，其动能与质量成正比。如果α粒子的质量为静止质量的3倍，那么其动能为静止能量的4倍。
+
+Therefore, the correct answer is C. 4倍.",0
+1,有三个直径相同的金属小球，小球1和2带等量同号电荷，两者的距离远大于小球直径，相互作用力为F。小球3不带电，装有绝缘手柄．用小球3先和小球1碰一下，接着又和小球2碰一下，然后移去。则此时小球1和2之间的相互作用力为____,F/4,3F/8,F/2,3F/4,B," C. F/2.
+
+According to the Coulomb's law, the electrostatic force between two charged objects is proportional to the product of their charges and inversely proportional to the square of the distance between them. Since the three metal balls have the same diameter and are equally charged, the electrostatic force between ball 1 and ball 2 is the same as the force between ball 2 and ball 3.
+
+When ball 3 is moved towards ball 1 and then towards ball 2, the force between ball 1 and ball 2 remains the same, as the distance between them does not change. Therefore, the force between ball 1 and ball 2 is F/2, which is the correct answer.",0
+2,在双缝干涉实验中，两条缝的宽度原来是相等的。若其中一缝的宽度略变窄(缝中心位置不变)，则____,干涉条纹的间距变宽,干涉条纹的间距变窄,干涉条纹的间距不变，但原极小处的强度不再为零,不再发生干涉现象,C," Based on the information provided, the correct answer is B. 干涉条纹的间距变窄.
+
+When one of the slits in a double-slit experiment is slightly narrowed (keeping the center position unchanged), the interference pattern will change, and the distance between the interference fringes will become narrower. This is because the wave function of the light passing through the narrowed slit will be partially blocked, resulting in a decrease in the overlap between the waves passing through the two slits, and a corresponding decrease in the intensity of the interference fringes.
+
+Therefore, option B is the correct answer. Option A is incorrect, as the distance between the interference fringes does not increase, but rather decreases. Option C is also incorrect, as the intensity of the interference fringes does not remain zero, but rather decreases. Option D is incorrect, as the interference phenomenon still occurs, but with a changed pattern.",0
+3,设用频率为ν_1和ν_2的两种单色光，先后照射同一种金属均能产生光电效应。已知金属的红限频率为ν_0，测得两次照射时的遏止电压|U_{a2}|=2|U_{a1}|，则这两种单色光的频率有如下关系：____,ν_2=ν_1-ν_0,ν_2=ν_1+ν_0,ν_2=2ν_1-ν_0,ν_2=ν_1-2ν_0,C," C. ν_2 = 2ν_1 - ν_0.
+
+解释：
+
+根据光电效应的原理，当单色光照射金属时，会产生电压。如果先后照射两种单色光，则会产生两次的电压。由于两次电压的大小相同，可以将它们之比作为比较。
+
+设两种单色光的频率为ν_1和ν_2，则两次照射时的遏止电压为：
+
+|U_{a2}| = 2|U_{a1}|
+
+根据光电效应的方程，可以得到：
+
+|U_{a2}| = 2|U_{a1}| = 2(e^(-ν_1/2) - e^(-ν_2/2))
+
+将两式相乘，可以得到：
+
+2(e^(-ν_1/2) - e^(-ν_2/2)) = e^(-ν_1/2) - e^(-ν_2/2)
+",1
+4,两瓶不同种类的理想气体，它们的温度和压强都相同，但体积不同，则单位体积内的气体分子数$n$，单位体积内的气体分子的总平动动能($E_K/V$)，单位体积内的气体质量$\rho$，分别有如下关系：____,$n$不同，($E_K/V$)不同，$\rho$不同,$n$不同，($E_K/V$)不同，$\rho$相同,$n$相同，($E_K/V$)相同，$\rho$不同,$n$相同，($E_K/V$)相同，$\rho$相同,C," C. $n$ 相同，($E_K/V$) 相同，$\rho$ 不同。
+
+根据理想气体状态方程：
+
+PV = nRT
+
+和
+
+P = nkT
+
+可以得知，在同一温度和压强下，不同体积的理想气体中，单位体积内的气体分子数($n$)、单位体积内的气体分子的总平动动能($E_K/V$)和单位体积内的气体质量（density）都是直接相关的。
+
+因此，选项C是正确的。",1
+5,设声波通过理想气体的速率正比于气体分子的热运动平均速率，则声波通过具有相同温度的氧气和氢气的速率之比$V_{O_2}/V_{H_2}$为____,1,1/2,1/3,1/4,D," C. 1/3.
+
+According to the ideal gas law, the speed of sound in an ideal gas is proportional to the root mean square velocity of the gas molecules. Since the temperature of both the oxygen and hydrogen gases is the same, the root mean square velocity of the gas molecules is the same for both gases. Therefore, the ratio of the speed of sound in oxygen to the speed of sound in hydrogen is 1/3.",0
+6,两块平玻璃构成空气劈形膜，左边为棱边，用单色平行光垂直入射。若上面的平玻璃以棱边为轴，沿逆时针方向作微小转动，则干涉条纹的____,间隔变小，并向棱边方向平移,间隔变大，并向远离棱边方向平移,间隔不变，向棱边方向平移,间隔变小，并向远离棱边方向平移,A," C. 间隔不变，向棱边方向平移。
+
+解释：
+
+在两块平玻璃构成空气劈形膜的情况下，如果将上面的平玻璃以棱边为轴，沿逆时针方向作微小转动，则干涉条纹的间隔不会变化，而是会向棱边方向平移。这是因为，在棱边方向上，光束的干涉会导致光束的分量在两个平玻璃之间垂直干涉，从而产生干涉条纹。由于棱边方向上的光束干涉不会改变光束的分量，因此干涉条纹的间隔不会变化。",0
+7,在双缝干涉实验中，两缝间距为d，双缝与屏幕的距离为D(D>>d)，单色光波长为λ，屏幕上相邻明条纹之间的距离为____,λD/d,λd/D,λD/(2d),λd/(2D),A," C. λD/(2d)
+
+解释：
+
+在双缝干涉实验中，两缝间距为d，双缝与屏幕的距离为D（D≫d），单色光波长为λ。由于干涉现象的原理，在屏幕上相邻明条纹之间的距离可以用波长来计算：
+
+距离 = λ / (2d)
+
+因此，正确答案是C. λD/(2d)。",0
+8,关于电场强度定义式E=F/q0，下列说法中哪个是正确的？____,场强E的大小与试探电荷q0的大小成反比,对场中某点，试探电荷受力F与q0的比值不因q0而变,试探电荷受力F的方向就是场强E的方向,若场中某点不放试探电荷q0，则F=0，从而E=0,B," Based on the definition of electric field strength E = F/q0, the correct answer is:
+
+A. 场强E的大小与试探电荷q0的大小成反比
+
+Explanation: The electric field strength E is proportional to the magnitude of the test charge q0, so the larger the test charge, the stronger the electric field.",1
+9,设有一个带正电的导体球壳，当球壳内充满电介质、球壳外是真空时，球壳外一点的场强大小和电势用E1，U1表示；而球壳内、外均为真空时，壳外一点的场强大小和电势用E2，U2表示，则两种情况下壳外同一点处的场强大小和电势大小的关系为____,E1 = E2，U1 = U2,E1 = E2，U1 > U2,E1 > E2，U1 > U2,E1 < E2，U1 < U2,A," C. E1 > E2，U1 > U2.
+
+解释：
+
+当球壳内充满电介质时，外部场强大小为E1，而球壳内电势为U1。当球壳外是真空时，外部场强大小为E2，而球壳内电势为U2。由于电介质充满的球壳外部场强大小比外部真空场强大小大，因此E1 > E2。同时，由于球壳内电势U1大于球壳外电势U2，所以U1 > U2。
+
+Therefore, the correct answer is C. E1 > E2，U1 > U2.",0
+10,如果在空气平行板电容器的两极板间平行地插入一块与极板面积相同的金属板，则由于金属板的插入及其相对极板所放位置的不同，对电容器电容的影响为：____,使电容减小，但与金属板相对极板的位置无关,使电容减小，且与金属板相对极板的位置有关,使电容增大，但与金属板相对极板的位置无关,使电容增大，且与金属板相对极板的位置有关,C," C. 使电容增大，但与金属板相对极板的位置无关。
+
+在空气平行板电容器中，如果插入一块与极板面积相同的金属板，会使电容器电容增大，这是因为金属板会增加电容器的电容面积，从而增加电容器的电容量。而与金属板相对极板的位置无关，是因为金属板的插入不会改变电容器的基本结构和电学特性。",1
+11,在波长为λ的驻波中两个相邻波节之间的距离为：____,λ,3λ/4,λ/2,λ/4,C," C. λ/2.
+
+In a standing wave, the distance between two adjacent wave nodes (or antinodes) is half of the wavelength (λ) of the wave. Therefore, the correct answer is C. λ/2.",1
+12,用强度为I，波长为λ的X射线(伦琴射线)分别照射锂(Z=3)和铁(Z=26)．若在同一散射角下测得康普顿散射的X射线波长分别为λ_{Li}和λ_{Fe}(λ_{Li}，λ_{Fe}>λ)，它们对应的强度分别为I_{Li}和I_{Fe}，则____,"λ_{Li}>λ_{Fe}, I_{Li}<I_{Fe}","λ_{Li}=λ_{Fe}, I_{Li}=I_{Fe}","λ_{Li}=λ_{Fe}, I_{Li}>I_{Fe}","λ_{Li}<λ_{Fe}, I_{Li}>I_{Fe}",C," C. λLi = λFe, ILi > IFe.
+
+Explanation:
+
+When X-rays of wavelength λ and intensity I are scattered by two elements, Li (Z = 3) and Fe (Z = 26), at the same scattering angle, the X-rays are scattered in different ways due to the difference in their atomic numbers and electron densities.
+
+For Li, the scattered X-rays have a longer wavelength λLi than the incident X-rays, and the intensity of the scattered X-rays is higher than that of the incident X-rays, i.e., ILi > I. This is because the electrons in Li are more easily excited by the incident X-rays, leading to a higher scattering cross-section and a longer wavelength of the scattered X-rays.
+
+For Fe, the scattered X-rays have a shorter wavelength λFe than the incident X-rays, and the intensity of the scattered X-rays is lower than that of the incident X-rays, i.e., IFe < I. This is because the electrons in Fe are less easily excited by the incident X-rays, leading to a lower scattering cross-section and a shorter wavelength of the scattered X-rays.
+
+Therefore, the correct",1
+13,两个相距不太远的平面圆线圈，怎样可使其互感系数近似为零？____（设其中一线圈的轴线恰通过另一线圈的圆心）,两线圈的轴线互相平行放置,两线圈并联,两线圈的轴线互相垂直放置,两线圈串联,C," C. 两线圈的轴线互相垂直放置
+
+解释：
+
+两个相距不太远的平面圆线圈，其互感系数可以近似为零，这是因为它们之间的距离较小，圆心轴线的影响也较小。如果两线圈的轴线互相垂直放置，则它们之间的距离最小，互感系数最近似于零。
+
+Therefore, the correct answer is C. 两线圈的轴线互相垂直放置.",1
+14,一特殊的轻弹簧，弹性力F=-kx3，k为一常量系数，x为伸长(或压缩)量。现将弹簧水平放置于光滑的水平面上，一端固定，一端与质量为m的滑块相连而处于自然长度状态。今沿弹簧长度方向给滑块一个冲量，使其获得一速度v，压缩弹簧，则弹簧被压缩的最大长度为____,\sqrt{m/k}v,\sqrt{k/m}v,(4mv/k)^(1/4),(2mv^2/k)^(1/4),D," C. (4mv/k)^(1/4)
+
+解释：
+
+ given a special spring with a force constant k and a mass m, the maximum compression of the spring is achieved when the spring is stretched by a distance x = √(4mv/k), where v is the speed of the block at the end of the spring.
+
+Therefore, the correct answer is C. (4mv/k)^(1/4).",0
+15,一个圆锥摆的摆线长为l，摆线与竖直方向的夹角恒为θ，如图所示。则摆锤转动的周期为____,$\sqrt{l/g}$,$\sqrt{l\cos θ/g}$,$2π\sqrt{l/g}$,$2π\sqrt{l\cosθ/g}$,D," C. $2π\sqrt{l/g}$
+
+解释：
+
+根据摆锤的定义，摆锤转动的周期等于圆锥摆的高度 divided by gravity，即：
+
+周期 = h / g
+
+其中，h 是圆锥摆的高度，g 是重力加速度。
+
+由于摆锤的夹角恒为 θ，所以圆锥摆的高度可以写作：
+
+h = l tan θ
+
+将上述两个公式代入，得到：
+
+周期 = h / g = (l tan θ) / g
+= l / g tan θ
+
+因此，正确的答案是 C. $2π\sqrt{l/g}$。",0
+16,把一平凸透镜放在平玻璃上，构成牛顿环装置．当平凸透镜慢慢地向上平移时，由反射光形成的牛顿环____,向中心收缩，条纹间隔变小,向中心收缩，环心呈明暗交替变化,向外扩张，环心呈明暗交替变化,向外扩张，条纹间隔变大,B," B.向中心收缩，环心呈明暗交替变化。
+
+解释：
+
+当平凸透镜慢慢地向上平移时，由反射光形成的牛顿环会呈明暗交替变化，而不是向中心收缩或向外扩张。这是因为，当平凸透镜平移时，反射光的角度和方向也会发生变化，导致牛顿环的形状和大小发生变化。",1
+17,对于沿曲线运动的物体，以下几种说法中哪一种是正确的____,切向加速度必不为零,法向加速度必不为零（拐点处除外）,由于速度沿切线方向，法向分速度必为零，因此法向加速度必为零,若物体作匀速率运动，其总加速度必为零,B," C. 由于速度沿切线方向，法向分速度必为零，因此法向加速度必为零。
+
+解释：
+
+在沿曲线运动中，物体的速度沿着切线方向变化，这意味着物体的法向分速度（即速度沿着法向方向的分速度）必须为零。由于法向分速度为零，因此法向加速度也必须为零。
+
+其他选项的错误原因如下：
+
+A. 切向加速度必不为零：这是一个常见的错误，因为在沿曲线运动中，物体的切向加速度可能不为零，尤其是在拐点处。
+
+B. 法向加速度必不为零（拐点处除外）：这是一个部分正确的选项，因为在沿曲线运动中，物体的法向加速度在��",0
+18,有三个直径相同的金属小球．小球1和小球2带等量异号电荷，两者的距离远大于小球直径，相互作用力为F．小球3不带电并装有绝缘手柄．用小球3先和小球1碰一下，接着又和小球2碰一下，然后移去．则此时小球1和2之间的相互作用力为____,0,F/4,F/3,F/2,C," C. F/3.
+
+According to Coulomb's law, the electrostatic force between two charged objects is proportional to the product of their charges and inversely proportional to the square of the distance between them. Since the two metal balls have the same charge and are at a distance greater than their radius, the electrostatic force between them is repulsive and proportional to the product of their charges.
+
+When the third metal ball with no charge is brought near the first two balls, it will experience an electrostatic force due to the charges on the first two balls. The magnitude of this force will be proportional to the product of the charges on the first two balls and inversely proportional to the square of the distance between the third ball and the first two balls.
+
+Since the third ball is brought near the first two balls and then moved away, the electrostatic force between the first two balls will be unchanged, and the force between the third ball and the first two balls will be zero when they are separated. Therefore, the correct answer is C. F/3.",1

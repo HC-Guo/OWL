@@ -1,0 +1,78 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,我国最大的岛屿是____,台湾岛,海南岛,香港岛,崇明岛,A,"让我们一步一步思考,
+1. 我国最大的岛屿是台湾岛。
+所以答案是：A.台湾岛",1
+1,印度的“绿色革命”指的是____,植树造林，保护环境,引进培育作物品种，改进粮食生产技术,改进灌溉技术，用传统粪肥代替化肥,推广天然无公害、无污染的绿色产品,B," A. 印度的“绿色革命”指的是植树造林，保护环境。
+
+印度的“绿色革命”是一项由印度政府在1970年代初launched的各种环保和自然资源保护政策的总称。这些政策旨在保护印度的环境和自然资源，以及提高人们对环境的认识和保护意识。其中包括植树造林、保护野生动物和濒临灭绝的物种、改善水文环境、控制污染等等。",0
+2,在小刚的一篇作文中有以下一些描述语言，你认为不合适的是____  ①今天的气候很好，适合外出游玩     ②今年冬天气温较常年偏高，天气出现了异常     ③昆明四季如春，这里的气候真不错     ④早饭后还是晴空万里，到了中午却是乌云滚滚，大雨倾盆，今天的气候变化真大,①②③,②③④,①②④,①③④,C," A.①②③
+
+reason:
+
+① ""今天的气候很好，适合外出游玩"" - this sentence is describing the good weather today and its suitability for outdoor activities, which is appropriate.
+
+② ""今年冬天气温较常年偏高，天气出现了异常"" - this sentence is describing an unusual weather phenomenon in winter, which is not appropriate.
+
+③ ""昆明四季如春，这里的气候真不错"" - this sentence is describing the pleasant weather in Kunming, which is appropriate.
+
+④ ""早饭后还是晴空万里，到了中午却是乌云滚滚，大雨倾盆，今天的气候变化真大"" - this sentence is describing the sudden change in weather today, which is appropriate.",0
+3,世界上椰子的最大生产国和最大出口国分别是____,泰国、菲律宾,菲律宾、印度尼西亚,印度尼西亚、菲律宾,菲律宾、泰国,C," Based on the information provided, the correct answer is:
+
+B. 菲律宾、印度尼西亚
+
+ Philippines and Indonesia are the largest producers and exporters of coconuts in the world.",0
+4,关于我国河流的叙述，错误的是____,塔里木河是我国最长的内流河,长江是我国长度、水量最大、流域面积最广的河流,我国外流河最终注入太平洋,长江被誉为“水能宝库”“黄金水道”,C,"让我们一步一步思考,
+1. 关于塔里木河的叙述是错误的，塔里木河不是我国最长的内流河，实际上是我国第二 longest的内流河， longest 是黄河。
+2. 关于长江的叙述是正确的，长江是我国长度、水量最大、流域面积最广的河流，是我国主要的河流之一。
+3. 关于外流河的叙述是错误的，外流河不是我国的河流，外流河是指流入海洋的河流，我国的外流河包括长江、 Yangtze River 等等。
+4. 关于长江的叙述是正确的，长江被誉为“水能宝库”“黄金水道”，因为它具有丰富的水能资源和重要的经济和社会功能。
+所以答案是：A",0
+5,下列地区的农业生产符合因地制宜原则的是____,在黄土高原地区大力发展粮食生产,在珠江三角洲大力发展林业,在新疆地区大力发展水稻生产,在长江中下游地区大力发展淡水养殖业,D,"让我们一步一步思考,
+1. 因地制宜原则指的是根据地区的自然条件和资源，选择适合的农业生产方式和种植物。
+2. 黄土高原地区的土壤肥沃、气候温和，适合发展粮食生产，因此选项A是正确的。
+3. 珠江三角洲地区的气候湿润、土壤肥沃，适合发展林业，因此选项B是正确的。
+4. 新疆地区的气候干燥、土壤肥沃，适合发展水稻生产，因此选项C是正确的。
+5. 长江中下游地区的气候温和、土壤肥沃，适合发展淡水养殖业，因此选项",0
+6,2016年1月起，我国全面开放二孩政策的主要目的是____,①②,②③,②④,③④,D,"让我们一步一步思考,
+1. 2016年1月起，我国全面开放二孩政策的主要目的是提高人口政策的 flexibility 和 adaptability，即③④。
+所以答案是：D.③④",1
+7,世界上使用人数最多、使用泛围最广泛的语言分别是____,英语、法语,汉语、英语,阿拉伯语、西班牙语,俄语、英语,B," Based on the information provided, the answer is:
+
+B. 汉语、英语
+
+Explanation:
+
+1. 汉语 (Mandarin Chinese) is the most widely spoken language in the world, with over 1 billion speakers.
+2. 英语 (English) is the second most widely spoken language, with over 500 million speakers.
+3. ogether, these two languages have the largest number of speakers and the widest geographical distribution, covering most countries in the world.
+
+Therefore, the correct answer is B. 汉语、英语.",1
+8,"2014年3月，大范围雾霾天气长时间影响我国东部地区，严重危害人体健康。造成雾霾天气的人为原因有____
+①工业生产中使用矿物作为燃料，大量排放污染物     ②汽车尾气的大量排放     
+③风力小，空气流动不畅     ④冬季取暖排放粉尘",①②③,②③④,①③④,①②④,D," Based on the information provided, the correct answer is B.②③④.
+
+The severe haze that affected the eastern region of China in March 2014 was caused by a combination of factors, including:
+
+1. Vehicle emissions: The large-scale use of vehicles in the region led to a significant increase in emissions, contributing to the haze.
+2. Weak winds: The lack of wind in the region made it difficult for the air to circulate and clear the pollutants.
+3. Heating emissions: The use of heating systems in buildings and homes during the winter months led to an increase in emissions, further contributing to the haze.
+
+Therefore, the correct answer is B.②③④.",0
+9,对印度的农业生产有重要意义的是____,西北季风,东北季风,东南季风,西南季风,D, A. 西北季风对印度的农业生产有重要意义。西北季风在印度的北部和中部地区很常见，带来了大量的降水和温暖的气候条件，这些条件有利于各种农作物的生长和发展。因此，西北季风对印度的农业生产具有重要的作用。,0
+10,从有利于人类生存的角度看，你应该把“家”选在____,南极地区,撒哈拉沙漠,喜马拉雅山,长江中下游平原,D," from the perspective of benefiting human survival, the best choice for ""home"" would be:
+
+D. 长江中下游平原
+
+The 长江中下游平原 (Chang Jiang Middle and Lower Reaches Plain) is a fertile and densely populated region in China, with a mild climate and abundant resources. It is suitable for agriculture, habitation, and economic development, making it an ideal place for human survival and prosperity.
+
+In contrast, the other options are not as suitable for human habitation:
+
+A. 南极地区 (Antarctic Region) is too cold and inhospitable for human habitation.
+
+B. 撒哈拉沙漠 (Gobi Desert) is a harsh desert environment with limited resources and extreme temperatures, making it difficult for humans to survive.
+
+C. 喜马拉雅山 (Himalayas) is a rugged and inaccessible mountain range, with limited resources and harsh climate, making it challenging for humans to live and thrive.",0
+11,我国水资源的时间分布规律是____,东南多，西北少,东南少，西北多,夏秋多，冬春少,夏秋少，冬春多,C,"让我们一步一步思考,
+1. 我国水资源的时间分布规律是：夏秋多，冬春少。
+2. 夏季和秋季是我国水资源充沛的季节，而冬季和春季则是水资源匮乏的季节。
+所以答案是：C。",1

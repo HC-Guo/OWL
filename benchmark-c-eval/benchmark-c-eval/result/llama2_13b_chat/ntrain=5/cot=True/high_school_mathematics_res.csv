@@ -1,0 +1,226 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,"已知全集为实数集$\mathbb{R}$，集合$A=\{x|x^{2}-2x<0\},B=\left\{x|l og_{2}x>0\right\}$，则$\left(\complement_R A \right) \cap B$的值为____","$\left(-\infty,0\right]\cup(1,+\infty)$","$\left(0,1\right]$","$\left[2,+\infty\right)$",$\emptyset$,C," we know that $A = \{x | x^2 - 2x < 0\} = \{x | x < -\sqrt{2}\} \cup \{x | x > \sqrt{2}\}$, and $B = \{x | \log_2 x > 0\} = (0,+\infty)$.
+
+Then, we have:
+
+$$\left(\complement_R A \right) \cap B = \left(-\sqrt{2},0\right] \cap (0,+\infty) = (0,-\sqrt{2}]$$
+
+So, the answer is:
+
+A. $(-\infty,0]\cup(1,+\infty)$",0
+1,抛物线$x^2=2y$的焦点坐标是____,"$(\frac{1}{4},0)$","$(0,\frac{1}{2})$","$(0,\frac{1}{4})$","$(\frac{1}{2},0)$",B,"让我们一步一步思考,
+1. 抛物线$x^2=2y$的方程可写为$x^2-2y=0$，其焦点坐标需满足$x^2-2y=0$和$y=0$两个方程 simultaneously，即$x^2=2y$和$y=0$。
+2. 解这两个方程，可得$x=\pm\sqrt{2y}$，即$x=2y$和$x=0$。
+3. 因此，焦点坐标为$(\frac{1}{2},0)$和$(0,\frac{1}{2})$。
+所以答案是：B. $(0,\frac{1}{2})$",1
+2,"$\forall x\neq0$,$\left(x+\frac{1}{x}\right)^{10}$可写成关于$\left(x^2+\frac{1}{x^2}\right)$的多项式，则该多项式各项系数之和为____",240,241,242,243,D," $\forall x\neq0$, $\left(x+\frac{1}{x}\right)^{10}$ can be written as a polynomial in $x^2+\frac{1}{x^2}$ as follows:
+
+$$\left(x+\frac{1}{x}\right)^{10} = x^{10} + 10x^9\frac{1}{x} + 10^2x^8\frac{1}{x^2} + \cdots + \frac{1}{x^{10}}$$
+
+Since $x^2+\frac{1}{x^2} = (x+\frac{1}{x})^2$, we have:
+
+$$\left(x+\frac{1}{x}\right)^{10} = x^{10} + 10x^9\frac{1}{x} + 10^2x^8\frac{1}{x^2} + \cdots + \frac{1}{x^{10}} = (x^2+\frac{1}{x^2})^5$$
+
+Therefore, the sum of the coefficients of each term in the polynomial is:
+
+$$\sum_{i=0}^{10} \binom{10}{i} x^{10-i} \frac{1}{x^{i}} = \sum_{i=0}^{",0
+3,"过双曲线${\frac{x^{2}}{a^{2}}}-{\frac{y^{2}}{b^{2}}}=1(a>0,b>0)$的一个焦点F引它的渐近线的垂线，垂足为M，延长FM交y轴于E，若|FM|=2|ME|，则该双曲线的离心率为____",3,2,$\sqrt3$,$\sqrt2$,C,"让我们一步一步思考,
+1. 由于FM是垂线，所以FM与y轴的交点E是垂点，即ME=0。
+2. 由于|FM|=2|ME|，可知FM垂长为2ME，即FM=(2ME)oy。
+3. 将FM拓展为双曲线的渐近线，可得FM=(2ME)oy+o(y^2)。
+4. 将FM替换回原式中，可得$$\frac{x^2}{a^2}-\frac{y^2}{b^2}=1+\frac{2MEy}{a^2b^2}$$
+5. 将ME=0 substitute into the above formula, we have$$\frac{x^2}{a^2}-\frac{y^2}{b^2}=1$$
+6.  Therefore, the equation of the tangent line at the point M is$$y= \pm \sqrt{\frac{a^2}{b^2}-x^2}$$
+7.  Since the line is passing through the point M, we have $AM=MB$, therefore, $AM=2ME=2\cdot 0=0",0
+4,要得到函数$f(x)=\sin(2x+{\frac{\pi}{3}})$的导函数$f^{\prime}(x)$的图象，只需将$f(x)$的图像____,向左平移$\frac{\pi}{2}$个单位，再把各点的纵坐标伸长到原来的2倍（横坐标不变）,向左平移$\frac{\pi}{2}$个单位，再把各点的纵坐标缩短到原来的$\frac{1}{2}$倍（横坐标不变）,向右平移$\frac{\pi}{4}$个单位，再把各点的纵坐标伸长到原来的$\frac{1}{2}$倍（横坐标不变）,向右平移$\frac{\pi}{4}$个单位，再把各点的纵坐标伸长到原来的2倍（横坐标不变）,D," $f(x) = \sin(2x + \frac{\pi}{3})$ 的导函数 $f'(x)$ 的图像可以 obtained by shifted the graph of $f(x)$ to the left by $\frac{\pi}{2}$ unit, and then stretched the vertical axis by a factor of 2, while keeping the horizontal axis unchanged.
+
+Therefore, the correct answer is:
+
+A. 向左平移$\frac{\pi}{2}$个单位，再把各点的纵坐标伸长到原来的2倍（横坐标不变）",0
+5,"在边长为3，4，5的三角形内部任取一点P,则点P到三个顶点距离都大于1的概率为____",$\frac{6-\pi}{6}$,$\frac{12-\pi}{12}$,$\frac{\pi}{6}$,$\frac{\pi}{12}$,B,"让我们一步一步思考,
+1. 首先，我们可以确定点P不在边AB、边BC、边CA的直线上，因为这些直线上的点都有两个顶点的距离小于1。
+2. 现在，我们考虑点P在三角形内部的可能性。如果点P在内角AB、BC、CA的内部，则它的距离三个顶点都大于1。因此，我们只需考虑点P在三角形外部的可能性。
+3. 在三角形外部，点P的位置可以分为三种情况：在边AB、边BC、边CA上的两个点，以及三角形的外部点。
+4. 在边AB、边BC、边CA上的两个点，点P的距离三个顶点都大于1，因此这三种情况都属于点P的距离三个顶点都大于1的类别。
+5.",0
+6,椭圆$x^{2}+m y^{2}=1$的焦点在x轴上，长轴长是短轴长的两倍，则m的值为____,$\dfrac{1}{4}$,$\dfrac{1}{2}$,2,4,D," Given that the ellipse has its focus on the x-axis and the major axis is twice the length of the minor axis, we have:
+
+$$x^2 + m y^2 = 1$$
+
+Since the focus is on the x-axis, we know that the equation of the ellipse is symmetric about the x-axis. Therefore, we can write:
+
+$$x^2 + m y^2 = 1 = (x + m y)^2$$
+
+Expanding the right-hand side, we get:
+
+$$x^2 + m y^2 = (x + m y)^2 = x^2 + 2mx + m^2 y^2$$
+
+Since the major axis is twice the length of the minor axis, we have:
+
+$$2mx + m^2 y^2 = 2m y^2$$
+
+Therefore, we can write:
+
+$$x^2 + m y^2 = (x + m y)^2 = x^2 + 2mx + m^2 y^2 = 2m y^2$$
+
+Solving for m, we get:
+
+$$m = \frac{1}{2}$$
+
+Therefore, the value of m is $\frac{1}{2}$.
+
+The correct answer is:
+
+B. $\frac{1}{2}$",0
+7,已知$\sin(\frac{\pi}{4}-x)=\frac{3}{5}$，则$\sin2x$的值为____,$\frac{19}{25}$,$\frac{16}{25}$,$\frac{14}{25}$,$\frac{7}{25}$,D," using the given information, we have:
+
+$$\sin(\frac{\pi}{4}-x) = \frac{3}{5}$$
+
+Now, we can use the formula for $\sin(2x)$:
+
+$$\sin(2x) = 2\sin(x)\cos(x)$$
+
+Substituting $\sin(x) = \frac{3}{5}$, we get:
+
+$$\sin(2x) = 2\left(\frac{3}{5}\right)\left(\frac{5}{3}\right) = \frac{19}{25}$$
+
+Therefore, the value of $\sin(2x)$ is $\frac{19}{25}$.
+
+So, the answer is:
+
+A. $\frac{19}{25}$",0
+8,"已知函数$f(x)=a \ln x-2x$,若不等式$f(x+1)>a x-2e^{x}$在$x \in \left(0 +\infty\right)$上恒成立，则实数a的取值范围是____",$a{\leq}2$,$a\geq2$,$a{\leq}0$,$0\leq a\leq2$,A," given function $f(x)=a\ln x-2x$, we have:
+
+$$f(x+1)-af(x)>2x-2e^{x}$$
+
+Let $x>0$, we have:
+
+$$\ln(x+1)-a\ln x>2x-2e^{x}$$
+
+Expanding the left-hand side, we have:
+
+$$\ln(x+1)-a\ln x>2x-2e^{x}$$
+
+$$\ln(x+1)-a\ln x>2x-2\cdot\frac{x}{x}$$
+
+$$\ln(x+1)-a\ln x>2x-2x$$
+
+$$\ln(x+1)-a\ln x>2\ln x$$
+
+Since $\ln x>0$ for $x>0$, we have:
+
+$$f(x+1)-af(x)>2\ln x$$
+
+Therefore, the inequality does not hold for $a>2$. So, the range of $a$ is:
+
+B.$a\geq2$
+
+So the answer is B.",0
+9,17世纪，在研究天文学的过程中，为了简化大数运算，苏格兰数学家纳皮尔发明了对数，对数的思想方法即把乘方和乘法运算分别转化为乘法和加法，数学家拉普拉斯称赞为“对数的发明在实效上等于把天文学家的寿命延长了许多倍”.已知$\lg2\approx0.3010$，$\lg3\approx0.4771$，设$N=4^5\times27$，则N所在的区间为____,"$\left(10^{15},10^{16}\right)$","$\left(10^{16},10^{17}\right)$","$\left(10^{17},10^{18}\right)$","$\left(10^{18},10^{19}\right)$",C," We know that $\lg2\approx0.3010$ and $\lg3\approx0.4771$.
+
+For $N=4^5\times27$, we have:
+
+$$\lg N = \lg(4^5) + \lg(27) \approx 5\lg 4 + \lg 27 \approx 5\times 0.3010 + \lg 27 \approx 1.5050 + \lg 27$$
+
+Since $\lg 27 \approx 2.4835$, we have:
+
+$$\lg N \approx 1.5050 + 2.4835 \approx 4.0085$$
+
+Therefore, the interval containing $N$ is:
+
+$$\left(10^{4.0085},10^{4.0085+1}\right) \approx \left(10^{17.995},10^{18.005}\right)$$
+
+So the answer is:
+
+C. $\left(10^{17},10^{18}\right)$",1
+10,为做好社区新冠疫情防控工作，需将五名志愿者分配到三个社区去开展工作，每名志愿者只分配到一个社区，每个社区至少分配一名志愿者，志愿者甲和乙必须去同一个社区，则不同的分配方法共有____,12种,18种,24种,36种,D," This is a classic problem of ""pairing with no duplicates"" and can be solved using combinatorial mathematics.
+
+There are 5 volunteers and 3 communities. Each volunteer can be assigned to only one community, and each community must have at least one volunteer. Since volunteers A and E must be in the same community, we can consider them as one group.
+
+Now, we have 4 volunteers (B, C, D, and F) and 3 communities. Each volunteer can be assigned to only one community, and each community must have at least one volunteer.
+
+The possible assignments of the 4 volunteers to the 3 communities are:
+
+1. B to Community 1, C to Community 2, D to Community 3
+2. B to Community 2, C to Community 3, D to Community 1
+3. B to Community 3, C to Community 1, D to Community 2
+
+Since each volunteer can be assigned to only one community, there are a total of 3 possible assignments.
+
+Therefore, the answer is:
+
+A. 12种",0
+11,数学对于一个国家的发展至关重要，发达国家常常把保持数学领先地位作为他们的战略需求．现某大学为提高数学系学生的数学素养，特开设了“古今数学思想”“世界数学通史”“几何原本”“什么是数学”四门选修课程，要求数学系每位同学每学年至多选3门，大一到大三3学年必须将四门选修课程选完，则每位同学的不同选修方式有____,60种,78种,84种,144种,B," Based on the information provided, we know that there are 4 mandatory selective courses and each student can choose up to 3 courses per year. Since there are 3 years of study, each student can choose a total of 3 x 3 = 9 courses.
+
+So, the number of possible combinations of selective courses for each student is:
+
+9! = 9 x 8 x 7 x 6 x 5 x 4 x 3 x 2 x 1 = 362,880
+
+Therefore, the answer is:
+
+A. 60种
+
+Note that each student can choose up to 3 courses per year, so the total number of possible combinations of selective courses for all students is:
+
+362,880 x 3 = 1,088,640
+
+Which is the answer of D. 144种.",0
+12,"若平面$\alpha$的法向量为$\vec{n}_{1}=(3,2,1)$，平面$\beta$的法向量为$\vec{n}_{2}=(2,0,-1)$则平面$\alpha$与平面$\beta$夹角的余弦值为____",$\frac{\sqrt{70}}{14}$,$\frac{\sqrt{70}}{10}$,$-\frac{\sqrt{70}}{14}$,$-\frac{\sqrt{70}}{10}$,A," Let's denote the angle between the two planes as $\theta$.
+
+We have:
+
+$$\cos\theta = \frac{\vec{n}_1 \cdot \vec{n}_2}{|\vec{n}_1||\vec{n}_2|}$$
+
+Using the given vectors, we get:
+
+$$\cos\theta = \frac{(3, 2, 1) \cdot (2, 0, -1)}{3 \cdot 2 \cdot 1} = \frac{6}{18} = \frac{1}{3}$$
+
+Therefore, the answer is:
+
+A. $\frac{\sqrt{70}}{14}$",1
+13,已知$平面\alpha // 平面\beta$，$m\subset\alpha$，$n\subset\beta$，则下列结论一定正确是____,"m,n是平行直线","m,n是异面直线","m,n是共面直线","m,n是不相交直线",D," Based on the given information, we know that $m \subset \alpha$ and $n \subset \beta$, which means that $m$ and $n$ are both subspaces of $\alpha$ and $\beta$, respectively.
+
+Since $\alpha$ and $\beta$ are parallel, we know that $m$ and $n$ must be parallel as well. Therefore, the correct answer is:
+
+A. $m$ and $n$ are parallel lines.",0
+14,若抛物线$y^2=2px$的焦点与椭圆$\frac{x^2}{6}+\frac{y^2}{2}=1$的右焦点重合，则p的值为____,-2,2,-4,4,D,"让我们一步一步思考,
+1. 抛物线$y^2=2px$的焦点是$(0,0)$，其中$p$是径点。
+2. 椭圆$\frac{x^2}{6}+\frac{y^2}{2}=1$的右焦点是$(0,1)$。
+3. 将椭圆的参数方程写为$x^2/6+y^2/2-1=0$，可以看到两个焦点都是$(0,1)$。
+4. 因此，焦点与右焦点重合的条件是$p=2$，即$y^2=2px$的焦点与椭圆的右焦点重合。
+所以答案是：B.2",0
+15,某一电子集成块有三个元件a，b，c并联构成，三个元件是否有故障相互独立．已知至少1个元件正常工作，该集成块就能正常运行．若每个元件能正常工作的概率均为$\frac{4}{5}$则在该集成块能够正常工作的情况下，有且仅有一个元件出现故障的概率为____,$\frac{12}{31}$,$\frac{48}{125}$,$\frac{16}{25}$,$\frac{16}{125}$,A," This is a classic problem of independent failure events. Since each element has a probability of $\frac{4}{5}$ of working correctly, the probability that all three elements work correctly is:
+
+$$\left(\frac{4}{5}\right)^3 = \frac{4^3}{5^3} = \frac{64}{125}$$
+
+The probability that at least one element fails is:
+
+$$1 - \left(\frac{64}{125}\right) = \frac{61}{125}$$
+
+The probability that exactly one element fails is:
+
+$$\frac{61}{125} - \left(\frac{4}{5}\right)^3 = \frac{61}{125} - \frac{64}{125} = \frac{5}{125}$$
+
+Therefore, the probability that exactly one element fails is $\frac{5}{125}$. The correct answer is:
+
+C. $\frac{5}{125}$",0
+16,"已知条件$p:\left|x+1\right|>2$，条件$q:x>a$,且$\neg p$是$\neg q$的充分不必要条件，则实数a的取值范围是____",$a\geq1$,$a\leq1$,$a\geq-1$,$a\leq -3$,A," We know that $p:\left|x+1\right|>2$ and $q:x>a$. Since $\neg p$ is a sufficient condition for $\neg q$, we have:
+
+$$\neg p:\left|x+1\right| \leq 2$$
+
+Since $x>a$ implies $\left|x+1\right|>2$, we have $a\leq 1$. Therefore, the range of $a$ is:
+
+A.$a\geq 1$
+
+So the answer is A.",1
+17,"已知函数$f(x)$是定义在$\mathbb{R}$上的偶函数，且在$\left(0,+\infty\right)$上单调递增，则____",$f(-3)<f(-\log_{3}13)<f(2^{0.6})$,$f(-3)<f(2^{0.6})<f(-\log_{3}13)$,$f(2^{0.6})< f(-\log_{3}13) <f(-3)$,$f(2^{0.6})<f(-3)< f(-\log_{3}13) $,C," Based on the given information, we know that $f(x)$ is an even function on $\mathbb{R}$ and increases monotonically on $(0,+\infty)$.
+
+Let $x = -\log_{3}13$. Then, we have $f(x) = f(-\log_{3}13) = \frac{1}{3} \cdot \frac{1}{2} \cdot \frac{1}{3} = \frac{1}{27}$
+
+Now, let $x = 2^{0.6}$. Then, we have $f(x) = f(2^{0.6}) = \frac{1}{3} \cdot \frac{1}{2} \cdot \frac{1}{3} \cdot 2^{0.6} = \frac{1}{27} \cdot 2^{0.6} = \frac{1}{18}$
+
+Therefore, we can see that $f(-3) = \frac{1}{3} < f(-\log_{3}13) = \frac{1}{27} < f(2^{0.6}) = \frac{1}{18}$.
+
+So, the correct answer is:
+
+B.$f(-3)<f(-\log_{3}13)<f(2^{0.6})$",0

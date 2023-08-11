@@ -1,0 +1,296 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,求极限：$\lim_{x\rightarrow0}\frac{\int_{x^2}^x{\frac{\sin\left(xt\right)}{t}}\mathrm{d}t}{x^2}=$____,$\frac{5}{6}$,1,$\frac{7}{6}$,$\frac{4}{3}$,B," C. $\frac{7}{6}$
+
+解释：
+
+$$\lim_{x\rightarrow0}\frac{\int_{x^2}^x{\frac{\sin\left(xt\right)}{t}}\mathrm{d}t}{x^2}$$
+
+通过积分 rewrite 为：
+
+$$\lim_{x\rightarrow0}\frac{\int_{0}^x{\frac{\sin\left(xt\right)}{t}}\mathrm{d}t}{x^2}$$
+
+使用积分表达式，得：
+
+$$\int_{0}^x{\frac{\sin\left(xt\right)}{t}}\mathrm{d}t = \int_{0}^x{\frac{\sin\left(xt\right)}{x^2}xt}\mathrm{d}t$$
+
+$$\lim_{x\rightarrow0}\frac{\int_{0}^x{\frac{\sin\left(xt\right)}{x^2}xt}\mathrm{d}t}{x^2}$$
+
+$$\lim_{x\rightarrow0}\frac{\int_{0}^x{\frac{\sin\left(xt\right)}{x^2}xt}}{x^2}$$
+
+使用积分表达式，得：
+
+$$\lim_{x\rightarrow0}\frac{\int_{0}^x",0
+1,设$n$为正整数，求极限：$\lim_{x\rightarrow+\infty}\left[\frac{x^n}{\left(x-1\right)\left(x-2\right)\cdots\left(x-n\right)}\right]^x=$____,$e^{\frac{(n-1)(n+1)}{2}}$,$e^{\frac{(n-1)n}{2}}$,$e^{\frac{n(n+1)}{2}}$,$e^{\frac{n^{2}}{2}}$,C," C. $e^{\frac{n(n+1)}{2}}$
+
+解释：
+
+使用级数分解法，有：
+
+$$\frac{x^n}{\left(x-1\right)\left(x-2\right)\cdots\left(x-n\right)} = \frac{x^n}{x-n} \cdot \frac{x^{n-1}}{x-n-1} \cdot \cdots \cdot \frac{x}{x-1}$$
+
+对于 $x \to \infty$, 可以使用 $\frac{x}{x-1} = e^1 $ 和 $\frac{x}{x-n} = e^n $，得：
+
+$$\lim_{x\rightarrow+\infty}\left[\frac{x^n}{\left(x-1\right)\left(x-2\right)\cdots\left(x-n\right)}\right]^x = \lim_{x\rightarrow+\infty} e^{n\cdot\log\left(\frac{x}{x-n}\right)} = e^{n\cdot\log(e^n)} = e^{\frac{n(n+1)}{2}}$$
+
+因此，正确的答案是 C. $e^{\frac{n(n+1",1
+2,设平面区域$D$由直线$y=\frac{1}{2}x-\frac{1}{2\sqrt{5}}$、$y=2x-\frac{2}{\sqrt{5}}$和$y=x$围成，函数$z=3xy+3$在$D$上的最大值和最小值分别是M和m，则____,"$M=6,m=3$","$M=\dfrac{27}{5},m=3$","$M=\dfrac{18}{5},m=3$","$M={\frac{27}{5}},m={\frac{117}{40}}$",D," To find the maximum and minimum values of the function $z=3xy+3$ in the region $D$, we need to find the critical points of the function and determine the signs of the first and second partial derivatives at each point.
+
+First, we can find the partial derivatives of $z$ with respect to $x$ and $y$ as follows:
+
+$$\frac{\partial z}{\partial x} = 3y$$
+$$\frac{\partial z}{\partial y} = 3x + 3$$
+
+Next, we can set each partial derivative equal to zero to find the critical points:
+
+$$3y = 0 \Rightarrow y = 0$$
+$$3x + 3 = 0 \Rightarrow x = -\frac{3}{2}$$
+
+Since $y = 0$ is a double point, we can discard it and only consider the single point $x = -\frac{3}{2}$.
+
+Now, we can find the first and second partial derivatives of $z$ at $x = -\frac{3}{2}$:
+
+$$\frac{\partial z}{\partial x} = 3(-\frac{3}{2}) = -\frac{9}{2}$$
+$$\frac{\partial^2 z}{\partial x^2} = 3$$
+
+Since the second partial derivative is positive, the point $x = -\frac{",0
+3,设函数$f\left(x\right)$连续，且$f\left(x\right)>0$，求积分：$int_0^1{\ln f\left(x+t\right)}\mathrm{d}t=$____,$\int_0^x{\ln \frac{f\left( t+2 \right)}{f\left( t \right)}}\mathrm{d}t+\int_0^1{\ln f\left( t \right)}\mathrm{d}t$,$\int_0^1{\ln \frac{f\left( t+2 \right)}{f\left( t \right)}}\mathrm{d}t+\int_0^1{\ln f\left( t \right)}\mathrm{d}t$,$\int_0^2x{\ln \frac{f\left( t+1 \right)}{f\left( t \right)}}\mathrm{d}t+\int_0^1{\ln f\left( t \right)}\mathrm{d}t$,$\int_0^x{\ln \frac{f\left( t+2 \right)}{f\left( t \right)}}\mathrm{d}t+\int_0^1{\ln f\left( t \right)}\mathrm{d}t$,A," C. $\int_0^2x{\ln \frac{f\left( t+1 \right)}{f\left( t \right)}}\mathrm{d}t+\int_0^1{\ln f\left( t \right)}\mathrm{d}t$
+
+解释：
+
+由于函数$f\left( x \right)$连续，所以可以使用恒等式：
+
+$$\int_0^1{\ln f\left( x+t \right)}\mathrm{d}t = \int_0^1{\ln f\left( x+t \right)} \cdot \frac{1}{f\left( x+t \right)}\mathrm{d}t$$
+
+对于每个$t$，$f\left( x+t \right)$是非负的，因此可以使用积分变换：
+
+$$\int_0^1{\ln f\left( x+t \right)} \cdot \frac{1}{f\left( x+t \right)}\mathrm{d}t = \int_0^1{\frac{\ln f\left( x+t \right)}{f\left( x+t \right)}}\mathrm{d}t$$
+
+将上面的积分",0
+4,设有界区域$\Omega$由平面$2x+y+2z=2$与三个坐标平面围成，$\Sigma$为整个表面的外侧；\\计算曲面积分：$I=\iint_{\Sigma}{\left(x^2+1\right)\mathrm{d}y\mathrm{d}z-2y\mathrm{d}z\mathrm{d}x+3z\mathrm{d}x\mathrm{d}y}=$____,$\frac{1}{2}$,1,$\frac{3}{2}$,$\frac{5}{2}$,A," C. $\frac{3}{2}$
+
+解释：
+
+首先，我们需要计算曲面积分的两个部分：
+
+1. $I_1 = \iint_{\Sigma}{\left(x^2+1\right)\mathrm{d}y\mathrm{d}z}$
+2. $I_2 = \iint_{\Sigma}{3z\mathrm{d}x\mathrm{d}y}$
+
+我们可以使用积分变量的替换方法来计算每个部分：
+
+1. $I_1 = \iint_{\Sigma}{\left(x^2+1\right)\mathrm{d}y\mathrm{d}z} = \iint_{\Sigma}{\left(x^2+1\right)\cdot\frac{\partial y}{\partial x}\cdot\frac{\partial z}{\partial y}} = \iint_{\Sigma}{x^2\cdot\frac{\partial y}{\partial x}\cdot\frac{\partial z}{\partial y}} + \iint_{\Sigma}{1\cdot\frac{\partial y}{\partial x}\cdot\frac{\partial z}{\partial y}}$
+2. $I_2 = \iint_{\Sigma}{3z\mathrm{d}x\mathrm{d}y} = \",0
+5,已知$\int_0^{+\infty}{\frac{\sin x}{x}\mathrm{d}x=\frac{\pi}{2}}$，则$\int_0^{+\infty}{\int_0^{+\infty}{\frac{\sin x\sin\left(x+y\right)}{x\left(x+y\right)}}}\mathrm{d}x\mathrm{d}y$=____,$\frac{\pi ^2}{12}$,$\frac{\pi ^2}{8}$,$\frac{\pi ^2}{4}$,$\frac{\pi ^2}{2}$,B," C. $\frac{\pi ^2}{4}$
+
+We have:
+
+$$\int_0^{+\infty}{\int_0^{+\infty}{\frac{\sin x\sin\left(x+y\right)}{x\left(x+y\right)}}}\mathrm{d}x\mathrm{d}y$$
+
+Using the given integral, we can write:
+
+$$\int_0^{+\infty}{\int_0^{+\infty}{\frac{\sin x\sin\left(x+y\right)}{x\left(x+y\right)}}}\mathrm{d}x\mathrm{d}y = \int_0^{+\infty}{\frac{\sin x}{x}\int_0^{+\infty}{\sin\left(x+y\right)\frac{1}{x+y}dy}dx}$$
+
+Now, we can use the substitution $u = x+y$ to get:
+
+$$\int_0^{+\infty}{\frac{\sin x}{x}\int_0^{+\infty}{\sin\left(x+y\right)\frac{1}{x+y}dy}dx} = \int_0^{+\infty}{\frac{\sin x}{x}\int_0^{+\infty}{\sin u\frac{1}{u}du}dx}$$
+
+Using the definition of the definite integral, we have:
+",0
+6,"设曲线$C=\left\{(x,y,z):x={\sqrt{3}}\cos(t),y={\sqrt{3}}\sin(t),z={\frac{2}{3}}t^{\frac{3}{2}},0\leq t\leq5\right\}$，则曲线积分$\int_C(x^2+y^2)\mathrm{d}s=$____",$\frac{3}{4}\left(16\sqrt{2}-3\sqrt{3}\right)$,$2\bigl(16\sqrt{2}-3\sqrt{3}\bigr)$,$\frac{9}{4}\left(16\sqrt{2}-3\sqrt{3}\right)$,$\frac{3}{2}\left(16\sqrt{2}-3\sqrt{3}\right)$,B," C. $\frac{9}{4}\left(16\sqrt{2}-3\sqrt{3}\right)$
+
+解释：
+
+首先，我们需要计算曲线积分的公式：
+
+$$\int_C(x^2+y^2)\cdot\mathbf{n}\cdot d\mathbf{s}$$
+
+其中，$\mathbf{n}$ 是曲线上向量， $d\mathbf{s}$ 是小坐标系的面积元素， $C$ 是曲线的定义域。
+
+在这个问题中，我们可以选择 $\mathbf{n} = (1,1,0) $，因为曲线的法向量为 $(1,1,0) $。
+
+接下来，我们需要计算面积元素 $d\mathbf{s} $：
+
+$$d\mathbf{s} = \sqrt{g}ds$$
+
+其中，$g$ 是曲线上的 metric tensor， $ds$ 是小坐标系的面积元素。
+
+在这个问题中，我们可以选择 $g = \text{diag}(1,1,0",0
+7,"计算二重积分:$\iint_D{x\mathrm{d}x\mathrm{d}y}=$.其中$D$为由直线$y=-x+2,x$轴以及曲线$y=\sqrt{2x-x^2}$所围成的平面区域.____",$\frac{\pi}{4}+\frac{1}{3}$,$\frac{\pi}{2}+\frac{1}{3}$,$\frac{\pi}{2}+\frac{1}{4}$,$\frac{\pi}{2}+\frac{2}{3}$,A," C. $\frac{\pi}{2} + \frac{1}{4}$
+
+解释：
+
+首先，将直线 $y = -x + 2$ 和 曲线 $y = \sqrt{2x - x^2}$ 绘制在一个共同的坐标系中。
+
+$$\begin{aligned}
+y &= -x + 2 \\
+y &= \sqrt{2x - x^2}
+\end{aligned}$$
+
+将这两个方程绘制在一个共同的坐标系中，得到：
+
+$$\begin{aligned}
+y &= -x + 2 \\
+y &= \sqrt{2x - x^2}
+\end{aligned}$$
+
+将这两个方程积分，可以得到：
+
+$$\iint_D x dx dy = \int_{-2}^2 \int_{-\sqrt{2x - x^2}}^\sqrt{2x - x^2} x dx dy$$
+
+将上面的积分分解为两个积分，可以得到：
+
+$$\begin{aligned}
+\iint_D x dx dy &= \int_{-2}^2 \int_{-\sqrt{2x - x",0
+8,求极限：$L=\lim_{n\rightarrow\infty}\sqrt{n}\left(1-\sum_{k=1}^n{\frac{1}{n+\sqrt{k}}}\right)$=____,$\frac{1}{3}$,$\frac{2}{3}$,1,$\frac{4}{3}$,B," C. 1
+
+解释：
+
+$$\begin{aligned}
+L &= \lim_{n\to\infty}\sqrt{n}\left(1-\sum_{k=1}^n{\frac{1}{n+\sqrt{k}}}\right) \\
+&= \lim_{n\to\infty}\sqrt{n}\left(1-\frac{1}{n+\sqrt{1}}-\frac{1}{n+\sqrt{2}}-\cdots-\frac{1}{n+\sqrt{n}}\right) \\
+&= \lim_{n\to\infty}\sqrt{n}\left(1-\frac{1}{n}\right) \\
+&= \lim_{n\to\infty}\frac{1}{\sqrt{n}} \\
+&= 1
+\end{aligned}$$
+
+Therefore, the correct answer is C. 1.",0
+9,"$x=1$是函数$f\left(x\right)=\frac{bx^2+x+1}{ax+1}$的可去间断点，求$a,b$的值？____","$a=-1,b=-2$","$a=-2,b=-1$","$a=-2,b=-2$","$a=-1,b=0$",A," C. $a=-2, b=-2$
+
+To find the values of $a$ and $b$, we can set $x=1$ in the function $f(x) = \frac{bx^2 + x + 1}{ax + 1}$ and solve for $a$ and $b$.
+
+Substituting $x = 1$ into the function, we get:
+
+$$f(1) = \frac{b(1)^2 + 1 + 1}{a(1) + 1} = \frac{b + 2}{a + 1}$$
+
+Now, we can equate this expression to $1$ and solve for $a$ and $b$.
+
+$$\frac{b + 2}{a + 1} = 1 \Rightarrow b + 2 = a + 1 \Rightarrow b = -2, a = -2$$
+
+Therefore, the correct answer is C. $a = -2, b = -2$.",0
+10,求$\sum_{n=1}^{\infty}{\frac{\left(-1\right)^{n+1}-2^n}{n}x^n}$的和函数.____,"$\ln\left(1-2x-x^2\right),x\in\left[-\dfrac{1}{2},\dfrac{1}{2}\right)$","$\ln\left(1-x-x^2\right),x\in\left(-\dfrac{1}{2},\dfrac{1}{2}\right)$","$\ln\left(1-2x-2x^2\right),x\in\left[-\dfrac{1}{2},\dfrac{1}{2}\right)$","$\ln\left(1-x-2x^2\right),x\in\left[-\dfrac{1}{2},\dfrac{1}{2}\right)$",D," C. $\ln\left(1-2x-2x^2\right),x\in\left[-\dfrac{1}{2},\dfrac{1}{2}\right)$
+
+解释：
+
+$$\sum_{n=1}^{\infty}{\frac{\left(-1\right)^{n+1}-2^n}{n}x^n}$$
+
+可以使用级数分解来解题：
+
+$$\sum_{n=1}^{\infty}{\frac{\left(-1\right)^{n+1}-2^n}{n}x^n} = \sum_{n=1}^{\infty}{\frac{\left(-1\right)^{n+1}}{n}x^n} - \sum_{n=1}^{\infty}{\frac{2^n}{n}x^n}$$
+
+其中， $\frac{\left(-1\right)^{n+1}}{n}x^n$ 和 $\frac{2^n}{n}x^n$ 都是 convergent 的级数。
+
+可以看到， $\frac{\left(-1\right)^{n+1}}{n}x^n$ 和 $\frac{2^n}{n}x^n$ 的和函数是：
+
+$$\sum_{n=1}^{\infty}{\frac{\left(-1\right",0
+11,求极限：$\lim_{x\rightarrow0}\frac{\sqrt{1+x\cos x}-\sqrt{1+\sin x}}{x^3}=$____,$-\dfrac{1}{3}$,$-\dfrac{1}{4}$,$-\dfrac{1}{5}$,$-\dfrac{1}{6}$,D," Certainly! I'd be happy to help you with that.
+
+To find the limit, we can use the fact that:
+
+$$\sqrt{1+x\cos x} = \sqrt{1 + \sin^2(x)/2} = \sqrt{\sin^2(x)/2 + 1}$$
+
+And:
+
+$$\sqrt{1+\sin x} = \sqrt{1 + \sin^2(x)/2} = \sqrt{\sin^2(x)/2 + 1}$$
+
+Now, let's substitute $x = 0$ into these expressions:
+
+$$\lim_{x\rightarrow0}\frac{\sqrt{1+x\cos x}-\sqrt{1+\sin x}}{x^3} = \lim_{x\rightarrow0}\frac{\sqrt{\sin^2(x)/2 + 1} - \sqrt{\sin^2(x)/2 + 1}}{x^3}$$
+
+Can you take it from here and find the limit?",0
+12,求极限：$\lim_{n\rightarrow\infty}\sum_{k=1}^n{\frac{k}{\left(k+1\right)!}}=$____,1,0,-1,2,A," C. -1.
+
+解释：
+
+$$\lim_{n\rightarrow\infty}\sum_{k=1}^n{\frac{k}{\left(k+1\right)!}} = \lim_{n\rightarrow\infty}\sum_{k=1}^n{\frac{k}{k!}} = \lim_{n\rightarrow\infty}\left(1 + \frac{1}{2!} + \frac{1}{3!} + \cdots\right)$$
+
+由于 $\frac{1}{k!} \to 0 $ 为 $ k \to \infty $, 因此：
+
+$$\lim_{n\rightarrow\infty}\sum_{k=1}^n{\frac{k}{\left(k+1\right)!}} = \lim_{n\rightarrow\infty}\left(1 + 0 + 0 + \cdots\right) = 1$$
+
+所以，正确答案是 C. -1.",0
+13,"已知曲线C是圆$(x-1)^{2}+(y-6)^{2}=25$上从点$A(1,1)$沿逆时针方向到$B(4,2)$的一段弧，则$\oint_{C}(3\ln(1+y)+5x^{2})\mathrm{d}x+\Bigl({\frac{3x}{1+y}}-2y\Bigr)\mathrm{d}y=$____",$108+3\ln\Bigl(\frac{27}{2}\Bigr)$,$3\ln\left(\dfrac{81}{2}\right)-102$,$102+3\ln\Bigl(\frac{81}{2}\Bigr)$,$3\ln\left(\dfrac{27}{2}\right)-97$,C," Certainly! I'd be happy to help you with that.
+
+To solve this problem, we can start by recognizing that the curve C is a circle with center $(1,1)$ and radius $\sqrt{25} = 5$. The equation of the circle is given by:
+
+$$(x-1)^2 + (y-6)^2 = 25$$
+
+Next, we can find the length of the arc of the circle from $A(1,1)$ to $B(4,2)$ using the formula:
+
+$$\oint_{C} f(x,y) dx + g(x,y) dy = \int_{1}^{4} f(x,1) dx + \int_{1}^{2} g(x,1) dy$$
+
+where $f(x,y) = 3\ln(1+y) + 5x^2$ and $g(x,y) = \frac{3x}{1+y} - 2y$.
+
+Now, let's evaluate each integral separately:
+
+$$\int_{1}^{4} f(x,1) dx = \int_{1}^{4} 3\ln(1+1) + 5x^2 dx = 3\ln(4) + 5\int_{1}^{4} x^2 dx",1
+14,"设$D$是全平面，$f\left(x\right)=\begin{cases}
+x\text{，}-1\leq x\leq2\\
+0\text{，}\text{其他}\\
+\end{cases}$；计算$\iint_D{f\left(x\right)f\left(x^2-y\right)}\mathrm{d}\sigma=$____",$\frac{9}{4}$,$\frac{5}{2}$,$\frac{11}{4}$,3,A," C. $\frac{11}{4}$
+
+解释：
+
+$$\iint_D{f\left(x\right)f\left(x^2-y\right)}\mathrm{d}\sigma = \int_{-1}^{2} \int_{-\infty}^{\infty} f\left(x\right)f\left(x^2-y\right) dx dy$$
+
+Since $f\left(x\right) = x$ for $-1 \leq x \leq 2$ and $0$ otherwise, we have:
+
+$$\iint_D{f\left(x\right)f\left(x^2-y\right)}\mathrm{d}\sigma = \int_{-1}^{2} \int_{-\infty}^{\infty} x dx dy = \frac{11}{4}$$
+
+Therefore, the correct answer is C. $\frac{11}{4}$.",0
+15,计算广义积分：$\int_0^{+\infty}{\frac{\mathrm{d}x}{\left(1+x^2\right)\left(1+x^4\right)}}$____,$\frac{\pi}{8}$,$\frac{\pi}{4}$,$\frac{\pi}{2}$,$\frac{\pi}{3}$,B," C. $\frac{\pi}{2}$
+
+解释：
+
+使用积分分解法，可以将Integral分解为：
+
+$$\int_0^{+\infty}{\frac{\mathrm{d}x}{\left(1+x^2\right)\left(1+x^4\right)}} = \int_0^{+\infty}{\frac{\mathrm{d}x}{\left(1+x^2\right)}} \cdot \int_0^{+\infty}{\frac{\mathrm{d}x}{\left(1+x^4\right)}}$$
+
+$$\int_0^{+\infty}{\frac{\mathrm{d}x}{\left(1+x^2\right)}} = \arctan(x) \big|_0^{+\infty} = \frac{\pi}{2}$$
+
+$$\int_0^{+\infty}{\frac{\mathrm{d}x}{\left(1+x^4\right)}} = \int_0^{+\infty}{\frac{\mathrm{d}x}{x^4}} = \frac{1}{4} \int_0^{+\infty}{x^3 \cdot \frac{\mathrm{d}x}{x}} = \frac{1}{4} \int_0^{+\infty}{x^3 \cdot \frac{1}{x}} = \frac{",0
+16,已知数列$\left\{a_n\right\}$，其中$a_n=\cos n\alpha$，其前$n$$项和为$S_n$.求：$S_n=$____,$\frac{\cos \frac{n}{2}\alpha \cdot \sin \frac{n\alpha}{2}}{\sin \frac{\alpha}{2}}$,$\frac{\cos \frac{n+1}{2}\alpha \cdot \sin \frac{n\alpha}{2}}{\sin \frac{\alpha}{2}}$,$\frac{\cos \frac{n+1}{2}\alpha \cdot \sin \frac{n\alpha}{2}}{\sin \frac{\alpha}{3}}$,$\frac{\cos \frac{n-1}{2}\alpha \cdot \sin \frac{n\alpha}{2}}{\sin \frac{\alpha}{2}}$,B," C. $\frac{\cos \frac{n+1}{2}\alpha \cdot \sin \frac{n\alpha}{2}}{\sin \frac{\alpha}{3}}$
+
+解释：
+
+由于 $a_n = \cos n\alpha$, 所以 $S_n = \sum_{k=1}^n a_k = \cos(n\alpha) + \cos((n-1)\alpha) + ... + \cos(\alpha)$
+
+使用 trigonometric identity $\cos(a+b) = \cos a \cos b - \sin a \sin b$，可以 rewrite $S_n$ as:
+
+$S_n = \cos(n\alpha) + \cos((n-1)\alpha) + ... + \cos(\alpha)$
+
+$= \cos n\alpha \cos((n-1)\alpha) + \cos n\alpha \sin((n-1)\alpha)$
+
+$= \cos^2 n\alpha - \sin^2((n-1)\alpha)$
+
+$= \frac{\cos^2 n\alpha - \sin^2 n\alpha}{\sin^2 \alpha}$
+
+$= \frac{\cos^2 n\alpha - \sin^2 n\alpha}{\sin^2 \alpha/3}$
+
+therefore, the correct answer",0
+17,计算定积分：$\int_{-1}^1{\frac{\mathrm{d}x}{\left(1+\mathrm{e}^x\right)\left(1+x^2\right)}}$____,$\frac{\pi}{8}$,$\frac{\pi}{4}$,$\frac{\pi}{2}$,$\pi$,B," C. $\frac{\pi}{2}$
+
+解释：
+
+$$\int_{-1}^1{\frac{\mathrm{d}x}{\left(1+\mathrm{e}^x\right)\left(1+x^2\right)}} = \int_{-1}^1{\frac{\mathrm{d}x}{\left(1+\mathrm{e}^x\right)}} \cdot \int_{-1}^1{\frac{\mathrm{d}x}{\left(1+x^2\right)}}$$
+
+$$= \int_{-1}^1{\frac{\mathrm{d}x}{\left(1+\mathrm{e}^x\right)}} \cdot \frac{1}{2} \int_{-1}^1{\frac{\mathrm{d}x}{1+x^2}}$$
+
+$$= \frac{1}{2} \int_{-1}^1{\frac{\mathrm{d}x}{\left(1+\mathrm{e}^x\right)}} \cdot \frac{1}{2} \int_{-1}^1{\frac{\mathrm{d}x}{1+x^2}}$$
+
+$$= \frac{1}{4} \int_{-1}^1{\frac{\mathrm{d}x}{\left(1+\mathrm{e}^x\right)}}$$
+
+$$= \frac{1}{4} \int_{-1}^1",0
+18,求极限：$\lim_{x\rightarrow0}\frac{\tan2x^2-x^2}{\sin x^2+3x^2}=$____,$\frac{1}{2}$,$\frac{1}{4}$,$\frac{1}{8}$,$\frac{3}{5}$,B," Certainly! I'd be happy to help you with that.
+
+To find the limit, we can use the fact that $\tan(2x^2) = 2\tan(x^2)$ and $\sin(x^2) + 3x^2 = \sqrt{1 + 3x^2}$.
+
+Then, we have:
+
+$$\begin{aligned}
+\lim_{x\rightarrow0}\frac{\tan2x^2-x^2}{\sin x^2+3x^2}
+&= \lim_{x\rightarrow0}\frac{2\tan x^2 - x^2}{\sqrt{1 + 3x^2} + 3x^2} \\
+&= \lim_{x\rightarrow0}\frac{2\tan x^2 - x^2}{1 + 3x^2} \\
+&= \lim_{x\rightarrow0}\frac{2\tan x^2 - x^2}{2\tan x^2 + 3x^2} \\
+&= \lim_{x\rightarrow0}\frac{1 - x^2}{2\tan x^2 + 3x^2}
+\end{aligned}$$
+
+Now, we can see that the numerator and denominator of the fraction both approach $0$ as $x\rightarrow0$, so the limit is:",0

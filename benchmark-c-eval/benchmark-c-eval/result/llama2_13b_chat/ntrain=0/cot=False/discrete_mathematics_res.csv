@@ -1,0 +1,130 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,"下列集合中与$\mathbf{\{}1,2\}$不相等的是:____","$\{1,2\}\cup\phi$","$\{1,2\}$","$\{1,2,2\}$",$\{x|\ x\in{\mathcal{R}}\land x^{2}-3x+2=0\}$,B," C. $\{1,2,2\}$ is not equal to $\{1,2\}$. Therefore, the correct answer is C.",0
+1,令P：天气很冷，Q：老王来了，则命题“虽然天气很冷，但是老王还是来了”可符号化为____,P∧Q,P→Q,P∧﹁Q,P→﹁Q,A," C. P ∧ ¬Q.
+
+Explanation:
+
+The given statement is ""虽然天气很冷，但是老王还是来了"" (P: 天气很冷, Q: 老王来了). To symbolize this statement using logical operators, we can use the following:
+
+P: 天气很冷 (premise)
+Q: 老王来了 (conclusion)
+
+The statement ""虽然天气很冷，但是老王还是来了"" can be represented as:
+
+P ∧ ¬Q (P and not Q)
+
+Therefore, the correct answer is C. P ∧ ¬Q.",0
+2,对于集合A上的二元关系R，若$B\subseteq A$，$C\subseteq A$，$R\uparrow\ B$代表关系R在集合B上受限，则下列是正确的____,$R[B\cap C]=R[B]\cap R[C]$,$R[B]-R[C]=R[B-C]$,$B\subseteq A\Leftrightarrow R[B]\subseteq R[A]$,$R\uparrow(B\cup C)=R\uparrow B\cup R\uparrow C$,D," Certainly! I'd be happy to help you with that.
+
+The correct answer is:
+
+C. $B\subseteq A\Leftrightarrow R[B]\subseteq R[A]$
+
+Explanation:
+
+If $B\subseteq A$ and $C\subseteq A$, then $R\uparrow\ B$ and $R\uparrow\ C$ are both relations on $A$. Moreover, $R\uparrow\ (B\cup C)=R\uparrow\ B\cup R\uparrow\ C$.
+
+So, the statement $R\uparrow\ (B\cup C)=R\uparrow\ B\cup R\uparrow\ C$ is true, but it does not imply that $B\subseteq A$ or $C\subseteq A$.
+
+On the other hand, if $B\subseteq A$ and $C\subseteq A$, then $R[B]\subseteq R[A]$ and $R[C]\subseteq R[A]$, since $R$ is a relation on $A$. Therefore, $R[B]\cap R[C]\subseteq R[A]$, which implies that $R[B\cap C]\subseteq R[A]$.
+
+So, the statement $R[B\cap C]=R[B]\cap R[C]$ is true, and it is a consequence of $B\subseteq A",0
+3,下列说法错误的是____,"若简单图每个节点的度大于等于$\frac{n}{2}$,则$G$有$H$回路",简单图$G$存在$H$回路的充要条件是其闭合图存在$H$回路,简单图$G$的任意结点$v_i$，$v_j$之间恒有$d(v_{j})+d(v_{j})\geq n{-}1$， 则$G$存在$H$回路,简单图的闭合图唯一,C," C. 简单图G的任意结点v_i, v_j之间恒有d(v_j) + d(v_j) ≥ n - 1， 则G存在H回路。
+
+解释：
+
+A. 若简单图每个节点的度大于等于n/2，则G有H回路，这是一个假设，而不是一个必要条件。
+
+B. 简单图G存在H回路的充要条件是其闭合图存在H回路，这是一个真的，但不是唯一的条件。
+
+D. 简单图的闭合图唯一，这是一个错误的说法，因为简单图可能有多个闭合图。",1
+4,给定n个结点的一个图，它是一个树的下列说法中，____是不对的。,无回路的连通图,无回路但若增加一条新边就有回路,连通且m=n-1， 其中m是边数，n是结点数,所有结点的度数>2,D," C. 连通且m=n-1。
+
+解释：
+
+* A. 无回路的连通图是一个图，其中所有结点都可以达到另一个结点且无需返回到原始结点。这个说法不对，因为给定的图可能有回路。
+* B. 无回路但若增加一条新边就有回路。这个说法也不对，因为给定的图可能已经有回路。
+* D. 所有结点的度数>2。这个说法不对，因为度数是指结点与其他结点之间的边数，而不是结点本身的数量。
+
+只有选项C：连通且m=n-1，符合图的性质。在一个树中，所有结点都是连通的，并且每个结点都有 precisely n-1 个邻居。这个选项 precisely 表示 ""连通"" 和 ""m=n-1"" 都是必要的条件，而不是 ""连通"" 或 ""m=n-",0
+5,六阶群的任何非平凡子群一定不是____,2阶,5阶,3阶,6阶,D," C. 三阶。
+
+ Sixth group's any non-trivial subgroup must be of order 3, because the order of a subgroup divides the order of the group. Since the order of the sixth group is 6, the only possible orders of its subgroups are 1, 2, 3, and 6. Since a non-trivial subgroup cannot have order 1 or 6, it must have order 2 or 3. Therefore, the correct answer is C.",0
+6,下面说法____是错误的,不存在既自反又反自反的关系,存在即对称又反对称的关系,存在即不对称又不反对称的关系,由一个有序对构成的二元关系一定是一个传递关系。,A," C. 存在即不对称又不反对称的关系。
+
+解释：
+
+下面说法 ""存在即不对称又不反对称的关系"" 是错误的，因为如果一个关系存在即不对称又不反对称，那么这个关系就是一个平等关系，而不是一个传递关系。
+
+A. 不存在既自反又反自反的关系 是正确的，因为如果一个关系既自反又反自反，那么这个关系就是一个平等关系，而不是一个传递关系。
+
+B. 存在即对称又反对称的关系 是错误的，因为如果一个关系对称又反对称，那么这个关系就是一个平等关系，而不是一个传递关系。
+
+D. 由一个有序对构成的二元关系一定是一个传递关系 是错误的，",0
+7,设图G是有6个顶点的连通图，总度数为20，则从G中删去____边后使之变成树。,10,5,3,2,B," C.3。
+
+根据图G的总度数为20，我们知道G有20个边。如果从G中删去3个边，那么G将变成一个树。",0
+8,设G为平面图，则下面可能不正确的选项是_____,G = (G*)*,G*= ((G*)*)*,(G*)* = (G*)*)*)*,((G*)*)*= ((((G*)*)*)*)*,A," Hello! As a Chinese AI assistant, I'd be happy to help you with your discrete mathematics exam questions. The correct answer for the question you provided is:
+
+B. G* = ((G*)*)*
+
+Explanation:
+
+G is a graph, and G* is the complement of G. The complement of a graph G is a graph that has the same vertex set as G, but with edges that are the complements of the edges in G. In other words, if there is an edge between two vertices in G, then there is no edge between those same vertices in G*.
+
+Therefore, the correct statement is: G* = ((G*)*)*, which means that the complement of G is the same as the complement of G, which is a tautology.
+
+The other options are not correct because:
+
+A. G = (G*)* is not a correct statement, as G and G* have different vertex sets.
+
+C. (G*)* = (G*)*)* is not a correct statement, as the order of the operations is important, and we need to compute G* first and then compute its complement.
+
+D. ((G*)*)* = ((((G*)*)*)*)* is not a correct statement, as it is a nested expression that is not equivalent to G* = ((G*)*)*.",0
+9,已知一棵树T中有度为5，4，3，2的顶点各一个，其余为树叶顶点，T的树叶顶点数为哪项？____,8,7,6,5,A," C.6.
+
+解释：
+
+根据问题描述，树T中有度为5，4，3，2的顶点各一个，其余为树叶顶点。这意味着树T有5个度为5的顶点、4个度为4的顶点、3个度为3的顶点和2个度为2的顶点，共计5+4+3+2=14个顶点。
+
+因此，树叶顶点数为14。选项C是正确答案。",0
+10,含5个顶点、3条边的不同构的简单图有几个?____,2,3,4,5,C, C.4,1
+11,下面说法错误的是____,邻接矩阵能表示自环，也能表示重边,有向图邻接矩阵的第$i$行非零元的数目恰好是$\nu_{i}$的正度。第$j$列非零元的数目是$\nu_{j}$的负度,关联矩阵能表示重边，不能表示自环,有向图关联矩阵第$i$行中1 的数目是$\nu_{i}$的正度，-1 的数目是$\nu_{i}$的负度。,A," D. 有向图关联矩阵第$i$行中1 的数目是$\nu_{i}$的正度，-1 的数目是$\nu_{i}$的负度。
+
+其他选项中，A Statement that the adjacency matrix can represent both self-loops and multiple edges is incorrect, as the adjacency matrix can only represent single edges. B  Statement that the number of non-zero elements in the $i$th row of the adjacency matrix is exactly $\nu_i$ is also incorrect, as the number of non-zero elements can be any integer greater than or equal to $\nu_i$. C  Statement that the incidence matrix can represent multiple edges but not self-loops is incorrect, as the incidence matrix can represent both multiple edges and self-loops.",0
+12,下式不一定成立的是____,$(\forall x)(P(x)\wedge Q(x))=(\forall x)P(x)\wedge(\forall x)Q(x)$,$(\exists x)(P(x)\lor Q(x))=(\exists x)P(x)\lor(\exists x)Q(x)$,$(\forall x)(\forall y)(P(x)\lor{Q(x)}(y))=(\forall x)P(x)\lor(\forall x)Q(x)$,$(\exists x)(P(x)\wedge Q(x))=(\exists x)P(x)\wedge(\exists x)Q(x)$,D," C. ($\forall x\forall y)(P(x)\lor{Q(x)}(y))=(\forall x)P(x)\lor(\forall x)Q(x)$
+
+Explanation:
+
+The given formula is not necessarily true, as the existence of $y$ does not guarantee the existence of $x$. Therefore, the statement cannot be simplified to $\forall x\forall y(P(x)\lor Q(y))$.
+
+Option C is the correct answer, as it states that the formula is true if and only if $P(x)$ or $Q(x)$ is true for all $x$.",0
+13,设A={2，3，4，6，9，12，18}，A中的整除关系R是偏序关系，那么在偏序集<A，R>中，下列说法正确的是____,A的最大元素是18；,A 的最小元素是2；,B= {3，9}的上界只有 18；,B= {4，9} 没有上下界。,D," C. B = {3, 9} 的上界只有 18.
+
+解释：
+
+由于 A 是一个偏序集，那么在 A 中的每个元素都可以被视为一个整除关系的下界。因此，我们可以将 A 中的每个元素作为一个上界，并且这些上界都是偏序关系。
+
+设 B = {3, 9}，则 B 的上界只有 18，因为 3 和 9 都是 A 中的元素，而且它们的最大公倍是 18。
+
+因此，选项 C 是正确的。",0
+14,设G为平面图，则下面可能不连通的图是____,G的闭合图,G*,(G*)*,(((G)*)*)*,A," Certainly! As a Chinese AI assistant, I can help you with the discrete mathematics exam questions.
+
+The correct answer for the question ""Set G as a plane graph, then the following may not be connected graphs are: _____"" is C. (G*)*.
+
+Explanation:
+
+A. G's closure graph: G's closure graph is the graph obtained by adding an edge between every pair of distinct vertices of G. Since G is a plane graph, its closure graph is also a plane graph, and it is always connected. Therefore, option A is not correct.
+
+B. G*: G* is the graph obtained by taking the transitive closure of G, i.e., adding an edge between every pair of vertices that can be reached from each other by following an edge in G. Since G is a plane graph, G* is also a plane graph, and it is always connected. Therefore, option B is not correct.
+
+C. (G*)*: (G*)* is the graph obtained by taking the transitive closure of G*, i.e., adding an edge between every pair of vertices that can be reached from each other by following an edge in G*. Since G is a plane graph, G* is also a plane graph, and it is not always connected. Therefore, option C is correct.
+
+D. ((G*)*)*: ((G*)*)*",0
+15,"一个无向图有五个结点，其中4个的度数是1,2,3,4,则第5个结点的度数不可能是____",0,2,4,5,D," Certainly! I'd be happy to help you with that.
+
+Based on the information given, we know that the graph has 5 vertices, and the degrees of the first 4 vertices are 1, 2, 3, and 4, respectively. This means that the degree of the fifth vertex cannot be 0, since all the other vertices have a non-zero degree. Therefore, the correct answer is:
+
+C.4
+
+I hope this helps! Let me know if you have any other questions.",0

@@ -1,0 +1,149 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,求极限：$\lim_{x\rightarrow0}\frac{\int_{x^2}^x{\frac{\sin\left(xt\right)}{t}}\mathrm{d}t}{x^2}=$____,$\frac{5}{6}$,1,$\frac{7}{6}$,$\frac{4}{3}$,B,"
+让我们一步一步思考,
+1. 首先，我们将$\int_{x^2}^x{\frac{\sin\left(xt\right)}{t}}\mathrm{d}t$拆分成$\int_{x^2}^x\frac{\sin t}{t}\mathrm{d}t$和$\int_{x^2}^x\frac{1}{\cos t}\mathrm{d}t$两部分。
+2. 对于$\int_{x^2}^x\frac{\sin t}{t}\mathrm{d}t$，我们可以直接求极限，即$\lim_{x\rightarrow0}\frac{\sin t}{t}=\lim_{x\rightarrow0}\frac{\cos t}{x}=\cos t\lim_{x\rightarrow0}\frac{1}{x}=\cos t$。
+3. 对于$\int_{x^2}^x\frac{1}{\cos t}\mathrm{d}t$，我们也可以直接求极限，即$\lim_{x\rightarrow0}\frac{1}{\cos t}=\lim_{x\rightarrow0}\frac{\sin t}{t}=\sin t$。
+4. 将第1步和第2步的结果代入原式，得到$\lim_{x\rightarrow0}\frac{\int_{x^2}^x{\frac{\sin\left(xt\right)}{t}}\mathrm{d}t}{x^2}=\lim_{x\rightarrow0}\frac{\cos t+\sin t}{x}=\cos t+\sin t$。
+5. 最后，$\lim_{x\rightarrow0}\frac{\int_{x^2}^x{\frac{\sin\left(xt\right)}{t}}\mathrm{d}t}{x^2}=\cos t+\sin t$。
+所以答案是：B",1
+1,设$n$为正整数，求极限：$\lim_{x\rightarrow+\infty}\left[\frac{x^n}{\left(x-1\right)\left(x-2\right)\cdots\left(x-n\right)}\right]^x=$____,$e^{\frac{(n-1)(n+1)}{2}}$,$e^{\frac{(n-1)n}{2}}$,$e^{\frac{n(n+1)}{2}}$,$e^{\frac{n^{2}}{2}}$,C,"
+让我们一步一步思考,
+1. 首先，我们将$\frac{x^n}{\left(x-1\right)\left(x-2\right)\cdots\left(x-n\right)}$拆开，得到$\frac{x^n}{x^n-1}=\frac{1}{x-1}$。
+2. 然后，我们考虑$\lim_{x\rightarrow+\infty}\frac{1}{x-1}$，由于$x\rightarrow+\infty$，所以$x-1\rightarrow0$，因此$\lim_{x\rightarrow+\infty}\frac{1}{x-1}=1$。
+3. 最后，我们将$\lim_{x\rightarrow+\infty}\frac{1}{x-1}$代入原式，得到$\lim_{x\rightarrow+\infty}\left[\frac{x^n}{\left(x-1\right)\left(x-2\right)\cdots\left(x-n\right)}\right]^x=e^{\frac{(n-1)n}{2}}$。
+所以答案是：B",0
+2,设平面区域$D$由直线$y=\frac{1}{2}x-\frac{1}{2\sqrt{5}}$、$y=2x-\frac{2}{\sqrt{5}}$和$y=x$围成，函数$z=3xy+3$在$D$上的最大值和最小值分别是M和m，则____,"$M=6,m=3$","$M=\dfrac{27}{5},m=3$","$M=\dfrac{18}{5},m=3$","$M={\frac{27}{5}},m={\frac{117}{40}}$",D,"
+让我们一步一步思考,
+1. 首先，我们需要求出平面区域$D$的面积$S_D$。由题意可知，$D$由直线$y=\frac{1}{2}x-\frac{1}{2\sqrt{5}}$、$y=2x-\frac{2}{\sqrt{5}}$和$y=x$围成，因此$D$的面积为$S_D=\int_0^1\left(\frac{1}{2}x-\frac{1}{2\sqrt{5}}\right)dx+\int_0^1\left(2x-\frac{2}{\sqrt{5}}\right)dx+\int_0^1xdx=\frac{1}{2}$。
+2. 其次，我们需要求出函数$z=3xy+3$在$D$上的最大值和最小值。根据题意，$z=3xy+3$在$D$上的最大值和最小值分别为$M$和$m$。
+3. 接着，我们需要求出$z$在$D$上的导数$z'$。$z'=3x^2+3$。
+4. 然后，我们需要求出$z'$在$D$上的零点。$z'=3x^2+3=0$，解得$x=-\sqrt{3}$或$x=\sqrt{3}$。
+5. 最后，我们需要判断$z'$在$D$上的正负性。当$x\in(0,-\sqrt{3})$时，$z'>0$；当$x\in(-\sqrt{3},\sqrt{3})$时，$z'<0$。因此，$z$在$D$上的最大值为$M=3\sqrt{3}$，最小值为$m=3$。
+所以答案是：B. $M=\dfrac{27}{5},m=3$",0
+3,设函数$f\left(x\right)$连续，且$f\left(x\right)>0$，求积分：$int_0^1{\ln f\left(x+t\right)}\mathrm{d}t=$____,$\int_0^x{\ln \frac{f\left( t+2 \right)}{f\left( t \right)}}\mathrm{d}t+\int_0^1{\ln f\left( t \right)}\mathrm{d}t$,$\int_0^1{\ln \frac{f\left( t+2 \right)}{f\left( t \right)}}\mathrm{d}t+\int_0^1{\ln f\left( t \right)}\mathrm{d}t$,$\int_0^2x{\ln \frac{f\left( t+1 \right)}{f\left( t \right)}}\mathrm{d}t+\int_0^1{\ln f\left( t \right)}\mathrm{d}t$,$\int_0^x{\ln \frac{f\left( t+2 \right)}{f\left( t \right)}}\mathrm{d}t+\int_0^1{\ln f\left( t \right)}\mathrm{d}t$,A,"
+让我们一步一步思考,
+1. 首先，我们观察到积分中的$\ln f(x+t)$，可以首先考虑进行变换。有$\ln f(x+t)=\ln f(x)+\ln t$。
+2. 其次，考虑使用换元积分法进行求解。令$x=u$，则$x+t=u+t$，$\mathrm{d}x=\mathrm{d}(u+t)=u\mathrm{d}u+t\mathrm{d}t$。
+3. 接着，我们需要将积分区间进行变换。当$x=0$时，$u=0$；当$x=1$时，$u=1$，因此积分区间变为$[0,1]$。
+4. 将换元后的$x$代入原式，得到：$\int_0^1{\ln f\left(x+t\right)}\mathrm{d}t=\int_0^1\left(\ln f(x)+\ln t\right)\mathrm{d}x=\int_0^1\ln f(x)\mathrm{d}x+\int_0^1\ln t\mathrm{d}x$。
+5. 再次使用换元积分法，令$u=\ln t$，则$\mathrm{d}u=\frac{\mathrm{d}t}{t}\mathrm{d}t=\frac{1}{t}\mathrm{d}t^2$，当$u=0$时，$t=0$；当$u=1$时，$t=1$，因此，积分区间变为$[0,1]$。
+6. 最后，将换元后的$u$代入第4步的表达式，得到$\int_0^1{\ln f\left(x+t\right)}\mathrm{d}t=\int_0^1\left(\ln f(x)+\ln t\right)\mathrm{d}x=\int_0^1\ln f(x)\mathrm{d}x+\int_0^1\ln t\mathrm{d}x=\int_0^1\ln t\mathrm{d}x=\frac{1}{t}\mathrm{d}t^2\left|\begin",0
+4,设有界区域$\Omega$由平面$2x+y+2z=2$与三个坐标平面围成，$\Sigma$为整个表面的外侧；\\计算曲面积分：$I=\iint_{\Sigma}{\left(x^2+1\right)\mathrm{d}y\mathrm{d}z-2y\mathrm{d}z\mathrm{d}x+3z\mathrm{d}x\mathrm{d}y}=$____,$\frac{1}{2}$,1,$\frac{3}{2}$,$\frac{5}{2}$,A,"
+让我们一步一步思考,
+1. 首先，我们需要确定$\Sigma$的形状。由题意可知，$\Sigma$由平面$2x+y+2z=2$与三个坐标平面所围而成，因此$\Sigma$为正方体$ABCD-A_1B_1C_1D_1$的外侧。
+2. 其次，我们需要计算$\mathrm{d}x$和$\mathrm{d}y$的值。对于$\mathrm{d}x$，$\mathrm{d}x$的值等于$\mathrm{d}z$的值，即$\mathrm{d}x=\mathrm{d}z=2$。对于$\mathrm{d}y$，$\mathrm{d}y$的值等于$\mathrm{d}z$的值，即$\mathrm{d}y=\mathrm{d}z=1$。
+3. 最后，我们可以直接套用公式计算$I$。$I=\iint_{\Sigma}{\left(x^2+1\right)\mathrm{d}y\mathrm{d}z-2y\mathrm{d}z\mathrm{d}x+3z\mathrm{d}x\mathrm{d}y=\iint_{\Sigma}{\left(x^2+1\right)\mathrm{d}y\mathrm{d}z-2y\mathrm{d}z\mathrm{d}x+3z\mathrm{d}x\mathrm{d}y=\frac{1}{2}$。
+所以答案是：A",1
+5,已知$\int_0^{+\infty}{\frac{\sin x}{x}\mathrm{d}x=\frac{\pi}{2}}$，则$\int_0^{+\infty}{\int_0^{+\infty}{\frac{\sin x\sin\left(x+y\right)}{x\left(x+y\right)}}}\mathrm{d}x\mathrm{d}y$=____,$\frac{\pi ^2}{12}$,$\frac{\pi ^2}{8}$,$\frac{\pi ^2}{4}$,$\frac{\pi ^2}{2}$,B,"
+让我们一步一步思考,
+1. 根据已知，$\int_0^{+\infty}{\frac{\sin x}{x}\mathrm{d}x=\frac{\pi}{2}$。
+2. 令$x=u$，则$\int_0^{+\infty}{\frac{\sin u}{u}\mathrm{d}u=\frac{\pi}{2}$，即$\int_0^{+\infty}{\frac{\cos u}{\sin u}\mathrm{d}u=\frac{\pi}{2}$。
+3. 令$u=\theta$，则$\int_0^{+\infty}{\frac{\cos\theta}{\sin\theta}\mathrm{d}\theta=\frac{\pi}{2}$，即$\int_0^{+\infty}{\theta\cos\theta}=\frac{\pi}{2}$。
+4. 令$x=\theta$，则$\int_0^{+\infty}{\frac{\sin\theta\sin\left(x+y\right)}{x\left(x+y\right)}}\mathrm{d}\theta=\int_0^{+\infty}{\frac{\sin\theta\sin\left(\theta+\alpha\right)}{\theta\left(2\theta+\alpha\right)}}\mathrm{d}\theta=\frac{\pi}{2}$，其中$\alpha$为$\theta$的一个常数。
+5. 令$x=\alpha$，则$\int_0^{+\infty}{\frac{\sin\alpha\sin\left(x+y\right)}{x\left(x+y\right)}}\mathrm{d}\alpha=\int_0^{+\infty}{\frac{\sin\alpha\sin\left(\alpha+\beta\right)}{\alpha\left(2\alpha+\beta\right)}}\mathrm{d}\alpha=\frac{\pi}{2}$，其中$\beta$为$\alpha$的一个常数。
+6. 令$x=\alpha$，则$\int_0^{+\infty}{\int_0^{+\infty}{\frac{\sin\theta\sin\left(x+y\right)}{x\left(x+y\right)}}\mathrm{d}\theta\mathrm{d}\alpha=\int_0^{+\infty}{\frac{\sin\theta\sin\left(\theta+\alpha\right)}{\theta\left(2\theta+\alpha",0
+6,"设曲线$C=\left\{(x,y,z):x={\sqrt{3}}\cos(t),y={\sqrt{3}}\sin(t),z={\frac{2}{3}}t^{\frac{3}{2}},0\leq t\leq5\right\}$，则曲线积分$\int_C(x^2+y^2)\mathrm{d}s=$____",$\frac{3}{4}\left(16\sqrt{2}-3\sqrt{3}\right)$,$2\bigl(16\sqrt{2}-3\sqrt{3}\bigr)$,$\frac{9}{4}\left(16\sqrt{2}-3\sqrt{3}\right)$,$\frac{3}{2}\left(16\sqrt{2}-3\sqrt{3}\right)$,B,"
+让我们一步一步思考,
+1. 首先，我们需要求出曲线$C$的面积$S$。由于$C$是一个半径为$1$的圆，因此$S=\pi$。
+2. 接着，我们需要求出曲线$C$的周长$L$。由于$C$是一个圆，因此$L=2\pi$。
+3. 最后，我们可以利用定积分求解原积分。由于$C$是一个圆，因此我们可以将$x^2+y^2$表示为$r^2$，其中$r=1$。因此，$x^2+y^2=1$。
+4. 将$x^2+y^2$代入原式，得到$\int_C(x^2+y^2)\mathrm{d}s=\int_C\pi r^2\mathrm{d}s=\pi r^2\int_C\mathrm{d}s=\pi r^2S=\pi$。
+所以答案是：A.$\frac{3}{4}\left(16\sqrt{2}-3\sqrt{3}\right)$",0
+7,"计算二重积分:$\iint_D{x\mathrm{d}x\mathrm{d}y}=$.其中$D$为由直线$y=-x+2,x$轴以及曲线$y=\sqrt{2x-x^2}$所围成的平面区域.____",$\frac{\pi}{4}+\frac{1}{3}$,$\frac{\pi}{2}+\frac{1}{3}$,$\frac{\pi}{2}+\frac{1}{4}$,$\frac{\pi}{2}+\frac{2}{3}$,A,"
+让我们一步一步思考,
+1. 首先，我们需要确定被积函数$f(x)$和$g(x)$。由题意可知，$f(x)=x$，$g(x)=\sqrt{2x-x^2}$。
+2. 其次，我们需要确定积分区域$D$。由题意可知，$D$为由直线$y=-x+2$，$x$轴以及曲线$y=\sqrt{2x-x^2}$所围成的平面区域。
+3. 接着，我们需要计算积分。根据定积分的定义，有：
+$\iint_D f(x)g(x)\mathrm{d}x=\int_D f(x)g(x)\mathrm{d}x+\int_D f(x)\mathrm{d}g(x)\mathrm{d}x$
+4. 对于第一个积分，我们可以直接计算：$\int_D f(x)g(x)\mathrm{d}x=\int_D \sqrt{2x-x^2}\mathrm{d}x=\frac{\pi}{4}+\frac{1}{3}$。
+5. 对于第二个积分，我们可以将$f(x)$拆分为$x$和$\sqrt{2x-x^2}$，然后分别计算：$\int_D f(x)\mathrm{d}x=\int_D x\mathrm{d}x=\boxed{A}$。
+所以答案是：A",1
+8,求极限：$L=\lim_{n\rightarrow\infty}\sqrt{n}\left(1-\sum_{k=1}^n{\frac{1}{n+\sqrt{k}}}\right)$=____,$\frac{1}{3}$,$\frac{2}{3}$,1,$\frac{4}{3}$,B,"
+让我们一步一步思考,
+1. 首先，我们观察到$\sqrt{n}$是一个无穷级数，因此，我们可以尝试使用数列求和公式来求解。
+2. 其次，我们需要求解$\lim_{n\rightarrow\infty}\sqrt{n}\left(1-\sum_{k=1}^n{\frac{1}{n+\sqrt{k}}}\right)$，即求$\lim_{n\rightarrow\infty}\sqrt{n}\left(1-\frac{1}{n+\sqrt{n}}\right)$。
+3. 接着，我们可以将$\sqrt{n}$拆分成$\sqrt{n}\cdot\frac{1}{\sqrt{n}}$，然后使用数列求和公式，得到$\lim_{n\rightarrow\infty}\sqrt{n}\cdot\frac{1}{\sqrt{n}}=\frac{1}{n}$。
+4. 将第3步的结果代入原式，得到$\lim_{n\rightarrow\infty}\sqrt{n}\left(1-\sum_{k=1}^n{\frac{1}{n+\sqrt{k}}}\right)=\lim_{n\rightarrow\infty}\sqrt{n}\cdot\frac{1}{\sqrt{n}}=\frac{1}{n}$。
+所以答案是：B",1
+9,"$x=1$是函数$f\left(x\right)=\frac{bx^2+x+1}{ax+1}$的可去间断点，求$a,b$的值？____","$a=-1,b=-2$","$a=-2,b=-1$","$a=-2,b=-2$","$a=-1,b=0$",A,"
+让我们一步一步思考,
+1. 首先，根据题意，$x=1$是函数$f(x)=\frac{bx^2+x+1}{ax+1}$的可去间断点，即$f'(1)=0$。
+2. 其次，根据导数的定义，有$f'(x)=\lim_{h\rightarrow 0}\frac{f(x+h)-f(x)}{h}$。
+3. 因此，我们需要求出$f'(x)$在$x=1$处的值。
+4. 将$x=1$代入$f'(x)$，得到$f'(1)=\lim_{h\rightarrow 0}\frac{\frac{b(1+h)^2+(1+h)+1}{a(1+h)+1}$。
+5. 由于$x=1$是可去间断点，因此$f'(1)$存在，即$\lim_{h\rightarrow 0}\frac{\frac{b(1+h)^2+(1+h)+1}{a(1+h)+1}$存在。
+6. 根据题意，$x=1$是可去间断点，因此$\lim_{h\rightarrow 0}\frac{\frac{b(1+h)^2+(1+h)+1}{a(1+h)+1}=\lim_{h\rightarrow 0}\frac{\frac{b(1+h)^2+(1+h)+1}{a(1+h)+1}$。
+7. 因此，我们需要求出$\lim_{h\rightarrow 0}\frac{\frac{b(1+h)^2+(1+h)+1}{a(1+h)+1}$在$x=1$处的值。
+8. 将$x=1$代入$\lim_{h\rightarrow 0}\frac{\frac{b(1+h)^2+(1+h)+1}{a(1+h)+1}$，得到$\lim_{h\rightarrow 0}\frac{\frac{b(1+h)^2+(1+h)+1}{a(1+h)+1}=\lim_{h\rightarrow 0}\frac{\frac{b(1+h)^2+(1+h)+1}{a(",0
+10,求$\sum_{n=1}^{\infty}{\frac{\left(-1\right)^{n+1}-2^n}{n}x^n}$的和函数.____,"$\ln\left(1-2x-x^2\right),x\in\left[-\dfrac{1}{2},\dfrac{1}{2}\right)$","$\ln\left(1-x-x^2\right),x\in\left(-\dfrac{1}{2},\dfrac{1}{2}\right)$","$\ln\left(1-2x-2x^2\right),x\in\left[-\dfrac{1}{2},\dfrac{1}{2}\right)$","$\ln\left(1-x-2x^2\right),x\in\left[-\dfrac{1}{2},\dfrac{1}{2}\right)$",D,"
+让我们一步一步思考,
+1. 首先，我们将$\sum_{n=1}^{\infty}{\frac{\left(-1\right)^{n+1}-2^n}{n}x^n}$拆分成两个部分：$\sum_{n=1}^{\infty}{\frac{\left(-1\right)^{n+1}}{n}x^n$和$\sum_{n=1}^{\infty}{\frac{2^n}{n}x^n$。
+2. 对于第一个求和式，我们可以直接求极限，即$\lim_{n\rightarrow\infty}\frac{(-1)^{n+1}}{n}=0$。
+3. 对于第二个求和式，我们可以直接求极限，即$\lim_{n\rightarrow\infty}\frac{2^n}{n}=2$。
+4. 因此，原式$=\lim_{n\rightarrow\infty}\frac{\left(-1\right)^{n+1}-2^n}{n}x^n=\lim_{n\rightarrow\infty}\frac{(-1)^{n+1}}{n}x^n+\lim_{n\rightarrow\infty}\frac{2^n}{n}x^n=0+2=2$。
+所以答案是：D",1
+11,求极限：$\lim_{x\rightarrow0}\frac{\sqrt{1+x\cos x}-\sqrt{1+\sin x}}{x^3}=$____,$-\dfrac{1}{3}$,$-\dfrac{1}{4}$,$-\dfrac{1}{5}$,$-\dfrac{1}{6}$,D,"
+让我们一步一步思考,
+1. 首先，我们将分子分母同时除以$x^2$，得到$\lim_{x\rightarrow0}\frac{\sqrt{1+x\cos x}-\sqrt{1+\sin x}}{x^3}=\lim_{x\rightarrow0}\frac{\sqrt{1+\frac{1-x^2}{x^2}}-\sqrt{1+\frac{x^2-1}{x^2}}}{x^2}$。
+2. 接着，我们将分子分母同时除以$x^2$，得到$\lim_{x\rightarrow0}\frac{\sqrt{1+\frac{1-x^2}{x^2}}-\sqrt{1+\frac{x^2-1}{x^2}}}{x^2}=\lim_{x\rightarrow0}\frac{\frac{1-x^2}{x^2}-\sqrt{1+\frac{x^2-1}{x^2}}}{x^2}$。
+3. 然后，我们将分子分母同时除以$x^2$，得到$\lim_{x\rightarrow0}\frac{\frac{1-x^2}{x^2}-\sqrt{1+\frac{x^2-1}{x^2}}}{x^2}=\lim_{x\rightarrow0}\frac{-\sqrt{1+\frac{x^2-1}{x^2}}}{x^2}$。
+4. 最后，我们将分子分母同时除以$x^2$，得到$\lim_{x\rightarrow0}\frac{-\sqrt{1+\frac{x^2-1}{x^2}}}{x^2}=-\frac{1}{4}$。
+所以答案是：B",0
+12,求极限：$\lim_{n\rightarrow\infty}\sum_{k=1}^n{\frac{k}{\left(k+1\right)!}}=$____,1,0,-1,2,A,"
+让我们一步一步思考,
+1. 首先，我们可以观察到$\sum_{k=1}^n k$是一个等差数列，公差为1。
+2. 其次，我们可以使用数列求和公式进行求解。
+3. 最后，根据数列求和公式，$\sum_{k=1}^n k=\frac{n(n+1)}{2}$。
+所以答案是：B",0
+13,"已知曲线C是圆$(x-1)^{2}+(y-6)^{2}=25$上从点$A(1,1)$沿逆时针方向到$B(4,2)$的一段弧，则$\oint_{C}(3\ln(1+y)+5x^{2})\mathrm{d}x+\Bigl({\frac{3x}{1+y}}-2y\Bigr)\mathrm{d}y=$____",$108+3\ln\Bigl(\frac{27}{2}\Bigr)$,$3\ln\left(\dfrac{81}{2}\right)-102$,$102+3\ln\Bigl(\frac{81}{2}\Bigr)$,$3\ln\left(\dfrac{27}{2}\right)-97$,C,"
+让我们一步一步思考,
+1. 首先，我们需要求出曲线$C$在点$A$和点$B$处的切线斜率。$C$的方程为$(x-1)^2+(y-6)^2=25$，则$C$的导数为$2(x-1)\frac{dy}{dx}+2(y-6)\frac{dy}{dx}=\frac{2x-2y+12}{(x-1)^2+(y-6)^2}$。
+2. 然后，我们需要求出曲线$C$在点$A$和点$B$处的切线方程。$A$处的切线斜率为$2(1-1)\frac{dy}{dx}+2(1-6)\frac{dy}{dx}=\frac{12}{25}$，$B$处的切线斜率为$2(4-1)\frac{dy}{dx}+2(2-6)\frac{dy}{dx}=\frac{16}{25}$。
+3. 接下来，我们需要求出曲线$C$在点$A$和点$B$处的切线方程。$A$处的切线方程为$y-1=\frac{12}{25}(x-1)$，即$12x-25y+30=0$；$B$处的切线方程为$y-2=\frac{16}{25}(x-1)$，即$16x-25y+32=0$。
+4. 然后，我们需要求出曲线$C$在点$A$和点$B$处的切线斜率。$A$处的切线斜率为$\frac{dy}{dx}\bigg|_{x=1}=\frac{2(1-1)}{25}=\frac{0}{25}$，$B$处的切线斜率为$\frac{dy}{dx}\bigg|_{x=4}=\frac{2(4-1)}{25}=\frac{6}{25}$。
+5. 最后，我们需要求出$\oint_{C}(3\ln(1+y)+5x^2)\mathrm{d}x+\frac{3x}{1+y}\mathrm{d}y$。",0
+14,"设$D$是全平面，$f\left(x\right)=\begin{cases}
+x\text{，}-1\leq x\leq2\\
+0\text{，}\text{其他}\\
+\end{cases}$；计算$\iint_D{f\left(x\right)f\left(x^2-y\right)}\mathrm{d}\sigma=$____",$\frac{9}{4}$,$\frac{5}{2}$,$\frac{11}{4}$,3,A,"
+让我们一步一步思考,
+1. 首先，我们需要计算$f(x)$和$f(x^2-y)$在$D$上的定积分。
+2. 对于$f(x)$，当$-1\leq x\leq2$时，$f(x)=x$，因此$f(x)$在$D$上的定积分是$\int_{-1}^2x\mathrm{d}x=\frac{x^2}{2}|_{-1}^2=\frac{3}{2}$。
+3. 对于$f(x^2-y)$，当$-1\leq x\leq2$时，$f(x^2-y)=x^2-y$，因此$f(x^2-y)$在$D$上的定积分是$\int_{-1}^2(x^2-y)\mathrm{d}x^2=\frac{1}{3}x^3|_{-1}^2=\frac{1}{3}$。
+4. 最后，根据定积分的加法法则，$\iint_D f(x)f(x^2-y)\mathrm{d}\sigma=\iint_{-1}^2f(x)f(x^2-y)\mathrm{d}x\mathrm{d}x^2=\frac{3}{2}\cdot\frac{1}{3}=\frac{1}{2}$。
+所以答案是：B",0
+15,计算广义积分：$\int_0^{+\infty}{\frac{\mathrm{d}x}{\left(1+x^2\right)\left(1+x^4\right)}}$____,$\frac{\pi}{8}$,$\frac{\pi}{4}$,$\frac{\pi}{2}$,$\frac{\pi}{3}$,B,"
+让我们一步一步思考,
+1. 首先，我们需要计算$\int_0^1{\left(1-x\right)\sqrt{2x-x^2}}\mathrm{d}x$的值，已经在前面求解得到为$\frac{1}{3}$。
+2. 接着，我们需要计算$\int_0^1{\left(1+x^2\right)\left(1+x^4\right)}\mathrm{d}x$的值。
+3. 为了计算这个积分，我们需要先计算$\int_0^1\mathrm{d}x$的值，这个积分可以直接求解，得到$\int_0^1\mathrm{d}x=\frac{1}{2}$。
+4. 然后，我们可以将$\int_0^1{\left(1+x^2\right)\left(1+x^4\right)}\mathrm{d}x$拆分成两个积分：$\int_0^1\mathrm{d}x$和$\int_0^1{\left(1+x^2\right)}\mathrm{d}x$。
+5. 对于第一个积分，可以直接求解，得到$\int_0^1\mathrm{d}x=\frac{1}{2}$。
+6. 对于第二个积分，我们可以使用分部积分法，令$u=\sin t$，则$du=\cos t\mathrm{d}t$，$du=x\mathrm{d}x$。
+7. 将$u=\sin t$代入原式，得到$\int_0^1{\left(1+x^2\right)}\mathrm{d}x=\int_0^1\sin tx\mathrm{d}t=\left[\cos tx\right]_0^1=\cos 1$。
+8. 将第3步和第6步的结果代入原式，得到$\int_0^{+\infty}{\frac{\mathrm{d}x}{\left(1+x^2\right)\left(1+x^4\right)}}=\frac{1}{2}\cdot\cos 1+\frac{1}{2}\cdot\cos 3=\frac{\pi}{4}$。
+所以答案是：B",1
+16,已知数列$\left\{a_n\right\}$，其中$a_n=\cos n\alpha$，其前$n$$项和为$S_n$.求：$S_n=$____,$\frac{\cos \frac{n}{2}\alpha \cdot \sin \frac{n\alpha}{2}}{\sin \frac{\alpha}{2}}$,$\frac{\cos \frac{n+1}{2}\alpha \cdot \sin \frac{n\alpha}{2}}{\sin \frac{\alpha}{2}}$,$\frac{\cos \frac{n+1}{2}\alpha \cdot \sin \frac{n\alpha}{2}}{\sin \frac{\alpha}{3}}$,$\frac{\cos \frac{n-1}{2}\alpha \cdot \sin \frac{n\alpha}{2}}{\sin \frac{\alpha}{2}}$,B,"
+让我们一步一步思考,
+1. 首先，根据已知条件，可以得到$a_n=\cos n\alpha$。
+2. 其次，根据三角函数的性质，有$\cos n\alpha=\cos(n-1)\alpha+\sin(n-1)\alpha\sin\alpha$。
+3. 将第2步中的式子代入第1步中的式子，得到$a_n=\cos(n-1)\alpha+\sin(n-1)\alpha\sin\alpha\sin\alpha+\sin(n-1)\alpha\cos\alpha\sin\alpha$。
+4. 再次利用三角函数的性质，有$\cos(n-1)\alpha+\sin(n-1)\alpha\sin\alpha\sin\alpha+\sin(n-1)\alpha\cos\alpha\sin\alpha=\cos(n-1)\alpha+\sin(n-1)\alpha\sin(n-1)\cos(n-1)\alpha$。
+5. 将第4步中的式子代入第1步中的式子，得到$a_n=\cos(n-1)\alpha+\sin(n-1)\alpha\sin(n-1)\cos(n-1)\alpha$。
+6. 最后，根据等差数列求和公式，有$S_n=\sum_{i=1}^n a_i=\sum_{i=1}^n \cos(i-1)\alpha+\sum_{i=1}^n \sin(i-1)\alpha\sin(i-1)\cos(i-1)\alpha=\cos\alpha\sum_{i=1}^n\sin(i-1)\alpha+\sin\alpha\sum_{i=1}^n\cos(i-1)\alpha\sin(i-1)\cos(i-1)\alpha$。
+7. 利用三角函数的性质，有$\cos\alpha=\frac{1}{\sqrt{2}}\sin\alpha$，$\sin\alpha=\frac{1}{\sqrt{2}}\cos\alpha$，$\cos(i-1)\alpha+\sin(i-1)\alpha\sin(i-1)\cos(i-1)\alpha=\cos(i-1)\alpha+\sin(i-1)\alpha",0
+17,计算定积分：$\int_{-1}^1{\frac{\mathrm{d}x}{\left(1+\mathrm{e}^x\right)\left(1+x^2\right)}}$____,$\frac{\pi}{8}$,$\frac{\pi}{4}$,$\frac{\pi}{2}$,$\pi$,B,"
+让我们一步一步思考,
+1. 首先，我们观察到积分中的分式$\frac{\mathrm{d}x}{\left(1+\mathrm{e}^x\right)\left(1+x^2\right)}$，可以考虑进行变量代换。令$x=t$，则有$\frac{\mathrm{d}t}{\left(1+\mathrm{e}^t\right)\left(1+t^2\right)}=\frac{\mathrm{d}t}{1+\mathrm{e}^t}$。
+2. 其次，我们需要将积分区间进行变换。当$t=-1$时，$x=1$；当$t=0$时，$x=0$，因此积分区间变为$[-1,0]$。
+3. 将变量代换后的$x$代入原式，得到：$\int_{-1}^1\frac{\mathrm{d}x}{\left(1+\mathrm{e}^x\right)\left(1+x^2\right)}=\int_{-1}^0\frac{\mathrm{d}t}{1+\mathrm{e}^t}\mathrm{d}t=\int_{-1}^0\frac{\mathrm{d}t}{1+\mathrm{e}^t}$。
+4. 再次使用变量代换，令$t=\ln t$，则有$\frac{\mathrm{d}t}{1+\mathrm{e}^t}=\frac{\mathrm{d}\ln t}{1+\mathrm{e}^t}$。
+5. 将变量代换后的$t$代入第3步的表达式，得到$\int_{-1}^1\frac{\mathrm{d}x}{\left(1+\mathrm{e}^x\right)\left(1+x^2\right)}=\int_{-1}^0\frac{\mathrm{d}\ln t}{1+\mathrm{e}^t}\mathrm{d}t=\int_{-1}^0\frac{\mathrm{d}\ln t}{1+\mathrm{e}^t}\frac{\mathrm{d}t}{1+\mathrm{e}^t}=\frac{\pi}{4}$。
+所以答案是：B",1
+18,求极限：$\lim_{x\rightarrow0}\frac{\tan2x^2-x^2}{\sin x^2+3x^2}=$____,$\frac{1}{2}$,$\frac{1}{4}$,$\frac{1}{8}$,$\frac{3}{5}$,B,"
+让我们一步一步思考,
+1. 首先，我们将$\tan2x^2$拆成$\frac{2\tan x}{1-\tan^2 x}$，得到$\lim_{x\rightarrow0}\frac{\frac{2\tan x}{1-\tan^2 x}-x^2}{\sin x^2+3x^2}$。
+2. 其次，我们将分子分母同时除以$x^2$，得到$\lim_{x\rightarrow0}\frac{2\tan x-x^2}{1+\frac{2}{x^2}}$。
+3. 最后，我们将$x\rightarrow0$代入，得到$\lim_{x\rightarrow0}\frac{2\tan x-x^2}{1+\frac{2}{x^2}}=\frac{1}{2}$。
+所以答案是：A",0

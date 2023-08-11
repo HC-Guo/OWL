@@ -1,0 +1,312 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,设随机变量$X$和$Y$相互独立，且X$\sim N(0，1)，Y\sim N(0$，2)，则$D\left(X^2Y^2\right)=$____,10,20,32,45,C," Based on the given information, we have:
+
+1. $X \sim N(0, 1)$, so $X^2 \sim Chi^2(1)$
+2. $Y \sim N(0, 2)$, so $Y^2 \sim N(0, 4)$
+3. $X$ and $Y$ are independent, so $X^2Y^2 \sim Chi^2(1) \times N(0, 4) = N(0, 16)$
+
+Therefore, $D(X^2Y^2) = \frac{1}{16}$
+
+So the answer is:
+
+A.10",0
+1,"设随机变量$(X,Y)$的概率密度为$f(x,y)=\left\{\begin{array}{cc}6y,&0<x<1,0<y<x，\\0,&\text{其他.}\end{array}\right.$,$$\text{则}P\left(X>\frac{1}{2}\mid Y=\frac{1}{3}\right)=$$____",$\frac{3}{4}$,$\frac{2}{3}$,$\frac{1}{4}$,$\frac{1}{3}$,A," C. $\frac{1}{4}$
+
+We have:
+
+$$P(X > \frac{1}{2} \mid Y = \frac{1}{3}) = \int_{0}^{1/2} f(x, \frac{1}{3}) dx$$
+
+Since $x$ is fixed at $\frac{1}{2}$, the only non-zero contribution comes from the region $0 < y < x$, which gives:
+
+$$P(X > \frac{1}{2} \mid Y = \frac{1}{3}) = \int_{0}^{\frac{1}{2}} 6y dx = \frac{1}{4}$$
+
+Therefore, the answer is C. $\frac{1}{4}$.",0
+2,"总体的简单样本,$\bar{X}$为样本均值,则$D(\bar{X})=$____",$\frac{3}{80}$,$\frac{9}{16}$,$\frac{3}{1600}$,$\frac{3}{160}$,C," Given a simple random sample of size $n = 80$ from a normal distribution with mean $\mu$ and standard deviation $\sigma$, the sample mean $\bar{X}$ is a consistent estimator of the population mean $\mu$.
+
+The variance of the sample mean $\bar{X}$ is given by:
+
+$$Var(\bar{X}) = \frac{1}{n-1} \sum_{i=1}^n (X_i - \bar{X})^2$$
+
+where $X_1, X_2, ..., X_n$ are the $n$ observations in the sample.
+
+Since the observations are independent and identically distributed, we have:
+
+$$Var(\bar{X}) = \frac{1}{n-1} \sum_{i=1}^n (X_i - \mu)^2$$
+
+Using the fact that the expected value of the squared deviation of a random variable from its mean is equal to the variance of the distribution, we can write:
+
+$$Var(\bar{X}) = \frac{1}{n-1} \sum_{i=1}^n (X_i - \mu)^2 = \frac{1}{n-1} \sum_{i=1}^n (X_i^2 - 2X_i\mu + \mu^2)$$
+
+Now, we can",0
+3,"设总体$X$服从拉普拉斯分布$f(x,\lambda)=\frac{1}{4\lambda}e^{-\frac{|x|}{2\lambda}},-\infty<x<\infty$,其中$\lambda>0$。则$E(|X|)=$____",$\frac{1}{2 \lambda}$,$\frac{1}{\lambda}$,$2 \lambda$,$\lambda$,C," Based on the given information, we have:
+
+$$f(x,\lambda)=\frac{1}{4\lambda}e^{-\frac{|x|}{2\lambda}}$$
+
+To find the expected value of $X$, we need to compute the integral of the probability density function over all possible values of $x$:
+
+$$E(X)= \int_{-\infty}^{\infty} xf(x,\lambda)dx$$
+
+Substituting the probability density function, we get:
+
+$$E(X)= \int_{-\infty}^{\infty} x\frac{1}{4\lambda}e^{-\frac{|x|}{2\lambda}}dx$$
+
+Integrating, we have:
+
+$$E(X)= \frac{1}{4\lambda} \int_{-\infty}^{\infty} xe^{-\frac{|x|}{2\lambda}}dx$$
+
+Now, we can use the substitution $y=x/2\lambda$ to get:
+
+$$E(X)= \frac{1}{4\lambda} \int_{-\infty}^{\infty} \frac{x}{2\lambda}e^{-y}dy$$
+
+Using the fact that $\int_{-\infty}^{\infty} e^{-y}dy=1$, we have:
+
+$$E(X)= \frac{1}{4\lambda} \int_{-\infty}^{\infty} \frac{",0
+4,"设$X_1,X_2,\cdots X_{12}$是来自正态总体$X\sim N\left(0,\sigma^2\right)$的简单样本,随机变量$Y=\frac{\sum_{i=1}^6X_i^2}{\sum_{j=1}^6X_{j+6}^2}$服从的分布为:____",$\chi^2(6)$,$\chi^2(1)$,"$F(5,5)$","$F(6,6)$",D," This is a problem of transforming a random variable.
+
+Let $X \sim N(0, \sigma^2)$ be a random variable, and let $Y = \frac{\sum_{i=1}^6 X_i^2}{\sum_{j=1}^6 X_{j+6}^2}$ be the transformed random variable.
+
+We can see that $Y$ is a ratio of two chi-squared random variables, specifically $\chi^2(6)$ and $\chi^2(1)$, respectively. Therefore, $Y$ follows a chi-squared distribution with 6 degrees of freedom.
+
+So, the correct answer is:
+
+A. $\chi^2(6)$",0
+5,对于任意两个随机变量X和$Y$，若$E(XY)=EX\cdot EY$，则____,$D(X Y)=D(X) \cdot D(Y)$,$D(X+Y)=D(X)+D(Y)$,X和Y独立,X和Y不相关,D," C. X and Y are independent.
+
+If $E(XY)=EX\cdot EY$, then we have $E(X)E(Y)=E(XY)$, which means that the expected values of $X$ and $Y$ are equal, and therefore $X$ and $Y$ are independent.
+
+Option A is incorrect, as $D(XY)$ is not necessarily equal to $D(X)\cdot D(Y)$.
+
+Option B is incorrect, as $D(X+Y)$ is not necessarily equal to $D(X)+D(Y)$.
+
+Option D is incorrect, as $X$ and $Y$ are not necessarily uncorrelated.",0
+6,"设$(X_1,X_2,...,X_n)$是取自总体X的一个样本，X的概率密度如下：$f(x)=\begin{cases}\frac12e^{-\frac{(x-\mu)}{2}},x\geq\mu,\\0,其他\end{cases}$,$\mu$为未知参数。则$\mu$的最大似然估计量是.____",$\hat{\mu}=\max _{1 \leq i \leq n} X_i$,$\hat{\mu}=\frac13 \max _{1 \leq i \leq n} X_i$,$\hat{\mu}=\min _{1 \leq i \leq n} X_i$,$\hat{\mu}=\frac12 \min _{1 \leq i \leq n} X_i$,C," Based on the given probability density function $f(x)$ of the random variable X, the maximum likelihood estimate (MLE) of the parameter $\mu$ is the value that maximizes the likelihood function.
+
+The likelihood function is given by:
+
+$$L(\mu|X_1,X_2,...,X_n) = \prod_{i=1}^n f(X_i|\mu)$$
+
+To find the MLE, we need to find the value of $\mu$ that maximizes the likelihood function.
+
+Since the likelihood function is a product of exponential functions, the maximum likelihood estimate of $\mu$ is the sample mean:
+
+$$\hat{\mu} = \frac{1}{n} \sum_{i=1}^n X_i$$
+
+Therefore, the correct answer is:
+
+B. $\hat{\mu} = \frac{1}{3} \max_{1 \leq i \leq n} X_i$
+
+Note that the sample mean is a consistent estimator of the population mean, but it is not an efficient estimator when the data is not i.i.d. (independent and identically distributed). In this case, the sample mean is a biased estimator because it is based on the sample of data that is not i.i.d.",0
+7,当事件$A$和$B$同时发生时$C$也发生，则下列式子中成立的是____,$P(C)=P(A \cap B)$,$P(C) \leq P(A)+P(B)-1$,$P(C)=P(A \cup B)$,$P(C) \geq P(A)+P(B)-1$,D," Based on the given information, we know that $A$ and $B$ are two events that occur simultaneously, and $C$ occurs when $A$ and $B$ occur simultaneously.
+
+From the given options, we can see that:
+
+A. $P(C)=P(A \cap B)$ is not correct, as $P(C)$ is the probability of $C$ occurring, not the probability of $A \cap B$ occurring.
+
+B. $P(C) \leq P(A)+P(B)-1$ is not correct, as $P(C)$ is the probability of $C$ occurring, not the probability of $A$ or $B$ occurring.
+
+C. $P(C)=P(A \cup B)$ is correct, as $C$ occurs when $A$ and $B$ occur simultaneously, and $A \cup B$ is the event that $A$ or $B$ occurs.
+
+D. $P(C) \geq P(A)+P(B)-1$ is not correct, as $P(C)$ is the probability of $C$ occurring, not the probability of $A$ or $B$ occurring.
+
+Therefore, the correct answer is:
+
+C. $P(C)=P(A \cup B)$",0
+8,"$$
+\text{设}0<P(A)<1，0<P(B)<1\text{，}
+$$
+$P(A\mid B)+P(\bar{A}\mid\bar{B})=1$，则____",事件A和B互不相容,事件A和B互相对立,事件A和B互不独立,事件A和B相互独立,D," Based on the given information, we have:
+
+0 < P(A) < 1 and 0 < P(B) < 1
+
+P(A | B) + P(¬A | ¬B) = 1
+
+We can rewrite the second condition as:
+
+P(A | B) + P(¬A | ¬B) = 1
+
+We know that P(A | B) and P(¬A | ¬B) are probabilities, so we can multiply them together to get:
+
+P(A | B)P(¬B) + P(¬A | B)P(A) = 1
+
+Simplifying the equation, we get:
+
+P(A | B) + P(¬A | ¬B) = 1
+
+Since P(A | B) and P(¬A | ¬B) are both less than 1, we can conclude that:
+
+P(A | B) + P(¬A | ¬B) < 1
+
+Therefore, the events A and B are not mutually exclusive.
+
+So, the correct answer is:
+
+B. Event A and event B are not mutually exclusive.",0
+9,设X和Y分别表示扔n次硬币出现正面和反面的次数，则$X，Y$的相关系数为____,-1,0,\frac{1}{2},1,A," X and Y are two discrete random variables representing the number of times the head side and tail side of a coin are shown, respectively, in n tosses. The relevant correlation coefficient between X and Y is:
+
+C. $\frac{1}{2}$
+
+Explanation:
+
+The probability distribution of X and Y is given by the binomial distribution, where the probability of getting head or tail on a single toss is $\frac{1}{2}$. Therefore, the probability of getting $k$ heads and $n-k$ tails is given by $\binom{n}{k}\left(\frac{1}{2}\right)^k \left(1-\frac{1}{2}\right)^{n-k}$.
+
+Since the number of heads and tails are independent, the correlation coefficient between X and Y is zero, i.e., $\text{Cov}(X,Y) = 0$.
+
+Therefore, the relevant correlation coefficient between X and Y is $\frac{1}{2}$, which is the probability of getting the same side on both coins.",0
+10,"设二维随机变量$(X,Y)$在区域$D=\left\{(x,y):x^2+y^2<1\right\}$内均匀分布,则$X$与$Y$为____",独立同分布的随机变量,独立不同分布的随机变量,不独立同分布的随机变量,不独立也不同分布的随机变量,C," Based on the given information, we know that the two-dimensional random variable $(X,Y)$ is uniformly distributed over the region $D = \left\{(x,y):x^2 + y^2 < 1\right\}$.
+
+First, we can see that $X$ and $Y$ are not independent, since the value of $X$ depends on the value of $Y$ and vice versa. Specifically, if $Y = 0$, then $X = 0$, and if $Y = 1$, then $X = \pm 1$.
+
+Next, we can see that $X$ and $Y$ have the same distribution, since they both have the same probability density function (PDF) over the region $D$. Specifically, the PDF of $X$ and $Y$ is given by:
+
+$$f(x,y) = \begin{cases} \frac{1}{\pi} & (x,y) \in D \\ 0 & \text{otherwise} \end{cases}$$
+
+Therefore, the answer is:
+
+C. Not independent and not different distributions.
+
+Note that the correct answer is not A, since $X$ and $Y$ are not independent. The correct answer is not B, since $X$ and $Y$ have the same distribution. The correct answer is not D, since $X$ and $Y",1
+11,设$X\sim N(1，4)，Y\sim N(3，16)，P\{Y=aX+b\}=1$，且$\rho_{XY}=-1$，则____,"a=2, b=5","a=-2, b=-5","a=-2, b=5","a=2, b=-5",C," Based on the given information, we have:
+
+1. $X \sim N(1, 4)$ and $Y \sim N(3, 16)$ are two independent normal distributions.
+2. $P\{Y = aX + b\} = 1$ implies that $Y = aX + b$ is a linear transformation of $X$, where $a$ and $b$ are constants.
+3. $\rho_{XY} = -1$ indicates that the correlation between $X$ and $Y$ is negative.
+
+Now, let's find the values of $a$ and $b$.
+
+From the given equation, we have:
+
+$$Y = aX + b$$
+
+Since $X \sim N(1, 4)$ and $Y \sim N(3, 16)$, we can write:
+
+$$aX + b \sim N(3, 16)$$
+
+Therefore, we have:
+
+$$a = \frac{3}{4}$$
+
+and
+
+$$b = \frac{11}{4}$$
+
+So, the values of $a$ and $b$ are:
+
+A. $a = 2, b = 5$
+
+Therefore, the correct answer is:
+
+A. $a = 2, b = 5$",0
+12,"设总体$X$的分布列如下:
+
+\begin{tabular}{|c|c|c|c|}
+\hline$\boldsymbol{X}$&0&1&2\\
+\hline$\boldsymbol{p}$&$2/5$&$1/5$&$2/5$\\
+\hline
+\end{tabular}
+
+$\left(X_{1},X_{2},\cdots X_{n}\right)$是来自于该总体的样本,$X_{(n)}=\max\left(X_{1},X_{2},\cdots X_{n}\right)$,
+
+(i)$P\left(\mathbf{X}_{(n)}=0\right)=\left(\frac{2}{5}\right)^{n}$,
+(ii)$P\left(X_{(n)}=1\right)=\frac{2}{5}\left(c_{0}^{1}\left(\frac{1}{5}\right)^{n-1}\right.$,
+(iii)$P\left(\mathbf{X}_{(n)}=2\right)=1-\left(\frac{2}{5}\right)^{n}$,
+
+上述(i)、(ii)、(iii)中正确个数为____",2,1,0,3,B," Based on the given information, we have:
+
+(i) $P(\mathbf{X}_{(n)}=0) = (\frac{2}{5})^{n}$
+
+(ii) $P(X_{(n)}=1) = \frac{2}{5} \cdot c_{0}^{1}(\frac{1}{5})^{n-1}$
+
+(iii) $P(\mathbf{X}_{(n)}=2) = 1 - (\frac{2}{5})^{n}$
+
+Now, we need to find the correct number of equations among (i), (ii), and (iii).
+
+From (i), we have $P(\mathbf{X}_{(n)}=0) = (\frac{2}{5})^{n}$
+
+From (ii), we have $P(X_{(n)}=1) = \frac{2}{5} \cdot c_{0}^{1}(\frac{1}{5})^{n-1}$
+
+From (iii), we have $P(\mathbf{X}_{(n)}=2) = 1 - (\frac{2}{5})^{n}$
+
+Therefore, the correct number of equations is:
+
+D. 3",0
+13,"设随机变量(X,Y)的概率密度为$f(x,y)=\begin{cases}2,0<x<y,0<y<1\\0,其他\end{cases}$.则0<y<1时，f_{X|Y}(x|y)=____","$\begin{cases}\frac{1}{x}, & 0<y<x, \\ 0, & \text { 其他 }\end{cases}$","$\{\begin{array}{cl}\frac{1}{2 x}, & |y|<x, \\0, & \text { 其他}\end{array}$","$\begin{cases}\frac{1}{y}, & 0<x<y, \\ 0, & \text { 其他. }\end{cases}$","$\begin{cases}\frac{1}{2y}, & |x|<y, \\ 0, & \text { 其他. }\end{cases}$",C," Based on the given probability density function (pdf) $f(x,y)$ of the random variable (X,Y), we have:
+
+$$f(x,y) = \begin{cases} 2, & 0 < x < y, 0 < y < 1 \\ 0, & \text{otherwise} \end{cases}$$
+
+Since we are interested in the conditional probability density function (pdf) of X given Y, we need to specify the domain of Y. Let's consider the case where 0 < Y < 1.
+
+The conditional pdf of X given Y = y is given by:
+
+$$f_{X|Y}(x|y) = \frac{\partial f(x,y)}{\partial x}$$
+
+Using the given pdf $f(x,y)$, we have:
+
+$$f_{X|Y}(x|y) = \frac{\partial f(x,y)}{\partial x} = \begin{cases} 2x, & 0 < x < y, 0 < y < 1 \\ 0, & \text{otherwise} \end{cases}$$
+
+Therefore, the correct answer is:
+
+A. $\begin{cases}\frac{1}{x}, & 0 < y < x, \\ 0, & \text{otherwise} \end{cases}$",0
+14,"设总体$X$的分布律为
+
+\begin{tabular}{|l|l|l|l|}
+\hline$X$&-1&0&2\\
+\hline$P$&$\frac{1}{3}\theta$&$1-\frac{2}{3}\theta$&$\frac{1}{3}\theta$\\
+\hline
+\end{tabular}
+
+$\left(X_{1},X_{2},\cdots,X_{n}\right)$为来自总体的样本,设有以下四个统计量
+
+(i)$\frac{3}{n}\sum_{i=1}^{n}X_{i}$,(ii)$\left.X_{1}+\frac{2}{n-1}\right)_{i=2}^{n}X_{i}$,(iii)$\frac{3}{5n}\sum_{i=1}^{n}X_{i}^{2}$,(iv)$\frac{1}{3n}\sum_{i=1}^{n}X_{i}^{2}$
+
+在上述四个统计量中,是参数$\theta$的一致估计量的个数是____",0,2,1,3,B," Based on the given information, we have:
+
+(i) $\frac{3}{n}\sum_{i=1}^{n}X_{i} = \frac{3}{n}\sum_{i=1}^{n}(\theta X_{i}) = \theta \frac{3}{n}\sum_{i=1}^{n}X_{i} = \theta $
+
+(ii) $\left.X_{1}+\frac{2}{n-1}\right)_{i=2}^{n}X_{i} = \theta X_{1} + \frac{2}{n-1}X_{2} + \cdots + \frac{2}{n-1}X_{n-1} = \theta X_{1} + \frac{2}{n-1}(X_{2} + \cdots + X_{n-1}) = \theta X_{1} + \frac{2}{n-1}X_{n-1}$
+
+(iii) $\frac{3}{5n}\sum_{i=1}^{n}X_{i}^{2} = \frac{3}{5n}\sum_{i=1}^{n}(\theta X_{i})^{2} = \theta^{2} \frac{3}{5n}\sum_{i=1}^{n}X_{i}^{2} = \theta^{2}$
+
+(iv) $\frac",0
+15,"设$X_1,...,X_4,X_5$相互独立、且都服从N(0,4).设$\alpha\in(0,1)$,$k>0$,$P(X_1^2+X_2^2+X_3^2+X_4^2\le kX_5^2)=\alpha$则k=____","$\frac{1}{4}F_{\alpha}(4,1)$","$\frac{1}{4}F_{1-\alpha}(4,1)$","$4F_{\alpha}(4,1)$","$4F_{1-\alpha}(4,1)$",D," This is a problem of calculating the value of $k$ that satisfies the given condition.
+
+Let $X_1, X_2, X_3, X_4, X_5$ be independent random variables following $N(0,4)$. Then, we have
+
+$$P(X_1^2 + X_2^2 + X_3^2 + X_4^2 \leq kX_5^2) = \sum_{i=1}^4 P(X_i^2 \leq kX_5^2)$$
+
+Since $X_1, X_2, X_3, X_4$ are independent, we have
+
+$$P(X_1^2 + X_2^2 + X_3^2 + X_4^2 \leq kX_5^2) = \sum_{i=1}^4 P(X_i^2 \leq kX_5^2) = 4\cdot P(X_1^2 \leq kX_5^2)$$
+
+Now, we need to calculate $P(X_1^2 \leq kX_5^2)$. Note that $X_1^2 \leq kX_5^2$ if and only if $X_1^2 \leq k^2X_5^2$. Therefore, we have
+
+$$P",0
+16,"设$X_1,X_1,\cdots X_8$为来自总体$X\sim N\left(\mu_1,1\right)$的简单样本,$\bar{X},S_1^2$分別是其对应的样本均值与样本方差。$Y_1,Y_1,\cdots,Y_7$为来自总$Y\sim N\left(\mu_2,1\right)$的简单样本,$\bar{Y},S_2^2$分别是其对应的样本均值与样本方差。下列选项正确的是：____",$\sum_{i=1}^8\left(X_i-\mu_1\right)^2+\sum_{i=1}^7\left(Y_i-\mu_2\right)^2 \sim \chi^2(15)$,$E\left(\sum_{i=1}^8\left(X_i-\mu_1\right)^2+\sum_{i=1}^7\left(Y_i-\mu_2\right)^2\right)=15$,$\mathrm{D}(\bar{X}+\bar{Y})=\frac{1}{8}+\frac{1}{7}$,"$\bar{X}-\bar{Y} \sim \mathrm{N}\left(\mu_1-\mu_2, \frac{1}{8}+\frac{1}{7}\right)$",B," This is a classic problem of comparing two independent samples from two different normal distributions.
+
+The correct answer is:
+
+A. $\sum_{i=1}^8\left(X_i-\mu_1\right)^2+\sum_{i=1}^7\left(Y_i-\mu_2\right)^2 \sim \chi^2(15)$
+
+The sum of the squared differences between the samples and the means of the two normal distributions is a chi-squared distribution with 15 degrees of freedom.
+
+Here's why:
+
+1. The samples $X_1, X_2, \ldots, X_8$ and $Y_1, Y_2, \ldots, Y_7$ are independent and identically distributed as $N(\mu_1, 1)$ and $N(\mu_2, 1)$, respectively.
+2. The sample means $\bar{X} = \frac{1}{8}(X_1 + X_2 + \ldots + X_8)$ and $\bar{Y} = \frac{1}{7}(Y_1 + Y_2 + \ldots + Y_7)$ are both equal to the population means $\mu_1$ and $\mu_2$, respectively.
+3. The sample variances $S_1^2 = \frac{1}{8}$ and $",0
+17,"若随机变量X的分布函数为$F(x)=pF_1(x)+qF_2(x)$，其中$F_1(x)$，$F_2(x)$为两个分布函数，常数p，q满足:$p>0$，$q>0$，$p+q=1$，那么X的分布叫作$F_1(x)，F_2(x)$的混合分布.设$\mu_1，\mu_2$分别为$F_1(x)，F_2(x)$的期望，$\sigma_1^2,\sigma_2^2$分别为$F_1(\mathrm{x})$，$F_2(\mathrm{x})$的方差，则$DX=$____",$p \sigma_1^2+q \sigma_2^2$,$p^2 \sigma_1^2+q^2 \sigma_2^2$,$p \sigma_1^2+q \sigma_2^2+p q\left(\mu_1-\mu_2\right)^2$,$p \sigma_1^2+q \sigma_2^2+p q\left(\sigma_1-\sigma_2\right)^2$,C," Given that $X$ has a mixture distribution of $F_1(x)$ and $F_2(x)$, we have:
+
+$$F(x) = pF_1(x) + qF_2(x)$$
+
+where $p, q \geq 0$ and $p + q = 1$.
+
+Let $\mu_1, \mu_2$ be the means of $F_1(x)$ and $F_2(x)$, respectively, and let $\sigma_1^2, \sigma_2^2$ be their variances. Then, we have:
+
+$$DX = \frac{p}{F(x)} \cdot \frac{dF(x)}{dx} = \frac{p}{F(x)} \cdot \left( \frac{dF_1(x)}{dx} + \frac{dF_2(x)}{dx} \right)$$
+
+Since $F_1(x)$ and $F_2(x)$ are both probability density functions, we have:
+
+$$\frac{dF_1(x)}{dx} = \frac{1}{\sigma_1} \cdot \frac{d\sigma_1(x)}{dx}$$
+
+and
+
+$$\frac{dF_2(x)}{dx} = \frac{1}{\sigma_2} \",0

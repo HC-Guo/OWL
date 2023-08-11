@@ -1,0 +1,317 @@
+{"question_id": 1, "category": "generic", "ops_field": "信息安全", "task_type": "知识问答", "question": ["如何保护系统安全？"]}
+{"question_id": 2, "category": "generic", "ops_field": "信息安全", "task_type": "知识问答", "question": ["如何在防火墙中配置安全策略，如访问控制列表（ACL）和网络地址转换（NAT）？"]}
+{"question_id": 3, "category": "generic", "ops_field": "信息安全", "task_type": "知识问答", "question": ["什么是DoS（拒绝服务）和DDoS（分布式拒绝服务）攻击，如何防范这些攻击？"]}
+{"question_id": 4, "category": "generic", "ops_field": "信息安全", "task_type": "知识问答", "question": ["如何进行漏洞管理"]}
+{"question_id": 5, "category": "generic", "ops_field": "信息安全", "task_type": "知识问答", "question": ["如何设置全站SSL证书，让整个网站的访问都是安全的？"]}
+{"question_id": 6, "category": "generic", "ops_field": "信息安全", "task_type": "安装/部署/配置", "question": ["在一个Linux服务器上，如何设置SSH服务，以提高服务器的安全性，并防止非法登录？\n"]}
+{"question_id": 7, "category": "generic", "ops_field": "信息安全", "task_type": "安装/部署/配置", "question": ["对于一台托管了大量用户数据的服务器，如何进行有效的防护措施以防止黑客攻击？\n"]}
+{"question_id": 8, "category": "generic", "ops_field": "信息安全", "task_type": "安装/部署/配置", "question": ["如何设计一个安全的网络拓扑结构，以保护企业网络中的敏感数据和应用程序？请提供合适的网络安全解决方案。\n"]}
+{"question_id": 9, "category": "generic", "ops_field": "信息安全", "task_type": "安装/部署/配置", "question": ["如何设置网络设备的访问控制列表（ACL）以保护网络安全？\n"]}
+{"question_id": 10, "category": "generic", "ops_field": "信息安全", "task_type": "安装/部署/配置", "question": ["如何设定和管理存储桶的权限，以保证AWS S3存储桶的数据安全性和保密性？\n"]}
+{"question_id": 11, "category": "generic", "ops_field": "信息安全", "task_type": "监控与告警", "question": ["根据以下情景，提供一个网络入侵监控和告警方案假如你负责管理一家互联网公司的信息安全，需要实时监控网络入侵行为，并设置相应的告警机制，以及采取防御措施。"]}
+{"question_id": 12, "category": "generic", "ops_field": "信息安全", "task_type": "监控与告警", "question": ["分析下面数据是否敏感并标识用户信息：\n- 姓名：张三\n- 身份证号：310**********1234\n- 手机号码：138********\n- 地址：上海市**********\n- 邮箱：zhangsan@example.com\n\n银行账户信息：\n- 银行名称：ABC银行\n- 账户持有人：张三\n- 账号：************1234\n- 身份证号：310**********1234\n- 开户行地址：上海市**********\n- 交易记录：日期、金额等敏感交易细节\n\n健康记录：\n- 姓名：张三\n- 年龄：30岁\n- 性别：男\n- 疾病历史：高血压、糖尿病等\n- 就诊记录：医院名称、科室、诊断结果等敏感医疗信息\n\n公司机密信息：\n- 项目计划：项目名称、进度、预算等敏感商业计划\n- 机密文件：合同、薪资单、财务报表等敏感机密文件\n- 内部通信：电子邮件、即时消息等内部沟通内容"]}
+{"question_id": 13, "category": "generic", "ops_field": "信息安全", "task_type": "故障分析与诊断", "question": ["请帮我分析下列代码是有具有安全隐患并修正代码import os\n\nfile_path = input(\"请输入要删除的文件路径：\")\nos.remove(file_path)\nprint(\"文件删除成功！\")"]}
+{"question_id": 14, "category": "generic", "ops_field": "信息安全", "task_type": "日志分析", "question": ["这个日志是否有任何问题？如果有，你会提供哪些解决方案？Jun 15 02:04:59 combo sshd(pam_unix)[20882]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root\n"]}
+{"question_id": 15, "category": "generic", "ops_field": "信息安全", "task_type": "日志分析", "question": ["日志是否存在异常，异常的原因是什么，怎么解决Jun 14 15:16:02 combo sshd(pam_unix)[19937]: check pass; user unknown\n"]}
+{"question_id": 16, "category": "generic", "ops_field": "信息安全", "task_type": "自动化脚本", "question": ["请根据描述帮我设计漏洞验证和检测的代码假设目标网站的vulnerable.php页面存在一个漏洞，可以导致跨站脚本攻击（XSS）。我们使用requests库发送一个包含恶意脚本的POST请求，然后检查响应中是否包含了恶意脚本，从而判断漏洞是否存在。"]}
+{"question_id": 17, "category": "generic", "ops_field": "信息安全", "task_type": "备份与恢复", "question": ["如何保障云上业务的安全性？请考虑数据传输安全、访问控制、数据备份等方面的问题。"]}
+{"question_id": 18, "category": "generic", "ops_field": "信息安全", "task_type": "备份与恢复", "question": ["对于一些对数据安全性要求较高的企业来说，需要考虑数据备份和灾难恢复。请提供一个完整的数据备份和恢复解决方案。\n"]}
+{"question_id": 19, "category": "generic", "ops_field": "信息安全", "task_type": "备份与恢复", "question": ["在IT系统中，如何进行数据备份、恢复和灾备，以保证数据的可靠性和连续性？\n"]}
+{"question_id": 20, "category": "generic", "ops_field": "信息安全", "task_type": "备份与恢复", "question": ["如何设计一个可靠的备份和恢复方案，以保障系统数据的安全和可靠性？\n"]}
+{"question_id": 21, "category": "generic", "ops_field": "信息安全", "task_type": "备份与恢复", "question": ["请提供一份合理的数据备份方案，以保障数据的安全性和恢复性。\n"]}
+{"question_id": 22, "category": "generic", "ops_field": "信息安全", "task_type": "其他", "question": ["如何避免Django项目请求方式异常时，响应中携带server端敏感信息"]}
+{"question_id": 23, "category": "generic", "ops_field": "信息安全", "task_type": "其他", "question": ["安全防护和漏洞扫描成熟方案有哪些"]}
+{"question_id": 24, "category": "generic", "ops_field": "信息安全", "task_type": "其他", "question": ["请给出安全防护的“四层墙”概念，并解释其作用和实现方法。\n"]}
+{"question_id": 25, "category": "generic", "ops_field": "信息安全", "task_type": "其他", "question": ["在云计算环境中，如何保障云平台的安全性，防止恶意攻击和数据泄露？\n"]}
+{"question_id": 26, "category": "generic", "ops_field": "信息安全", "task_type": "其他", "question": ["如何设计一个备份与恢复方案，确保数据安全和可靠性？\n"]}
+{"question_id": 27, "category": "generic", "ops_field": "应用业务运维", "task_type": "知识问答", "question": ["你需要实现一种持续集成/持续部署的流程，来快速部署应用程序。列出你需要做的准备工具和步骤，并解释其作用。\n"]}
+{"question_id": 28, "category": "generic", "ops_field": "应用业务运维", "task_type": "知识问答", "question": ["你需要为一台服务器安装一个web服务器，你会选择哪一个并且为什么？\n"]}
+{"question_id": 29, "category": "generic", "ops_field": "应用业务运维", "task_type": "知识问答", "question": ["我们的应用程序需要集成第三方服务API接口，如何进行接口调试和异常处理？"]}
+{"question_id": 30, "category": "generic", "ops_field": "应用业务运维", "task_type": "知识问答", "question": ["如何利用ELK（Elasticsearch+Logstash+Kibana）搭建一个日志收集和分析系统？"]}
+{"question_id": 31, "category": "generic", "ops_field": "应用业务运维", "task_type": "知识问答", "question": ["如何使用Kibana来对ELK系统中的日志数据进行可视化和分析？\n"]}
+{"question_id": 32, "category": "generic", "ops_field": "应用业务运维", "task_type": "安装/部署/配置", "question": ["如何在Kubernetes集群中使用Helm来管理和部署应用程序的包和依赖项\n"]}
+{"question_id": 33, "category": "generic", "ops_field": "应用业务运维", "task_type": "安装/部署/配置", "question": ["现在要使用Kubernetes部署应用，请描述一下该过程需要注意哪些事项？\n"]}
+{"question_id": 34, "category": "generic", "ops_field": "应用业务运维", "task_type": "安装/部署/配置", "question": ["在Kubernetes集群中部署多个Pod，使用微服务架构实现一个简单的web应用\n"]}
+{"question_id": 35, "category": "generic", "ops_field": "应用业务运维", "task_type": "安装/部署/配置", "question": ["请在一组服务器上安装和配置Elasticsearch，以实现数据存储和检索功能。\n"]}
+{"question_id": 36, "category": "generic", "ops_field": "应用业务运维", "task_type": "安装/部署/配置", "question": ["如何使用Docker容器化应用程序并部署到Kubernetes集群中？"]}
+{"question_id": 37, "category": "generic", "ops_field": "应用业务运维", "task_type": "监控与告警", "question": ["针对以下场景，请提供一个合理的应用性能监控方案。某电商网站的应用包括Web服务器、应用服务器和数据库服务器，需要监控应用的性能指标，如请求响应时间、吞吐量和数据库连接数，并在异常情况下发出告警通知。"]}
+{"question_id": 38, "category": "generic", "ops_field": "应用业务运维", "task_type": "监控与告警", "question": ["如何使用logwatch配置服务器日志监控"]}
+{"question_id": 39, "category": "generic", "ops_field": "应用业务运维", "task_type": "监控与告警", "question": ["交换机监控的核心指标有哪些？"]}
+{"question_id": 40, "category": "generic", "ops_field": "应用业务运维", "task_type": "监控与告警", "question": ["如何设计一套可靠的日志系统，用于记录应用程序和服务器相关的运行信息和错误日志？\n"]}
+{"question_id": 41, "category": "generic", "ops_field": "应用业务运维", "task_type": "故障分析与诊断", "question": ["如何解决Elasticsearch中出现的数据丢失问题？\n"]}
+{"question_id": 42, "category": "generic", "ops_field": "应用业务运维", "task_type": "故障分析与诊断", "question": ["如何解决Java Web应用程序在运行时出现OutOfMemoryError错误？\n"]}
+{"question_id": 43, "category": "generic", "ops_field": "应用业务运维", "task_type": "故障分析与诊断", "question": ["分析一个应用程序的性能瓶颈，并提供相应的优化措施，使其在大规模并发情况下也能保持正常运行。\n"]}
+{"question_id": 44, "category": "generic", "ops_field": "应用业务运维", "task_type": "故障分析与诊断", "question": ["Java线程数过多导致CPU使用率高问题排查及操作步骤"]}
+{"question_id": 45, "category": "generic", "ops_field": "应用业务运维", "task_type": "性能优化", "question": ["如何使用JMeter压力测试工具对Web应用程序进行性能测试？\n"]}
+{"question_id": 46, "category": "generic", "ops_field": "应用业务运维", "task_type": "性能优化", "question": ["如何对一个网站进行全面性能测试？请列出测试步骤和使用的工具。"]}
+{"question_id": 47, "category": "generic", "ops_field": "应用业务运维", "task_type": "性能优化", "question": ["如何对一个复杂的应用系统进行性能测试，找出性能瓶颈并进行优化？\n"]}
+{"question_id": 48, "category": "generic", "ops_field": "应用业务运维", "task_type": "性能优化", "question": ["某个应用程序运行缓慢，如何进行性能优化？\n"]}
+{"question_id": 49, "category": "generic", "ops_field": "应用业务运维", "task_type": "性能优化", "question": ["分析一个Java应用程序的堆栈跟踪，找出潜在的性能问题\n"]}
+{"question_id": 50, "category": "generic", "ops_field": "应用业务运维", "task_type": "日志分析", "question": ["从日志中提取出模式。\n[pool-4-thread-1] c.h.z.property.manager.PropertyManager   : 更新188.188.114.229属性数据:DeviceProperty(ip=188.188.114.229, isOnLine=null, systemType=linux, systemVersion=Red Hat Enterprise Linux Server release 6.9 (Santiago), sn=null, cpuModel=Intel(R) Xeon(R) Gold 6137 CPU @ 3.90GHz, cpuNumber=10, cpuCores=10, memorySize=32109MB, diskSize=5731267MB, systemModel=null)"]}
+{"question_id": 51, "category": "generic", "ops_field": "应用业务运维", "task_type": "日志分析", "question": ["将这个日志转换为可供分析的格式\n20171223-22:15:29:635|Step_LSC|30002312|processHandleBroadcastAction action:android.intent.action.SCREEN_ON\n"]}
+{"question_id": 52, "category": "generic", "ops_field": "应用业务运维", "task_type": "日志分析", "question": ["这个日志是否出现了异常，出现异常的原因是什么，应当如何解决？20171223-22:15:29:633|Step_StandReportReceiver|30002312|onReceive action: android.intent.action.SCREEN_ON\n"]}
+{"question_id": 53, "category": "generic", "ops_field": "应用业务运维", "task_type": "日志分析", "question": ["提取该日志中的模式2021-08-03 22:00:46.265 [[ACTIVE] ExecuteThread: '76' for queue: 'weblogic.kernel.Default (self-tuning)'] INFO  c.s.c.l.a.s.CallService [126] - TransUtils.getSendUrl(transMsg.getCmdCode()) = http://10.254.54.252:3913/v1/Prov/soa?province=551"]}
+{"question_id": 54, "category": "generic", "ops_field": "应用业务运维", "task_type": "日志分析", "question": ["请分析以下日志中是否存在问题20171223-22:15:29:648|Step_ExtSDM|30002312|calculateAltitudeWithCache totalAltitude=240\n"]}
+{"question_id": 55, "category": "generic", "ops_field": "应用业务运维", "task_type": "自动化脚本", "question": ["请编写一个Python脚本，实现批量下载指定网站的图片，并将它们保存到本地文件系统。\n"]}
+{"question_id": 56, "category": "generic", "ops_field": "应用业务运维", "task_type": "自动化脚本", "question": ["如何利用Shell脚本自动化系统运维任务？请提供一个实际案例。\n"]}
+{"question_id": 57, "category": "generic", "ops_field": "应用业务运维", "task_type": "自动化脚本", "question": ["如何利用Python脚本启动和停止应用程序运行？\n"]}
+{"question_id": 58, "category": "generic", "ops_field": "应用业务运维", "task_type": "自动化脚本", "question": ["如何使用Python编写一个简单的自动化测试脚本来测试Web应用程序的性能？\n"]}
+{"question_id": 59, "category": "generic", "ops_field": "应用业务运维", "task_type": "自动化脚本", "question": ["请提供一个Python脚本，用于测试Web应用程序的API性能。\n"]}
+{"question_id": 60, "category": "generic", "ops_field": "应用业务运维", "task_type": "备份与恢复", "question": ["对于一个基于云端技术的Web应用程序，为确保安全性和可靠性，请提供一个合理的灾难恢复和备份方案。\n"]}
+{"question_id": 61, "category": "generic", "ops_field": "应用业务运维", "task_type": "备份与恢复", "question": ["我们的应用程序需要定期备份数据并存储在远程服务器上，你会选择哪种备份策略来保证数据安全和可恢复性？\n"]}
+{"question_id": 62, "category": "generic", "ops_field": "应用业务运维", "task_type": "其他", "question": ["某公司正在策划实施云计算，需要评估各类云服务商的性能和服务质量。请列出相应的考核指标并说明各指标的重要性和评估方法。\n"]}
+{"question_id": 63, "category": "generic", "ops_field": "系统架构", "task_type": "知识问答", "question": ["请描述一下分布式存储系统，包括其优点、缺点以及常用的分布式存储系统。\n"]}
+{"question_id": 64, "category": "generic", "ops_field": "系统架构", "task_type": "知识问答", "question": ["在一个大规模软件系统中，如何保证系统的可靠性和可用性？\n"]}
+{"question_id": 65, "category": "generic", "ops_field": "系统架构", "task_type": "知识问答", "question": ["如何设计一个可靠的云端存储系统？请考虑系统的数据一致性、容灾备份、数据加密和访问权限等方面。"]}
+{"question_id": 66, "category": "generic", "ops_field": "系统架构", "task_type": "知识问答", "question": ["在云计算环境下，如何实现弹性计算和弹性存储？请详细描述应用负载均衡器和存储分层架构的原理及其优势。\n"]}
+{"question_id": 67, "category": "generic", "ops_field": "系统架构", "task_type": "知识问答", "question": ["如何实现一个分布式任务调度系统？请说明具体的实现步骤和技术架构。\n"]}
+{"question_id": 68, "category": "generic", "ops_field": "系统架构", "task_type": "安装/部署/配置", "question": ["提供一个linux操作系统的部署方案"]}
+{"question_id": 69, "category": "generic", "ops_field": "系统架构", "task_type": "安装/部署/配置", "question": ["如何设计和实现一个高可用性，可扩展性的集群系统？请提供具体的架构设计和实现方案。"]}
+{"question_id": 70, "category": "generic", "ops_field": "系统架构", "task_type": "安装/部署/配置", "question": ["针对以下应用程序的部署架构，请给出一个响应式设计方案。\n"]}
+{"question_id": 71, "category": "generic", "ops_field": "系统架构", "task_type": "安装/部署/配置", "question": ["如何建立高可用性负载均衡集群？请考虑负载均衡算法、容错机制和集群监控等方面的影响因素，并提供集群建设的最佳实践。\n"]}
+{"question_id": 72, "category": "generic", "ops_field": "系统架构", "task_type": "安装/部署/配置", "question": ["假设你是一家创业公司的CTO，需要开发一个基于Web的即时通讯应用。请提供一个可行的架构和技术选型方案。\n"]}
+{"question_id": 73, "category": "generic", "ops_field": "系统架构", "task_type": "监控与告警", "question": ["根据以下信息，提供一个合理的系统监控方案服务器的操作系统为ubuntu,安装了docker, mysql, redis等应用，需要监控服务器的资源使用情况，达到阈值时进行报警"]}
+{"question_id": 74, "category": "generic", "ops_field": "系统架构", "task_type": "性能优化", "question": ["在一个分布式系统中，如何保证多节点之间的一致性？请提供相关的技术方案并进行分析。\n"]}
+{"question_id": 75, "category": "generic", "ops_field": "系统架构", "task_type": "性能优化", "question": ["有一个云服务器集群，需要实现负载均衡和高可用性，请提供一个方案并说明实现步骤。\n"]}
+{"question_id": 76, "category": "generic", "ops_field": "系统架构", "task_type": "性能优化", "question": ["如何为网络架构设计实现弹性和可扩展性？\n"]}
+{"question_id": 77, "category": "generic", "ops_field": "系统架构", "task_type": "性能优化", "question": ["现有一个大型网站，需要支持每秒钟千万级别的访问量。请提供扩展该网站架构的方案。\n"]}
+{"question_id": 78, "category": "generic", "ops_field": "系统架构", "task_type": "性能优化", "question": ["某网站的访问量激增，需要增加服务器以支持更多的用户访问，请提供一个扩展性方案。\n"]}
+{"question_id": 79, "category": "generic", "ops_field": "系统架构", "task_type": "备份与恢复", "question": ["根据以下描述，提供一个系统灾难恢复方案我们的系统包含一个Web应用服务器和一个数据库服务器，它们分别运行在两台不同的服务器上。我们希望在系统遭受灾难性故障时，能够快速恢复系统并尽量减少数据丢失。"]}
+{"question_id": 80, "category": "generic", "ops_field": "系统架构", "task_type": "备份与恢复", "question": ["请提供一种高可用架构设计方案，确保系统在发生故障时能够自动切换到备份节点\n"]}
+{"question_id": 81, "category": "generic", "ops_field": "系统架构", "task_type": "备份与恢复", "question": ["请设计一个高可用性的分布式系统架构，需考虑容灾、负载均衡、数据备份与恢复等方面的问题。\n"]}
+{"question_id": 82, "category": "generic", "ops_field": "系统架构", "task_type": "其他", "question": ["请提供一个详细的DNS服务器架构设计，要求包括主从DNS服务器、DNS缓存服务器以及域名解析路由器等组件。\n"]}
+{"question_id": 83, "category": "generic", "ops_field": "软件架构", "task_type": "知识问答", "question": ["请回答问题nodejs后端应用如何打包成一个可执行的二进制包"]}
+{"question_id": 84, "category": "generic", "ops_field": "软件架构", "task_type": "知识问答", "question": ["请回答问题有哪些http服务器可以代替nginx和apache"]}
+{"question_id": 85, "category": "generic", "ops_field": "软件架构", "task_type": "知识问答", "question": ["请解释一下什么是微服务架构（Microservices Architecture）并介绍其优缺点。\n"]}
+{"question_id": 86, "category": "generic", "ops_field": "软件架构", "task_type": "知识问答", "question": ["分析一下微服务架构与传统的单体式架构的优劣势，以及在何种情况下应该选择哪种架构。\n"]}
+{"question_id": 87, "category": "generic", "ops_field": "软件架构", "task_type": "知识问答", "question": ["请说明什么是Serverless架构，它的优势是什么？请列出常见的Serverless平台和服务，以及它们的特点和应用场景。\n"]}
+{"question_id": 88, "category": "generic", "ops_field": "软件架构", "task_type": "安装/部署/配置", "question": ["Ubuntu如何部署Docker容器"]}
+{"question_id": 89, "category": "generic", "ops_field": "软件架构", "task_type": "安装/部署/配置", "question": ["请提供一份关于CI/CD（持续集成/持续交付）的最佳实践指南。该指南应该包括代码Commit、自动化构建、自动化测试、自动化部署等流程的具体实施方案。\n"]}
+{"question_id": 90, "category": "generic", "ops_field": "软件架构", "task_type": "安装/部署/配置", "question": ["为了满足不同业务线的需求，如何快速搭建一个自适应的云计算架构？\n"]}
+{"question_id": 91, "category": "generic", "ops_field": "软件架构", "task_type": "安装/部署/配置", "question": ["如何配置Apache服务器以提供PHP web应用程序？\n"]}
+{"question_id": 92, "category": "generic", "ops_field": "软件架构", "task_type": "监控与告警", "question": ["如何使用Prometheus监控Spring Boot应用程序？\n"]}
+{"question_id": 93, "category": "generic", "ops_field": "软件架构", "task_type": "性能优化", "question": ["请根据以下的分布式文件系统配置信息，分析存在的问题，并提供优化建议1. 未配置数据冗余备份\n2. 单一节点作为元数据服务器\n3. 未使用数据压缩技术\n4. 没有使用负载均衡"]}
+{"question_id": 94, "category": "generic", "ops_field": "软件架构", "task_type": "备份与恢复", "question": ["根据以下描述，提供一个MVC架构备份方案现有一个采用MVC架构的基于Web的购物网站。模型（Model）负责处理商品、订单和用户信息等数据，视图（View）负责展示网页界面，控制器（Controller）接收用户的请求，处理用户输入并更新模型和视图。如何对该购物网站的配置进行备份？"]}
+{"question_id": 95, "category": "generic", "ops_field": "中间件运维", "task_type": "知识问答", "question": ["如何使用Kafka进行消息的批量处理和压缩？"]}
+{"question_id": 96, "category": "generic", "ops_field": "中间件运维", "task_type": "知识问答", "question": ["什么是容器编排，有哪些常见的容器编排工具，它们有什么不同的特点和适用场景？\n"]}
+{"question_id": 97, "category": "generic", "ops_field": "中间件运维", "task_type": "知识问答", "question": ["如何使用Kubernetes进行容器编排，并实现高可用性集群的部署？\n"]}
+{"question_id": 98, "category": "generic", "ops_field": "中间件运维", "task_type": "知识问答", "question": ["如何通过容器化技术实现高可用性？请简单描述一下。"]}
+{"question_id": 99, "category": "generic", "ops_field": "中间件运维", "task_type": "知识问答", "question": ["请介绍一下Docker的容器和镜像的概念，并说明它们之间的区别和联系。"]}
+{"question_id": 100, "category": "generic", "ops_field": "中间件运维", "task_type": "安装/部署/配置", "question": ["如何配置zookeeper确保其所有节点可以互相通信"]}
+{"question_id": 101, "category": "generic", "ops_field": "中间件运维", "task_type": "安装/部署/配置", "question": ["如何使用Docker容器技术进行应用部署和资源管理？\n"]}
+{"question_id": 102, "category": "generic", "ops_field": "中间件运维", "task_type": "安装/部署/配置", "question": ["如何在Ubuntu系统上安装和配置Docker容器化平台。\n"]}
+{"question_id": 103, "category": "generic", "ops_field": "中间件运维", "task_type": "安装/部署/配置", "question": ["在Docker容器中如何配置网络？请列出具体步骤和注意事项。\n"]}
+{"question_id": 104, "category": "generic", "ops_field": "中间件运维", "task_type": "安装/部署/配置", "question": ["如何利用Istio进行流量管理和微服务的安全？"]}
+{"question_id": 105, "category": "generic", "ops_field": "中间件运维", "task_type": "监控与告警", "question": ["如何监控docker容器的运行状态"]}
+{"question_id": 106, "category": "generic", "ops_field": "中间件运维", "task_type": "监控与告警", "question": ["如何使用prometheus监控Kubernetes？请给出具体的配置方案。"]}
+{"question_id": 107, "category": "generic", "ops_field": "中间件运维", "task_type": "故障分析与诊断", "question": ["分析以下现象可能的故障原因，并给出解决方案：运行docker命令时报错Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: connect: permission denied"]}
+{"question_id": 108, "category": "generic", "ops_field": "中间件运维", "task_type": "故障分析与诊断", "question": ["分析一下现象可能的故障原因，并给出解决方案：zookeeper启动失败，报错Unable to load database on disk"]}
+{"question_id": 109, "category": "generic", "ops_field": "中间件运维", "task_type": "故障分析与诊断", "question": ["Kubernetes中创建pod失败是什么原因导致的"]}
+{"question_id": 110, "category": "generic", "ops_field": "中间件运维", "task_type": "性能优化", "question": ["请根据以下的nginx性能指标及对应的部署配置，分析存在的问题，并提供优化建议并发连接数：800\n平均响应时间：400ms\nCPU使用率：70%\n内存使用率：60%\n磁盘I/O：40MB/s"]}
+{"question_id": 111, "category": "generic", "ops_field": "中间件运维", "task_type": "性能优化", "question": ["docker镜像加速的方法有哪些"]}
+{"question_id": 112, "category": "generic", "ops_field": "中间件运维", "task_type": "性能优化", "question": ["kafka有哪些性能优化策略？"]}
+{"question_id": 113, "category": "generic", "ops_field": "中间件运维", "task_type": "性能优化", "question": ["在使用Docker容器时，如何解决容器之间共享资源、监视容器状态、优化容器性能等问题？"]}
+{"question_id": 114, "category": "generic", "ops_field": "中间件运维", "task_type": "日志分析", "question": ["确定这条日志的模式是什么。\nNotification: 3 (n.leader), 0x700000197 (n.zxid), 0x1 (n.round), LEADING (n.state), 3 (n.sid), 0x7 (n.peerEPoch), LOOKING (my state)"]}
+{"question_id": 115, "category": "generic", "ops_field": "中间件运维", "task_type": "日志分析", "question": ["识别出这条日志的模式是什么。\nBefore Scheduling: PendingReds:1 ScheduledMaps:10 ScheduledReds:0 AssignedMaps:0 AssignedReds:0 CompletedMaps:0 CompletedReds:0 ContAlloc:0 ContRel:0 HostLocal:0 RackLocal:0"]}
+{"question_id": 116, "category": "generic", "ops_field": "中间件运维", "task_type": "日志分析", "question": ["请对这个日志进行结构化分析\n2015-07-29 19:54:13,615 - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@832] - Client attempting to renew session 0x24ed93119420016 at /10.10.34.13:37115\n"]}
+{"question_id": 117, "category": "generic", "ops_field": "中间件运维", "task_type": "日志分析", "question": ["给出能够解析此日志的grok表达式。2021-03-16 01:16:32,251 [myid:1] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:18095:NIOServerCnxn@383] - Exception causing close of session 0x0: ZooKeeperServer not running"]}
+{"question_id": 118, "category": "generic", "ops_field": "中间件运维", "task_type": "日志分析", "question": ["请分析以下日志中是否存在问题2015-07-29 19:04:29,079 - WARN  [SendWorker:188978561024:QuorumCnxManager$SendWorker@679] - Interrupted while waiting for message on queue\n"]}
+{"question_id": 119, "category": "generic", "ops_field": "中间件运维", "task_type": "自动化脚本", "question": ["生成python脚本python如何查看kafka消费者组？"]}
+{"question_id": 120, "category": "generic", "ops_field": "中间件运维", "task_type": "自动化脚本", "question": ["请编写一段脚本，实现将Nginx服务器上的Access Log定期清理的功能\n"]}
+{"question_id": 121, "category": "generic", "ops_field": "中间件运维", "task_type": "自动化脚本", "question": ["如何通过Shell脚本快速部署Redis Sentinel集群？\n"]}
+{"question_id": 122, "category": "generic", "ops_field": "中间件运维", "task_type": "备份与恢复", "question": ["根据以下描述，提供一个RabbitMQ消息队列的数据备份方案我们有一个使用RabbitMQ作为消息队列的系统，每天产生大量的消息数据。我们希望有一个可靠的备份方案，以确保消息数据的安全和可恢复性。"]}
+{"question_id": 123, "category": "generic", "ops_field": "中间件运维", "task_type": "备份与恢复", "question": ["根据以下描述，提供一个中间件灾难恢复方案根据以下描述，提供一个中间件灾难恢复方案公司的中间件系统包括Nginx和Tomcat，运行在4台服务器上，每台服务器的配置和部署相同。其中2台服务器位于A机房，2台服务器位于B机房。现在需要设计一个灾难恢复方案，以保证中间件系统的高可用性和数据安全。"]}
+{"question_id": 124, "category": "generic", "ops_field": "中间件运维", "task_type": "其他", "question": ["我们的应用程序必须以容器化方式运行，并且需要与多个不同的服务进行交互。请给出一个合理的服务发现和注册方案。"]}
+{"question_id": 125, "category": "generic", "ops_field": "数据库运维", "task_type": "知识问答", "question": ["如何选择合适的数据库系统，如Oracle、MySQL、SQL Server等？"]}
+{"question_id": 126, "category": "generic", "ops_field": "数据库运维", "task_type": "知识问答", "question": ["介绍一下著名的NoSQL数据库有哪些？\n"]}
+{"question_id": 127, "category": "generic", "ops_field": "数据库运维", "task_type": "知识问答", "question": ["请列举出当前广泛使用的数据库管理系统，以及它们各自的特点和优缺点。"]}
+{"question_id": 128, "category": "generic", "ops_field": "数据库运维", "task_type": "知识问答", "question": ["如何在Windows系统上安装MySQL数据库？\n"]}
+{"question_id": 129, "category": "generic", "ops_field": "数据库运维", "task_type": "知识问答", "question": ["如何保证数据库的可靠性和安全性，以防止数据泄露和损失？\n"]}
+{"question_id": 130, "category": "generic", "ops_field": "数据库运维", "task_type": "安装/部署/配置", "question": ["clickhouse有哪些重要的配置项需要特别注意？"]}
+{"question_id": 131, "category": "generic", "ops_field": "数据库运维", "task_type": "安装/部署/配置", "question": ["新安装MYSQL后怎样提升MYSQL的安全级别？"]}
+{"question_id": 132, "category": "generic", "ops_field": "数据库运维", "task_type": "安装/部署/配置", "question": ["请提供一个redis的安全最佳实践方案"]}
+{"question_id": 133, "category": "generic", "ops_field": "数据库运维", "task_type": "安装/部署/配置", "question": ["你需要在生产环境中实现一个可复制、可扩展、高可用的MySQL集群，该怎么做？"]}
+{"question_id": 134, "category": "generic", "ops_field": "数据库运维", "task_type": "安装/部署/配置", "question": ["如何设计一个高可用的数据库架构？请提供一个主从复制的方案。"]}
+{"question_id": 135, "category": "generic", "ops_field": "数据库运维", "task_type": "监控与告警", "question": ["数据库通常需要监控哪些指标？"]}
+{"question_id": 136, "category": "generic", "ops_field": "数据库运维", "task_type": "故障分析与诊断", "question": ["分析以下现象可能的故障原因，并给出解决方案clickhouse无法启动"]}
+{"question_id": 137, "category": "generic", "ops_field": "数据库运维", "task_type": "故障分析与诊断", "question": ["postgresql主从不同步如何解决？"]}
+{"question_id": 138, "category": "generic", "ops_field": "数据库运维", "task_type": "故障分析与诊断", "question": ["分析以下现象可能的故障原因，并给出解决方案数据库访问缓慢"]}
+{"question_id": 139, "category": "generic", "ops_field": "数据库运维", "task_type": "故障分析与诊断", "question": ["分析以下现象可能的故障原因，并给出解决方案在使用数据库时，无法进行数据访问、更改或写入"]}
+{"question_id": 140, "category": "generic", "ops_field": "数据库运维", "task_type": "故障分析与诊断", "question": ["回答以下问题登录数据库提示ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111)"]}
+{"question_id": 141, "category": "generic", "ops_field": "数据库运维", "task_type": "性能优化", "question": ["请根据以下的Redis数据库性能指标及对应的安装部署配置，分析存在的问题，并提供优化建议内存使用率：85%\n磁盘I/O：30MB/s\n平均响应时间：40ms\nRedis版本：6.0\n持久化方式：RDB\n并发连接数：1000\n主从复制：启用"]}
+{"question_id": 142, "category": "generic", "ops_field": "数据库运维", "task_type": "性能优化", "question": ["如何解决数据库表的性能问题，包括数据读写速度、死锁等等？\n"]}
+{"question_id": 143, "category": "generic", "ops_field": "数据库运维", "task_type": "性能优化", "question": ["我的SQL Server数据库日志文件变得非常大，怎么解决这个问题？\n"]}
+{"question_id": 144, "category": "generic", "ops_field": "数据库运维", "task_type": "性能优化", "question": ["分析并解决数据库性能瓶颈问题\n"]}
+{"question_id": 145, "category": "generic", "ops_field": "数据库运维", "task_type": "性能优化", "question": ["如何提升MySQL数据库的性能表现？\n"]}
+{"question_id": 146, "category": "generic", "ops_field": "数据库运维", "task_type": "日志分析", "question": ["提取该日志中的模式\nWhile synchronizing instance power states, found 1 instances in the database and 0 instances on the hypervisor."]}
+{"question_id": 147, "category": "generic", "ops_field": "数据库运维", "task_type": "日志分析", "question": ["将该日志进行结构化解析\n081109 204005 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.73.220:50010 is added to blk_7128370237687728475 size 67108864\n"]}
+{"question_id": 148, "category": "generic", "ops_field": "数据库运维", "task_type": "日志分析", "question": ["这条日志需要用哪个grok表达式来解析？2013-02-28 09:57:56,668 ERROR SomeCallLogger - ESS10005 Cpc portalservices: Exception caught while writing log messege to MEA Call:  {}\njava.sql.SQLSyntaxErrorException: ORA-00942: table or view does not exist\n\n        at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:445)\n        at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)"]}
+{"question_id": 149, "category": "generic", "ops_field": "数据库运维", "task_type": "日志分析", "question": ["分析这条日志中是否存在问题，如果存在，给出对应的解决方案2021-11-22T14:19:21.206362Z 0 [ERROR] InnoDB: The error means mysqld does not have the access rights to the directory."]}
+{"question_id": 150, "category": "generic", "ops_field": "数据库运维", "task_type": "日志分析", "question": ["这个日志是否出现了异常，出现异常的原因是什么，应当如何解决？2021-11-22T14:19:21.206416Z 0 [ERROR] InnoDB: Plugin initialization aborted with error Cannot open a file"]}
+{"question_id": 151, "category": "generic", "ops_field": "数据库运维", "task_type": "自动化脚本", "question": ["生成一段利用python连接mysql数据库的脚本"]}
+{"question_id": 152, "category": "generic", "ops_field": "数据库运维", "task_type": "自动化脚本", "question": ["代码生成在clickhouse里，查看都有哪些表"]}
+{"question_id": 153, "category": "generic", "ops_field": "数据库运维", "task_type": "自动化脚本", "question": ["请根据描述设计数据库安全审计代码识别数据库访问和权限配置方面的问题，需要获取数据库访问权限，遍历权限信息并打印出相关的授权者、权限类型和表名。\n请"]}
+{"question_id": 154, "category": "generic", "ops_field": "数据库运维", "task_type": "自动化脚本", "question": ["写一段shell脚本，其作用是查询Mysql实例上存在的慢sql，并杀掉"]}
+{"question_id": 155, "category": "generic", "ops_field": "数据库运维", "task_type": "自动化脚本", "question": ["用nodejs实现mysql数据备份"]}
+{"question_id": 156, "category": "generic", "ops_field": "数据库运维", "task_type": "自动化脚本", "question": ["如何使用bash脚本自动化备份PostgreSQL数据库？\n"]}
+{"question_id": 157, "category": "generic", "ops_field": "数据库运维", "task_type": "自动化脚本", "question": ["请编写一个脚本，能够自动化执行数据库备份和恢复操作。\n"]}
+{"question_id": 158, "category": "generic", "ops_field": "数据库运维", "task_type": "备份与恢复", "question": ["根据以下描述，提供一个clickhouse数据备份方案多个业务系统每天产生500G的日志数据，有3台服务器用于存储数据，磁盘大小分别为：2T，20T，512G。"]}
+{"question_id": 159, "category": "generic", "ops_field": "数据库运维", "task_type": "备份与恢复", "question": ["如何实现分布式数据库的数据同步和备份？\n"]}
+{"question_id": 160, "category": "generic", "ops_field": "数据库运维", "task_type": "备份与恢复", "question": ["数据备份和恢复是重要的IT运维工作之一，请设计一个适用于Oracle数据库的备份和恢复方案，包括备份策略、备份工具选择等。"]}
+{"question_id": 161, "category": "generic", "ops_field": "数据库运维", "task_type": "备份与恢复", "question": ["Linux环境下如何使用Cron定时任务来备份MySQL数据库？\n"]}
+{"question_id": 162, "category": "generic", "ops_field": "数据库运维", "task_type": "备份与恢复", "question": ["与数据库相关的数据备份方案有哪些？请提供一个合理的数据备份方案，并描述其优点和缺点。\n"]}
+{"question_id": 163, "category": "generic", "ops_field": "网络运维", "task_type": "知识问答", "question": ["请问回答以下问题网络安全基线有哪些"]}
+{"question_id": 164, "category": "generic", "ops_field": "网络运维", "task_type": "知识问答", "question": ["请问答一下问题网络可以PING通，但是服务无法正常通信的原因是什么"]}
+{"question_id": 165, "category": "generic", "ops_field": "网络运维", "task_type": "知识问答", "question": ["请回答以下问题如何将局域网中指定服务器设置成网关"]}
+{"question_id": 166, "category": "generic", "ops_field": "网络运维", "task_type": "知识问答", "question": ["请回答以下问题traceroute使用参数"]}
+{"question_id": 167, "category": "generic", "ops_field": "网络运维", "task_type": "知识问答", "question": ["请回答以下问题DNS记录的类型都有哪些？"]}
+{"question_id": 168, "category": "generic", "ops_field": "网络运维", "task_type": "知识问答", "question": ["请回答以下问题请解释什么是CDN（Content Delivery Network，内容分发网络），以及它的作用和优缺点。"]}
+{"question_id": 169, "category": "generic", "ops_field": "网络运维", "task_type": "知识问答", "question": ["请回答以下问题常见的网络协议有哪些，分别用于什么场景？\n"]}
+{"question_id": 170, "category": "generic", "ops_field": "网络运维", "task_type": "安装/部署/配置", "question": ["Ubuntu如何配置远程连接"]}
+{"question_id": 171, "category": "generic", "ops_field": "网络运维", "task_type": "安装/部署/配置", "question": ["如何配置VRRP"]}
+{"question_id": 172, "category": "generic", "ops_field": "网络运维", "task_type": "安装/部署/配置", "question": ["给我一个部署Zabbix的最佳实践方案"]}
+{"question_id": 173, "category": "generic", "ops_field": "网络运维", "task_type": "安装/部署/配置", "question": ["如何设置windows远程桌面连接？请提供具体的步骤和注意事项。\n"]}
+{"question_id": 174, "category": "generic", "ops_field": "网络运维", "task_type": "安装/部署/配置", "question": ["如何配置APACHE服务器，以便将HTTP请求重定向到HTTPS协议？\n"]}
+{"question_id": 175, "category": "generic", "ops_field": "网络运维", "task_type": "安装/部署/配置", "question": ["如何设置网络流量控制，以确保带宽分配平衡和QoS？"]}
+{"question_id": 176, "category": "generic", "ops_field": "网络运维", "task_type": "监控与告警", "question": ["根据以下信息，提供一个合理的网络监控方案在多台服务器上联合部署了一整套业务应用，以及kafka, clickhouse, nacos, redis等中间组件"]}
+{"question_id": 177, "category": "generic", "ops_field": "网络运维", "task_type": "监控与告警", "question": ["在网络管理中，如何实现对网络流量的监控和分析？请提供相应工具和步骤。\n"]}
+{"question_id": 178, "category": "generic", "ops_field": "网络运维", "task_type": "故障分析与诊断", "question": ["网络可以PING通，但是服务无法正常通信的原因是什么"]}
+{"question_id": 179, "category": "generic", "ops_field": "网络运维", "task_type": "故障分析与诊断", "question": ["根据服务器日志分析，发现有大量HTTP请求被重定向，导致页面响应缓慢，请提供解决方案。\n"]}
+{"question_id": 180, "category": "generic", "ops_field": "网络运维", "task_type": "故障分析与诊断", "question": ["请分析以下网络连通性测试结果，并判断网络故障出现的原因。同时，尝试提出解决方案。\n在进行网络连通性测试时，发现从PC1无法ping通PC2，从PC2也无法ping通PC1。但是PC1和PC2都能够ping通同一子网内的其他设备，且网络连接状态正常。"]}
+{"question_id": 181, "category": "generic", "ops_field": "网络运维", "task_type": "故障分析与诊断", "question": ["根据以下的安全性指标，评估网络系统的安全性水平，并提出改进措施\n1. 系统漏洞数量：5个\\n2. 弱口令使用率：30%\\n3. 病毒感染率：2%\\n4. 访问控制不严：存在一些用户没有正确的权限限制\\n5. 日志记录不全面：某些操作缺乏详细记录"]}
+{"question_id": 182, "category": "generic", "ops_field": "网络运维", "task_type": "故障分析与诊断", "question": ["你的网络出现了故障，请列出你需要做的所有排障步骤。"]}
+{"question_id": 183, "category": "generic", "ops_field": "网络运维", "task_type": "性能优化", "question": ["根据以下的网络性能指标，分析存在的问题并提出优化建议网络延迟：150ms\n数据包丢失率：1%\n网络带宽：100Mbps\n网络利用率：95%"]}
+{"question_id": 184, "category": "generic", "ops_field": "网络运维", "task_type": "性能优化", "question": ["TCP TIME_WAIT套接字数量过多怎么办？"]}
+{"question_id": 185, "category": "generic", "ops_field": "网络运维", "task_type": "性能优化", "question": ["\nzabbix显示最新数据获取时间慢于标准时间的可能原因是什么？如何解决？"]}
+{"question_id": 186, "category": "generic", "ops_field": "网络运维", "task_type": "性能优化", "question": ["在Windows系统下如何配置TCP/IP协议以提高网络通信性能？"]}
+{"question_id": 187, "category": "generic", "ops_field": "网络运维", "task_type": "性能优化", "question": ["如何调整网络带宽（bandwidth）以提升网络传输效率？\n"]}
+{"question_id": 188, "category": "generic", "ops_field": "网络运维", "task_type": "性能优化", "question": ["如何设置网卡绑定以提高服务器网络性能？"]}
+{"question_id": 189, "category": "generic", "ops_field": "网络运维", "task_type": "日志分析", "question": ["从该日志中分析出模式。\nClosed socket connection for client /10.10.34.11:56471 (no session established for client)"]}
+{"question_id": 190, "category": "generic", "ops_field": "网络运维", "task_type": "日志分析", "question": ["请对这个日志进行结构化分析\n2015-07-29 19:52:04,792 - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1001] - Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005\n"]}
+{"question_id": 191, "category": "generic", "ops_field": "网络运维", "task_type": "日志分析", "question": ["将该日志进行结构化解析\n2015-10-18 18:06:03,856 INFO [RMCommunicator Allocator] org.apache.hadoop.ipc.Client: Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)\n"]}
+{"question_id": 192, "category": "generic", "ops_field": "网络运维", "task_type": "日志分析", "question": ["给出这条日志的grok解析式[Thu Nov 01 21:56:32 2012] [error] (146)Connection refused: proxy: AJP: attempt to connect to 1.2.3.4:8080 (dev1) failed"]}
+{"question_id": 193, "category": "generic", "ops_field": "网络运维", "task_type": "日志分析", "question": ["分析这条日志中是否存在问题，如果存在，给出对应的解决方案[Sun Dec 04 04:47:44 2005] [error] mod_jk child workerEnv in error state 6\n"]}
+{"question_id": 194, "category": "generic", "ops_field": "网络运维", "task_type": "自动化脚本", "question": ["生成一段利用python连接linux主机的脚本"]}
+{"question_id": 195, "category": "generic", "ops_field": "网络运维", "task_type": "自动化脚本", "question": ["如何使用Python编写一个脚本来扫描网络中的所有设备并检查它们的安全性？\n"]}
+{"question_id": 196, "category": "generic", "ops_field": "网络运维", "task_type": "自动化脚本", "question": ["如何使用Python的Requests库模拟HTTP请求？\n"]}
+{"question_id": 197, "category": "generic", "ops_field": "网络运维", "task_type": "自动化脚本", "question": ["请编写一个Python脚本，用于检测网络中的主机是否在线。\n"]}
+{"question_id": 198, "category": "generic", "ops_field": "网络运维", "task_type": "自动化脚本", "question": ["请编写一个Python脚本，扫描本地网络上所有设备的IP地址和MAC地址，并将结果保存到一个文件中。\n"]}
+{"question_id": 199, "category": "generic", "ops_field": "网络运维", "task_type": "备份与恢复", "question": ["根据以下描述，提供一个Cisco ASA防火墙备份方案公司网络中使用了Cisco ASA防火墙，需要一个备份方案。防火墙配置较为复杂，包括访问控制列表、NAT规则、VPN配置等。"]}
+{"question_id": 200, "category": "generic", "ops_field": "网络运维", "task_type": "备份与恢复", "question": ["根据以下描述，提供一个网络设备配置备份方案有10台网络设备（包括路由器和交换机），需要对它们的配置进行定期备份。"]}
+{"question_id": 201, "category": "generic", "ops_field": "网络运维", "task_type": "备份与恢复", "question": ["有一个应用需要从远程服务器下载大量数据，但在下载过程中会出现网络断开的情况。请提供一种网络恢复方案，以便应用能够自动重新连接并继续下载。\n"]}
+{"question_id": 202, "category": "generic", "ops_field": "网络运维", "task_type": "备份与恢复", "question": ["如何进行网络安全检测，并提供相应的建议和修复方案？\n"]}
+{"question_id": 203, "category": "generic", "ops_field": "网络运维", "task_type": "其他", "question": ["请提供一些能够加强网络安全的方法和技巧。\n"]}
+{"question_id": 204, "category": "generic", "ops_field": "网络运维", "task_type": "其他", "question": ["在Linux环境下，使用iptables配置一条规则，使得所有对80端口的请求都被重定向到8080端口。\n"]}
+{"question_id": 205, "category": "generic", "ops_field": "网络运维", "task_type": "其他", "question": ["如何使网络安全和数据隐私得到可靠保护？请提供一个网络安全方案。\n"]}
+{"question_id": 206, "category": "generic", "ops_field": "网络运维", "task_type": "其他", "question": ["请给出一套完整的应急响应计划，以应对网络安全事件的发生。\n"]}
+{"question_id": 207, "category": "generic", "ops_field": "网络运维", "task_type": "其他", "question": ["请列举一些网络安全攻击的类型，并说明每种攻击的特点和防范措施。\n"]}
+{"question_id": 208, "category": "generic", "ops_field": "操作系统运维", "task_type": "知识问答", "question": ["请回答以下问题top RES 为什么会大于 xmx"]}
+{"question_id": 209, "category": "generic", "ops_field": "操作系统运维", "task_type": "知识问答", "question": ["请回答问题shebang 是什么意思"]}
+{"question_id": 210, "category": "generic", "ops_field": "操作系统运维", "task_type": "知识问答", "question": ["请回答问题线程包含哪些状态？"]}
+{"question_id": 211, "category": "generic", "ops_field": "操作系统运维", "task_type": "知识问答", "question": ["请回答以下问题如何修改linux系统的最大进程数和最大文件打开数？"]}
+{"question_id": 212, "category": "generic", "ops_field": "操作系统运维", "task_type": "知识问答", "question": ["请回答以下问题如何在Linux系统中设置一个公用的网络文件系统（NFS）？请详细说明相关的操作步骤。\n"]}
+{"question_id": 213, "category": "generic", "ops_field": "操作系统运维", "task_type": "安装/部署/配置", "question": ["如何选择适合自己的Linux发行版？"]}
+{"question_id": 214, "category": "generic", "ops_field": "操作系统运维", "task_type": "安装/部署/配置", "question": ["如何实现Linux主机磁盘自动挂载"]}
+{"question_id": 215, "category": "generic", "ops_field": "操作系统运维", "task_type": "安装/部署/配置", "question": ["在配置ubuntu系统时，有哪些不必要的功能可以禁用"]}
+{"question_id": 216, "category": "generic", "ops_field": "操作系统运维", "task_type": "安装/部署/配置", "question": ["如何在CentOS 7上安装和配置LAMP？请提供详细步骤和设置说明。\n"]}
+{"question_id": 217, "category": "generic", "ops_field": "操作系统运维", "task_type": "安装/部署/配置", "question": ["根据以下的硬件设备清单，计算所需的网络带宽和存储空间，并根据实际需求提供相应的设备建议。\n1. 50台台式电脑，每台电脑每天需要上传下载10GB数据。\\n2. 5台服务器，每台服务器每天需要上传下载100GB数据。\\n3. 20台IP电话，每台电话每天需要使用4小时。\\n4. 10台监控摄像头，每台摄像头每天需要上传20GB数据。\\n5. 100个网络摄像头，每个摄像头每天需要上传2GB数据。"]}
+{"question_id": 218, "category": "generic", "ops_field": "操作系统运维", "task_type": "监控与告警", "question": ["请列举出至少三个可以用于监控系统资源的工具，并说明其特点。\n"]}
+{"question_id": 219, "category": "generic", "ops_field": "操作系统运维", "task_type": "监控与告警", "question": ["在Linux环境下，如何查看系统资源使用情况和进程状态？\n"]}
+{"question_id": 220, "category": "generic", "ops_field": "操作系统运维", "task_type": "监控与告警", "question": ["如何监控Linux服务器性能并提高其效率？\n"]}
+{"question_id": 221, "category": "generic", "ops_field": "操作系统运维", "task_type": "故障分析与诊断", "question": ["分析以下现象可能的故障原因，并给出解决方案服务器无法响应任何请求或者无法启动。"]}
+{"question_id": 222, "category": "generic", "ops_field": "操作系统运维", "task_type": "故障分析与诊断", "question": ["分析以下现象可能的故障原因，并给出解决方案ubuntu系统下source: not found错误"]}
+{"question_id": 223, "category": "generic", "ops_field": "操作系统运维", "task_type": "故障分析与诊断", "question": ["启动某服务时提示\"空间已满\"，但是用df -h和df -i查看时还有可用空间，怎么解决"]}
+{"question_id": 224, "category": "generic", "ops_field": "操作系统运维", "task_type": "故障分析与诊断", "question": ["分析以下现象可能的故障原因，并给出解决方案系统服务启动，无法挂载分区"]}
+{"question_id": 225, "category": "generic", "ops_field": "操作系统运维", "task_type": "故障分析与诊断", "question": ["分析以下现象可能的故障原因，并给出解决方案磁盘空间已满，执行rm之后磁盘空间未释放"]}
+{"question_id": 226, "category": "generic", "ops_field": "操作系统运维", "task_type": "性能优化", "question": ["请根据以下信息分析该系统存在哪些问题，并提供优化建议系统的总内存为16GB，当前已使用了12GB，内存利用率为75%。在业务高峰期间，内存使用量会增加，有时会达到90%。"]}
+{"question_id": 227, "category": "generic", "ops_field": "操作系统运维", "task_type": "性能优化", "question": ["请回答问题如何提升操作系统性能"]}
+{"question_id": 228, "category": "generic", "ops_field": "操作系统运维", "task_type": "性能优化", "question": ["如何实现分布式系统中的负载均衡和故障转移？\n"]}
+{"question_id": 229, "category": "generic", "ops_field": "操作系统运维", "task_type": "性能优化", "question": ["如何设置Linux服务器的Swap空间和Kernel参数以提升性能？\n"]}
+{"question_id": 230, "category": "generic", "ops_field": "操作系统运维", "task_type": "性能优化", "question": ["如何在服务器上部署虚拟化环境，以提升资源利用率和性能？\n"]}
+{"question_id": 231, "category": "generic", "ops_field": "操作系统运维", "task_type": "日志分析", "question": ["给出这条日志的模式。\nARPT: 621490.858770: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2119064372, Ack 3325040593, Win size 278"]}
+{"question_id": 232, "category": "generic", "ops_field": "操作系统运维", "task_type": "日志分析", "question": ["从该日志中分析出模式。\nPCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1"]}
+{"question_id": 233, "category": "generic", "ops_field": "操作系统运维", "task_type": "日志分析", "question": ["请对这个日志进行结构化分析\nJul  1 09:00:55 calvisitor-10-105-160-95 kernel[0]: IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 11 unplug = 0\n"]}
+{"question_id": 234, "category": "generic", "ops_field": "操作系统运维", "task_type": "日志分析", "question": ["这条日志的grok是什么？18383:C 23 Mar 16:20:53.109 * DB saved on disk"]}
+{"question_id": 235, "category": "generic", "ops_field": "操作系统运维", "task_type": "日志分析", "question": ["日志是否存在异常，异常的原因是什么，怎么解决Jun 14 15:16:02 combo sshd(pam_unix)[19937]: check pass; user unknown\n"]}
+{"question_id": 236, "category": "generic", "ops_field": "操作系统运维", "task_type": "自动化脚本", "question": ["创建一个Shell脚本，每天在特定的时间自动将某个目录的文件备份到另一个位置。"]}
+{"question_id": 237, "category": "generic", "ops_field": "操作系统运维", "task_type": "自动化脚本", "question": ["生成一段shell代码，其作用是循环目录下所有的文件"]}
+{"question_id": 238, "category": "generic", "ops_field": "操作系统运维", "task_type": "自动化脚本", "question": ["使用powershell脚本实现扫描windows所有目录下超过1G的文件路径并输出"]}
+{"question_id": 239, "category": "generic", "ops_field": "操作系统运维", "task_type": "自动化脚本", "question": ["请编写一个Python脚本，用于监控服务器CPU、内存和磁盘使用情况，并将结果记录到日志文件中\n"]}
+{"question_id": 240, "category": "generic", "ops_field": "操作系统运维", "task_type": "自动化脚本", "question": ["如何设置Linux系统的环境变量，并将其与系统启动脚本关联？\n"]}
+{"question_id": 241, "category": "generic", "ops_field": "操作系统运维", "task_type": "备份与恢复", "question": ["根据以下描述，提供一个基于RSync的Linux数据备份方案一台Linux服务器，需要备份/data目录下的数据，包括子目录，总共占用磁盘空间约500GB，备份数据需要传输到另一台备份服务器，两台服务器之间通过局域网连接。"]}
+{"question_id": 242, "category": "generic", "ops_field": "操作系统运维", "task_type": "备份与恢复", "question": ["如何在Windows系统上设置定时自动备份程序？\n"]}
+{"question_id": 243, "category": "generic", "ops_field": "操作系统运维", "task_type": "备份与恢复", "question": ["我们需要升级一批服务器上的操作系统，但是有些服务器上有重要数据需要备份和恢复，请提供一个可靠的方案。\n"]}
+{"question_id": 244, "category": "generic", "ops_field": "操作系统运维", "task_type": "备份与恢复", "question": ["如何备份和恢复Windows操作系统？\n"]}
+{"question_id": 245, "category": "generic", "ops_field": "操作系统运维", "task_type": "其他", "question": ["如何使用iptables在linux系统中防灾攻击，保护服务器安全？\n"]}
+{"question_id": 246, "category": "generic", "ops_field": "操作系统运维", "task_type": "其他", "question": ["如何选择适合自己的操作系统镜像和安全加固策略，确保服务器的安全可靠？\n"]}
+{"question_id": 247, "category": "generic", "ops_field": "基础设施运维", "task_type": "知识问答", "question": ["磁盘存储技术有哪些类型？它们之间的区别和优缺点是什么？磁盘存储技术主要有以下几种类型： \n1. 机械硬盘驱动器（HDD）：采用旋转磁盘和读写磁头来读写数据，具有存储容量大、价格相对低廉等优点，但缺点是读写速度较慢、易受机械故障影响。 \n2. 固态硬盘驱动器（SSD）：采用闪存芯片存储数据，具有读写速度快、耗电量低、抗震性强等优点，但价格较高，存储容量相对较小，且写入次数有限。 \n3. 混合硬盘驱动器（HHD）：结合机械硬盘和固态硬盘的优点，既具有大容量和较低价格的机械硬盘，又具有读写速度快的固态硬盘，但价格相对较高。 \n4. 光盘存储技术：采用光驱读写光盘，具有存储容量较大、价格低廉等优点，但读写速度较慢、易受划伤等影响。 \n以上几种存储技术各有优缺点，选择时需根据实际需求进行权衡。例如，对于需要大容量存储的场景，机械硬盘是较优的选择；而对于需要高速读写和低耗电的场景，固态硬盘则更为合适。"]}
+{"question_id": 248, "category": "generic", "ops_field": "基础设施运维", "task_type": "知识问答", "question": ["服务器与普通计算机的主要区别是什么？服务器和普通计算机的功能是类似的。只是相对于普通计算机，服务器在稳定性、安全性、性能等方面都要求更高，因此CPU、芯片组、内存、磁盘系统、网络等硬件和普通计算机有所不同。具体来说，服务器与普通计算机的主要区别包括：\n1. 通信方式为一对多：PC、平板、手机等固定或移动的网络终端，上网、获取资讯、与外界沟通、娱乐等，必然要经过服务器，服务器通过“一对多”来组织和领导这些设备。\n2. 资源通过网络共享：服务器通过侦听网络上其它终端（Client）提交的服务请求，在网络操作系统的控制下，将与其相连的硬盘、打印机、Modem及各种专用通讯设备提供给网络上的客户站点共享，也能为网络用户提供集中计算、信息发表及数据管理等服务。\n3. 硬件性能更加强大：服务器的高性能主要体现在高速度的运算能力、长时间的可靠运行、强大的外部数据吞吐能力等方面。"]}
+{"question_id": 249, "category": "generic", "ops_field": "基础设施运维", "task_type": "知识问答", "question": ["如何保障移动设备的安全性？请提供一个移动设备管理方案，包括设备管理、数据保护、应用管理等。\n"]}
+{"question_id": 250, "category": "generic", "ops_field": "基础设施运维", "task_type": "知识问答", "question": ["在数据中心中，如何进行物理服务器的存储管理？\n"]}
+{"question_id": 251, "category": "generic", "ops_field": "基础设施运维", "task_type": "知识问答", "question": ["请说明什么是DNS服务器，并提供如何使用DNS服务器解析域名和访问互联网的步骤。\n"]}
+{"question_id": 252, "category": "generic", "ops_field": "基础设施运维", "task_type": "安装/部署/配置", "question": ["如何使用Ansible自动化服务器配置与部署任务？请简述Ansible的特点和优势。"]}
+{"question_id": 253, "category": "generic", "ops_field": "基础设施运维", "task_type": "安装/部署/配置", "question": ["请提供一份磁盘分区和管理方案，该系统有4块硬盘，总容量为8TB，需要划分Windows和Linux两个分区。\n"]}
+{"question_id": 254, "category": "generic", "ops_field": "基础设施运维", "task_type": "安装/部署/配置", "question": ["如何配置防火墙来保护系统安全？\n"]}
+{"question_id": 255, "category": "generic", "ops_field": "基础设施运维", "task_type": "安装/部署/配置", "question": ["如何实现基础设施的自动化部署和运维，提高效率和降低成本？请提供一个基础设施自动化部署和运维方案。\n"]}
+{"question_id": 256, "category": "generic", "ops_field": "基础设施运维", "task_type": "安装/部署/配置", "question": ["在一台CentOS7服务器上，如何安装配置Java环境，完成代码编译和部署？\n"]}
+{"question_id": 257, "category": "generic", "ops_field": "基础设施运维", "task_type": "监控与告警", "question": ["主机监控的核心指标有哪些？"]}
+{"question_id": 258, "category": "generic", "ops_field": "基础设施运维", "task_type": "监控与告警", "question": ["我们需要对服务器进行安全审计和漏洞扫描，以确保系统的安全性和防范潜在的攻击。请提供一种有效的工具或方案。\n"]}
+{"question_id": 259, "category": "generic", "ops_field": "基础设施运维", "task_type": "监控与告警", "question": ["如何通过Linux命令行检查服务器硬盘使用情况并找到占用过高的文件？\n"]}
+{"question_id": 260, "category": "generic", "ops_field": "基础设施运维", "task_type": "监控与告警", "question": ["如何评估基础设施的可用性和稳定性，在设备故障和网络异常等情况下保证服务可用？"]}
+{"question_id": 261, "category": "generic", "ops_field": "基础设施运维", "task_type": "监控与告警", "question": ["我们需要对一组Linux服务器进行管理和监控，以确保系统正常运行，并及时发现和解决问题。请提供一种管理和监控解决方案，并说明其实现和优点。\n"]}
+{"question_id": 262, "category": "generic", "ops_field": "基础设施运维", "task_type": "故障分析与诊断", "question": ["分析以下现象可能的故障原因，并给出解决方案打印机无法打印，显示“打印队列已停止”错误。"]}
+{"question_id": 263, "category": "generic", "ops_field": "基础设施运维", "task_type": "故障分析与诊断", "question": ["硬件存储故障是常见的问题。请列出可能出现的故障情况，并提供解决方案。\n"]}
+{"question_id": 264, "category": "generic", "ops_field": "基础设施运维", "task_type": "故障分析与诊断", "question": ["请描述如何进行故障排除，以便在系统中出现问题时及时有效地进行修复和维护。"]}
+{"question_id": 265, "category": "generic", "ops_field": "基础设施运维", "task_type": "故障分析与诊断", "question": ["如何进行服务器系统升级和升级后的问题排查？请提供相应的指导和注意事项。\n"]}
+{"question_id": 266, "category": "generic", "ops_field": "基础设施运维", "task_type": "故障分析与诊断", "question": ["你在服务器日志中发现频繁出现“502 Bad Gateway”错误，请提供解决方案。\n"]}
+{"question_id": 267, "category": "generic", "ops_field": "基础设施运维", "task_type": "性能优化", "question": ["服务器内存使用量过高，如何进行优化"]}
+{"question_id": 268, "category": "generic", "ops_field": "基础设施运维", "task_type": "性能优化", "question": ["如何进行系统资源利用率统计和分析，并通过相应指标对系统进行优化？"]}
+{"question_id": 269, "category": "generic", "ops_field": "基础设施运维", "task_type": "性能优化", "question": ["如何优化服务器的存储性能以提高数据读写速度？\n"]}
+{"question_id": 270, "category": "generic", "ops_field": "基础设施运维", "task_type": "性能优化", "question": ["如何对一个已有的系统进行性能测试，以评估其稳定性和可靠性？\n"]}
+{"question_id": 271, "category": "generic", "ops_field": "基础设施运维", "task_type": "日志分析", "question": ["辨识出该日志的模式是什么。\nLoading offline registry hive: SOFTWARE, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SOFTWARE' from path '\\\\?\\GLOBALROOT\\Device\\HarddiskVolumeShadowCopy2\\Windows\\System32\\config\\SOFTWARE'."]}
+{"question_id": 272, "category": "generic", "ops_field": "基础设施运维", "task_type": "日志分析", "question": ["对该日志进行数据整理和分类\nJul 27 14:41:58 combo kernel: Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)\n"]}
+{"question_id": 273, "category": "generic", "ops_field": "基础设施运维", "task_type": "日志分析", "question": ["提取该日志的grok解析式2021-09-05 18:12:36 ERROR DAGScheduler: Job failed due to a fatal error: OutOfMemoryError"]}
+{"question_id": 274, "category": "generic", "ops_field": "基础设施运维", "task_type": "日志分析", "question": ["请检查此日志是否存在任何问题，如果有，应当提供什么解决方案？Jun 15 04:06:18 combo su(pam_unix)[21416]: session opened for user cyrus by (uid=0)\n"]}
+{"question_id": 275, "category": "generic", "ops_field": "基础设施运维", "task_type": "日志分析", "question": ["这条日志需要用哪个grok表达式来解析？nova-compute.log.2017-05-14_21:27:09 2017-05-14 19:43:10.957 2931 INFO nova.compute.claims [req-addc1839-2ed5-4778-b57e-5854eb7b8b09 - - - - -] Attempting claim: memory 512 MB, disk 0 GB, vcpus 1 CPU"]}
+{"question_id": 276, "category": "generic", "ops_field": "基础设施运维", "task_type": "自动化脚本", "question": ["如何使用Shell脚本编写自动化任务，以便在系统中定期进行备份和清理任务？\n"]}
+{"question_id": 277, "category": "generic", "ops_field": "基础设施运维", "task_type": "自动化脚本", "question": ["请提供一个Python脚本，用于监测服务器CPU和内存的使用情况，并将结果发送到指定邮箱。\n"]}
+{"question_id": 278, "category": "generic", "ops_field": "基础设施运维", "task_type": "自动化脚本", "question": ["请编写一个Python脚本，用于批量重命名服务器上的文件，支持正则表达式和按照指定规则进行重命名。\n"]}
+{"question_id": 279, "category": "generic", "ops_field": "基础设施运维", "task_type": "自动化脚本", "question": ["用Python编写一个脚本，从服务器上下载指定目录内的所有文件，并将这些文件压缩打包\n"]}
+{"question_id": 280, "category": "generic", "ops_field": "基础设施运维", "task_type": "自动化脚本", "question": ["如何通过Shell脚本自动化服务器管理任务，例如日志归档、备份等？\n"]}
+{"question_id": 281, "category": "generic", "ops_field": "基础设施运维", "task_type": "备份与恢复", "question": ["根据以下描述，提供一个路由器配置备份方案需要备份的路由器型号：Cisco 3850，路由器配置文件大小：100KB，备份目标：TFTP服务器。"]}
+{"question_id": 282, "category": "generic", "ops_field": "基础设施运维", "task_type": "备份与恢复", "question": ["假设你是一家企业的信息安全负责人，最近公司的一台服务器出现了数据丢失的情况，需要你提供一份数据恢复方案。该服务器上存储了公司的重要数据，包括财务数据、客户信息和项目文件等。这台服务器的磁盘大小为4TB，使用的是RAID5的存储模式。最近一次完整备份是在两个月前，备份的数据存储在一台本地服务器上。现在需要尽快恢复数据。"]}
+{"question_id": 283, "category": "generic", "ops_field": "基础设施运维", "task_type": "备份与恢复", "question": ["如何在服务器集群中实现数据同步？"]}
+{"question_id": 284, "category": "generic", "ops_field": "基础设施运维", "task_type": "备份与恢复", "question": ["请提供一份系统备份和恢复方案，该系统包括5台服务器，其中有一台主服务器和四台从服务器，数据量约为2TB。\n"]}
+{"question_id": 285, "category": "generic", "ops_field": "基础设施运维", "task_type": "备份与恢复", "question": ["请介绍一种有效的系统备份和恢复策略，以保障重要数据和应用的可用性和完整性。\n"]}
+{"question_id": 286, "category": "generic", "ops_field": "基础设施运维", "task_type": "其他", "question": ["使用AD实现服务器和网络资源的分类管理和安全控制，可以遵循以下步骤：\n\n1. 设计组织结构：根据公司的组织结构，设计AD的组织结构，包括组织单元（OU）、组和用户。可以按照部门、职能、地域等分类来组织。\n\n2. 创建用户和组：在AD中创建用户和组，将用户分配到相应的组中，以便于管理和授权。可根据需要，设置密码策略、访问控制策略等。\n\n3. 设定权限：根据不同用户和组的权限需求，为服务器和网络资源设定相应的权限，如读、写、执行等。可以使用群组策略（Group Policy）进行权限的集中管理，以提高效率。\n\n4. 设定访问控制：设定访问控制列表（ACL）以限制对服务器和网络资源的访问。ACL可以通过属性窗口或命令行等方式进行设定，可包括允许和拒绝的用户和组，以及对文件和目录的权限控制等。\n\n5. 监控和审计：使用AD自带的监控和审计功能，对用户和组的活动进行监控和记录，以便于识别和应对安全事件。可在安全日志中查看相关日志信息，如登录失败、密码更改等。\n\n6. 更新和维护：定期对AD服务器进行更新和维护，包括系统补丁、安全策略、备份等。同时，也要对服务器和网络资源的访问控制进行更新和维护，以保障系统的安全性和稳定性。\n\n通过以上步骤，可以有效地使用AD实现服务器和网络资源的分类管理和安全控制，提高系统的安全性和管理效率。"]}
+{"question_id": 287, "category": "generic", "ops_field": "基础设施运维", "task_type": "其他", "question": ["为了提高公司的网络安全性，需要对所有员工的电脑进行杀毒软件的安装和病毒扫描。请提供一个集中管理和自动化部署的方案。\n"]}
+{"question_id": 288, "category": "generic", "ops_field": "其他", "task_type": "知识问答", "question": ["IaaS、PaaS、SaaS分别是什么意思？有何区别？"]}
+{"question_id": 289, "category": "generic", "ops_field": "其他", "task_type": "知识问答", "question": ["云原生是什么？"]}
+{"question_id": 290, "category": "generic", "ops_field": "其他", "task_type": "知识问答", "question": ["请描述一下虚拟化技术的基本原理，并介绍常见的虚拟化软件。\n"]}
+{"question_id": 291, "category": "generic", "ops_field": "其他", "task_type": "知识问答", "question": ["比较虚拟机和容器的优缺点，并根据应用场景给出选用建议\n"]}
+{"question_id": 292, "category": "generic", "ops_field": "其他", "task_type": "知识问答", "question": ["在使用Git作为版本控制工具的情况下，如何管理代码分支和发布版本？\n"]}
+{"question_id": 293, "category": "generic", "ops_field": "其他", "task_type": "安装/部署/配置", "question": ["如何在Linux中安装并配置Apache Web服务器，提供具体的操作步骤，并说明关于Web服务器的重要性。\n"]}
+{"question_id": 294, "category": "generic", "ops_field": "其他", "task_type": "安装/部署/配置", "question": ["配置Nginx反向代理服务器，将客户端请求转发给后端Tomcat服务器。\n"]}
+{"question_id": 295, "category": "generic", "ops_field": "其他", "task_type": "安装/部署/配置", "question": ["如何利用编写脚本自动化部署与配置虚拟机变更？\n"]}
+{"question_id": 296, "category": "generic", "ops_field": "其他", "task_type": "安装/部署/配置", "question": ["使用Azure DevOps创建一个流水线以部署应用程序到Azure Kubernetes Service上。\n"]}
+{"question_id": 297, "category": "generic", "ops_field": "其他", "task_type": "安装/部署/配置", "question": ["如何利用Ansible进行自动化部署？请提供一个示例。\n"]}
+{"question_id": 298, "category": "generic", "ops_field": "其他", "task_type": "性能优化", "question": ["如何建立自动化测试流程，最大程度地提高软件发布质量和效率？\n"]}
+{"question_id": 299, "category": "generic", "ops_field": "其他", "task_type": "日志分析", "question": ["从这条日志中找出模式。\nSkipping AppWindowToken{df0798e token=Token{78af589 ActivityRecord{3b04890 u0 com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity t761}}} -- going to hide"]}
+{"question_id": 300, "category": "generic", "ops_field": "其他", "task_type": "日志分析", "question": ["提取该日志的结构化信息\n- 1131566461 2005.11.09 dn228 Nov 9 12:01:01 dn228/dn228 crond[2916]: (root) CMD (run-parts /etc/cron.hourly)\n"]}
+{"question_id": 301, "category": "generic", "ops_field": "其他", "task_type": "日志分析", "question": ["这条日志的grok是什么？[Thu Nov 01 21:54:03 2012] [error] [client 1.2.3.4] File does not exist: /usr/local/apache2/htdocs/default/cpc"]}
+{"question_id": 302, "category": "generic", "ops_field": "其他", "task_type": "日志分析", "question": ["这条日志是否有任何错误？如果有，应当提供什么样的解决方案？APPREAD 1117869872 2005.06.04 R04-M1-N4-I:J18-U11 2005-06-04-00.24.32.432192 R04-M1-N4-I:J18-U11 RAS APP FATAL ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33569\n"]}
+{"question_id": 303, "category": "generic", "ops_field": "其他", "task_type": "日志分析", "question": ["请分析该日志中是否包含错误信息，若包含，则给出对应的解决方案- 1131566470 2005.11.09 tbird-sm1 Nov 9 12:01:10 src@tbird-sm1 ib_sm.x[24904]: [ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************\n"]}
+{"question_id": 304, "category": "generic", "ops_field": "其他", "task_type": "自动化脚本", "question": ["用shell语言，编写启动多个docker的命令"]}
+{"question_id": 305, "category": "generic", "ops_field": "其他", "task_type": "自动化脚本", "question": ["根据以下数据结构，请编写一个脚本来查找一组数字中的最大值和最小值\n[15, 23, 5, 12, 8, 3, 27, 16, 5, 9, 1]"]}
+{"question_id": 306, "category": "generic", "ops_field": "其他", "task_type": "自动化脚本", "question": ["请使用Python编写一个可以读取Excel文件并对数据进行简单分析的脚本"]}
+{"question_id": 307, "category": "generic", "ops_field": "其他", "task_type": "自动化脚本", "question": ["编写一个Python脚本，从一个文本文件中提取所有的URL链接。\n"]}
+{"question_id": 308, "category": "generic", "ops_field": "其他", "task_type": "自动化脚本", "question": ["如何在C++中使用线程池实现并行计算？"]}
+{"question_id": 309, "category": "generic", "ops_field": "其他", "task_type": "自动化脚本", "question": ["请写出一个Shell脚本，将某个文件夹下的所有文件都转化为小写，并将该文件夹下所有以.html结尾的文件做替换操作，将其中的某一个关键字全部替换为另一个关键字。\n"]}
+{"question_id": 310, "category": "generic", "ops_field": "其他", "task_type": "备份与恢复", "question": ["如何评估和选择合适的数据备份和恢复方案？\n"]}
+{"question_id": 311, "category": "generic", "ops_field": "其他", "task_type": "备份与恢复", "question": ["如何进行在线数据的备份和恢复，以避免因为数据丢失或损坏而造成的应用中断或数据不一致的问题？\n"]}
+{"question_id": 312, "category": "generic", "ops_field": "其他", "task_type": "备份与恢复", "question": ["给定一个大型代码仓库，请分析其中哪些文件是重要的，以及如何设定代码仓库的定期备份策略。\n"]}
+{"question_id": 313, "category": "generic", "ops_field": "其他", "task_type": "备份与恢复", "question": ["如何在云计算环境下实现数据备份和容灾？\n"]}
+{"question_id": 314, "category": "generic", "ops_field": "其他", "task_type": "备份与恢复", "question": ["在企业级应用中，如何保证数据的备份和恢复，以及灾备方案的制定和测试？\n"]}
+{"question_id": 315, "category": "generic", "ops_field": "其他", "task_type": "其他", "question": ["如何实现大规模数据处理，例如几十亿条数据的去重和统计分析？\n"]}
+{"question_id": 316, "category": "generic", "ops_field": "其他", "task_type": "其他", "question": ["给定一个web服务的API文档，请使用Postman工具测试其中一个API接口。\n"]}
+{"question_id": 317, "category": "generic", "ops_field": "其他", "task_type": "其他", "question": ["请告诉我如何设置一个负载均衡器以分布式地处理多个用户请求。\n"]}

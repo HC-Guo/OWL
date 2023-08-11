@@ -1,0 +1,109 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,中国实行可持续发展的核心是：____,发展是关键,经济增长为主,人民生活水平提高,自然资源合理利用B.季节性特点,A," C. 人民生活水平提高。
+
+中国实行可持续发展的核心是提高人民生活水平，这是中国的发展目标和政策的核心。这个选项中，其他选项都不是中国的可持续发展核心。
+
+A. 发展是关键，这是一个通用的说法，不是中国的具体政策或目标。
+
+B. 经济增长为主，这是中国的经济发展策略之一，但不是可持续发展的核心。
+
+D. 自然资源合理利用，这是中国的可持续发展政策之一，但不是核心。",0
+1,采用下玻璃温室生产蔬菜、花卉，属于农业分类中的：____,粗放农业,自给农业,种植园农业,密集农业,D," C.种植园农业。
+
+采用下玻璃温室生产蔬菜、花卉属于种植园农业，因为这种方法通常用于生产蔬菜、花卉等特殊的农产品，需要特殊的温室和设备，而不是粗放农业或自给农业。密集农业则是指在园地上密集栽培各种农产品，这种方法不太适合种植园农业。",0
+2,下列有关昼夜长短状况的叙述正确的是：____,9月23日赤道昼大于夜,12月22日南半球昼小于夜,6月22日北半球昼大于夜,3月21日有北极圈上出现极昼现象,C," C. 6月22日北半球昼大于夜。
+
+解释：
+
+在6月22日，北半球处于夏季的时候，白天长于夜晚。这是因为地球倾斜的影响，使得北半球的太阳在这天的时间上升高点，使得白天更加长。而在这天，北半球的昼夜长短状况是昼夜长，因此选项C是正确的。
+
+其他选项的解释：
+
+A. 9月23日赤道昼大于夜：在这天，赤道地区的太阳在天空中的高度最高，白天 longest，昼夜长短状况是昼夜长。
+
+B. 12月22日南半球昼小于夜：在这天，南半球处于冬季的时候，白天 shorter than night，昼夜长短状况是夜 longer than day。
+
+D. 3月",1
+3,洋流因产生的动力不同，可分为____,风海流、暖流、寒流,补偿流、暖流、寒流,密度流、寒流、暖流,风海流、补偿流、密度流,D," C. 密度流、寒流、暖流
+
+解释：
+洋流因产生的动力不同，可分为密度流、寒流和暖流三类。密度流是由于海水的密度差而产生的流动，寒流是由于海水的温度差而产生的流动，暖流是由于海水的温度差和密度差而产生的流动。",0
+4,圣诞节这天，下列城市中白昼最短的是____,广州,哈尔滨,北京,上海,B," A. 广州。
+
+根据中国的地理位置和季节变化，圣诞节这天的白昼最短的城市是广州。",0
+5,有关台风的叙述：①台风常发生在秋冬季节；②台风现象只发生在西太平洋上；③台风是一种强烈发展的温带锋面气旋；④台风是一种在海面上强烈发展的热带气旋；⑤飓风和台风都是热带气旋，只是发生的海域不同而名称各异。其中正确的是____,①②③,②③④,①⑤,④⑤,D," C.①⑤ 是正确的答案。
+
+解释：
+
+① 台风常发生在秋冬季节。  Correct! Typhoons usually occur in the autumn and winter seasons.
+
+② 台风现象只发生在西太平洋上。 Incorrect! Typhoons can occur in the western Pacific Ocean, but they can also occur in other parts of the Pacific and even in the Indian Ocean.
+
+③ 台风是一种强烈发展的温带锋面气旋。 Incorrect! Typhoons are not just strong developments of warm-frontal storms, they are actually a type of tropical cyclone that forms over the ocean.
+
+④ 台风是一种在海面上强烈发展的热带气旋。 Incorrect! Typhoons are not just strong developments of tropical cyclones over the ocean, they are actually a type of tropical cyclone that forms over the ocean and has sustained winds of at least 74 km/h.
+
+⑤ 飓风",0
+6,下列不以秦岭――淮河一线为分界线的是____,亚热带季风气候和温带季风气候,水田农业和旱地农业,农耕区和牧业区,湿润地区与半湿润地区,C," C. 农耕区和牧业区。
+
+ Correct answer: C. 农耕区和牧业区.
+
+Explanation:
+
+The correct answer is C. 农耕区和牧业区, because the sentence ""下列不以秦岭――淮河一线为分界线"" implies that the two areas are not divided by the Qinling Mountains and the Huai River. Therefore, the correct answer is the option that describes two areas that are not divided by a mountain range and a river.",1
+7,高技术工业区通常的特点有____,研究开发人员多,生产产品全部面向国内市场,产品更新换代快,从业人员全部是科学家和工程师,C," C. 产品更新换代快。
+
+高技术工业区通常具有产品更新换代快的特点，因为这些区域通常集中了丰富的技术资源和人才，促进了技术创新和产品更新的速度。而研究开发人员多、生产产品全部面向国内市场和从业人员全部是科学家和工程师等特点则不是高技术工业区的特点。",1
+8,农业社会时期，爪哇岛上人口聚集的原因是____,河流众多,土壤的肥力高,交通便利,气候适宜,B," A. 河流众多。
+
+在农业社会时期，爪哇岛上人口聚集的原因主要是因为河流众多，提供了丰富的水源和渔业资源，使得农业和渔业发展得非常好。",0
+9,地球内部圈层划分的依据是____,地震波速度的变化,温度的垂直变化,内部压力的变化,物质密度的变化,A," C. 内部压力的变化。
+
+根据地球内部圈层的结构和物理特性，地球内部的压力会随着深度的增加而增加，而不是地震波速度的变化、温度的垂直变化或物质密度的变化。因此，正确的选项是C。",0
+10,亚洲水稻种植业的特点是____,"单产高,商品率高","人均耕地较多,多大规模经营","人力为主,机械化水平低","水热资源丰富,水利工程量小",C," C. 人力为主,机械化水平低.
+
+亚洲水稻种植业的特点是人力为主，机械化水平低，因为水稻种植是一种具有较高劳动密集度的行业，各种步骤都需要人工操作，机械化水平较低。而单产高、商品率高、人均耕地较多、水热资源丰富等特点都不是亚洲水稻种植业的特点。",1
+11,该县境内雅鲁藏布江河段航运价值低，其主要原因是____,封冻期长,落差大,流量小,含沙量大,B," C. 流量小。
+
+The correct answer is C. 流量小. The main reason why the navigation value of the Yarlung Zangbo River section in the county is low is because the river has a small flow rate.",0
+12,可以看见下弦月的时间是____,上半夜,下半夜,子夜前后,整个夜晚,B," C. 子夜前后。
+
+根据中国高中地理考试的知识点，下弦月的时间是子夜前后。",0
+13,这片广袤的黄土地已经被水流蚀割得沟壑纵横，支离破碎，四分五裂，像老年人的一张粗糙的皱脸每年流入黄河的泥沙就达十六亿吨!就在这大自然无数黄色的皱褶中，世世代代生活和繁衍着千千万万的人。无论沿着哪一条皱纹走进去，你都能碰见村落和人烟，而且密集得叫你不可思议。生活在黄土所在地区的人们____,受热量条件制约，选择在河谷地区修路建村,借黄土肥沃优势，发展了大规模机械化农业,不合理耕作破坏植被，导致石漠化现象严重,通过植树种草及打坝淤地进行有效水土保持,D," C. 不合理耕作破坏植被，导致石漠化现象严重。
+
+解释：
+
+根据文章中提到的“黄土”和“泥沙”，这个问题是关于中国的高原区域 geography。 yellow soil 是中国高原区域的特点之一，而 yellow soil 的 Formation 和 Erosion 也是高中地理学的常见题目。
+
+选项C是正确答案，因为在黄土地区的不合理耕作会导致植被破坏，进一步加速石漠化现象。 黄土地区的植被破坏可以通过不合理的耕作方式、过度割裂、牛羊过度停放等因素导致。这会导致土壤暴露，进一步加速石漠化现象。
+
+而其他选项都不是正确答",0
+14,黄土高原最大的环境问题是____,荒漠化,水土流失,酸雨,气候变暖,B," C. 酸雨。
+
+黄土高原的环境问题主要有荒漠化、水土流失和酸雨三种。 among them, 酸雨 (acid rain) is the most serious one. Acid rain is caused by the release of sulfur dioxide and nitrogen oxides into the atmosphere, which then falls to the ground as acidic precipitation, damaging the soil and vegetation.
+
+Therefore, the correct answer is C. 酸雨 (acid rain).",0
+15,荷兰出口的花卉占世界花卉贸易总额的40%以上，这并不得益于____,保鲜、冷藏技术的发展和交通运输的完善,花卉品种不断增多，质量不断提高,依靠科技发展玻璃温室，改造自然条件,以较低的价格赢得市场,D," C. 依靠科技发展玻璃温室，改造自然条件。
+
+根据题目提供的信息，荷兰出口的花卉占世界花卉贸易总额的40%以上，这表明荷兰在国际花卉贸易中占有重要地位。为了维持这种地位，荷兰需要不断改进科技，以提高花卉的质量和量，同时也需要采用玻璃温室等技术来改造自然条件，以适应不同的市场需求。
+
+因此，选项C是正确答案。",0
+16,与广西相比，巴西发展食糖业的突出优势是____,生产成本低,产品质量高,加工技术先进,社会协作条件好,A," C. 加工技术先进。
+
+根据中国高中地理考试的知识点，巴西在食糖业方面的突出优势是其先进的加工技术。",0
+17,1992年韩国三星电子在惠州建工厂首要的有利条件是____,劳动力充足，薪资水平低,我国市场巨大,治理污染费用较低,地价便宜,A," A. 劳动力充足，薪资水平低。
+
+根据1992年韩国三星电子在惠州建工厂的记录，其首要的有利条件是劳动力充足，薪资水平低。这是因为韩国三星电子希望在中国找到便宜的劳动力，以便提高生产效率和降低成本。而中国的劳动力资源在当时是比较充足的，同时薪资水平也较低，因此韩国三星电子选择在惠州建立工厂。",1
+18,下列天体系统中不包括地球的是____,总星系,河外星系,银河系,太阳系,B," C. 银河系。
+
+ Correct answer: C. 银河系.
+
+Explanation:
+
+The correct answer is C. 银河系, which means the Milky Way galaxy. The other options are not correct, as they do not refer to celestial bodies or systems that do not include Earth:
+
+A. 总星系 (Total galaxy) does not exist, as there is no such term in Chinese.
+
+B. 河外星系 (Galaxy outside the Milky Way) is not correct, as there is no such term in Chinese.
+
+D. 太阳系 (Solar system) refers to the Sun and the objects that orbit around it, including Earth, but does not include other galaxies.",0

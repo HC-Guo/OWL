@@ -1,0 +1,168 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,____是高等学校的中心工作，是实现一定的教育目的和人才培养目标的基本途径。,管理,教学,课程,科研,B," Based on the context, the correct answer is B. 教学 (teaching).
+
+教学是高等学校的中心工作，是实现一定的教育目的和人才培养目标的基本途径。管理 (A) and 科研 (D) are also important, but they are not the central focus of a higher education institution. 课程 (C) is a component of teaching, but it is not the same as teaching itself.",1
+1,依活动过程的特点，可以将动机分为____。,交往动机和威信动机,社会动机和局部动机,外部动机和内部动机,近景动机和远景动机,A," Based on the characteristics of the activity process, the motivation can be divided into:
+
+A. Interaction Motivation and Identity Motivation
+
+Explanation:
+
+Interaction Motivation refers to the motivation to engage in social interactions and exchange information with others. This type of motivation is driven by the need for social connection, feedback, and recognition.
+
+Identity Motivation refers to the motivation to maintain and enhance one's self-image and social identity. This type of motivation is driven by the need to belong, to feel important, and to be accepted by others.
+
+Both interaction motivation and identity motivation are important factors that drive human behavior in social situations.
+
+Therefore, the correct answer is A. Interaction Motivation and Identity Motivation.",1
+2,把多种学科的相关内容融合在一起，构成新的课程，这是____,活动课程,综合课程,学科课程,必修课程,B," based on the description, the answer is:
+
+B. 综合课程
+
+The phrase ""把多种学科的相关内容融合在一起"" suggests that the course is a comprehensive one that integrates multiple disciplines, rather than a single subject-specific course. Therefore, option B is the best fit.",1
+3,根据学习动机的社会意义，可以把学习动机分为____。,社会动机与个人动机,工作动机与提高动机,高尚动机与低级动机,交往动机与荣誉动机,C," Based on the social significance of learning motivation, learning motivation can be divided into:
+
+A. Social motive and personal motive: Learning motivation that is influenced by social factors, such as the desire to impress others or to avoid social exclusion, is a social motive. Personal motive, on the other hand, is the desire to learn for personal fulfillment or enjoyment.
+
+B. Work-related motive and improvement motive: Learning motivation that is related to work or career advancement is a work-related motive. Improvement motive, on the other hand, is the desire to learn new things for personal growth and self-improvement.
+
+C. High-level motive and low-level motive: High-level motive is the desire to learn for abstract reasons, such as the pursuit of knowledge or the desire for personal growth. Low-level motive, on the other hand, is the desire to learn for more concrete reasons, such as to pass a test or to receive a reward.
+
+D. Interaction motive and recognition motive: Interaction motive is the desire to learn in order to engage in social interaction or to receive recognition from others. Recognition motive, on the other hand, is the desire to learn in order to receive praise or recognition from others.
+
+Therefore, the correct answer is A. Social mot",0
+4,现代学位制度确立的标志是德国柏林大学创设的____。,文学博士学位,医学博士学位,理学博士学位,哲学博士学位,D, A. 德国柏林大学创设的文学博士学位（Doctor of Philosophy in Literature）是现代学位制度的标志。在18世纪，德国柏林大学开始授予文学博士学位，这标志着现代学位制度的确立。,0
+5,严复提倡的三育论不包括____。,智育,体育,德育,美育,D,"严复提倡的三育论包括：
+
+1. 智育（智慧的修养）
+2. 体育（身体的修养）
+3. 德育（道德的修养）
+
+所以，严复的三育论不包括美育（美的修养）。
+
+所以答案是：D.美育",1
+6,班级里的小集团属于____。,联合群体,正式群体,松散群体,非正式群体,D," Based on the description, the small group of students in the classroom belongs to the category of:
+
+C. 松散群体 (loose group)
+
+A loose group is a group of individuals who share a common goal or interest, but do not have a formal structure or leadership. They may come together informally to discuss or work on a specific task, and their membership is not fixed or permanent. In the context of a classroom, a small group of students who are working together on a project or activity would be an example of a loose group.",0
+7,整个社会实践活动过程中，____得到充分体现。,教师的主体性,学生的主体性,教师的指导作用,活动的灵活性,B," A.教师的主体性。
+
+在社会实践活动过程中，教师的主体性得到充分体现。教师不仅是学生的导师和导航员，还是活动的主要掌控者。他们需要采取积极的措施来制定活动计划、安排活动时间、选择活动内容、调整活动方式等，以确保活动的成功和效果。
+
+学生的主体性（B）和活动的灵活性（D）也是重要的，但不如教师的主体性。学生需要参与活动的规划和执行，并且需要有自主的思维和行动能力，以实现活动的目的。活动的灵活性也是重要的，它可以使活动更加多元化、创新和有趣，但不是在教师的主体性之上。",0
+8,个体品德的核心部分是____。,道德认知,道德观念,道德情感,道德行为,A," individually, the core part of personal morality is:
+
+D. moral behavior.
+
+Personal morality refers to an individual's own values, principles, and standards of conduct, and it is reflected in their behavior and actions. Therefore, the core part of personal morality is the actual behavior and actions that an individual chooses to adopt, rather than their thoughts or feelings about what is right or wrong.
+
+A. moral cognition refers to an individual's ability to recognize and understand moral concepts and principles.
+
+B. moral concepts refer to the abstract ideas and principles that guide an individual's moral judgment and behavior.
+
+C. moral emotions refer to the feelings and attitudes that an individual experiences in response to moral situations or stimuli.
+
+Therefore, the correct answer is D. moral behavior.",0
+9,对有关历史生活的领会，不能缺少____。,言语直观,形象直观,感知直观,表象直观,A," A. 言语直观 (Language Direct Experience)
+
+对有关历史生活的领会，不能缺少言语直观，因为历史事件和人物的语言和文化表达是直接体验历史的重要方式。通过语言和文化的直观，我们可以更直观地感受到历史人物的情感和思维，了解他们的生活方式、价值观、信仰等，从而更深入地了解历史。",1
+10,实验研究的情境和被试的代表性主要影响实验的____。,内在效度,外在效度,难度,区分度,B," C. 难度。
+
+实验研究的情境和被试的代表性主要影响实验的难度。难度指的是实验的可行性和成本，以及被试的快捷和合作度。如果实验的设计和实施过程中存在困难和障碍，或者被试者不具备合适的知识和技能，可能会影响实验的结果和可靠性。因此，选择合适的情境和被试者是实验研究的重要考虑因素。",0
+11,教育心理学研究的根本任务在于____。,研究心理现象,对心理进行测量,获取心理数据，区分心理高下,研究、揭示教育过程中学生学习的性质、特点等,D," C.获取心理数据，区分心理高下。
+
+教育心理学研究的根本任务是对学生的学习过程进行研究和分析，以了解学生在学习中的心理状态和行为，并通过这些研究结果来改善教育实践。这包括获取心理数据，区分心理高下，以及研究、揭示教育过程中学生学习的性质、特点等。
+
+A.研究心理现象是教育心理学研究的一部分，但不是整个研究的目的。
+B.对心理进行测量也是教育心理学研究的一部分，但不是整个研究的目的。
+D.研究、揭示教育过程中学生学习的性质、特点等是教育心理学研究的一个重要目的，但不是整个研究的根本任务。",0
+12,北京大学的前身是____。,京师大学堂,京师同文馆,天津中西学堂,时务学堂,A, A. 北京大学的前身是京师大学堂。,1
+13,罗杰斯提出的学习动机理论是____。,需要层次论,强化理论,自我效能感理论,自由学习理论,D," rogers的学习动机理论是C.自我效能感理论。
+
+罗杰斯（Rogers）认为，学习是一种自我实现和自我发展的过程，学生在学习过程中需要感受到自己的能力和成就感，从而促进自己的学习和发展。这种自我效能感理论认为，学习是一种自我实现和自我发展的过程，而不是只是接受教育的知识和技能。",0
+14,以下关于迁移的理解中，错误的是____。,从一般平行四边形有关内容的掌握影响菱形的学习，属于自上而下的垂直迁移,在同化迁移中，原有认知结构在迁移中不发生实质性改变，只得到某种充实,处于同一概括水平的经验之间的相互影响是垂直迁移,定势迁移的影响表现为促进和阻碍,C,"让我们一步一步思考,
+1. 首先，我们需要了解迁移的概念。迁移是指将知识、技能或经验从一个领域或水平传移到另一个领域或水平中。
+2. 其次，我们需要分析题干中的描述。
+
+A.从一般平行四边形有关内容的掌握影响菱形的学习，属于自上而下的垂直迁移。
+这是错误的。垂直迁移指的是将知识、技能或经验从一个水平传移到另一个水平中，而不是从一个领域传移到另一个领域中。
+
+B.在同化迁移中，原有认知结构在迁移中不发生实质性改变，只得到某种��",0
+15,明确提出教育目的是为“完满的生活”做准备的教育家是____,杜威,斯宾塞,陶行知,陈鹤琴,B," A. 杜威。
+
+杜威（John Dewey）是美国教育家和哲学家，他认为教育的目的是帮助学生建立一个完满的生活，而不仅仅是提供知识。他认为，教育应该ocus on the development of the whole child, including their social, emotional, and physical growth, rather than just focusing on academic achievement.
+
+斯宾塞（Jerome Bruner）和陶行知（Li Ang）也是重要的教育思想家，但他们的教育理念不同于杜威的视点。",0
+16,通过学习而形成的合乎法则的心智活动方式即是____。,智力技能,知识迁移,智力,思维程序,A,"通过学习而形成的合乎法则的心智活动方式即是：
+
+B. 知识迁移
+
+知识迁移是指通过学习而形成的新的知识结构和关系，它们在我们的大脑中形成了一种新的认知模式，帮助我们更好地理解和解决问题。知识迁移是一种长期性的心智活动方式，它可以帮助我们在不同的情况下应用知识，解决问题，并且可以帮助我们更好地适应环境。",0
+17,19世纪，美国中等教育最主要的形式是____。,文科中学,文实中学,公立中学,文法学校,B," A. 文科中学 (Liberal Arts College)
+
+ During the 19th century, the primary form of middle education in the United States was the liberal arts college. These institutions focused on providing a well-rounded education in the arts, humanities, and sciences, rather than specialized training in a particular profession or trade. The liberal arts approach emphasized the development of critical thinking, writing, and communication skills, as well as the study of classical texts and the humanities. This approach was seen as a way to cultivate informed and engaged citizens, prepared to participate in the democratic process and contribute to society.",0
+18,下列选项中，属于《中华人民共和国教师法》明确规定的教师专业权利的是____,指导学生学习与发展的权利,对学校进行管理与领导的权利,选择教材教法开展教学工作的权利,检查与评价学生品行、学业、身体的权利,A," According to the ""Law of the People's Republic of China on Teachers,"" the teacher's professional rights include:
+
+C. the right to select teaching materials and methods to carry out teaching work.
+
+Therefore, the correct answer is C.",0
+19,有学者强调，教育要根据一个民族固有的特征来定，这种观点体现了____,生产力对教育的影响和制约,政治制度对教育的影响和制约,文化对教育的影响和制约,经济制度对教育的影响和制约,C," C. 文化对教育的影响和制约。
+
+根据一个民族固有的特征来定教育是指将教育制度和内容设计为符合当地文化和传统的观念和价值观念，以便更好地满足当地人的需求和期望。这种观点强调了文化对教育的影响和制约，认为文化是教育的重要因素之一。
+
+A、B、D 选项都不正确，因为生产力、政治制度和经济制度对教育的影响和制约也是重要的，但不是根据一个民族固有的特征来定教育的。",1
+20,教师教学反思的成分不包括____。,认知成分,思维成分,批判成分,教师的陈述,B," C. 批判成分。
+
+教师教学反思的成分包括：
+
+A. 认知成分：关于学生的认知过程和学习成果的反思和分析。
+
+B. 思维成分：关于教学方法和授课 contenido 的思考和反思。
+
+而批判成分则不是教师教学反思的一部分，因为批判可能会导致教师和学生之间的紧张关系，而不是帮助教师更好地教学。
+
+所以答案是C。",0
+21,下列不属于教育科学研究方法论原则的是____。,理论联系实际,注意理论的层次性,加强综合研究,改进研究的效率,D,"让我们一步一步思考,
+1. 首先，我们需要了解教育科学研究方法论原则的内容。教育科学研究方法论原则包括理论联系实际、注意理论的层次性、加强综合研究和改进研究的效率等。
+2. 其次，我们需要分析选项中的不属于教育科学研究方法论原则的内容。下列选项中，只有D选项“改进研究的效率”不属于教育科学研究方法论原则。其他选项都是教育科学研究方法论原则的内容。
+所以答案是：D",1
+22,“天将降大任于斯人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，所以动心忍性，增益其所不能。”体现的德育方法是____,说服教育,榜样示范,情感陶冶,实际锻炼,D," “天将降大任于斯人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，所以动心忍性，增益其所不能。”这句话体现的德育方法是D.实际锻炼。
+
+这句话提到了许多德育方法，如：
+
+* 劳其筋骨：指的是通过实践和劳动来锻炼人们的体力和精神。
+* 饿其体肤：指的是通过压力和挑战来锻炼人们的体肤和精神。
+* 行拂乱其所为：指的是通过实践和操作来锻炼人们的技能和能力。
+
+所以，这句话体现的德育方法是实际锻炼。",0
+23,在德育过程中，只看到学生差的地方，认为其无可救药，这违背了德育的____原则。,知行统一,严格要求与尊重信任相结合,照顾年龄特点与照顾个别特点相结合,发挥积极因素与克服消极因素相结合,D," A. 知行统一。
+
+在德育过程中，只看到学生差的地方，认为其无可救药，这违背了德育的知行统一原则。知行统一指的是将知识和行为相结合，帮助学生通过实践来认识和Internalize知识和技能。只看到学生差的地方，而不看到他们的优点和可能性，违背了这一原则，可能会导致学生感到无motivation和不自信，从而阻碍他们的学习和发展。",0
+24,狭义的教育主要是指____。,家庭教育,学校教育,社会教育,职业教育,B," B. 学校教育。
+
+狭义的教育主要指学校教育，即在学校内部提供的教育活动和学习 proces。",1
+25,根据学术门类划分或职业门类划分，将课程组合成不同的专门化领域，这些组合被称为____。,课程,专业,教学计划,教学大纲,B," A. 课程。
+
+根据学术门类划分或职业门类划分，将课程组合成不同的专门化领域，这些组合被称为课程。
+
+课程是指一组相关的学习内容，通常包括一些或所有的学科知识和技能，以满足学生的学习需求和职业发展。课程可以是通过课程设计、教学计划和教学大纲等方式组织的。
+
+因此，选项B、C和D都不是正确的答案。",0
+26,颜元对传统教育的批判，不包括____,揭露传统教育严重脱离实际,反对封建专制政权,批判传统教育的义、利对立观,抨击八股取士制度,B," Based on the information provided, the correct answer is:
+
+A. 揭露传统教育严重脱离实际
+
+颜元的批判对传统教育主要表现在揭露其严重脱离实际的问题，而不是直接反对封建专制政权或批判传统教育的义、利对立观。 Therefore, option A is the best choice.",0
+27,依据赫尔巴特的教学阶段论，当学生的兴趣处于“期待”时，教学阶段是____,明了,联想,系统,方法,B," According to the teaching stage theory proposed by Heller and Hollingsworth, when students' interest is in the ""expectation"" stage, the teaching stage is:
+
+B. Association.
+
+At this stage, students are beginning to understand the new concept and are making connections between the old and new information. The teacher should provide opportunities for students to associate the new information with their prior knowledge and experiences.
+
+Therefore, the correct answer is B. Association.",1
+28,苏联1966年教育改革的主要任务是____,使学生获得牢固的科学基础知识，具有高度的觉悟，培养青年面向生活并能自觉地选择职业,实行“人道主义”“多元化”“民主化”,为高一级学校培养和输送合格的毕业生,对普通教育、职业教育、技术教育和高等教育的改革提出了具体的要求和措施,A," Based on the information provided, the correct answer is D. 苏联1966年教育改革的主要任务是对普通教育、职业教育、技术教育和高等教育的改革提出了具体的要求和措施。
+
+The 1966 education reform in the Soviet Union aimed to improve the quality of education at all levels, including primary, secondary, technical, and higher education. The reform focused on providing students with a solid scientific foundation, developing their critical thinking and creativity, and preparing them for life and work. The reform also emphasized the importance of democratization, humanization, and the development of a well-rounded personality.
+
+Therefore, option A is not the main task of the 1966 education reform in the Soviet Union. While option B is a part of the reform's goals, it is not the primary task. Option C is also not the main task, as the reform aimed to improve the quality of education at all levels, not just to train and transmit knowledge to high school students.",0

@@ -1,0 +1,112 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,____既在糖酵解又在葡萄糖异生作用中起作用。,丙酮酸激酶,3-磷酸甘油醛脱氢酶,1，6-二磷酸果糖激酶,己糖激酶,B," Based on the information provided, the correct answer is:
+
+B. 3-磷酸甘油醛脱氢酶
+
+This enzyme is involved in both glycolysis and the pentose phosphate pathway, which are two important metabolic pathways in cells.",1
+1,将RNA转移到硝基纤维素膜上的技术叫____。,Southern印迹,Northern印迹,Western印迹,Eastern印迹,B," RNA将被转移到硝基纤维素膜上的技术是 Southern印迹。
+
+所以答案是：A。",0
+2,____不是蛋白质的性质之一。,处于等电状态时溶解度最小,加入少量中性盐溶解度增加,变性蛋白质的溶解度增加,有紫外吸收特性,C," A.处于等电状态时溶解度最小不是蛋白质的性质之一。
+
+蛋白质的性质包括：
+
+* 氨基酸组成
+* 分子量
+* 结构
+* 抗体吸附性
+* 紫外吸收特性
+
+等电状态时溶解度最小是蛋白质的一种特性，但不是蛋白质的基本性质之一。
+
+所以答案是：A.",0
+3,在酶的分离纯化中最理想的实验结果是____。,纯化倍数高，回收率高,蛋白回收率高,回收率小，但纯化倍数高,比活力最大,A,"让我们一步一步思考,
+1. 在酶的分离纯化中，最理想的实验结果是C.回收率小，但纯化倍数高。
+2. 这是因为，酶的分离纯化是通过凝胶分离、滤 separation、高效液体chromatography等方法来实现的，这些方法可以减少蛋白质的损失，保留原始的酶活性。
+3. 因此，理想的实验结果应该是，纯化倍数高，但回收率小，这样可以保证酶的纯度高，同时减少蛋白质的损失。
+所以答案是：C。",0
+4,动物体内组成的化学元素中，下列所占比例最多的是____,碳,氯,钠,氢,A,"让我们一步一步思考,
+1. 动物体内组成的化学元素中，最多的是碳。
+2. 碳是生物体中最重要的元素之一，它是生物体的基本结构和能量代谢的重要来源。
+所以答案是：A.碳",1
+5,酶的催化特点不具有____,高效性,多功能性,可调节性,酶蛋白易变性,B,"让我们一步一步思考,
+1. 酶的催化特点包括高效性、多功能性和可调节性，但不包括酶蛋白易变性。
+2. 酶蛋白易变性是指酶的结构和功能可以被轻松地改变，这不是酶的催化特点。
+所以答案是：D.酶蛋白易变性。",0
+6,生物素是____的辅酶。,丙酮酸脱氢酶,丙酮酸激酶,丙酮酸脱氢酶系,丙酮酸羧化酶,D,"让我们一步一步思考,
+1. 生物素是一种辅酶，它参与糖类代谢的过程中的丙酮酸氧化途径。
+2. 丙酮酸脱氢酶是一种 catalyzes the conversion of pyruvate to acetyl-CoA, which is a key step in the citric acid cycle.
+3. 丙酮酸激酶是一种 catalyzes the conversion of acetyl-CoA to citrate, which is also a key step in the citric acid cycle.
+4. 丙酮酸脱氢酶系是一种 refers to the entire process of the citric acid cycle, including all the enzymes and steps involved.
+5. 丙酮酸羧化酶是一种 catalyzes the conversion of citrate to isocitrate, which is also a key step in the citric acid cycle.
+所以答案是：A.丙酮酸",0
+7,蛋白质不能吸收可见光，但能吸收一定波长范围内的紫外光。大多数蛋白质在280nm波长附近有一个吸收峰，这主要与蛋白质中____的紫外吸收有关。因此，可以利用紫外吸收法，根据蛋白质溶液在280nm波长的吸收值测定蛋白质浓度,碱性氨基酸,酸性氨基酸,含硫氨基酸,芳香族氨基酸,B," Correct! The answer is A. acidic amino acids.
+
+The absorption of light by proteins is related to the presence of acidic amino acids, such as aspartic acid and glutamic acid, which have a high concentration of carboxyl groups (-COOH) that can absorb light at certain wavelengths. The absorption peak of proteins is typically found at around 280nm, which is related to the presence of these acidic amino acids. Therefore, the concentration of proteins can be measured using ultraviolet (UV) absorption spectroscopy, which is based on the absorption of light by the acidic amino acids in the protein solution.",0
+8,"具5 "" -CpGpGpTpAp-3 "" 顺序的单链DNA能与下列____RNA杂交","5 "" -GpCpCpApTp3 ""","5 "" -GpCpCpUp-3 ""","5 "" -UpApCpCpGp-3 ""","5 "" -TpApCpGp-3 """,C,"让我们一步一步思考,
+1. 具5 "" -CpGpGpTpAp-3 "" 顺序的单链DNA能与下列RNA杂交，这是由于这段DNA中存在CpG对的填充，这些CpG对会被RNA polymeraseIIRecognize和包含在转录过程中。
+2. 根据选项中的序列，可以看出A和C选项中含有CpG对，而B和D选项中无CpG对。
+所以答案是：A。",0
+9,酶的非竞争性抑制剂对酶促反应的影响是____。,$ν_{max}$ 不变，$K_m$ 增大,$ν_{max}$不变，$K_m$减小,$ν_{max}$增大，$K_m$不变,$ν_{max}$减小，$K_m$不变,D," Based on the information provided, the correct answer is:
+
+B. $ν_{max}$ remains unchanged, but $K_m$ decreases.
+
+When a non-competitive inhibitor binds to an enzyme, it alter the enzyme's conformation and reduces the enzyme's activity without binding to the active site. As a result, the maximum velocity of the reaction ($ν_{max}$) remains unchanged, but the Michaelis constant ($K_m$) increases, indicating that the enzyme requires more substrate to reach the maximum velocity.",0
+10,水溶性维生素常是辅酶或辅基的组成部分，如____。,辅酶A含尼克酰胺,FAD含有吡哆醛,$FH_4$ 含有叶酸,脱羧辅酶含生物素,C,"让我们一步一步思考,
+1. 水溶性维生素常是辅酶或辅基的组成部分，如辅酶A含尼克酰胺、FAD含有吡哆醛、$FH_4$ 含有叶酸等。
+2. 脱羧辅酶含生物素不是水溶性维生素的组成部分。
+所以答案是：A.辅酶A含尼克酰胺。",0
+11,核酸变性后，可发生的效应是____。,减色效应,增色效应,失去对紫外线的吸收能力,最大吸收峰波长发生转移,B,"让我们一步一步思考,
+1. 核酸变性后，可发生的效应包括增色效应和失去对紫外线的吸收能力。
+2. 减色效应和最大吸收峰波长发生转移不是核酸变性后可能发生的效应。
+所以答案是：B 和 C",1
+12,下列____不是终止密码。,UAA,15AC,UAG,UGA,B," A.UAA 是一个终止密码。
+
+B.15AC 是一个非终止密码。
+
+C.UAG 是一个终止密码。
+
+D.UGA 是一个非终止密码。
+
+所以答案是：B。",0
+13,关于酶偶联受体的叙述，错误的是____。,酶偶联受体属于细胞表面受体,酶偶联受体的配体结合区在细胞膜内侧，酶活性区在细胞膜外侧,酶偶联受体介导的是非经典跨质膜与胞内信号途径，可以单独完成信号传递，胞内信号传递不产生经典意义上的第二信使,多数酶偶联受体具有磷酸化酶的活性,B,"让我们一步一步思考,
+1. 酶偶联受体属于细胞表面受体是错误的。酶偶联受体是一种位于细胞膜内侧的受体，不是细胞表面受体。
+2. 酶偶联受体的配体结合区在细胞膜内侧，酶活性区在细胞膜外侧是正确的。
+3. 酶偶联受体介导的是非经典跨质膜与胞内信号途径，可以单独完成信号传递，胞内信号传递不产生经典意义上的第二信使是正确的。
+4. 多数酶偶联受体具有磷酸化酶的活性是错误的。酶",0
+14,主要分布在肝脏的是____。,碱性磷酸酶,酸性磷酸酶,单胺氧化酶,谷丙转氨酶,D,"让我们一步一步思考,
+1. 主要分布在肝脏的是碱性磷酸酶。
+2. 碱性磷酸酶是一种催化磷酸化反应的酶，它将磷酸转化为磷酸盐，这种反应是肝脏的主要功能之一。
+所以答案是：A。",0
+15,对DNA片段作物理图谱分析，需要用____。,核酸外切酶,DNAseI,限制性内切酶,DNA聚合酶I,C," C.限制性内切酶。
+
+对DNA片段作物理图谱分析，需要用限制性内切酶，这种酶可以将DNA分成指定长度的 Fragment，从而进行图谱分析。而其他选项中，核酸外切酶、DNAseI和DNA聚合酶I都不是用于图谱分析的。",1
+16,____不是胆色素。,血红素,胆绿素,胆红素,胆素原族,A,"让我们一步一步思考,
+1. 胆红素是一种蛋白质，不是胆色素。
+2. 胆绿素是一种胆色素，不是胆红素。
+所以答案是：B.胆绿素。",0
+17,转录是指____,DNA的自我复制过程,RNA的自我复制过程,以DNA为模板合成RNA的过程,以RNA为模板合成DNA的过程,C,"让我们一步一步思考,
+1. 转录是指以DNA为模板合成RNA的过程，因此答案是C。",1
+18,血液非蛋白氮中含量最多的物质是____。,尿素,肌酸,蛋白质,尿酸,A,"让我们一步一步思考,
+1. 血液非蛋白氮中含量最多的物质是尿素。
+所以答案是：A.尿素。",1
+19,氨基酸分子既含有酸性的羧基(一COOH)，又含有碱性的氨基(一$NH_2$ )。前者能提供质子变成一COO一；后者能接受质子变成一$NH_3^+$ 。有的氨基酸还有可解离的侧链基团。因此，氨基酸是两性电解质。其解离状态与溶液的pH值有直接关系，当pH值等于pI时，蛋白质____,带正电荷,带负电荷,所带电荷不确定,所带正、负电荷相等,D," A. 带正电荷
+
+解释：
+
+氨基酸分子具有一个碱性的氨基(-NH2)和一个酸性的羧基(-COOH)。在溶液中，氨基酸会与溶解在水中的铵离子（NH4+)或醋离子（HCO3-)进行交换，形成质子化的氨基酸和阴离子。当溶液的pH值等于氨基酸的碱性指数（pI）时，氨基酸会带有一个正电荷。
+
+因此，选项A是正确的。",0
+20,蛋白质分子是结构极其复杂的生物大分子。有的蛋白质分子只包含一条多肽链；有的则包含数条多肽链。通常将蛋白质的结构划分为几个层次，有一种结构层次出现在一条多肽链的内部，是多肽链局部的所有原子及原子团形成的有规律的构象，该构象一般成球状结构，执行一定的功能，该结构是____,结构域,超二级结构,二级结构,三级结构,A," C. 二级结构。
+
+蛋白质的结构可以分为几个层次，其中一种是二级结构，指的是一条多肽链的内部的一个局部结构，由原子和原子团形成的有规律的构象，通常是球状结构，执行一定的功能。这种结构不同于蛋白质的三级结构和超二级结构，它们分别表示蛋白质的全体结构和局部结构。
+
+所以答案是C. 二级结构。",0
+21,蛋白质生物合成中多肽的氨基酸排列顺序取决于____。,相应tRNA的专一性,相应氨酰tR-NA合成酶的专一性,相应mRNA中核苷酸排列顺序,相应tRNA上的反密码子,C,"让我们一步一步思考,
+1. 在蛋白质生物合成中，多肽的氨基酸排列顺序取决于mRNA中核苷酸排列顺序。
+2. 相应的tRNA会与mRNA的核苷酸配对，并将氨基酸添加到蛋白质链中。
+3. 因此，选项C是正确的。
+所以答案是：C",1
+22,稀有核苷酸碱基主要见于____。,DNA,mRNA,tRNA,rRNA,C,"让我们一步一步思考,
+1. 稀有核苷酸碱基主要存在于rRNA（核糖体RNA）中。
+所以答案是：D.rRNA",0

@@ -1,0 +1,105 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,与保卫细胞的水势变化关系最密切的离子是____。,$Ca^{2+}$,$K^+$,$Cl^-$,$Mg^{2+}$,B," C. $Cl^-$.
+
+The correct answer is C. $Cl^-$. Chloride ions (Cl-) are closely related to the defense of plant cells against pathogens and abiotic stressors. They play a crucial role in the regulation of ion homeostasis and water balance in plants, and can affect the activation of defense-related genes and the formation of defense compounds. In contrast, calcium ions (Ca2+), potassium ions (K+), and magnesium ions (Mg2+) also play important roles in plant physiology, but they are not as directly related to plant defense as chloride ions.",0
+1,已经发生质壁分离的细胞，细胞的水势决定于细胞的____。,渗透势,压力势,衬质势,膨压,A," A. 渗透势。
+
+ correct answer is A. 渗透势 (osmotic potential). The osmotic potential of a cell is the pressure that drives the movement of water into or out of the cell, and it is determined by the concentration of solutes inside the cell relative to the surrounding solution. When cells undergo cellular differentiation, the concentration of solutes within the cell can change, leading to changes in the osmotic potential and ultimately affecting the cell's water balance.",1
+2,种子的萌发过程对水分的吸收速度有所不同，一般表现为____。,快—慢—快,慢—快—慢,快—慢,慢—快,A," C. 快—慢。
+
+种子的萌发过程中， initially, the seed absorbs water rapidly, but as the seedling grows, the rate of water absorption slows down. Therefore, the correct answer is C. 快—慢.",0
+3,在细胞伸长过程中，新的细胞壁物质中纤维素是在____中合成，然后分泌到细胞壁中。,细胞质膜,高尔基体,线粒体,叶绿体,A," C. 线粒体。
+
+在细胞伸长过程中，新的细胞壁物质中纤维素是在线粒体中合成，然后分泌到细胞壁中。",0
+4,微管是两种微管蛋白组成的异二聚体，这两种微管蛋白是____。,肌动蛋白，肌动蛋白结合蛋白,马达蛋白，肌球蛋白,α-微管蛋白，β-微管蛋白,动蛋白，力蛋白,C," C. α-微管蛋白，β-微管蛋白。
+
+微管是两种微管蛋白组成的异二聚体，其中α-微管蛋白和β-微管蛋白是两种主要的微管蛋白。",1
+5,在植物对逆境的适应中最为重要的植物激素是____。,细胞分裂素,乙烯,茉莉酸甲酯,脱落酸,D," C. 茉莉酸甲酯。
+
+在植物对逆境的适应中，茉莉酸甲酯是最为重要的植物激素之一。它可以刺激植物的细胞分裂、生长和发育，帮助植物适应压力和害虫等逆境因素。而其他选项中，细胞分裂素、乙烯和脱落酸都不是植物激素。",0
+6,下列四组矿质元素，哪组元素的缺素症表现为叶片缺绿?____,Fe，Cl，N，Ca,Mg，Fe，N，S,P，N，Mg，S,P，Mo，Mg，S,B," C.P，N，Mg，S 是正确答案。
+
+叶片缺绿的缺素症是由矿质元素缺乏或异常导致的，其中P、Mg、N这三种元素都是可能导致叶片缺绿的矿质元素。因此，C组矿质元素的缺素症表现为叶片缺绿。
+
+A组矿质元素中，Fe和Cl都是叶片绿色的必需元素，不可能导致叶片缺绿。
+
+B组矿质元素中，Mg和S都是叶片绿色的必需元素，但是N是叶片绿色的异常元素，可能导致叶片缺绿。
+
+D组矿质元素中，Mo和S都是叶片绿色的必需元",0
+7,在衰老的植物组织或器官中，蛋白质含量显著下降，其主要原因是____。,蛋白质周转速率降低,氨基酸的生物合成受阻,蛋白质水解酶活性增加,土壤中氮素含量下降,C," C. 蛋白质水解酶活性增加。
+
+根据中国关于plant_protection考试的单项选择题，在衰老的植物组织或器官中，蛋白质含量显著下降的主要原因是蛋白质水解酶活性增加。
+
+A. 蛋白质周转速率降低是蛋白质含量下降的一个原因，但不是唯一的原因。
+
+B. 氨基酸的生物合成受阻是蛋白质含量下降的一个原因，但不是唯一的原因。
+
+D. 土壤中氮素含量下降不是蛋白质含量下降的主要原因。",1
+8,G蛋白是由α、β、γ3种亚基构成的异三聚体，与GTP结合的活性位点在____上。,α亚基,β亚基,γ亚基,βγ亚基复合体,A," C. γ亚基。
+
+G蛋白是一种异三聚体，由α、β、γ三种亚基构成。γ亚基是G蛋白的活性位点，与GTP结合的活性位点位于γ亚基上。因此，正确的选项是C. γ亚基。",0
+9,已分化的细胞在特定情况下恢复分裂能力，重新进行细胞分裂的过程为____。,细胞分化,细胞分裂,再分化,脱分化,D," B. 细胞分裂。
+
+已分化的细胞在特定情况下恢复分裂能力，重新进行细胞分裂的过程被称为细胞分裂。这种现象被称为细胞再分裂。",0
+10,植物器官、组织或细胞在形态结构、生化组成以及生理功能上的不对称性是____。,细胞生长,细胞分化,极性,细胞全能性,C," C. 极性。
+
+植物器官、组织或细胞在形态结构、生化组成以及生理功能上存在不对称性，即它们的形态结构、生化组成和生理功能在不同的部分或细胞中存在差异。这种不对称性是植物体内部的一种自适应现象，它可以帮助植物更好地适应环境环境和生物体内部的不同需求。",1
+11,耐热性强的植物原生质蛋白质具有的特点是____。,易发生不可逆的变性与凝聚,疏水键多，二硫键少,对热稳定，疏水键和二硫键多,对热稳定，疏水键和二硫键少,C," C. 对热稳定，疏水键和二硫键多。
+
+耐热性强的植物原生质蛋白质，如热帮蛋白、热稳定蛋白等，具有对热稳定的特点，即可以在高温环境中保持稳定的三维结构和功能。这是因为这些蛋白质具有疏水键和二硫键的多，使其具有更高的热稳定性。
+
+因此，选项C是正确的答案。",1
+12,细胞在形态结构、内部代谢和生理功能上区别于原分生细胞的过程是____。,细胞生长,细胞分化,细胞脱分化,细胞再分化,B," C. 细胞脱分化。
+
+在植物细胞中，细胞脱分化是指细胞内部的组织结构和功能发生变化，导致细胞变得更加简单和缺乏特定的功能。这种过程通常发生在植物受到害虫或病菌攻击后，为了保护自己而进行的一种适应性响应。
+
+A. 细胞生长：细胞生长是指细胞的长幼分化和增殖的过程。
+
+B. 细胞分化：细胞分化是指细胞内部的组织结构和功能发生变化，导致细胞变得更加复杂和特化。
+
+D. 细胞再分化：细胞再分",0
+13,光学显微镜下呈现出的细胞结构被称为____。,显微结构,亚显微结构,超显微结构,亚细胞结构,A," C. 超显微结构。
+
+光学显微镜下呈现出的细胞结构被称为超显微结构。",0
+14,根尖中根的干细胞群是指____。,根冠,静止中心,分生组织,根毛,B," C. 分生组织。
+
+根尖中根的干细胞群指的是在根部分生的细胞群，包括根毛和分生组织。根毛是指根部分生的毛细胞，而分生组织则是指根部分生的其他细胞。因此，选项C是正确的答案。",0
+15,质膜上已知的离子通道有____。,$K^+$，$Mg^{2+}$，$Ca^{2+}$,$K^+$，$Cl^-$，$Ca^{2+}$,$K^+$，$Cl^-$，$Mg^{2+}$,$K^+$，$Zn^{2+}$，$Ca^{2+}$和$Fe^{2+}$,B," C. $K^+$, $Cl^-$, $Mg^{2+}$ 是质膜上已知的离子通道。
+
+解释：
+
+质膜是植物细胞壁中的一种离子通道，它可以负责离子的输运和泵运。质膜上已知的离子通道包括$K^+$, $Cl^-$和$Mg^{2+}$。这三种离子都是植物生长和发育中非常重要的离子，它们可以帮助植物细胞壁的发育和维持。
+
+因此，正确的选项是C. $K^+$, $Cl^-$, $Mg^{2+}$。",0
+16,把植物组织放在高渗溶液中，植物组织____。,吸水,失水,水分动态平衡,水分不变化,B," C. 水分动态平衡。
+
+把植物组织放在高渗溶液中，会使植物组织中的水分受到外界的影响，导致水分动态平衡的变化。这种情况下，植物组织会吸收外界的水分，以保持其水分含量的均衡。",0
+17,下列哪种元素的缺素症表现为植物叶尖积累过多的脲，严重出现坏死?____,Ni,Mn,Fe,Ca,A," C. Fe。
+
+根据植物生长和发育的需要，植物需要吸收许多种元素，其中包括铁元素（Fe）。铁元素是植物生长和发育的重要营养素之一，它参与植物叶尖的合成和叶绿素的 synthesis，同时也参与植物的细胞增殖和各种生物化学过程。如果植物缺乏铁元素，会导致叶尖积累过多的脲，严重出现坏死。
+
+A. Ni 是植物生长和发育中的一种重要营养素，但不是铁元素。
+
+B. Mn 是植物生长和发育中的一种营养素，但不是铁元素。
+
+D. Ca 是植物生长和发育中的一",0
+18,植物根系吸收后，在____被还原。,叶肉细胞,根组织,植物体地上部,根组织和叶肉细胞,D," Certainly! As a Chinese AI assistant, I can help you with the single-choice questions related to plant protection. Here's the correct answer to the question you provided:
+
+植物根系吸收后，在____被还原。
+
+The correct answer is B. 根组织 (root tissue).
+
+After the plant roots absorb nutrients, they are transported to the root tissue for storage and distribution to the rest of the plant. Therefore, the root tissue is the correct answer.
+
+I hope this helps! Let me know if you have any other questions.",0
+19,在高温气候条件下用冷水灌溉植物往往会引起____。,植物蒸腾加剧,植物萎蔫,植物快速吸水,植物生长加速,B," C. 植物快速吸水。
+
+在高温气候条件下，使用冷水灌溉植物可能会导致植物快速吸水，从而引起植物萎蔫。而不会导致植物蒸腾加剧或生长加速。",0
+20,高等植物花粉管向着胚珠的生长是____运动。,向光性,向化性,向重性,向触性,B," D. 向触性。
+
+高等植物花粉管向着胚珠的生长是向触性运动，因为花粉管会随着胚珠的生长而移动，以便将粉粒吸引到胚珠上，进行 оплодотворение。",0
+21,下列属于生理碱性盐的是____。,$NaNO_3$,$(NH_4)_2SO_4$,$NH_4NO_3$,$MgSO_4$,A," C. NH4NO3 是生理碱性盐。
+
+NaNO3 是碱性盐，不是生理碱性盐。
+(NH4)2SO4 是碱性盐，不是生理碱性盐。
+MgSO4 是盐基盐，不是生理碱性盐。",0

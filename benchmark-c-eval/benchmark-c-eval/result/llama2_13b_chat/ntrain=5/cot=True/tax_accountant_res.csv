@@ -1,0 +1,498 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,进行税务咨询服务的核心是____。,弄清咨询问题所涉及的税种,收集咨询问题相关的税收政策文件,分析税收政策适用条款,根据需要作必要的沟通说明,C," C. 分析税收政策适用条款
+
+为了提供高质量的税务咨询服务，核心是分析税收政策适用条款。这包括分析税法、税政法规、地方税法规等，了解税种、税率、税征、税款等方面的规定，并根据客户的具体情况，选择适用的税收政策。只有深入了解税收政策适用条款，才能提供客户化的税务咨询服务。
+
+其他选项的解释：
+
+A. 弄清咨询问题所涉及的税种：需要了解客户的业务活动和税务情况，确定需要咨询的��",1
+1,FY公司与FC机械厂均为国有企业，合资设立A有限责任公司(以下简称“A公司”)，出资比例为30%与70%。下列有关A公司董事会组成的说法中，不符合规定的是____。,董事会成员中应当有公司职工代表,董事张某任期内辞职，在新选出董事就任前，张某仍应履行董事职责,A公司董事长可由公司章程规定由小股东FY公司派人担任,FY公司和FC机械厂可通过公司章程约定不按出资比例分红,B," Based on the information provided, the answer that does not conform to the regulations is:
+
+D. FY Company and FC Mechanical Factory can appoint the chairman of the board of directors of A Company by company bylaws, regardless of the shareholding ratio.
+
+According to the Company Law of China, the board of directors of a limited liability company shall be composed of not less than three directors, and the chairman of the board of directors shall be elected by the shareholders' meeting. The company bylaws cannot deviate from the regulations stipulated in the Company Law. Therefore, option D is incorrect.
+
+The other options are all in compliance with the regulations:
+
+A. The board of directors of A Company shall have a worker representative, as stipulated in the Company Law.
+
+B. If a director resigns before the end of their term, they shall continue to perform their duties until a new director is elected.
+
+C. The chairman of the board of directors of A Company can be appointed by the company bylaws, but the appointment must be made by the shareholders' meeting.",0
+2,下列关于预约定价安排管理的表述中，正确的是____。,预约定价安排执行期满后自动失效，企业申请续签的，应当在预约定价安排执行期满之日前30日内向税务机关提出续签申请,企业申请双边预约定价安排的，应及时向省级税务机关提出谈签意向,预约定价安排适用于自企业提交正式书面申请年度当年起10个连续年度的关联交易,在预约定价安排执行期内，税务机关应当每年监控企业执行预约定价安排的情况,D," A. 预约定价安排执行期满后自动失效，企业申请续签的，应当在预约定价安排执行期满之日前30日内向税务机关提出续签申请。
+
+根据相关规定，预约定价安排执行期满后，自动失效，需要在执行期满之日前30日内向税务机关申请续签。这是正确的选项。
+
+其他选项不符合相关规定：
+
+B. 企业申请双边预约定价安排的，应及时向省级税务机关提出谈签意向。这是 incorrect，双边预约定价安排不存在。
+
+C. 预约定价安排�",0
+3,下列各项行为中，应征收个人所得税的是____。,离婚析产分割房屋产权,军人的转业费、复员费、退役金,按照国家统一规定发放的退休费、离休费,个人购买福利彩票，一次中奖收入12000元,D," C.按照国家统一规定发放的退休费、离休费应征收个人所得税。
+
+解释：
+
+* A.离婚析产分割房屋产权不属于个人所得税的对象。
+* B.军人的转业费、复员费、退役金是军方的一种抚恤政策，不属于个人所得税的对象。
+* D.个人购买福利彩票，一次中奖收入12000元是奖券投注所得，不属于个人所得税的对象。
+
+但是，根据国家统一规定，退休费、离休费是由国家统一规定的退休金、离休金，属于个人所得税的对象。",0
+4,某酒厂为增值税一般纳税人，2020年10月发放1吨自制白酒作为职工福利，同类白酒不含税售价50000元/吨，成本价35000元/吨。该酒厂上述业务当月应纳消费税____元。,7700,8700,10000,11000,D," Based on the information provided, the calculation of the consumption tax that the distillery should pay for the month can be as follows:
+
+1. Calculate the taxable amount:
+
+Taxable amount = Sales amount - Cost amount
+
+Taxable amount = 50,000 x 35,000 / 100 = 17,500 x 35,000 / 100 = 592,500
+
+2. Calculate the consumption tax:
+
+Consumption tax = Tax rate x Taxable amount
+
+Consumption tax = 10% x 592,500 = 59,250
+
+Therefore, the answer is C. 10,000.",0
+5,下列各项中，属于土地增值税征税范围的是____。,房地产出租,房地产评估增值,房地产的代建房行为,合作建房后，建成后转让的,D," According to the relevant laws and regulations, the following items are within the scope of land appreciation tax:
+
+B. Room and building assessment increase in value.
+
+Therefore, the correct answer is B. Room and building assessment increase in value.",0
+6,针对查账的顺序不同，纳税审查的方法可分为____。,顺查法和逆查法,详查法和抽查法,核对法和查询法,比较分析法和控制计算法,A," C. 核对法和查询法。
+
+纳税审查的方法可分为两类：核对法和查询法。
+
+核对法是指在纳税人的税务审查中，税务机关将纳税人的税务凭证和相关财务材料进行比对和核对，以确保纳税人的税务凭证和财务报告准确无误。
+
+查询法是指在纳税人的税务审查中，税务机关将纳税人的税务凭证和相关财务材料进行查询和检查，以确定纳税人是否有违法或不当的行为。
+
+所以，选项C是正确的。",0
+7,南和公司因长期不能清偿到期债务，向人民法院申请破产。东尚公司是南和公司的债权人，下列与东尚公司有关的事项中，正确的是____。,债权还有2个月到期，东尚公司不能申报破产债权,东尚公司可以口头向管理人申报债权,东尚公司申报债权后，就可以行使债权人的权利,东尚公司申报债权时需要提供债权申请书、债权证据材料等内容,D," Based on the information provided, the correct answer is C. East Shine Company can exercise its rights as a creditor after filing a claim.
+
+According to the information, South And Company has applied for bankruptcy, and East Shine Company is one of its creditors. As a creditor, East Shine Company has the right to file a claim with the court to assert its rights to the debt owed by South And Company. Once the claim is filed, East Shine Company can exercise its rights as a creditor, such as requesting the court to sell the debtor's assets to repay the debt.
+
+The other options are not correct:
+
+A. The claim period for East Shine Company has not expired, so it cannot file a claim yet.
+
+B. East Shine Company cannot file a claim orally, it must submit a written claim to the court.
+
+D. East Shine Company must provide supporting documents, such as the debt agreement and evidence of the debt, when filing its claim.",0
+8,对于不符合收入准则规定的合同成立的条件，企业将已收取客户的对价确认为收入的条件为____。,开具增值税专用发票,不再负有向客户转让商品的剩余义务，且已向客户收取的对价无需退回,具有商业实质,商品已经发出,B," Based on the given conditions, the correct answer is B. 不再负有向客户转让商品的剩余义务，且已向客户收取的对价无需退回.
+
+According to the relevant tax regulations, if a company receives an advance payment from a customer for a product or service that does not meet the conditions for recognizing revenue, the company should not recognize the advance payment as revenue. Instead, the company should refund the advance payment to the customer or provide the product or service as agreed.
+
+In this case, the company has already received the advance payment from the customer and has not fulfilled its obligation to provide the product or service. Therefore, the company should not recognize the advance payment as revenue and should refund the payment to the customer.
+
+The other options are not correct because:
+
+A. 开具增值税专用发票 is not a condition for recognizing revenue.
+
+C. 具有商业实质 is a general condition for recognizing revenue, but it is not relevant in this case because the company has not fulfilled its obligation to provide the product or service.
+
+D. 商品已经发出 is not a condition for recognizing revenue.",1
+9,关于税务登记的说法，错误的是____。,一般纳税人资格认定的权限，在县(市、区)税务局或同级别的税务分局,纳税人应当向其机构所在地主管税务机关申请一般纳税人资格认定,年应税销售额达到一般纳税人标准的纳税人，未申请办理一般纳税人手续的，应按销售额依照增值税税率计算应纳税额，可以抵扣进项税额，但不得使用增值税专用发票,纳税人应在领取《税务登记证》副本后和申报纳税之前，申请税种认定登记,C," Based on the information provided, the incorrect statement is:
+
+B. 纳税人应当向其机构所在地主管税务机关申请一般纳税人资格认定.
+
+The correct statement is:
+
+A. 一般纳税人资格认定的权限，在县(市、区)税务局或同级别的税务分局.
+
+According to the Tax Collection and Management Regulations of the People's Republic of China, the authority to grant general taxpayer qualification is held by the tax authorities at the county (city, district) level or above. Therefore, option A is the correct answer.",0
+10,下列各项中，属于非相关成本的是____。,机会成本,重置成本,差额成本,沉没成本,D," Non-related costs are costs that are not directly related to the main activity of the business.
+
+Based on the options provided, the non-related cost is:
+
+B. Repositioning costs
+
+Explanation:
+
+* A. Opportunity costs are the costs of missing out on other opportunities due to investing in a particular project or business. This is not a direct cost of the business.
+* C. Differential costs are the costs that differ between two or more alternatives. This is not a direct cost of the business.
+* D. Sunk costs are the costs that have already been incurred and cannot be changed. This is not a direct cost of the business.
+
+Therefore, the correct answer is B. Repositioning costs.",0
+11,根据《行政诉讼法》规定，下列关于行政诉讼二审程序的说法中，错误的是____。,二审法院可以不开庭审理,二审法院审理上诉案件，一般应当在收到上诉状之日起6个月内作出终审判决,当事人不服一审判决提起上诉的，应当在判决书送达之日起15日内提起,二审法院审理上诉案件时，应当对原审法院的裁判和被诉行政行为进行全面审查,B," Based on the Administrative Litigation Law, the correct answer is:
+
+B. Two-level courts should hear appeals within 6 months from the date of receiving the appeal statement, and the judgment should be made within 15 days after the expiration of the appeal period.
+
+The other options are incorrect:
+
+A. Two-level courts are not required to hold hearings in camera.
+
+C. The time limit for filing an appeal is 15 days from the date of receipt of the judgment, not from the date of delivery of the judgment.
+
+D. Two-level courts should not limit their review to the judgments and acts of the lower court, but should conduct a comprehensive review of the entire case.",1
+12,甲公司为工业企业，属于增值税一般纳税人。2019年取得主营业务收入为2000万元，本期发生现金折扣10万元，增值税销项税额为260万元；应收账款账户期初余额为600万元，期末余额为900万元，坏账准备的期初余额为10万元，期末余额为30万元；预收账款账户期初余额为100万元，期末余额为20万元；本期收到存货抵债减少应收账款40万元，本期发生不附追索权票据贴现利息5万元。假定不考虑其他因素，甲公司2019年度现金流量表中“销售商品、提供劳务收到的现金”项目的金额为____万元。,1825,1855,1860,1880,A," Based on the information provided, we can calculate the ""销售商品、提供劳务收到的现金"" item in 甲公司's 2019 financial statements as follows:
+
+1. Main business income: 2000万元
+2. Cash discounts: -10万元
+3. Value-added tax payable: 260万元
+4. Accounts receivable, initial balance: 600万元
+5. Accounts receivable, final balance: 900万元
+6. Allowance for doubtful accounts, initial balance: 10万元
+7. Allowance for doubtful accounts, final balance: 30万元
+8. Prepaid revenue, initial balance: 100万元
+9. Prepaid revenue, final balance: 20万元
+10. Reduction of accounts receivable due to inventory reduction: -40万元
+11. Interest income from non-trade receivables: 5万元
+
+Therefore, the ""销售商品、提供劳务收到的现金"" item in 甲公司's 2019 financial statements is:
+
+1825",0
+13,下列说法符合律师事务所及其从业人员个人所得税征收规定的是____。,兼职律师从律师事务所取得工资、薪金性质的所得，事务所在代扣代缴其个人所得税时，应先扣除税法规定的费用扣除标准,计算律师事务所经营所得时，出资律师本人的工资、薪金不得扣除,律师个人承担的按照律师协会规定参加的业务培训费用，不得扣除,受雇于律师事务所的律师从事务所取得的分成收入，应单独作为一个月的工资、薪金，扣除办案费用后缴纳个人所得税,B," Based on the information provided, the correct answer is A.
+
+According to the tax regulations, the income earned by a part-time lawyer from a law firm, including their salary and bonuses, is considered to be income from independent personal services and is subject to individual income tax. The law firm should withhold taxes on the income earned by the part-time lawyer and remit them to the tax authorities.
+
+The other options are not correct. Option B is incorrect because the law firm is not required to deduct taxes from the compensation paid to the part-time lawyer. Option C is incorrect because the cost of participating in professional training courses is not deductible from the income earned by the part-time lawyer. Option D is incorrect because the portion of the income earned by the part-time lawyer that is considered to be a bonus is not subject to separate tax withholding and remittance.",0
+14,申请人、第三人可以委托代理人参加税务行政复议，但是应当向行政复议机构提交授权委托书。下列各项中，不属于授权委托书应当载明的内容的是____。,委托事项,委托权限,委托期限,委托结果,D," C. 委托期限不属于授权委托书应当载明的内容。
+
+根据税务法的规定，申请人、第三人可以委托代理人参加税务行政复议，但是需要向行政复议机构提交授权委托书。授权委托书应当载明委托事项、委托权限、委托期限等内容。其中，委托期限指的是委托的时间限制，是指代理人的委托权限将在指定的时间内有效。
+
+因此，在选择正确的选项时，需要注意委托期限不属于授权委托书应当载明的内容。正确的选项是C。",0
+15,以下项目在计算土地增值税时，不得扣除成本费用是____。,建成后产权属于全体业主的会所,建成后无偿移交派出所用于办公的房屋,建成后有偿出售的停车场,建成后待售出租的商业用房,D," A. 建成后产权属于全体业主的会所。
+
+根据相关法规，在计算土地增值税时，不得扣除成本费用包括：
+
+* 建成后产权属于全体业主的会所（A）
+* 建成后无偿移交派出所用于办公的房屋（B）
+
+而有偿出售的停车场（C）和待售出租的商业用房（D）不是不可扣除的成本费用。",0
+16,下列关于编制银行存款余额调节表的表述中，正确的是____。,银行对账单上的金额，反映了企业可以动用的银行存款实有数额,对于未达账项，需要对企业和银行各自提供的银行存款余额进行调整,银行存款余额调节表用来核对企业和银行的记账有无错误，并作为记账依据,调节后银行存款日记账余额与银行对账单余额一定相等,B," A. 银行对账单上的金额，反映了企业可以动用的银行存款实有数额。
+
+解释：银行存款余额调节表是用来核对企业和银行的记账有无错误，并作为记账依据。它记录了企业和银行各自的银行存款余额，并且对于未达账项，需要对企业和银行各自提供的银行存款余额进行调整。因此，选项A是正确的。
+
+下面是关于银行存款余额调节表的其他信息：
+
+* 银行存款余额调节表是一个重要的记账工具，它可以帮助企业和银行��",0
+17,下列各项符合房产税规定的是____。,更换房屋附属设施和配套设施的，其更新价值计入房产原值，但不扣减原来相应旧设备和设施的价值,对居民住宅区内业主共有的经营性房产，自营的不征收房产税,对于与地上房屋相连的地下建筑，应将地下部分与地上房屋分别按照地上与地下建筑物的规定计算征收房产税,出租的地下建筑，按照出租地上房屋建筑的有关规定计算征收房产税,D," Based on the information provided, the correct answer is:
+
+A. 更换房屋附属设施和配套设施的，其更新价值计入房产原值，但不扣减原来相应旧设备和设施的价值.
+
+Explanation:
+
+According to the tax regulations, when there is an upgrade or replacement of the accessories and ancillary facilities of a residential property, the updated value of the new accessories and ancillary facilities should be added to the original value of the property, but the value of the original accessories and ancillary facilities should not be deducted.
+
+The other options are not correct because:
+
+B. The regulation does not apply to residential properties that are owned and operated by the residents in the residential area.
+
+C. The regulation does not specify how to calculate the property tax for underground buildings that are connected to above-ground buildings.
+
+D. The regulation does not apply to rental properties.",0
+18,下列各项中，不属于增量预算应遵循的假定是____。,以现有业务活动和各项活动的开支水平，确定预算期各项活动的预算数,预算费用标准必须进行调整,企业现有各项业务的开支水平是合理的，在预算期予以保持,企业现有业务活动是合理的，不需要进行调整,B," Based on the given options, the correct answer is C. 企业现有各项业务的开支水平是合理的，在预算期予以保持.
+
+The other options are not correct assumptions for the incremental budgeting method:
+
+A. 以现有业务活动和各项活动的开支水平，确定预算期各项活动的预算数 is not a correct assumption, as the incremental budgeting method does not rely on the existing expenses of the business activities.
+
+B. 预算费用标准必须进行调整 is not a correct assumption, as the incremental budgeting method does not require adjusting the budget standards.
+
+D. 企业现有业务活动是合理的，不需要进行调整 is not a correct assumption, as the incremental budgeting method assumes that the existing business activities are not optimal and need to be adjusted.",0
+19,下列有关或有事项的表述中，正确的是____。,清偿因或有事项而确认的负债所需支出全部或部分预期由第三方补偿时，补偿金额在很可能收到时才能作为资产单独确认,对于或有事项既要确认或有负债，也要确认或有资产,对固定资产计提折旧不属于或有事项,或有事项应确认为预计负债,C," A. 清偿因或有事项而确认的负债所需支出全部或部分预期由第三方补偿时，补偿金额在很可能收到时才能作为资产单独确认。
+
+解释：
+
+1. 清偿因或有事项而确认的负债所需支出，包括评估损害的费用和其他相关的支出。
+2. 这些支出的补偿金额可能会在未来得到补偿，但是在确定资产单独时，只能按照预计的补偿金额进行计算。
+3. 因此，或有事项而确认的负债所需支出应该在资产单独确认时单独计算，并且需要标注为“预计负债”。
+",0
+20,关于增值税的销售额，下列说法不正确的是____。,劳务派遣服务，可以选择差额纳税,航空运输企业的销售额不包括代收的机场建设费,旅游服务，一律以取得的全部价款和价外费用为销售额,经纪代理服务，以取得的全部价款和价外费用，扣除向委托方收取并代为支付的政府性基金或者行政事业性收费后的余额为销售额,C," A. 劳务派遣服务，可以选择差额纳税。
+
+根据《增值税法》的规定，劳务派遣服务的销售额应当包括差额纳税。但是，根据现有法律法规，劳务派遣服务 provider可以选择不纳税，这是不正确的。
+
+其他选项都是正确的：
+
+B. 航空运输企业的销售额不包括代收的机场建设费。
+
+C. 旅游服务，一律以取得的全部价款和价外费用为销售额。
+
+D. 经纪代理服务，以取得的全部价款和价外费用，扣除向委托方收取",0
+21,根据行政处罚法律制度的规定，下列关于处罚与教育相结合原则的说法中，正确的是____。,处罚只是手段而不是目的,处罚与教育相结合意味着可以以罚代刑,行政机关未责令当事人限期改正违法行为即作出行政处罚的，该行政处罚程序违法，行政处罚行为无效,行政机关未责令当事人限期改正违法行为即作出行政处罚的，该行政处罚程序不违法，但是该处罚行为为可撤销的行政行为,A,"根据行政处罚法律制度的规定，下列关于处罚与教育相结合原则的说法中，正确的是：
+
+A. 处罚只是手段而不是目的。
+
+根据行政处罚法律制度的规定，处罚是指对违法行为的强制性刑罚，其目的是使当事人改正违法行为，保护社会公共利益。因此，处罚只是手段而不是目的。
+
+B. 处罚与教育相结合意味着可以以罚代刑。
+
+该选项错误。行政处罚法律制度不允许以罚代刑。
+
+C. 行政机关未责令当事人限期改正违法行为即作出行政处罚的，该行政处罚程序违法，行政处罚行为无效。
+
+该",0
+22,甲公司2019年3月31日发现2018年度多计管理费用200万元，并进行了2018年企业所得税申报，甲公司适用企业所得税税率25%，并按净利润的10%提取法定盈余公积。假设甲公司2018年度财务报表于2019年3月10日对外报出，且当年度企业所得税申报的应纳税所得税额大于零，则下列甲公司对此项重要前期差错进行更正的会计处理中正确的是____。,调减2019年度当期管理费用200万元,调增2019年当期未分配利润150万元,调减2019年年初未分配利润135万元,调增2019年年初未分配利润135万元,D," based on the information provided, the correct answer is C. 调减2019年年初未分配利润135万元.
+
+Here's the explanation:
+
+1. The company discovered an error in the management fees for 2018, which were overstated by 200 million yuan.
+2. The company has already filed its 2018 enterprise income tax return and paid the tax due, based on the incorrect amount of management fees.
+3. To correct the error, the company should reduce the amount of management fees for 2019, since the fees for 2018 were overstated.
+4. The reduction in management fees for 2019 should be based on the amount of the error, which is 200 million yuan.
+5. The reduction in management fees for 2019 should be made in the current period, which is the first quarter of 2019.
+6. The reduction in management fees for 2019 should be treated as a prior period error, which should be reflected in the current period's financial statements.
+
+Therefore, the correct answer is C. 调减2019年年初未分配利润135万元.",0
+23,购置新建房的城镇土地使用税纳税义务发生时间为____。,自房屋交付使用之次月起,自办理房产证之次月起,自签订房屋买卖合同之次月起,自房屋竣工验收之次月起,A," According to the Urban Land Use Tax Law of China, the taxable period for urban land use tax on newly-purchased residential land for construction of a new house begins from the date of signing the property ownership certificate (B).
+
+Therefore, the correct answer is B. 自办理房产证之次月起 (from the date of obtaining the property ownership certificate).
+
+Here's a brief explanation of each option:
+
+A. 自房屋交付使用之次月起 (from the date of delivery of the house) - This option is not correct because the taxable period begins from the date of obtaining the property ownership certificate, not from the date of delivery of the house.
+
+C. 自签订房屋买卖合同之次月起 (from the date of signing the contract for the sale and purchase of the house) - This option is not correct because the taxable period begins from the date of obtaining the property ownership certificate, not from the date of signing the contract.
+
+D. 自房屋竣工验收之次月起 (from the date of completion of the house and acceptance by the buyer) - This option is not correct because the taxable period begins from the date of obtaining the property ownership certificate, not from the date of",0
+24,甲公司2019年年度财务报告经董事会批准于2020年4月20日报出。甲公司在2020年1月1日至4月20日之间发生的下列事项中，属于资产负债表日后调整事项的是____。,2020年3月10日，法院判决某项诉讼败诉，并需支付赔偿金额80万元，甲公司在2019年年末已经确认预计负债65万元,2020年2月10日发生产品销售退回，该批产品系2020年1月对外销售,2020年2月18日董事会提出资本公积转增资本方案,2020年3月18日公司仓库发生火灾导致存货部分毁损,A," based on the information provided, the correct answer is A. 2020年3月10日，法院判决某项诉讼败诉，并需支付赔偿金额80万元，甲公司在2019年年末已经确认预计负债65万元.
+
+This is an adjusting event because the court judgment is a post-balance sheet event that affects the company's balance sheet as of the end of 2019. The company had already confirmed its estimated liabilities as of the end of 2019, and the court judgment is a new liability that needs to be recorded.
+
+The other options are not adjusting events:
+
+B. 2020年2月10日发生产品销售退回 is a post-balance sheet event that does not affect the balance sheet as of the end of 2019.
+
+C. 2020年2月18日董事会提出资本公积转增资本方案 is a management decision that does not affect the balance sheet as of the end of 2",1
+25,下列关于外币交易会计处理的表述中，错误的是____。,外币交易在初始确认时，可以采用按照系统合理的方法确定的、与交易日即期汇率近似的汇率折算,资产负债表日，对于外币货币性项目应当根据汇率变动计算汇兑差额作为财务费用，无需再计提减值准备,外币交易应当在初始确认时，采用交易发生日的即期汇率或近似汇率将外币金额折算为记账本位币金额,资产负债表日，对以历史成本计量的外币非货币性项目，仍采用交易发生日的即期汇率折算，不改变记账本位币金额,B," The incorrect statement among the options is:
+
+B. 资产负债表日，对于外币货币性项目应当根据汇率变动计算汇兑差额作为财务费用，无需再计提减值准备.
+
+The correct statement is:
+
+C. 外币交易应当在初始确认时，采用交易发生日的即期汇率或近似汇率将外币金额折算为记账本位币金额.
+
+The reason is that the correct statement is consistent with the principle of ""earning and recognizing revenue in the period in which they are earned"", and it is also consistent with the accounting treatment for foreign currency transactions. The incorrect statement, however, is not consistent with the principle of ""earning and recognizing revenue in the period in which they are earned"", and it may lead to the distortion of financial statements.
+
+Therefore, the correct answer is C.",0
+26,下列消费品，属于消费税征税范围的是____。,合成宝石首饰,洗发水,大客车,轮胎,A," A.合成宝石首饰属于消费税征税范围。
+
+根据中国的消费税法规，消费税包括“生活用品、休闲用品、文化用品、日用品等”，而合成宝石首饰属于生活用品类别，因此属于消费税征税范围。
+
+而B.洗发水、C.大客车、D.轮胎等不属于消费税征税范围，因为它们不属于生活用品或日用品类别。",1
+27,下列关于车船税的说法中，正确的是____。,拖拉机属于车船税的征收范围,扣缴义务人代扣代缴车船税的，车辆登记地主管税务机关不再征收,境内单位和个人将船舶出租到境外的，不征收车船税,客货两用车依照乘用车的标准计征车船税,B," A. 拖拉机属于车船税的征收范围。
+
+根据中国税法，车船税是对在道路上运行的自动车、拖拉机、摩托车、汽车、大型客货车、大型拖车、特种车等车辆征收的税金。而拖拉机确实属于车船税的征收范围。
+
+其他选项不正确：
+
+B. 扣缴义务人代扣代缴车船税的，车辆登记地主管税务机关不再征收。这是关于代缴税务的，而不是车船税。
+
+C. 境内单位和个人将船舶出租到境外的，不征收车船�",0
+28,在税务行政复议中，不可以达成和解和调解的情形是____。,行政奖励,行政审批,确定应税所得率,核定税额,B," C. 确定应税所得率。
+
+在税务行政复议中，如果不能达成和解和调解，则会进入审批程序。在这个过程中，税务机关将对纳税人的税务问题进行审批和决定，并确定纳税人应税所得率。因此，不能达成和解和调解的情形是确定应税所得率。
+
+A. 行政奖励是指纳税人因为税务问题的解决而得到的奖励或折扣。
+
+B. 行政审批是指税务机关对纳税人的税务问题进行审批和决定的过程。
+
+D. 核定税额是指纳税人应付的税额。",0
+29,申请人和被申请人在行政复议机关作出行政复议决定以前可以达成和解，行政复议机关也可以调解，下列选项中不可以和解与调解的是____。,确定应税所得率,行政赔偿,行政奖励,征收滞纳金,D," According to the Administrative Procedure Law of the People's Republic of China, the parties to an administrative dispute can reach a settlement before the administrative reconsideration decision is made, and the administrative reconsideration authority can also mediate the dispute. However, the following cannot be settled through mediation or agreement:
+
+D. The collection of fines.
+
+Therefore, the correct answer is D. The collection of fines.",1
+30,下列关于售后回购交易的会计处理符合企业会计准则规定的是____。,企业因存在与客户的远期安排而负有回购义务或企业享有回购权利的，回购价格低于售价，应当视为租赁交易,企业到期未行使回购权利的，应当在该回购权利到期时终止确认金融负债，但无需确认收入,企业负有应客户要求回购商品义务的，客户具有行使该要求权重大经济动因的，企业应当将售后回购作为融资交易,企业负有应客户要求回购商品义务的，客户不具有行使该要求权重大经济动因的，应当将其作为正常销售交易,A," A. 售后回购交易的会计处理应当符合企业会计准则规定，根据中国会计准则（GB/T 4549-2017）第60条，企业因存在与客户的远期安排而负有回购义务或企业享有回购权利的，回购价格低于售价，应当视为租赁交易。
+
+B、C、D选项都不正确。
+
+B选项：到期未行使回购权利的，应当在该回购权利到期时终止确认金融负债，但无需确认收入，不符合会计准则规定。
+
+C选项：企业负有应客户要求回购商品义务的，客户具有行使该要求权重大经济动因的，应当将",1
+31,M公司资金周转出现困难，其法定代表人甲向好友乙借款100万元，甲把自己的宝马汽车抵押给乙，抵押合同中约定若甲不能按时还钱，甲的宝马汽车归乙所有。下列说法正确的是____。,该抵押未登记，乙的抵押权未生效,甲、乙的约定无效,甲、乙的约定经登记才有效,甲应把自己的汽车交付给乙，抵押权才生效,B," Based on the information provided, the correct answer is:
+
+C. 甲、乙的约定经登记才有效
+
+Explanation:
+
+1.  According to the information provided, 甲 and 乙 have a written agreement that 甲 will lend 100 million yuan to 乙, and 甲 will pledge his BMW car as collateral.
+2.  However, the pledge of the BMW car as collateral is not legally effective without proper registration. In China, the pledge of movable property as collateral must be registered with the relevant authorities to be legally binding.
+3.  Therefore, the agreement between 甲 and 乙 is not legally effective until the pledge of the BMW car is properly registered. Once the pledge is registered, the collateral will be legally binding, and 甲 will have the right to reclaim the car if 乙 fails to repay the loan.
+4.  Option A is incorrect because the pledge of the BMW car is not legally effective without proper registration.
+5.  Option B is incorrect because the agreement between 甲 and 乙 is not void ab initio, but rather it is invalid due to the lack of proper registration.
+6.  Option D is incorrect because 甲",0
+32,甲、乙、丙成立一家科贸有限公司，约定公司注册资本100万元，甲、乙、丙各按20%、30%、50%的比例出资。甲、乙缴足了出资，丙仅实缴30万元。公司章程对于红利分配没有特别约定。当年年底公司进行分红。对此，下列说法中正确的是____。,丙只能按30%的比例分红,应按实缴注册资本80万元，由甲、乙、丙按各自的实际出资比例分红,由于丙违反出资义务，其他股东可通过决议取消其当年分红资格,丙有权按50%的比例分红，但应当承担未足额出资的违约责任,B," Based on the information provided, the correct answer is B. 甲、乙、丙按各自的实际出资比例分红.
+
+According to the company's articles of association, there is no specific provision for distributing profits among the shareholders. Therefore, the shareholders should be entitled to receive dividends based on their actual investment in the company.
+
+Option A is incorrect because there is no provision in the articles of association that restricts 丙's dividend entitlement to 30%.
+
+Option C is also incorrect because there is no provision in the articles of association that allows the other shareholders to cancel 丙's dividend rights.
+
+Option D is incorrect because there is no provision in the articles of association that allows 丙 to receive a higher dividend entitlement than the other shareholders.",1
+33,应税固体废物环境保护税的计税依据是____。,固体废物的综合利用量,固体废物的排放量,固体废物的产生量,固体废物的贮存量,B," C.固体废物的产生量是应税固体废物环境保护税的计税依据。
+
+根据《环境保护税法》的规定，应税固体废物环境保护税是根据固体废物的产生量来征收的。固体废物的产生量包括生产过程中的废物和废弃物，以及废弃的设备和设备零部件等。
+
+而其他选项如下：
+
+A. 固体废物的综合利用量不是应税固体废物环境保护税的计税依据。
+
+B. 固体废物的排放量不是应税固体废物环境保",0
+34,某卷烟批发企业在2020年10月发生下列业务：批发销售给卷烟零售企业卷烟10标准箱，取得不含税收入150万元；批发销售给卷烟批发商卷烟5标准箱，取得不含税收入65万元。该企业当月应纳消费税____万元。,16.5,16.75,23.65,24.03,B," Based on the information provided, the calculation of the consumption tax payable by the tobacco wholesale company in October 2020 is as follows:
+
+1. Calculate the total sales revenue for the month:
+
+10 standard boxes of cigarettes sold to retailers x 100,000 yuan per box = 1,000,000 yuan
+
+5 standard boxes of cigarettes sold to wholesalers x 100,000 yuan per box = 500,000 yuan
+
+Total sales revenue for the month = 1,500,000 yuan
+
+2. Calculate the consumption tax payable on the sales revenue:
+
+Consumption tax rate = 16%
+
+Consumption tax payable = 16% x 1,500,000 yuan = 240,000 yuan
+
+Therefore, the answer is D. 240,000 yuan.",0
+35,关于财产拍卖的个人所得税处理，下列说法正确的是____。,作者将自己的文字作品手稿原件拍卖取得的所得，按“稿酬所得”项目计算缴纳个人所得税,计算个人财产拍卖的应纳税所得额时，纳税人实际支付的拍卖费不得扣除,拍卖祖传收藏的财产，可以税前扣除的财产原值为其收藏该拍卖品而发生的费用,经认定的海外回流文物的财产原值无法确定的，按转让收入的3%征收率计税,C," A. 作者将自己的文字作品手稿原件拍卖取得的所得，按“稿酬所得”项目计算缴纳个人所得税。
+
+根据个人所得税法，作者的文字作品手稿原件拍卖所得应该按“稿酬所得”项目计算缴纳个人所得税。这种类型的收入属于自由职业收入，不属于固定资产收入或其他收入。
+
+B. 计算个人财产拍卖的应纳税所得额时，纳税人实际支付的拍卖费不得扣除。
+
+在计算个人财产拍卖的应纳税所得额时，纳税人不能扣除实际支付的拍卖费。这是因",0
+36,某县生猪屠宰主管部门强制该县50户养猪农民养殖1号猪，并对其他品种的生猪将不予屠宰。对于此行为，下列说法正确的是____。,由于该行为属于普遍约束力的决定、命令，属于行政诉讼不受理的案件范围,该行为是行政机关为作出行政行为而实施的过程性行政行为，因此不具可诉性,该行为是具体行政行为，具有可诉性,该行为是国家行为，属于行政诉讼不受理的案件范围,C," Based on the information provided, the correct answer is C. 该行为是具体行政行为，具有可诉性.
+
+The county government's decision to require 50 households of pig farmers to raise a certain breed of pig and not slaughter other breeds of pigs is a specific administrative act that has a direct impact on the farmers. As a result, the farmers have the right to challenge this decision through administrative litigation.
+
+Option A is incorrect because the decision is not a general constraint on the farmers, but rather a specific requirement that affects only a certain group of farmers.
+
+Option B is incorrect because the decision is not a procedural matter, but rather a substantive one that has a direct impact on the farmers.
+
+Option D is incorrect because the decision is not a national-level act, but rather a local government decision that affects only a specific group of farmers.",1
+37,下列各项中，不属于税务行政诉讼目的的是____。,维护和监督税务机关依法行使行政职权,保证税法的公平、公正,保护纳税人、扣缴义务人等当事人的合法权益,保证人民法院正确、及时审理税务行政案件,B," C.保护纳税人、扣缴义务人等当事人的合法权益不属于税务行政诉讼目的。
+
+税务行政诉讼主要包括：
+
+* A.维护和监督税务机关依法行使行政职权
+* D.保证人民法院正确、及时审理税务行政案件
+
+而保护纳税人、扣缴义务人等当事人的合法权益则是税务行政管理的重要内容，不是税务行政诉讼的目的。",0
+38,下列支出不能作为长期待摊费用的是____。,固定资产的大修理支出,租入固定资产的改建支出,外购房屋发生的装修费用,已足额提取折旧的固定资产的改建支出,C," C. 外购房屋发生的装修费用不能作为长期待摊费用。
+
+长期待摊费用是指由于业务活动而产生的费用，而不是由于外部因素而导致的费用。外购房屋发生的装修费用是由于房屋的购买而导致的费用，而不是由于业务活动而导致的费用，因此不能作为长期待摊费用。
+
+其他选项都是可以作为长期待摊费用的：
+
+A. 固定资产的大修理支出可以作为长期待摊费用，因为这些支出是由于固定资产的使用而导致的。
+
+B. 租入固定资产的改建支出也可以作为长期待摊费用",1
+39,下列凭证中，需要计算缴纳印花税的是____。,无息、贴息贷款合同,新设立的资金账簿,财产所有人将财产赠给学校所立的书据,施工单位分包给其他施工单位的分包合同,D," A. 无息、贴息贷款合同
+
+根据《税务法》第3条第2款，缴纳印花税的对象包括无息、贴息贷款合同。这两种合同都是无息的，因此需要计算缴纳印花税。
+
+B.新设立的资金账簿不需要计算缴纳印花税，因为新设立的资金账簿不是无息的。
+
+C.财产所有人将财产赠给学校所立的书据不需要计算缴纳印花税，因为这是一种无息的赠与。
+
+D.施工单位分包给其他施工单位的分包合同不需要计算缴纳印花税，因为这是一种经营性财务交易。",0
+40,甲公司某零件年需要量为2000件，每次订货成本为30元，单位储存成本为0.75元/件。按照经济订货量进货，下列计算结果中错误的是____。,经济订货量为400件,年订货次数为5次,总订货成本为300元,与进货批量相关的总成本为300元,C," Based on the given information, the incorrect calculation is:
+
+B. 年订货次数为5次
+
+The correct calculation for the number of purchases per year is:
+
+2000 pieces / 30 pieces per purchase = 67 purchases per year (round down to 65 purchases per year)
+
+Therefore, the incorrect answer is B. 年订货次数为5次 (5 purchases per year is too low).
+
+The correct answers are:
+
+A. 经济订货量为400件 (400 pieces per purchase)
+
+C. 总订货成本为300元 (300 yuan per purchase)
+
+D. 与进货批量相关的总成本为300元 (300 yuan per purchase)",0
+41,关于土地增值税的清算，下列说法错误的是____。,销售合同所载商品房面积与实际测量面积不一致并在清算前已补或退房款的，在计算土地增值税时应予调整,未全额开具商品房销售发票的，按照销售合同所载金额及其他收益确认收入,未开具商品房销售发票的，按照实际收取金额确认收入,已全额开具商品房销售发票的，按照发票所栽金额确认收入,C," A. 销售合同所载商品房面积与实际测量面积不一致并在清算前已补或退房款的，在计算土地增值税时应予调整。
+
+解释：在清算土地增值税时，需要按照实际的商品房面积进行计算，不能只按照销售合同所载的面积进行计算。如果销售合同所载的面积与实际测量面积不一致，并且在清算前已补或退房款的，则需要对面积进行调整。
+
+其他选项都是正确的：
+
+B. 未全额开具商品房销售发票的，按照销售合同所载金额及其他收益确认收入。
+
+C. 未开��",0
+42,2020年5月10日，税务机关在检查某公司的纳税情况过程中，发现该公司2019年的业务存在关联交易，少缴纳企业所得税30万元。该公司于2020年5月31日补缴了该税款，并按规定提供了同期资料及有关资料。已知2019年12月31日中国人民银行公布的一年期人民币贷款年利率为6%。税务机关对该公司补缴税款应加收利息____万元。,1.8,1.95,3.3,3.6,A," Based on the information provided, we can calculate the interest on the unpaid tax as follows:
+
+1. First, we need to calculate the number of days the tax was unpaid:
+
+2020年5月31日 - 2019年12月31日 = 182 天
+
+2. Next, we need to calculate the interest on the unpaid tax using the one-year loan interest rate published by the People's Bank of China on December 31, 2019, which was 6%:
+
+182 天 \* 6% / 365 天 = 0.182
+
+So the interest on the unpaid tax is 0.182 x 30,000,000 = 5,460,000.
+
+Therefore, the correct answer is:
+
+D. 3.6
+
+Note that the interest is calculated based on the number of days the tax was unpaid, and not on the amount of the tax itself.",0
+43,关于消费税从价定率计税销售额，下列说法正确的是____。,金银首饰包装费不计入计税销售额,消费税计税销售额包括增值税,白酒包装物押金收取时不计入计税销售额,高档化妆品品牌使用费应计入计税销售额,D," Based on the information provided, the correct answer is:
+
+B. 消费税计税销售额包括增值税.
+
+Explanation:
+
+1. 金银首饰包装费不计入计税销售额 (A) is incorrect. According to the current consumption tax law, the taxable amount of consumption tax includes the taxable amount of the main product and the taxable amount of any packaging or container fees.
+2. 白酒包装物押金收取时不计入计税销售额 (C) is incorrect. The taxable amount of consumption tax includes the taxable amount of the main product and any packaging or container fees, regardless of whether they are collected or not.
+3. 高档化妆品品牌使用费应计入计税销售额 (D) is incorrect. The taxable amount of consumption tax includes the taxable amount of the main product, but does not include any usage fees for luxury cosmetic brands.
+
+Therefore, the correct answer is B. 消��",0
+44,2020年10月，为响应环保节能号召，陈某从汽车4S店(增值税一般纳税人)购买一辆新能源汽车，支付不含税价款150000元。另支付汽车4S店代办保险费2000元，代办车辆牌照费300元，代收款项4S店未开具发票。陈某应纳车辆购置税____元。,0,10500,15000,15203.54,A," based on the information provided, Chen purchased a new energy car from a car 4S store with a price of 150,000 yuan, and paid an additional 2,000 yuan for insurance and 300 yuan for vehicle registration. The car 4S store did not issue a receipt.
+
+According to the relevant regulations, the taxable amount of the car purchase is 150,000 yuan, and the tax rate is 10%. Therefore, Chen should pay 15,000 yuan in car purchase tax.
+
+So the answer is B. 10,500.",0
+45,某供热企业为增值税一般纳税人，2020年10月取得不含税供热收入860万元，其中向居民个人收取120万元，当月外购原材料取得增值税专用发票注明税额70万元。该企业2020年10月可以抵扣的进项税额为____万元。,15.13,24.9,28.94,60.23,D," based on the information provided, the company can deduct the following taxes:
+
+1. Value-added tax (VAT) paid on purchases of raw materials: 70,000 yuan (note: this is the amount specified in the special VAT invoice)
+2. VAT paid on sales to residents: 120,000 yuan
+
+Total deductible taxes: 190,000 yuan
+
+Therefore, the company's tax deduction for October 2020 is:
+
+A. 15,130 yuan (190,000 yuan - 174,870 yuan)
+
+So the correct answer is A. 15,130 yuan.",0
+46,境外旅客购物离境退税的方式包括现金退税和银行转账退税两种方式。自行选择退税方式时，退税额应未超过____元。,500,1000,5000,10000,D," According to the information provided, the two methods for foreign tourists to refund the consumption tax they have paid in China are cash refund and bank transfer refund. The cash refund should not exceed 500 yuan, and the bank transfer refund should not exceed 1000 yuan. Therefore, the correct answer is:
+
+B. 1000",0
+47,下列转让定价方法中，适用于所有关联交易的是____。,可比非受控价格法,成本加成法,交易净利润法,利润分割法,A," C. 交易净利润法是适用于所有关联交易的转让定价方法。
+
+交易净利润法是一种基于净利润的转让定价方法，它将关联交易的净利润分配给各个关注方，并且可以考虑到不同关注方之间的关系和权益。这种方法适用于所有关联交易，包括合伙人、股东、伙伴等。
+
+而其他选项如下：
+
+A. 可比非受控价格法是一种基于市场价格的转让定价方法，适用于不受控制的交易。
+
+B. 成本加成法是一种基于成本的转让定价方法，适用于具有明确成本的交易。
+
+D.",0
+48,某企业为增值税一般纳税人，2021年6月从某花木栽培公司手中购入花卉1100盆，取得的专用发票上注明价款为110580元。该企业将1/4用于赠送给某节日庆典，其余全部卖给客户取得产品不含税销售额705000元。则该企业当月应纳增值税税额为____元。,59442,91236.2,107824.6,74647.8,D," based on the information provided, the calculation of the value-added tax (VAT) payable by the company can be done as follows:
+
+1. Calculate the taxable amount:
+
+Taxable amount = Total amount paid for the flowers - (1/4) of the amount used for the festival celebration
+
+Taxable amount = 110580 - (110580 / 4)
+
+Taxable amount = 110580 - 27645
+
+Taxable amount = 82935
+
+2. Calculate the VAT payable:
+
+VAT payable = Taxable amount x VAT rate
+
+VAT payable = 82935 x 16%
+
+VAT payable = 13052.8
+
+Therefore, the company's VAT payable for the month is 13052.8.
+
+The answer is B.91236.2.",0

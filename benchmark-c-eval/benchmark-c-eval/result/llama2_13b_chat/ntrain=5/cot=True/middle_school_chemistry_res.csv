@@ -1,0 +1,176 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,物质的性质决定物质的用途，下列物质的用途与化学性质相关的是____,铜丝用作导线,金刚石用于切割玻璃,干冰用于人工降雨,熟石灰用于改良酸性土壤,D," A. 铜丝用作导线，与铜的电阻性质相关。铜是一种具有良好电阻性的金属，因此可以用作导线， transmit electricity with minimal loss.
+
+B. 金刚石用于切割玻璃，与金刚石的硬度相关。金刚石是一种非常硬的材料，因此可以用于切割玻璃和其他硬物。
+
+C. 干冰用于人工降雨，与干冰的潜在能力相关。干冰是一种可以吸收和存储水的材料，因此可以用于人工降雨。
+
+D. 熟石灰用于改良酸性土壤，与熟石灰的基性性质相关。熟石灰是一种具有基性性质的材料，可以",0
+1,化学与生产、生活密切相关，下列说法错误的是____,人体缺碘会引起贫血,碳酸氢铵（$NH_4HCO_3$）是一种氮肥,炒菜时油锅着火，用锅盖盖灭,铁制品表面刷漆可防止生锈,A,"让我们一步一步思考,
+1. 分析选项：
+(A) 人体缺碘会引起贫血是正确的，碘是人体需要的一种微量元素，缺乏碘会导致血液中红细胞 COUNT 减少，引起贫血。
+(B) 碳酸氢铵（$NH_4HCO_3$）是一种氮肥是错误的，碳酸氢铵是一种氨基酸，不是氮肥。
+(C) 炒菜时油锅着火，用锅盖盖灭是错误的，用锅盖盖灭可以防止油锅着火，但不能防止炒菜中夹带的杂谱物质渗入",0
+2,空气是人类生存所必需的重要资源，空气中最多的气体是____,$\text{N}_2$,$\text{O}_2$,$\text{CO}_2$,$\text{H}_2 \text{O}$,A," A. $\text{N}_2$
+
+空气中最多的气体是氮气（N2），它占空气的约78%。而其他气体如氧气（O2）、二氧化碳（CO2）和水蒸气（H2O）也是重要的组成部分。",1
+3,推理是学习化学的重要方法之一，但盲目地类摧又可能得出错误结论。下列类推正确的是____,硫和氧气的反应既是氧化反应也是化合反应，则物质和氧气的反应均是化合反应,一般情况下，合金的熔点和硬度都比组成合金的纯金属的高,碱的溶液能使酚酞溶液变红，但能使酚酞溶液变红的溶液不一定是碱的溶液,锌能与稀硫酸反应放出氢气，则铜也能与稀硫酸反应放出氢气,C," A. 硫和氧气的反应并不是氧化反应和化合反应，而是一种硫酸化反应。物质和氧气的反应也是硫酸化反应，而不是化合反应。
+
+B. 合金的熔点和硬度不一定高于组成合金的纯金属，因为合金中的其他元素可能会导致熔点和硬度降低。
+
+C. 碱的溶液可能会使酚酞溶液变红，但不一定是碱的溶液。这种现象可能由于碱和酚酞的反应制备出新的化合物而导致的。
+
+D. 锌不能与稀硫酸反应放出氢气，因为硫酸不能与锌反应。铜也不能直接与稀硫�",0
+4,2022年2月4日，北京冬奥会火炬首次采用“绿氢”作为火炬燃料，其储存采用了高压储气的方式。下列关于该储气过程的说法正确的是____,氢分子的体积变小,氢分子的质量变小,氢分子的数目变少,氢分子间的间隔变小,D," A. 氢分子的体积变小。
+
+在高压储气过程中，氢分子的体积会减小，这是因为高压状况下，氢分子会受到更强的吸引力，导致它们更加密集，体积减小。
+
+B. 氢分子的质量变小是错误的，因为氢分子的质量不变。
+
+C. 氢分子的数目变少是错误的，因为高压储气过程中，氢分子数目不变。
+
+D. 氢分子间的间隔变小是错误的，因为高压状况下，氢分子间的间隔并没有变小。",0
+5,化学与环境保护、人体键康息息相关。下列叙述错误的是____,天然气是比较清洁的化石燃料,研发高效低毒农药有助于保障粮食安全,生活污水集中处理达标后排放,蒸煮能完全清除霉变食物中的有害物质,D," A. 天然气是比较清洁的化石燃料。
+
+ incorrect.
+
+天然气是一种自然存在的气体，但它并不是一种清洁的化石燃料。因为天然气中含有许多杂質和污染物，如硫、碳氢化合物、氮等，这些物质可能会对人体和环境造成危害。
+
+其他选项都是正确的：
+
+B. 研发高效低毒农药有助于保障粮食安全。
+
+C. 生活污水集中处理达标后排放。
+
+D. 蒸煮能完全清除霉变食物中的有害物质。",0
+6,2022年6月5日是第51个世界环境日，中国主题为“共建清洁美丽世界”，下列措施与该主题不相符的是____,绿色出行，积极践行“低碳生活”,用布袋代替塑料袋，减少“白色污染”,植树造林，努力营造“绿水青山”,大量开采利用化石燃料，缓解“能源危机”,D," A. 绿色出行，积极践行“低碳生活”。
+
+中国在2022年6月5日的世界环境日主题为“共建清洁美丽世界”，主要强调保护环境和改善生活质量，而不是大量开采化石燃料。而“绿色出行”和“低碳生活”是减少碳足印和保护环境的重要方式。因此，这两个选项不符合主题。
+
+B. 用布袋代替塑料袋，减少“白色污染”。
+
+使用布袋代替塑料袋可以减少塑料污染，保护环境，符合主题。
+
+C. 植树造林，努力营造“绿水青山”",0
+7,下列成语中不涉及化学变化的是____,星火燎原,披荆斩棘,死灰复燃,百炼成钢,B," C. 死灰复燃。
+
+这句成语表达了“死的事物可以再次燃烧”的意思，不涉及化学变化。
+
+A. 星火燎原是指一种能够燃烧极具有热力的物质，例如煤炭。
+
+B. 披荆斩棘是指用荆棘披过的物品，表达出物品的硬度和不朽性。
+
+D. 百炼成钢是指通过多次炼制，使铁 Metal become pure and strong，表达出物品的高质量和硬度。",0
+8,逻辑推理是学习化学常用的思维方法，下列推理正确的是____,物质燃烧都能放热，能放热的化学反应都是燃烧,有机化合物都含有碳元素，则含有碳元素的化合物都是有机物,碱性溶液可以使石蕊溶液变蓝，则能使石蕊溶液变蓝的溶液都显碱性,中和反应生成盐和水，则生成盐和水的反应都是中和反应,C," Logical reasoning is a commonly used thinking method in chemistry, and the correct answer is:
+
+C. 碱性溶液可以使石蕊溶液变蓝，则能使石蕊溶液变蓝的溶液都显碱性.
+
+Explanation:
+
+A. 物质燃烧都能放热，能放热的化学反应都是燃烧 is not correct. While combustion reactions do release heat, not all chemical reactions that involve heat are combustion reactions.
+
+B. 有机化合物都含有碳元素，则含有碳元素的化合物都是有机物 is not correct. While many organic compounds do contain carbon, not all compounds that contain carbon are organic.
+
+D. 中和反应生成盐和水，则生成盐和水的反应都是中和反应 is not correct. While neutralization reactions do produce salt and water, not all reactions that produce salt and water are neutralization reactions.
+
+Therefore, the correct answer is C. ",1
+9,$Na_2CO_3$俗称纯碱，侯德榜为纯碱工业的发展做出了杰出贡献。$Na_2CO_3$属于____,氧化物,盐,有机物,混合物,B," $Na_2CO_3$ 是一种氧化物，属于碱类化学品，化学式为 sodium carbonate（Na2CO3）。
+
+因此，正确的选项是 A. 氧化物。",0
+10,下列有关溶液的说法正确的是____,均一、稳定的液体一定是溶液,洗涤剂能洗去衣服上的油污，原因是洗涤剂具有溶解作用,溶液中的溶质可以是固体、液体或气体,实验室利用氯化钠固体和水配制50g质量分数为6%的氯化钠溶液的步骤是：计算、量取、溶解、贮存,C," A. 均一、稳定的液体一定是溶液是正确的。
+
+B. 洗涤剂能洗去衣服上的油污，原因是洗涤剂具有溶解作用是错误的。洗涤剂可能具有溶解作用，但也可能只是通过Physical absorption来 removes stains。
+
+C. 溶液中的溶质可以是固体、液体或气体是正确的。
+
+D. 实验室利用氯化钠固体和水配制50g质量分数为6%的氯化钠溶液的步骤是：计算、量取、溶解、贮存是错误的。氯化钠是一种固体，不能直接与水溶解，需要先将它热分解成",0
+11,将100mL水与100mL酒精混合，所得溶液体积小于200mL。下列对此现象的解释最合理的是____,分子是由原子构成的,分子的质量和体积都是很小的,分子是不断运动的,分子间是有间隔的,D," 这是一个经典的物理化学问题，解释为：
+
+C. 分子是不断运动的。
+
+在混合100mL水和100mL酒精时，两种液体之间的分子会不断运动和挥发，因此会出现分子在两种液体之间的混合现象。这种现象表明了分子是不断运动的，并且可以在不同的环境中进行混合和分离。
+
+其他选项的解释不是正确的：
+
+A. 分子是由原子构成的，这是一个基本的化学定律，但并没有直接关系于这个问题。
+
+B. 分子的质量和体积都是很小的，这是一个部分正确的解释，因为分子的质量和体积都比较小，但这并不是全部解释。
+
+D. 分子间是有",0
+12,某同学用pH计测得生活中一些物质的pH值如下、其中酸性最强的是____,肥皂水pH：10.2,料酒pH：6.5,西瓜汁pH：5.8,苹果汁pH：2.4,D," pH值越高，物质越碱性，反之。
+
+根据给出的pH值，可以看出：
+
+* A. 肥皂水pH：10.2 very alkaline
+* B. 料酒pH：6.5 slightly acidic
+* C. 西瓜汁pH：5.8 slightly acidic
+* D. 苹果汁pH：2.4 very acidic
+
+ therefore, the acidity of the substances in descending order is:
+
+1. 苹果汁 (very acidic)
+2. 西瓜汁 (slightly acidic)
+3. 料酒 (slightly acidic)
+4. 肥皂水 (very alkaline)
+
+So, the acidity of the substances in descending order is: 苹果汁, 西瓜汁, 料酒, 肥皂水.
+
+Therefore, the correct answer is:
+
+D. 苹果汁",1
+13,为了探究某稀盐酸中溶质的质量分数，甲、乙两同学分别取溶质质量分数相等的稀盐酸100g，甲同学向其中加入氧化铜8g，反应结束后观察到固体全部消失；乙同学向其中加入氧化铜16g，反应结束后观察到固体有剩余。下列有关实验的推断正确的是____,反应后乙同学所得溶液中一定包含盐酸,反应后向甲同学所得的溶液中滴加少量氢氧化钠溶液，一定会有蓝色沉淀生成,反应后甲、乙两同学所得的溶液中溶质的质量分数可能相等,原稀盐酸中溶质的质量分数一定大于7.3%小于14.6%,C," based on the information given, the correct answer is:
+
+C. 反应后甲、乙两同学所得的溶液中溶质的质量分数可能相等。
+
+ Analysis:
+
+1. 甲同学加入氧化铜8g，反应结束后固体全部消失， indicating that the reaction is complete and all the solid is dissolved.
+2. 乙同学加入氧化铜16g，反应结束后固体有剩余， indicating that the reaction is not complete and there is still some solid remaining.
+3. 由于反应后甲、乙两同学所得的溶液中溶质的质量分数都是 unknown，所以我们不能直接比较它们的质量分数。
+4. 但是，由于反应后甲同学所得的溶液中溶质的质量分数应该比乙同学所得的溶液中溶质的�",1
+14,垃圾分类已成为新时尚。下列物质应该放入可回收垃圾箱的是____,矿泉水瓶,果皮,废电池,废口罩,A," A. 矿泉水瓶。
+
+根据新时尚的标准，矿泉水瓶应该放入可回收垃圾箱，因为它是可回收的塑料材料。而果皮、废电池和废口罩都不应该放入可回收垃圾箱，因为它们不是可回收的材料。",1
+15,疫情期间，教室喷洒“84消毒液”进行消毒时，可闻到刺鼻的气味，说明了____,分子数目变大,分子之间有间隔,分子在不断运动,反应生成新物质,C," A. 分子数目变大
+
+在疫情期间，教室喷洒“84消毒液”进行消毒时，可闻到刺鼻的气味，这是因为84消毒液含有各种防腐剂和抗菌剂，这些化学物质在空气中分解，释放出具有刺激性和臭味的物质，这种气味是由分子数目增加所致。
+
+B、C、D三个选项都不是正确的解释。
+
+B. 分子之间有间隔指的是分子在空气中的分子间距离，而不是分子数目的变化。
+
+C. 分子在不断运动指的是分子在空气中的运动，而不是分子数目的变化。
+
+D. 反应生成新物质指",0
+16,下列化学用语既能表示一种元素，又能表示一个原子，还能表示一种物质的是____,O,Cu,N,$CO_2$,B," A. O
+
+Explanation:
+
+* A. O is the chemical symbol for oxygen, which can represent an element, an atom, or a substance.
+* B. Cu is the chemical symbol for copper, which is an element, but it cannot represent an atom or a substance.
+* C. N is the chemical symbol for nitrogen, which is an element, but it cannot represent an atom or a substance.
+* D. $CO_2$ is a chemical formula, which represents a substance (carbon dioxide) made up of one atom of carbon and two atoms of oxygen.",0
+17,下列说法不正确的是____,炒菜时油锅中的油不慎着火，可用锅盖盖灭,室内着火，应立即打开门窗，让风吹灭火焰,亚硝酸钠是一种工业用盐，对人体有害，不能用于烹调,家用煤气中掺入微量难闻性气体，利于发现煤气泄漏,B,"让我们一步一步思考,
+1. 分析选项：
+(A) 炒菜时油锅中的油不慎着火，可用锅盖盖灭是正确的，锅盖可以使油锅中的油热量减少，防止火焰扩散。
+(B) 室内着火，应立即打开门窗，让风吹灭火焰是正确的，通风可以快速吹灭火焰，防止火势蔓延。
+(C) 亚硝酸钠是一种工业用盐，对人体有害，不能用于烹调是错误的，亚硝酸钠是一种常用的食品添加剂，可以用于烹调。
+(D) 家用��",0
+18,治疗胃酸过多药物铝碳酸镁片[主要成分$Al_2Mg_6(OH)_{16}CO_3·4H_2O$]不能长期服用，是因为其中含有人体非必需元素____,Mg,Hg,C,Al,D," C. C
+
+The reason why long-term use of aluminum-based antacids, such as aluminum carbonate (main component: $Al_2Mg_6(OH)_{16}CO_3·4H_2O$), is not recommended is because they contain excessive amounts of aluminum, which is a non-essential element in the human body. Prolonged exposure to high levels of aluminum can lead to accumulation in the body and cause adverse health effects, such as neurotoxicity and bone disease. Therefore, it is not recommended to use aluminum-based antacids for extended periods of time.",0
+19,下列现象的微观解释中，不正确的是____,食物腐败----分子性质发生变化,热胀冷缩----分子大小随温度变化而变化,夏天炎热，自行车易爆胎-----温度升高，分子间的间隔变大,缉毒犬可以嗅出毒品藏匿处----分子不停地运动,B," microscopic explanation of the phenomenon, the incorrect one is:
+
+B. Thermal expansion and contraction - the size of the molecule changes with temperature.
+
+Explanation:
+
+The other three options are correct microscopic explanations of the phenomena they describe.
+
+A. Food spoilage - the molecular properties of the food change, leading to the growth of microorganisms and spoilage.
+
+C. Summer heat, easy to blow out tires - the increased temperature causes the molecules to move more quickly, increasing the distance between them and leading to a decrease in the tire's strength.
+
+D. Drug-sniffing dogs can detect hidden drug stashes - the molecules in the drug are constantly moving, making it difficult to hide them.
+
+However, option B is incorrect because thermal expansion and contraction is a macroscopic phenomenon, not a microscopic one. Molecules do not change size with temperature, but the distance between them can change, leading to expansion or contraction of materials.",0

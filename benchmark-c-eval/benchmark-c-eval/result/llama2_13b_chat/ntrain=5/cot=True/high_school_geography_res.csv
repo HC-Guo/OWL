@@ -1,0 +1,92 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,中国实行可持续发展的核心是：____,发展是关键,经济增长为主,人民生活水平提高,自然资源合理利用B.季节性特点,A," China's implementation of sustainable development is centered around the idea of:
+
+B. Economic growth as the primary focus.
+
+This answer is based on the fact that China has prioritized economic growth as the key driver of its development strategy, and has been willing to make significant investments in infrastructure and industry to support this growth. While the other options are also important, economic growth has been the central focus of China's development strategy.",0
+1,采用下玻璃温室生产蔬菜、花卉，属于农业分类中的：____,粗放农业,自给农业,种植园农业,密集农业,D," AI: 采用下玻璃温室生产蔬菜、花卉，属于农业分类中的：C.种植园农业。
+
+解释：
+
+* A.粗放农业是指广泛开垦大量地方，进行粗放式农业生产，而不是在园地内进行精心培养的方法。
+* B.自给农业是指通过自己的农场或园地生产自己所需的农产品，而不是依赖于市场或其他来源。
+* D.密集农业是指在园地内进行高密度的农业生产，通常采用高技术和大量的农药和化肥来提高产量。
+
+而采用下玻璃温室生产蔬菜、花�",0
+2,下列有关昼夜长短状况的叙述正确的是：____,9月23日赤道昼大于夜,12月22日南半球昼小于夜,6月22日北半球昼大于夜,3月21日有北极圈上出现极昼现象,C," C.6月22日北半球昼大于夜。
+
+在6月22日，北半球的太阳在天空中的位置会导致昼夜平衡失调，使得昼间 longer than night。这种现象通常发生在北半球的高纬度地区，如北极等地。而其他选项中，9月23日赤道昼不大于夜（因为赤道地带的昼夜平衡），12月22日南半球昼不小于夜（因为南半球的冬季不会有极端的昼夜平衡），3月21日北极圈上出现极昼现象（这是正确的选项，但不是昼夜长短状况）。",1
+3,洋流因产生的动力不同，可分为____,风海流、暖流、寒流,补偿流、暖流、寒流,密度流、寒流、暖流,风海流、补偿流、密度流,D," C.密度流、寒流、暖流
+
+洋流因产生的动力不同，可分为密度流、寒流和暖流三种。密度流是由海水的密度差引起的，寒流是由海水的温度差引起的，暖流是由海水的温度和密度差引起的。这三种洋流各有其特点和影响。",0
+4,圣诞节这天，下列城市中白昼最短的是____,广州,哈尔滨,北京,上海,B,"让我们一步一步思考,
+1. 圣诞节这天，白昼最短的城市是北京。
+所以答案是：C.北京",0
+5,有关台风的叙述：①台风常发生在秋冬季节；②台风现象只发生在西太平洋上；③台风是一种强烈发展的温带锋面气旋；④台风是一种在海面上强烈发展的热带气旋；⑤飓风和台风都是热带气旋，只是发生的海域不同而名称各异。其中正确的是____,①②③,②③④,①⑤,④⑤,D,"让我们一步一步思考,
+1. 分析选项：
+①台风常发生在秋冬季节（正确）
+②台风现象只发生在西太平洋上（错误）
+③台风是一种强烈发展的温带锋面气旋（正确）
+④台风是一种在海面上强烈发展的热带气旋（错误）
+⑤飓风和台风都是热带气旋，只是发生的海域不同而名称各异（正确）
+2. 根据以上分析，选择正确的选项。
+所以答案是：A.①②③",0
+6,下列不以秦岭――淮河一线为分界线的是____,亚热带季风气候和温带季风气候,水田农业和旱地农业,农耕区和牧业区,湿润地区与半湿润地区,C," A. 亚热带季风气候和温带季风气候。
+
+下列不以秦岭――淮河一线为分界线的是亚热带季风气候和温带季风气候。",0
+7,高技术工业区通常的特点有____,研究开发人员多,生产产品全部面向国内市场,产品更新换代快,从业人员全部是科学家和工程师,C,"让我们一步一步思考,
+1. 高技术工业区通常具有以下特点：
+(A)研究开发人员多，这是因为高技术工业区需要大量的人才和技术资源来开发新技术和产品；
+(C)产品更新换代快，高技术工业区的产品往往是最新的技术成果，需要不断更新和换代以保持竞争力；
+(D)从业人员全部是科学家和工程师，这是因为高技术工业区需要高水平的技术人才来开发和生产高技术产品。
+2. 而(B)生产产品全部面向国内市场，这并不是高技术工业区的特点，高技术工业区的产品通常面向全球市场，以便更好地利用国��",0
+8,农业社会时期，爪哇岛上人口聚集的原因是____,河流众多,土壤的肥力高,交通便利,气候适宜,B," A.河流众多。
+
+在农业社会时期，爪哇岛上人口聚集的原因是河流众多，因为河流提供了丰富的水源和排水功能，使得农业生产更加发达，同时也促进了人口增长和聚集。",0
+9,地球内部圈层划分的依据是____,地震波速度的变化,温度的垂直变化,内部压力的变化,物质密度的变化,A," A. 地震波速度的变化。
+
+地球内部圈层划分的依据是通过地震波速度的变化来判断。地震波速度的变化与地球内部的物质密度和压力有直接关系。通过分析地震波速度的变化，可以确定地球内部圈层的结构和性质。",1
+10,亚洲水稻种植业的特点是____,"单产高,商品率高","人均耕地较多,多大规模经营","人力为主,机械化水平低","水热资源丰富,水利工程量小",C," C.人力为主,机械化水平低。
+
+亚洲水稻种植业的特点是人力为主，机械化水平较低，这是由于亚洲各国的农业发展水平较低，农村地区的人力资源丰富，加之农业机械化水平限制，导致水稻种植业的发展停滞在人力为主的水平。",1
+11,该县境内雅鲁藏布江河段航运价值低，其主要原因是____,封冻期长,落差大,流量小,含沙量大,B,"让我们一步一步思考,
+1. 分析选项：(A)封冻期长，(C)流量小，(D)含沙量大，这些都是雅鲁藏布江河段航运价值低的可能性因素，但是这些因素并不是唯一的原因。
+2. 根据题目的 Context，可以确定雅鲁藏布江河段航运价值低的主要原因是：(B)落差大，因为落差是航运的关键因素之一，落差大的话， Navigation 更加困难，导致航运价值下降。
+所以答案是：B",1
+12,可以看见下弦月的时间是____,上半夜,下半夜,子夜前后,整个夜晚,B," C.子夜前后。
+
+下弦月指的是月亮在天空中的位置，当月亮减小到最小时的时候，就是下弦月。这个时候，月亮通常在天空中的西方偏南方向出现，而不是直接在东方出现。因此，可以看见下弦月的时间是子夜前后。",0
+13,这片广袤的黄土地已经被水流蚀割得沟壑纵横，支离破碎，四分五裂，像老年人的一张粗糙的皱脸每年流入黄河的泥沙就达十六亿吨!就在这大自然无数黄色的皱褶中，世世代代生活和繁衍着千千万万的人。无论沿着哪一条皱纹走进去，你都能碰见村落和人烟，而且密集得叫你不可思议。生活在黄土所在地区的人们____,受热量条件制约，选择在河谷地区修路建村,借黄土肥沃优势，发展了大规模机械化农业,不合理耕作破坏植被，导致石漠化现象严重,通过植树种草及打坝淤地进行有效水土保持,D," A. 受热量条件制约，选择在河谷地区修路建村。
+
+这个选项是正确的。黄土地区的气候条件不利于农业生产，而河谷地区的气候条件比较温和，适合人类生活和农业生产。因此，人们会选择在河谷地区修路建村，以便利用河流的水资源和热量资源。",0
+14,黄土高原最大的环境问题是____,荒漠化,水土流失,酸雨,气候变暖,B," yellow soil highland's biggest environmental issue is:
+
+B. water and soil loss.
+
+yellow soil highland is a region with a high elevation and a cold climate, and the soil is prone to erosion. The lack of vegetation and the harsh climate lead to soil erosion and water loss, which can cause severe environmental damage.
+
+Option A is incorrect because the yellow soil highland is not a desert, and there is no desertification.
+
+Option C is incorrect because acid rain is not a major environmental issue in the yellow soil highland.
+
+Option D is incorrect because the yellow soil highland is not experiencing a significant increase in temperature, and the climate is still cold.",0
+15,荷兰出口的花卉占世界花卉贸易总额的40%以上，这并不得益于____,保鲜、冷藏技术的发展和交通运输的完善,花卉品种不断增多，质量不断提高,依靠科技发展玻璃温室，改造自然条件,以较低的价格赢得市场,D," C. 依靠科技发展玻璃温室，改造自然条件。
+
+根据文章中提到的信息，荷兰出口的花卉占世界花卉贸易总额的40%以上，这并不是因为其他国家没有花卉生产能力或技术，而是因为荷兰利用科技发展玻璃温室，改造自然条件，提高了花卉生产的效率和质量，从而在国际市场上占据了优势。
+
+因此，选项C是正确的answer。",0
+16,与广西相比，巴西发展食糖业的突出优势是____,生产成本低,产品质量高,加工技术先进,社会协作条件好,A," compare to Guangxi, Brazil's development of sugarcane industry has the following advantages:
+
+B. 产品质量高 (High-quality products)
+
+Brazil has a natural advantage in terms of climate and soil conditions, which allows for the production of high-quality sugarcane. The country's sugarcane industry is known for producing high-quality sugar and ethanol, which are in high demand in both domestic and international markets.
+
+所以答案是：B. 产品质量高",0
+17,1992年韩国三星电子在惠州建工厂首要的有利条件是____,劳动力充足，薪资水平低,我国市场巨大,治理污染费用较低,地价便宜,A," based on the information provided, the correct answer is:
+
+B. 国内市场巨大 (The domestic market is enormous)
+
+The reason why Samsung Electronics chose to build a factory in Huizhou, China in 1992 was because of the vast domestic market in China, which provided a huge potential customer base for the company's products. The other options, such as abundant labor, low labor costs, and low environmental regulation costs, were also factors that contributed to the company's decision, but the domestic market was the primary reason.",0
+18,下列天体系统中不包括地球的是____,总星系,河外星系,银河系,太阳系,B," A. 总星系不包括地球。
+
+所以答案是：A。",0

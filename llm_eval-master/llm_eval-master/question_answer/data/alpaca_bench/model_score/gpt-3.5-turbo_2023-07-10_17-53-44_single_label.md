@@ -1,0 +1,22 @@
+| task_type        | model             |   score |
+|:-----------------|:------------------|--------:|
+| 音乐、体育、娱乐 | chatglm2-6b       |    8.25 |
+| 音乐、体育、娱乐 | moss-moon-003-sft |    7.6  |
+| 诗词、文学、哲学 | moss-moon-003-sft |    7.85 |
+| 诗词、文学、哲学 | chatglm2-6b       |    7.35 |
+| 知识问答         | moss-moon-003-sft |    8.3  |
+| 知识问答         | chatglm2-6b       |    8.15 |
+| 文本翻译         | moss-moon-003-sft |    7.1  |
+| 文本翻译         | chatglm2-6b       |    6.2  |
+| 数值计算、推理   | chatglm2-6b       |    8.3  |
+| 数值计算、推理   | moss-moon-003-sft |    7.35 |
+| 开放式问答       | chatglm2-6b       |    8.65 |
+| 开放式问答       | moss-moon-003-sft |    8.5  |
+| 多轮交互         | chatglm2-6b       |    7.7  |
+| 多轮交互         | moss-moon-003-sft |    7.7  |
+| 写信、写文章     | moss-moon-003-sft |    8.25 |
+| 写信、写文章     | chatglm2-6b       |    8    |
+| 伦理、拒答       | moss-moon-003-sft |    8.75 |
+| 伦理、拒答       | chatglm2-6b       |    8.65 |
+| 代码编程         | moss-moon-003-sft |    8.9  |
+| 代码编程         | chatglm2-6b       |    7.85 |

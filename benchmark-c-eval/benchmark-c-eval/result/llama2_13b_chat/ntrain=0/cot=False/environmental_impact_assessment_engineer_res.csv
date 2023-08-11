@@ -1,0 +1,164 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,根据《环境影响评价技术导则声环境》(HJ2.4—2009)，以球面波形式辐射波的声源，辐射声波的声压幅值与声波传播距离____。,成正比,成反比,无关系,成平方,B," According to the ""Technical Guidelines for Environmental Impact Assessment of Noise"" (HJ2.4-2009) in China, the sound pressure level of a spherical waveform sound source decreases with the distance from the source at a rate of:
+
+A. Proportional to the distance
+
+Therefore, the correct answer is A. 成正比 (proportional to the distance).",0
+1,根据《建设项目环境风险评价技术导则》(HJ169—2018)，建设项目环境风险潜势划分为____级。,Ⅰ、Ⅱ、Ⅲ、Ⅳ、Ⅴ,Ⅰ、Ⅱ、Ⅲ、ⅣV/Ⅳ+,Ⅰ、Ⅱ、Ⅲ、Ⅳ,Ⅰ、Ⅱ、Ⅲ,B," Based on the ""Technical Guidelines for Environmental Impact Assessment of Construction Projects"" (HJ169-2018), the environmental risk potential of construction projects can be classified into the following five levels:
+
+A. Ⅰ、Ⅱ、Ⅲ、Ⅳ、Ⅴ
+
+Therefore, the correct answer is Option A.",1
+2,根据《环境影响评价技术导则大气环境》(HJ2.2—2018)，在采用补充监测数据进行现状评价的，对于有多个监测点位数据的，____作为评价范围内环境空气保护目标及网格点环境质量现状浓度。,先计算不同时刻各监测点位平均值，再取各监测时段平均值,先计算不同时刻各监测点位平均值，再取各监测时段平均值中的最大值,先计算不同时刻各监测点位平均值，再取各监测时段平均值中的最小值,先计算相同时刻各监测点位平均值，再取各监测时段平均值中的最大值,D," Based on the ""Environmental Impact Assessment Technical Guidelines for Atmospheric Environment"" (HJ2.2-2018) in China, the correct answer is:
+
+B. 先计算不同时刻各监测点位平均值，再取各监测时段平均值中的最大值
+
+According to the guidelines, when there are multiple monitoring points with data, the evaluation scope of the atmospheric environment should be based on the maximum value of the average value of each monitoring point at different times. Therefore, option B is the correct answer.",0
+3,根据《中华人民共和国环境影响评价法》，作为一项整体建设项目的某大型住宅小区，应进行____。,规划环境影响评价,建设项目环境影响评价,规划环境影响评价和建设项目环境影响评价,无需进行任何环境影响评价,B," C. 规划环境影响评价和建设项目环境影响评价。
+
+根据《中华人民共和国环境影响评价法》，任何一项整体建设项目，包括大型住宅小区，都应进行环境影响评价。这包括规划环境影响评价和建设项目环境影响评价两个部分。因此，选项C是正确的答案。",0
+4,根据《中华人民共和国环境影响评价法》，环境影响报告书除包括实施该规划对环境可能造成影响的分析、预测和评估；预防或者减轻不良环境影响的对策和措施外，还应当包括____。,规划内容,环境影响评价结论,详细规划情况,规划情况,B," Based on the ""Environmental Impact Assessment Law of the People's Republic of China"", the environmental impact report should include, in addition to the analysis, prediction, and assessment of the potential environmental impacts of the implementation of the plan, as well as measures to prevent or mitigate adverse environmental impacts, the following:
+
+B. Environmental impact assessment conclusion.
+
+Therefore, the correct answer is B. Environmental impact assessment conclusion.",1
+5,在景观保护措施中，对建设项目的基本要求是____。,做好景观设计,为景观项目的研究做准备,不建造不良景观,符合生态规律,C," C.不建造不良景观。
+
+在景观保护措施中，对建设项目的基本要求是不建造不良景观，这是保护环境和避免环境损害的基本要求。
+
+A.做好景观设计是项目的设计阶段的要求，而不是基本要求。
+
+B.为景观项目的研究做准备是项目的前期准备阶段的要求，而不是基本要求。
+
+D.符合生态规律是项目的执行阶段的要求，而不是基本要求。",1
+6,根据《中华人民共和国草原法》，国家对草原保护、建设、利用实行____。国务院草原行政主管部门会同国务院有关部门编制全国草原保护、建设、利用规划，报国务院批准后实施。,分地域规划制度,分流域规划制度,统一规划制度,地方规划制度,C," C. 统一规划制度
+
+根据《中华人民共和国草原法》，国家对草原保护、建设、利用实行统一规划。国务院草原行政主管部门会同国务院有关部门编制全国草原保护、建设、利用规划，报国务院批准后实施。
+
+A. 分地域规划制度：不符合法律规定。
+
+B. 分流域规划制度：不符合法律规定。
+
+D. 地方规划制度：不符合法律规定。",1
+7,根据《环境影响评价技术导则生态影响》(HJ19—2011)，生态现状评价涉及受保护的敏感物种时，应重点分析该敏感物种的____。,生态学特征,结构,变化趋势,功能,A," C. 变化趋势。
+
+根据《环境影响评价技术导则生态影响》(HJ19—2011)，在受保护的敏感物种的生态现状评价中，应重点分析该敏感物种的变化趋势，包括生态系统的结构、功能和生态学特征等方面的变化。",0
+8,工业污水生产周期在8h以内的，每____采样一次。,2h,4h,5h,6h,A," C. 每5个工作时间采样一次。
+
+根据中国的环境影响评估标准（GB/T 19448-2011），工业污水生产周期在8小时以内的，每5个工作时间采样一次。
+
+因此，正确的答案是C. 每5个工作时间采样一次。",0
+9,根据《社会生活环境噪声排放标准》(GB22337—2008)，噪声测量值与背景噪声值相差____时，噪声测量值不做修正。,＞5dB(A),＞8dB(A),＞10dB(A),＞15dB(A),C," Based on the ""Social Environmental Noise Emission Standards"" (GB22337-2008), if the noise measurement value differs from the background noise value by more than _____dB(A), the noise measurement value should not be corrected.
+
+The correct answer is:
+
+B. ＞8dB(A)
+
+According to the standard, if the noise measurement value is more than 8dB(A) higher than the background noise value, it is considered a significant difference and the noise measurement value should not be corrected.",0
+10,《中华人民共和国固体废物污染环境防治法》的污染防治对象不包括____。,危险废物,工业固体废物,气态废物,城市生活垃圾,C," Based on the information provided in the ""中华人民共和国固体废物污染环境防治法"" (China's Solid Waste Pollution Control Law), the correct answer is B. 工业固体废物 (industrial solid waste).
+
+According to the law, the following are not considered as pollution sources and are not subject to environmental impact assessment:
+
+* 危险废物 (hazardous waste)
+* 工业固体废物 (industrial solid waste)
+
+Therefore, option B is the correct answer.",0
+11,水温观测频次，应每间隔____h观测一次水温，统计计算日平均水温。,2,4,6,8,C," C. 水温观测频次应每间隔6小时观测一次水温，统计计算日平均水温。
+
+根据中国的环境影响评估标准（GB/T 19448-2011），对于水生环境中的水温观测，建议采用6小时一批的观测频次，以确保观测数据的准确性和完整性。
+
+因此，正确的选项是C。",1
+12,根据《建设项目环境影响评价技术导则总纲》(HJ2.1—2016)，环境质量不达标的区域，应采取国内外先进可行的环境保护措施，结合____及实施情况，分析建设项目实施对区域环境质量改善目标的贡献和影响。,整体达标规划,区域达标规划,整体限期达标规划,区域限期达标规划,D," Based on the ""Technical Guidelines for Environmental Impact Assessment of Construction Projects"" (HJ2.1-2016), the correct answer is B. Regional Target Planning.
+
+According to the guidelines, for areas with poor environmental quality, advanced and feasible environmental protection measures should be taken, including regional target planning, to analyze the contributions and impacts of the construction project on improving the environmental quality of the region.
+
+Therefore, option B is the correct answer.",0
+13,某省建设一公路，需经过一自然保护区，则该建设项目的评价等级应为____。,一级,二级,三级,四级,A," C.三级。
+
+根据中国的环境影响评价标准，如果建设项目需要通过自然保护区，则其评价等级应该为三级。三级是最高的评价等级，表示项目的环境影响较大，需要更加严格的监测和管理。",0
+14,地下水污染源调查因子应根据拟建项目的____选定。,污染特征,污染源性质,污染半径,污染物种类,A," Based on the information provided, the correct answer is B. 污染源性质 (pollution source characteristics).
+
+According to the Environmental Impact Assessment (EIA) regulations in China, the investigation of groundwater pollution sources should be based on the characteristics of the pollution sources, including their location, quantity, and type. Therefore, option B is the most appropriate answer.
+
+Option A is incorrect because the pollution characteristics are not the only factor to consider when investigating groundwater pollution sources.
+
+Option C is incorrect because the pollution radius is not a direct factor in determining the groundwater pollution sources.
+
+Option D is incorrect because the type of pollutants is not the only factor to consider when investigating groundwater pollution sources.",0
+15,某高速公路建设项目的环境影响评价文件，根据《中华人民共和国环境影响评价法》，应____。,直接报交通行政主管部门审批,直接报环境保护行政主管部门审批,经环境保护行政主管部门审核并签署意见后，报交通行政主管部门批准,经交通行政主管部门预审后，报环境保护行政主管部门审批,C," C.经环境保护行政主管部门审核并签署意见后，报交通行政主管部门批准。
+
+根据《中华人民共和国环境影响评价法》，高速公路建设项目的环境影响评价文件应经环境保护行政主管部门审核并签署意见后，报交通行政主管部门批准。这是根据法律的规定，以保证环境影响评价的科学、公正和有效性。",1
+16,根据《中华人民共和国环境影响评价法》和《规划环境影响评价条例》，规划审批机关对依法应当编写而未编写环境影响篇章或者说明的综合性规划草案，予以批准的，上级机关或者监察机关依法对____给予行政处分。,规划审批机关,规划环境影响评价技术机构,规划环境影响评价文件审查机构,规划审批机关直接负责的主管人员和其他直接责任人员,D," C. 规划环境影响评价文件审查机构。
+
+根据《中华人民共和国环境影响评价法》和《规划环境影响评价条例》，规划审批机关对依法应当编写而未编写环境影响篇章或者说明的综合性规划草案，予以批准的，上级机关或者监察机关依法对规划环境影响评价文件审查机构给予行政处分。",0
+17,根据《污水综合排放标准》(GB8978—1996)，为判定下列污染物是否达标，可在排污单位总排放口采样的是____。,苯并[a]芘,六价铬,总铜,总镉,C," A. 苯并[a]芘。
+
+根据《污水综合排放标准》(GB8978—1996)，为判定下列污染物是否达标，可在排污单位总排放口采样的是苯并[a]芘。
+
+详细解释：
+
+1. 苯并[a]芘是一种常见的污染物，可以在排污单位总排放口采样中检测到。
+2. 根据《污水综合排放标准》(GB8978—1996)的要求，排污单位的总排放口采样应该包括苯并[a]芘的测试。
+3. 其他选项（B、C、D）都不是根据《污水综合排放标准》(GB897",0
+18,燃油、燃气锅炉烟囱高度应按批准的环境影响报告书(表)要求确定，但不得低于____m。,6,8,10,12,B," C.10.
+
+根据中国的环境影响评估标准（GB/T 19938-2011），燃油、燃气锅炉烟囱高度应按批准的环境影响报告书(表)要求确定，但不得低于10米。",0
+19,根据《建设项目环境影响评价文件分级审批规定》，建设项目可能造成跨行政区域的不良环境影响，有关环境保护行政主管部门对该项目的环境影响评价结论有争议的，其环境影响评价文件由____审批。,国务院环境保护行政主管部门,国家环境保护部,共同的上一级环境保护行政主管部门,受影响较多的区域的环境保护行政主管部门,C," Based on the ""Regulations on the Approval of Environmental Impact Assessment Reports for Construction Projects"" in China, the environmental impact assessment report for a construction project that may cause cross-regional environmental impacts is subject to review and approval by the environmental protection administration at the next higher level. Therefore, the correct answer is C.共同的上一级环境保护行政主管部门.",0
+20,依据《建设项目环境影响评价文件审批程序规定》，对国家规定实行备案制的建设项目，建设单位提交环境影响评价文件的时限应当为____。,提交项目申请报告前,报送可行性研究报告前,办理备案手续后至开工前,申请竣工环境保护验收前,C," C. 办理备案手续后至开工前。
+
+根据《建设项目环境影响评价文件审批程序规定》，对国家规定实行备案制的建设项目，建设单位应当在办理备案手续后，并且至开工前，提交环境影响评价文件。
+
+因此，正确的选择是C. 办理备案手续后至开工前。",1
+21,堆放的固体废物产生的大气主要污染物是____。,细微颗粒、粉尘、二氧化硫、二氧化碳,细微颗粒、粉尘、毒气、恶臭,二氧化硫、二氧化碳、三氧化硫、氯气,二氧化硫、二氧化碳、毒气、恶臭,B," C.二氧化硫、二氧化碳、三氧化硫、氯气。
+
+ correct answer is C. Two oxides of sulfur (SO2 and SO3), two oxides of carbon (CO2 and CO), and hydrogen chloride (HCl) are the main air pollutants produced by the disposal of solid waste.",0
+22,根据《建设项目环境影响评价技术导则总纲》(HJ2.1—2016)，关于“污染源源强核算”的定义，说法正确的是____。,选用可行的方法确定规划项目单位时间内污染物的产生量或排放量,选用可行的方法确定建设项目单位时间内污染物的产生量或排放量,选用可行的方法确定建设项目单位产品污染物的产生量或排放量,选用各种方法确定建设项目单位时间内污染物的产生量或排放量,B," Based on the ""Technical Guidelines for Environmental Impact Assessment of Construction Projects"" (HJ2.1-2016), the correct answer is:
+
+A. Select feasible methods to determine the amount of pollutants generated or emitted by the project unit during the planning period.
+
+According to the guidelines, the ""pollutant source strength"" should be determined using feasible methods, such as literature reviews, field measurements, or modeling, to estimate the amount of pollutants generated or emitted by the project unit during the planning period.",1
+23,根据《建设项目环境影响评价技术导则总纲》(HJ2.1—2016)，在评价因子筛选过程中，不需要考虑的是____。,环境影响的主要特征,评价标准和环境制约因素,区域环境功能要求,建设项目污染防治措施,D," Based on the ""Technical Guidelines for Environmental Impact Assessment of Construction Projects"" (HJ2.1-2016) in China, the correct answer is B. Evaluation standards and environmental constraints.
+
+According to the guidelines, during the screening process, the following factors should not be considered:
+
+* The main features of the environmental impact
+* Regional environmental functional requirements
+* Construction project pollution prevention measures
+
+Therefore, the correct answer is B. Evaluation standards and environmental constraints.",0
+24,通常所说的环境容量是指在确定的环境目标值下，区域环境所能够容纳的污染物最大允许____。,容许量,排放量,浓度值,数量值,B," C. 浓度值。
+
+环境容量指的是在确定的环境目标值下，区域环境所能够容纳的污染物的浓度最大允许值。因此，选项C是正确的答案。",0
+25,无产阶级革命是迄今人类历史上最广泛、最彻底、最深刻的革命，是不同于以往一切革命的最新类型的革命。无产阶级革命的主要特点是____,无产阶级革命是彻底消灭一切私有制、代之以生产资料公有制的革命,无产阶级革命是要彻底消灭一切阶级和阶级统治的革命,无产阶级革命是为所有人谋利益的运动,无产阶级革命是不断前进的历史过程,D," C. 无产阶级革命是为所有人谋利益的运动。
+
+ correct! The main feature of the proletarian revolution is that it is a revolution for the benefit of all people, aiming to overthrow the rule of the bourgeoisie and establish a socialist society.
+
+A. 无产阶级革命是彻底消灭一切私有制、代之以生产资料公有制的革命 is incorrect, as the proletarian revolution is not only about eliminating private ownership but also about establishing public ownership of the means of production.
+
+B. 无产阶级革命是要彻底消灭一切阶级和阶级统治的革命 is also incorrect, as the proletarian revolution is not only about overthrowing the ruling class but also about establishing a new social system.
+
+D. 无产阶级革命是不断前进的历史过程 is incorrect, as the proletarian revolution is a historical process that has already taken",0
+26,《建设项目环境保护管理条例》规定，建设单位编制环境影响报告书，应当依照有关法律规定，征求建设项目所在地____的意见。,政府和居民,环境保护行政主管部门,建设主管部门和居民,有关单位和居民,D," A.政府和居民。
+
+根据《建设项目环境保护管理条例》的规定，建设单位应当编制环境影响报告书，并依照有关法律规定，征求建设项目所在地的政府和居民的意见。",0
+27,某自然景观距拟建高速公路的最小距离为1700m，按“相对距离”单项指标判断该景观的“敏感程度”为____。,极敏感,中等敏感,不敏感,背景,D," Based on the information provided, the correct answer is A. 极敏感 (extremely sensitive).
+
+According to the ""相对距离"" (relative distance) single item standard for environmental impact assessment in China, if the distance between the project and the natural scenic area is less than 1700m, the sensitivity level of the scenic area is considered to be extremely sensitive.",0
+28,在项目建设、运行过程中产生不符合经审批的环境影响评价文件的情形的，____也可以责成建设单位进行环境影响的后评价，采取改进措施。,原环境影响评价文件审批部门,当地环境保护行政主管部门,原建设项目审批部门,当地人民政府,A," C.原建设项目审批部门。
+
+根据中国的环境影响评价法规，在项目建设、运行过程中产生不符合经审批的环境影响评价文件的情形，可以责成建设单位进行环境影响的后评价，采取改进措施。这种情况下，原建设项目审批部门是有权力进行后评价和纠正的。",0
+29,某环评机构在为位于M市某化工厂建设项目做环境影响评价的过程中，发现根据《中华人民共和国环境影响评价法》的规定在制作公众参与篇章时无须召开听证会，而根据《环境影响评价公众参与暂行办法》的规定须召开听证会，则应____。,召开听证会,不召开听证会,请示M市环保局,听从化工厂领导的意见,B," Based on the information provided, the correct answer is B. 不召开听证会.
+
+According to the Environmental Impact Assessment Law of the People's Republic of China, the public participation section of the environmental impact assessment report does not require a public hearing. However, according to the Provisional Measures for Public Participation in Environmental Impact Assessment, a public hearing should be held. Therefore, the answer is that no public hearing is required.
+
+Here is the relevant law and regulation:
+
+* Environmental Impact Assessment Law of the People's Republic of China: Article 17, paragraph 2 states that the public participation section of the environmental impact assessment report shall be formulated in accordance with the provisions of the State Council.
+* Provisional Measures for Public Participation in Environmental Impact Assessment: Article 12 states that a public hearing shall be held for the environmental impact assessment report.
+
+Therefore, option B, ""不召开听证会"", is the correct answer.",1
+30,根据《中华人民共和国固体废物污染环境防治法》，从事____危险废物经营活动的单位和个人，无需申请危险废物经营许可证。,贮存,运输,利用,处置,B," C. 利用。
+
+根据《中华人民共和国固体废物污染环境防治法》，从事危险废物经营活动的单位和个人，无需申请危险废物经营许可证，只需要在危险废物经营活动前，向环境保护部门申报并获得批准。
+
+Therefore, the correct answer is C. 利用.",0

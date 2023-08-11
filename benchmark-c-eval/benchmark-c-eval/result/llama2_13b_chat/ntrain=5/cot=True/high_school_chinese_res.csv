@@ -1,0 +1,164 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,"下文划线处选填哪项最恰切____
+作物同病菌进行斗争，情形是复杂的：____，就是同一个抗病品种，对不同的病菌的抵抗方式也不一样。",不同的抗病品种抵抗病菌的方式不仅有所不同,不同的抗病品种不仅抵抗病菌的方式有所不同,不仅不同的抗病品种抵抗病菌的方式有所不同,固然不同的抗病品种抵抗病菌的方式有所不同,C," based on the context, the best choice is:
+
+B. 不同的抗病品种不仅抵抗病菌的方式有所不同
+
+Reason:
+
+* The context is discussing the complexity of the struggle between crops and diseases, and how the same antibiotic can have different effects on different diseases.
+* The sentence is emphasizing the difference in the ways that different antibiotics resist diseases, using the phrase ""不同的抗病品种不仅..."" to emphasize the distinction.
+* The other options do not accurately convey the same meaning as the original sentence, and some of them are even grammatically incorrect.",0
+1,下列各句中，没有语病的一句是____,某些吃惯“大锅饭”的职工对劳动人为制度的革新，切实其实会感到不适应。,“全面建设小康社会”的目标，对于我们感到十分亲热；它已经成为全党天下人民在新世纪中奋斗的行动纲领。,日本辅弼前去“靖国神社”为东条英机等战争罪犯招魂的反动行径，对于曾饱受侵略战争祸害的中国人民和其他亚洲国家的人民是不克不及容忍的。,世界重量级拳击冠军易斯接受了女皇颁发的皇家勋章，以表彰他为英国拳击事业做出的贡献。,A," Based on the content of the sentences, the one without language pathology is:
+
+B. ""全面建设小康社会""的目标，对于我们感到十分亲热；它已经成为全党天下人民在新世纪中奋斗的行动纲领。
+
+This sentence is grammatically correct and does not contain any language pathology. The other sentences contain various language pathologies, such as ambiguity (A), inappropriate word choice (C), and unnatural phrasing (D).",0
+2,下列各句中，没有语病的一句是____,在对WTO问题的关注上，过去主要集中在行业、企业等方面所面临的压力上，多是从微观层面考虑问题，而对于经济体制等宏观问题却思考甚少。,对在如何使学生掌握现代化生活所必须的知识技能的问题上，该校的老师作过深入详尽的研究。,著名词曲作家付林创作《妈妈的吻》《小螺号》《故园之恋》等脍炙生齿的歌曲而蜚声乐坛。,载人航天技术，是我国高新科技水平显著提高的重要标志，也是我国综合国力显著提高的重要体现。,D," Based on the given sentences, the one that does not contain language pathology is:
+
+B. 对在如何使学生掌握现代化生活所必须的知识技能的问题上，该校的老师作过深入详尽的研究。
+
+The other sentences contain language pathology, such as:
+
+A. 过去主要集中在行业、企业等方面所面临的压力上，多是从微观层面考虑问题，而对于经济体制等宏观问题却思考甚少。 (wordy and unclear)
+
+C. 著名词曲作家付林创作《妈妈的吻》《小螺号》《故园之恋》等脍炙生齿的歌曲而蜚声乐坛。 (wordy and awkward phrasing)
+
+D. 载人航天技术，是我国高新科技水平显著提高的重要标志，也是",0
+3,下列各句中，没有语病的一句是____,记者从新闻发布会上获悉，10月26日，辽宁省锦州市黑山县出现禽流感疫情已得到有效控制。,王越洲和姚佳琪赶赴航天城，他们将从航天员的手中接过搭乘“神舟六号”进行太空之旅的自己的画作，并得到纪念证书。,不管《泰晤士报》这个排行榜的权威程度颇受国人质疑，但据专家称，排行榜是能够说明一些问题的。,进入乌镇，信步于幽深的街巷中，你就会觉得自己好像浏览着一部关于江南水乡文化的线装书。,D," Based on the given sentences, the one without language virus is:
+
+B. 王越洲和姚佳琪赶赴航天城，他们将从航天员的手中接过搭乘“神舟六号”进行太空之旅的自己的画作，并得到纪念证书。
+
+This sentence is free of language viruses because it is a straightforward description of the actions of two individuals, without any ambiguous or misleading language. The other sentences contain language viruses such as ambiguous words or phrases, contradictory statements, or unnatural language usage.",0
+4,列字注音全对的一项是	____,复杂（fù）	按捺（nài）	混淆（xiáo）	笔画纤细(qiān),弥补（mí）	蓓蕾（bèi）	发酵（jiào）	不着边际（zhuó）,拂晓（fó）	质量（zhǐ）	高档（dàng）	大腹便便（pián）,勒索（lē）	结束（sù）	喧嚣（xiāo）	酗酒滋事（xù）,B," C.拂晓（fó）	质量（zhǐ）	高档（dàng）	大腹便便（pián）
+
+这四个词都是列字注音全对的，它们的注音符号都是正确的。",0
+5,下列各句中，没有语病的一句是____,半期考试之后，因为她这样好的成绩，获得了老师和同学们的颂扬。,全校师生在雷锋精神的鼓舞下，好人好事，如雨后春笋似的涌现出来。,他们襟怀胸襟祖国，放眼天下，在高手如林的雅典奥运会上，大力发扬了敢拼敢搏，终于夺得了冠军。,这个节目表达了同学们要以实际行动向雷锋同志学习，以优异的成绩向党报告的决心。,D," Based on the given sentences, the one that does not have any language pathology is:
+
+B. 全校师生在雷锋精神的鼓舞下，好人好事，如雨后春笋似的涌现出来。
+
+This sentence does not have any language pathology, as it is grammatically correct and the words are used appropriately to convey the intended meaning. The other sentences contain language pathology, such as:
+
+A. 半期考试之后，因为她这样好的成绩，获得了老师和同学们的颂扬。 (contains unnecessary word ""因为"")
+
+C. 他们襟怀胸襟祖国，放眼天下，在高手如林的雅典奥运会上，大力发扬了敢拼敢搏，终于夺得了冠军。 (contains redundant phrase ""襟怀胸襟"")
+
+D. 这个节目表达了同学们要以实际行动向雷锋",0
+6,下列各句标点符号使用合乎规范的一项是____,对李清照的诗，比之那“寻寻觅觅，冷冷清清，凄凄惨惨戚戚”的哀怨，我倒更喜欢她的“生当作人杰，死亦为鬼雄”的刚烈。,昨日，武汉工业学院三名学生宣布：他们经过连续奋战，已经找到了三种简便快速检测奶粉中是否含有三聚氰胺的办法，可见普通市民也可以自己动手检测奶粉中有无三聚氰胺。,为给地铁2号线和4号线让路，武汉市最大的广场——洪山广场将被拆除重建的消息传出后，许多人都非常关心未来的广场将怎么建？那里的几百株树木将怎么办？,“绿动未来2008”环保方案评选活动开展以来，大赛组委会征集到高质量参赛方案367份，内容涉及新能源、新材料的开发与利用、发展绿色经济、环境保护和生态治理新技术等诸多方面。,A," Based on the punctuation and grammar in the given sentences, the one that uses punctuation correctly and follows the rules of grammar is:
+
+B. 昨日，武汉工业学院三名学生宣布：他们经过连续奋战，已经找到了三种简便快速检测奶粉中是否含有三聚氰胺的办法，可见普通市民也可以自己动手检测奶粉中有无三聚氰胺。
+
+Explanation:
+
+1. The sentence begins with a date, which is a good way to start a sentence.
+2. The names of the three students are provided in a list, which is correct.
+3. The sentence uses colons to introduce the list of names, which is appropriate.
+4. The verb tense is consistent throughout the sentence, which is important for good grammar.
+5. The sentence ends with a period, which is correct.
+
+The other sentences have errors in punctuation and/or grammar, such as:
+
+A. 对李清照的诗，比",0
+7,下列各句中，没有语病、句意明确的一项是____,近年来骑马爱好者剧增，使得赛马运动发展迅速，相应的，一些骑马俱乐部也应运而生。,他饰演了一个英雄人物，观众被深深打动了，说这是我们的偶像。,在引进竞争机制的情况下，如果还想捧着“铁饭碗”不放，那就是一厢情愿。,艺术教育无论在德育、智育，在人格的完善、性情的陶冶等方面都是教育行为中的一个重要组成部分。,C," Based on the given sentences, the one that does not have any language pathology or ambiguity is:
+
+B. 他饰演了一个英雄人物，观众被深深打动了，说这是我们的偶像。
+
+The other sentences have some issues:
+
+A. 近年来骑马爱好者剧增，使得赛马运动发展迅速，相应的，一些骑马俱乐部也应运而生。 - The sentence is a bit long and has a few awkward phrases.
+
+C. 在引进竞争机制的情况下，如果还想捧着“铁饭碗”不放，那就是一厢情感。 - The sentence has a language pathology, ""一厢情感"" should be ""一厢情感的""
+
+D. 艺术教育无论在德育、智育，在人格的完善、性情的陶冶等方面都是教育行为中的一个重要组",0
+8,"下文横线处选填哪项最恰当____
+卢梅坡的诗句“梅须逊雪三分白，雪却输梅-段香”，常被人引用，借此说明____。",任何人和事物都各有缺憾,任何人和事物都各有千秋,任何人和事物都各有短长,任何人和事物者咯有优势,A," based on the context, the most appropriate answer is:
+
+A. 任何人和事物都各有缺憾
+
+The phrase ""梅须逊雪三分白，雪却输梅-段香"" is often used to describe the idea that no matter how hard one tries, there will always be shortcomings and imperfections. This is in line with the idea that ""任何人和事物都各有缺憾"" (anyone and anything has their own shortcomings).",1
+9,下列词语的注音有错误的一项是____,思量（liáng）	度量（liàng）	胸脯（pú）	果脯（fǔ）,颤（zhàn）抖	颤（chàn）栗	靓（jìng）妆	靓（liàng）女,阽（diàn）危	玷（diàn）辱	胡诌（zhōu）	谄（chǎn）谀,瞋目（chēn）	瞠（chēng）目结舌  觊觎（yú）	面面相觑（qù）,B," The word with incorrect tone in the list is:
+
+B. 颤（chàn）栗
+
+The correct tone for 颤 is ""zhàn"" (first tone), not ""chàn"" (second tone).",0
+10,下列各句中，没有语病的一句是____,这届体育节会徽和吉祥物设计的应征者大多以青年体育爱好者为主。,这届“挑战杯”竞赛的参赛高校数量和作品质量，都有了明显提高。,师傅让位于徒弟，从一个侧面反映了人们已不再惟师是尊，而是开始强调多方面的能力与素养。,以生产内衣为主的三枪集团，是今年在全国同行业中产值率先突破十亿大关的一个著名品牌。,C," Based on the given sentences, the one without language virus is:
+
+B. 这届“挑战杯”竞赛的参赛高校数量和作品质量，都有了明显提高。
+
+Reason:
+
+1. The other sentences have grammatical errors or wording issues that indicate language virus.
+2. Sentence B is grammatically correct and has a clear and concise meaning.
+3. There is no ambiguity or confusion in the sentence, and it does not contain any language virus.",0
+11,"下文划线处选填哪项才恰当____
+翌日，贾母带着贾蓉媳妇乘坐一乘驮轿，王夫人在后，亦乘坐一乘驮轿；贾珍骑马，率领众家丁围护；____，并放些随换的衣包等件。",婆子丫环等乘坐几辆大车,又有几辆大车，婆子丫环等坐,又有几辆大车，与婆子丫环等坐,几辆大车，婆子丫环等坐,C," based on the context, the most appropriate answer is:
+
+B. 又有几辆大车，婆子丫环等坐
+
+The sentence is describing the scene of the family members preparing to set out on a journey, and the word ""又"" (again) is used to indicate that there are additional vehicles besides the one mentioned earlier. The phrase ""婆子丫环等坐"" (including the grandmother and others) is used to emphasize that everyone is present and accounted for.
+
+Therefore, the correct answer is B. 又有几辆大车，婆子丫环等坐.",0
+12,下列词语中注音全都正确的一项是____,巨擘(bò)        蓓蕾(lěi)          前倨后恭(jū),中伤(zhōnɡ)     莅临(lì)           鞭辟入里(bì),曲解(qū)        骁勇(xiāo)         余勇可贾(ɡǔ),蜚声(fēi)       阜盛(ｆù)          量体裁衣(liánɡ),C," Certainly! Let's go through the options one by one:
+
+A. 巨擘(bò) - 蓓蕾(lěi) - 前倨后恭(jū)
+
+* 巨擘(bò) is correctly written as ""bò"" with the correct tone mark.
+* 蓓蕾(lěi) is correctly written as ""lěi"" with the correct tone mark.
+* 前倨后恭(jū) is incorrectly written as ""jū"" instead of ""jù"" with the correct tone mark.
+
+B. 中伤(zhōnɡ) - 莅临(lì) - 鞭辟入里(bì)
+
+* 中伤(zhōnɡ) is correctly written as ""zhōnɡ"" with the correct tone mark.
+* 莅临(lì) is correctly written as ""lì"" with the correct tone mark.
+* 鞭辟入里(bì) is incorrectly written as ""bì"" instead of ""bì"" with the correct tone mark.
+
+C. 曲解(qū) - 骁�",0
+13,下列各句中加下划线的成语使用恰当的一句是：____,你的这个$\underline{不情之请}$让我很为难，过两天我再答复你吧。,对于学到的原理，他都要拿实物来做实验，求得彻底了解，决不$\underline{囫囵吞枣}$，马虎了事。,峨眉山是闻名中外的旅游胜地，素有“峨眉天下秀”之誉其巍峨磅礴，重峦叠嶂，山山有奇景，十里不同天，真是$\underline{巧夺天工}$。,在学习上也是这样，吃别人嚼过的馍不香，要善于动脑筋，$\underline{师心自用}$，才能学深学透。,B," Based on the context, the most appropriate use of a Chinese idiom in the given sentences is:
+
+B. 对于学到的原理，他都要拿实物来做实验，求得彻底了解，决不囫囵吞枣，马虎了事.
+
+The idiom ""囫囵吞枣"" (gēng gēng chōng zhā) means to study or learn something superficially or without understanding the deeper meaning. In this sentence, the speaker is emphasizing that they want to understand the principles thoroughly and not just memorize them.
+
+The other sentences also contain idioms, but they are not used as appropriately:
+
+A. 你的这个不情之请让我很为难，过两天我再答复你吧.
+
+The idiom ""不情之请"" (bù qíng zhī yè) means an impossible or unreasonable request. However, in this sentence, the speaker is using it to refer to a request that is difficult to fulfill, rather than impossible.
+
+C. 峨眉山是闻名中外的��",0
+14,下列各句中，没有语病的一项是____,以“伟大历程辉煌成就”为主题的纪念新中国成立70周年展览在北京拉开帷幕，该展览采用编年体的形式为主全方位回顾了中国人民走过的辉煌历程。,经过主创团队对经典故事的大胆改编，《哪吒》不仅保留了原作精华，还融入了具有时代元素的内容，因此成功斩获暑期电影最佳口碑。,网络谣言对社会的破坏力是巨大的，如不及时扑灭，对公众造成的创伤，乃至引起社会动荡，也不是完全不可能的。,垃圾分类工作能否执行到位，一方面取决于政府相关法律法规的约束力，另一方面也取决于市民的环保意识，尤其是对垃圾分类意义的认识。,D," Based on the given sentences, the one that does not contain language pathology is:
+
+B. 经过主创团队对经典故事的大胆改编，《哪吒》不仅保留了原作精华，还融入了具有时代元素的内容，因此成功斩获暑期电影最佳口碑。
+
+The other sentences contain language pathology, such as:
+
+A. 以“伟大历程辉煌成就”为主题的纪念新中国成立70周年展览在北京拉开帷幕，该展览采用编年体的形式为主全方位回顾了中国人民走过的辉煌历程。 (wordy and overly formal)
+
+C. 网络谣言对社会的破坏力是巨大的，如不及时扑灭，对公众造成的创伤，乃至引起社",0
+15,"填入下文划线处恰当的一句是____
+自从“五四”以来，翻译介绍先进国家的文化成果，就成了中国人民的迫切要求。____。",这些翻译作品促进了中国学术文化的发展，同时也影响了中国的书面语言,翻译作品日渐其多，一方面这些作品提高了中国学术文化的素养，另一方面也促进了中国书面语言的发展,翻译作品日见其多，这些作品促进了中国学术文化的发展，同时也影响了中国的书面语言,这些翻译作品提高了中国学术文化的素养，同时也促进了中国书面语言的发展,C," based on the context, the most appropriate sentence to fill in the blank is:
+
+B. 翻译作品日渐其多，一方面这些作品提高了中国学术文化的素养，另一方面也促进了中国书面语言的发展。
+
+This sentence emphasizes the increasing number of translation works and their role in promoting the development of Chinese academic culture and written language. It is a good fit for the context and provides a clear and concise answer.",0
+16,"填入下面横线处的句子，与上下文衔接最恰当的一句是____
+《毛诗序》是先秦儒家诗论的总结，其中心内容是阐述诗歌与封建政教的关系。____。“正得失，动天地，感鬼神，莫近于诗。先王以是经夫妇，成孝敬，厚人伦，美教化，移风俗。”因为诗歌具有感染的力量，所以是封建统治者用以维护政教的有力工具。",久它认为诗歌不仅是社会治乱、政教得失的反映，而且反过来可以维护封建统治和封建秩序,它认为不仅诗歌是政教得失、社会治乱的反映，而且反过来可以维护封建统治和封建秩序,它认为诗歌不但能维护封建统治和封建秩序，而且能反映社会治乱、民生苦乐,它认为由于诗歌具有强大的艺术感染力，故而封建统治者都要用它来维护封建统治和秩序,A," Based on the context, the best answer is B. 《毛诗序》认为诗歌不仅是社会治乱、政教得失的反映，而且反过来可以维护封建统治和封建秩序。
+
+The passage states that 《毛诗序》 discusses the relationship between poetry and the ruling class, and how poetry can be used to maintain the existing social order. The phrase ""反过来可以维护封建统治和封建秩序"" implies that poetry has the power to reinforce the existing social order, which is in line with the idea that the ruling class uses poetry as a tool to maintain their power.
+
+Therefore, option B is the best answer.",0
+17,"填入下面横线处的句子，与上句衔接最恰当的一组是____
+公安干警及时赶赴现场侦察，中午12时，____。",在家里犯罪嫌疑人被抓获，全部赃物和赃款也同时起获,在犯罪嫌疑人家里将其抓获，全部赃物和赃款也同时起获,犯罪嫌疑人在家里被抓获，并起获了全部赃物和赃款,在犯罪嫌疑人家里将其抓获，并起获了全部赃物和赃款,D," Based on the context, the most appropriate sentence to fill in the blank is:
+
+C. 犯罪嫌疑人在家里被抓获，并起获了全部赃物和赃款。
+
+The other options do not accurately convey the meaning of the sentence.
+
+Option A is incorrect because it is not the criminal who is being captured, but the suspect.
+
+Option B is also incorrect because it is not the suspect who is being captured, but the criminal.
+
+Option D is incorrect because it does not accurately convey the meaning of the sentence.",0
+18,下列词语中注音全都正确的一项是____,接洽(ｑｉà)     掮客(ｑｉáｎ)     悭吝(ｊｉàｎ)     地壳(ｑｉàｏ),刚劲(ｊìｎ)     舐犊(ｓｈì)       龋齿(ｑǔ)         租赁(ｌìｎ),畏葸(ｓī)       怆然(ｃｈｕàｎɡ)  皈依(ɡｕī)        干涸(ｈé),复辟(ｂì)       巷道(ｈàｎɡ)      炽热(ｃｈì)       眼睑(ｊｉǎｎ),D," A. 接洽(ｑｉà)
+
+所有选项中，只有A选项中的“接洽”(ｑｉà)注音全都正确，其他选项中都有一些注音错误。",0

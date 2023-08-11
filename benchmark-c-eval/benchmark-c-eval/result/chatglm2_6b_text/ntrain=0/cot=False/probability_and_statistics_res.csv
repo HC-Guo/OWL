@@ -1,0 +1,282 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,设随机变量$X$和$Y$相互独立，且X$\sim N(0，1)，Y\sim N(0$，2)，则$D\left(X^2Y^2\right)=$____,10,20,32,45,C,"首先，根据题目给出的信息，我们知道随机变量$X$和$Y$相互独立，且$X\sim N(0,1)$，$Y\sim N(0,2)$。
+
+其次，我们需要求解$D(X^2Y^2)$。根据方差的性质，有：
+
+$$D(X^2Y^2)=D(X^2)D(Y^2)$$
+
+其中，$D(X^2)$和$D(Y^2)$分别表示$X^2$和$Y^2$的方差。
+
+接下来，我们需要求解$D(X^2)$和$D(Y^2)$。根据方差的定义，有：
+
+$$D(X^2)=\frac{\sum_{i=1}^n(X_i-\overline{X})^2}{n}$$
+
+其中，$n$表示样本个数，$\overline{X}$表示$X$的均值。
+
+由于$X\sim N(0,1)$，所以$\overline{X}=0$，$\std{X}=1$。因此，有：
+
+$$D(X^2)=\frac{\sum_{i=1}^n(X_i-0)^2}{n}=\frac{\sum_{i=1}^n X_i^2}{n}=\frac{\sum_{i=1}^n X_i}{n}=n\cdot\frac{\sum_{i=1}^n X_i}{n}=n\cdot\frac{\sum_{i=1}^n X_i}{n}=n\cdot\frac{\sum_{i=1}^n X_i}{n}=n\cdot\frac{\sum_{i=1}^n X_i}{n}=n\cdot\frac{\sum_{i=1}^n X_i}{n}=n\cdot\frac{\sum_{i=1}^n X_i}{n}=n\cdot\frac{\sum_{i=1}^n X_i}{n}=n\cdot\frac{\sum_{i=1}^n X_i}{n}=n\cdot\frac{\sum_{i=1}^n X_i}{n}=n\cdot\frac{\sum_{i=1}^n X_i}{",0
+1,"设随机变量$(X,Y)$的概率密度为$f(x,y)=\left\{\begin{array}{cc}6y,&0<x<1,0<y<x，\\0,&\text{其他.}\end{array}\right.$,$$\text{则}P\left(X>\frac{1}{2}\mid Y=\frac{1}{3}\right)=$$____",$\frac{3}{4}$,$\frac{2}{3}$,$\frac{1}{4}$,$\frac{1}{3}$,A,"由题意可得，随机变量$(X,Y)$的概率密度为$f(x,y)=\left\{\begin{array}{cc}6y,&0<x<1,0<y<x，\\0,&\text{其他.}\end{array}\right. $，
+
+则$P(X>\frac{1}{2})=\int_{0}^{1}6ydx=\frac{3}{2}$，
+
+$P(Y=\frac{1}{3})=\int_{0}^{1}6ydx=\frac{2}{3}$，
+
+所以$P(X>\frac{1}{2})P(Y=\frac{1}{3})=\frac{3}{2}\times\frac{2}{3}=\frac{1}{3}$，
+
+故答案为D.",0
+2,"总体的简单样本,$\bar{X}$为样本均值,则$D(\bar{X})=$____",$\frac{3}{80}$,$\frac{9}{16}$,$\frac{3}{1600}$,$\frac{3}{160}$,C,"首先，我们需要知道方差的计算公式：$D(X) = \frac{\sum_{i=1}^{n}(X_i - \bar{X})^2}{n}$，其中$n$为样本容量，$X_i$为第$i$个样本值，$\bar{X}$为样本均值。
+
+根据题目，我们知道这是一个总体的简单样本，样本容量为$n$，样本均值为$\bar{X}$。我们需要求出样本均值的方差$D(\bar{X})$。
+
+根据方差的计算公式，我们可以将式子变形为：$D(\bar{X}) = \frac{\sum_{i=1}^{n}(X_i - \bar{X})^2}{n}$。
+
+由于这是一个总体的简单样本，每个样本值$X_i$都已知，所以我们可以直接计算出每个样本值与样本均值$\bar{X}$的差的平方，然后将这些平方相加，最后除以样本容量$n$，即可得到样本均值的方差$D(\bar{X})$。
+
+根据计算公式，我们可以得到：$D(\bar{X}) = \frac{\sum_{i=1}^{n}(X_i - \bar{X})^2}{n}$。
+
+因此，正确答案为B. $\frac{9}{16}$。",0
+3,"设总体$X$服从拉普拉斯分布$f(x,\lambda)=\frac{1}{4\lambda}e^{-\frac{|x|}{2\lambda}},-\infty<x<\infty$,其中$\lambda>0$。则$E(|X|)=$____",$\frac{1}{2 \lambda}$,$\frac{1}{\lambda}$,$2 \lambda$,$\lambda$,C,"首先，根据题目给出的拉普拉斯分布，可以得到其期望为$E(X)=0$，方差为$D(X)=0$。
+
+接下来，我们考虑如何求解$E(|X|)$。根据绝对值的定义，$|X|$的期望为$E(|X|)=\int_{-\infty}^{\infty}|X|dx$。
+
+由于$X$服从拉普拉斯分布，所以$|X|$也服从标准正态分布，即$|X| \sim N(0,1)$。因此，$E(|X|)=\int_{-\infty}^{\infty}|X|dx=0$。
+
+综上所述，选项A $\frac{1}{2\lambda}$ 是正确答案。",0
+4,"设$X_1,X_2,\cdots X_{12}$是来自正态总体$X\sim N\left(0,\sigma^2\right)$的简单样本,随机变量$Y=\frac{\sum_{i=1}^6X_i^2}{\sum_{j=1}^6X_{j+6}^2}$服从的分布为:____",$\chi^2(6)$,$\chi^2(1)$,"$F(5,5)$","$F(6,6)$",D,"首先，根据题目给出的信息，我们知道随机变量$Y$服从正态分布$N(0,\sigma^2)$，其中$\sigma$为方差。
+
+其次，我们需要求出$Y$的期望值$\mu$和方差$\sigma^2$。根据期望的定义，有：
+
+$$E(Y) = \int_{-\infty}^{\infty} Y \mathrm{d}Y = \int_{-\infty}^{\infty} \frac{\sum_{i=1}^6X_i^2}{\sum_{j=1}^6X_{j+6}^2} \mathrm{d}Y$$
+
+由于正态分布是对称的，即$P(Y\leq 0) = P(Y\geq 0)$，所以有：
+
+$$E(Y) = \int_{-\infty}^{\infty} \frac{\sum_{i=1}^6X_i^2}{\sum_{j=1}^6X_{j+6}^2} \mathrm{d}Y = \int_{-\infty}^{\infty} \frac{\sum_{i=1}^6X_i^2}{\sum_{j=1}^6X_{j+6}^2} \mathrm{d}Y = \int_{-\infty}^{\infty} \frac{\sum_{i=1}^6X_i^2}{\sum_{j=1}^6X_{j+6}^2} \mathrm{d}Y = \int_{-\infty}^{\infty} \frac{\sum_{i=1}^6X_i^2}{\sum_{j=1}^6X_{j+6}^2} \mathrm{d}Y = \int_{-\infty}^{\infty} \frac{\sum_{i=1}^6X_i^2}{\sum_{j=1}^6X_{j+6}^2} \mathrm{d}Y = \int_{-\infty}^{\infty} \frac{\sum_{i=1}^6X_i^2}{\sum_{j=1}^6X_{j+6}^2} \mathrm{d}Y = \int_{-\infty}^{\infty} \frac{\sum_{i=1}^6X_i^2}{\sum_{j=1}^6X_{j+6}^2} \mathrm{d}Y",0
+5,对于任意两个随机变量X和$Y$，若$E(XY)=EX\cdot EY$，则____,$D(X Y)=D(X) \cdot D(Y)$,$D(X+Y)=D(X)+D(Y)$,X和Y独立,X和Y不相关,D,"
+ 答案是A. $D(X Y)=D(X) \cdot D(Y)$",0
+6,"设$(X_1,X_2,...,X_n)$是取自总体X的一个样本，X的概率密度如下：$f(x)=\begin{cases}\frac12e^{-\frac{(x-\mu)}{2}},x\geq\mu,\\0,其他\end{cases}$,$\mu$为未知参数。则$\mu$的最大似然估计量是.____",$\hat{\mu}=\max _{1 \leq i \leq n} X_i$,$\hat{\mu}=\frac13 \max _{1 \leq i \leq n} X_i$,$\hat{\mu}=\min _{1 \leq i \leq n} X_i$,$\hat{\mu}=\frac12 \min _{1 \leq i \leq n} X_i$,C,"首先，根据题目给出的概率密度函数，可以得知这是一个连续型概率分布。因此，我们可以使用最大似然估计来求解$\mu$。
+
+最大似然估计的公式为：
+
+$\hat{\mu}=\sum_{i=1}^n p(x_i) \log p(x_i)$
+
+其中，$p(x_i)$表示在样本中取到$x_i$的概率，即$p(x_i)=\frac{f(x_i)}{f(x)}$。
+
+根据概率密度函数，当$x\geq\mu$时，$f(x)=\frac12e^{-\frac{(x-\mu)}{2}}$；当$x<\mu$时，$f(x)=0$。因此，我们可以将$f(x)$拆分成两部分来计算：
+
+当$x\geq\mu$时，$f(x)=\frac12e^{-\frac{(x-\mu)}{2}}$
+
+当$x<\mu$时，$f(x)=0$
+
+接下来，我们需要计算$p(x_i)$。根据概率密度函数，当$x\geq\mu$时，$p(x_i)=\frac{f(x_i)}{f(x)}=\frac{1}{2}e^{-\frac{(x_i-\mu)}{2}}$；当$x<\mu$时，$p(x_i)=0$。
+
+因此，我们可以将$p(x_i)$拆分成两部分来计算：
+
+当$x_i\geq\mu$时，$p(x_i)=\frac{1}{2}e^{-\frac{(x_i-\mu)}{2}}$
+
+当$x_i<\mu$时，$p(x_i)=0$
+
+接下来，我们将$p(x_i)$代入最大似然估计公式中，得到：
+
+$\hat{\mu}=\sum_{i=1}^n p(x_i) \log p(x_i)=\sum_{i=1}^n \frac{1}{2}e^{-\frac{(x_i-\mu)}{2}} \log \frac{1}{2}e^{-\frac{(x_i-\mu)}{2}}$
+
+化简后得到：",0
+7,当事件$A$和$B$同时发生时$C$也发生，则下列式子中成立的是____,$P(C)=P(A \cap B)$,$P(C) \leq P(A)+P(B)-1$,$P(C)=P(A \cup B)$,$P(C) \geq P(A)+P(B)-1$,D,"
+ 答案是 D. $P(C) \geq P(A)+P(B)-1$。
+
+解析:
+
+题目可以转化为 $P(C|A \cap B) \geq P(C|A) \geq P(C|B) \geq 1$,即 $P(C) \geq P(A) + P(B) - 1$。
+
+选项 A 错误,因为 $P(C) \geq P(A \cap B)$ 只有在 $P(A) = P(B)$ 时才成立。
+
+选项 B 错误,因为 $P(C) \geq P(A) + P(B) - 1$ 只有在 $P(A) = P(B)$ 时才成立。
+
+选项 C 错误,因为 $P(C) \geq P(A \cup B)$ 只有在 $P(A) = P(B)$ 时才成立。
+
+选项 D 正确,因为 $P(C) \geq P(A) + P(B) - 1$。",1
+8,"$$
+\text{设}0<P(A)<1，0<P(B)<1\text{，}
+$$
+$P(A\mid B)+P(\bar{A}\mid\bar{B})=1$，则____",事件A和B互不相容,事件A和B互相对立,事件A和B互不独立,事件A和B相互独立,D,"根据题目条件，我们有：
+$$
+\begin{cases}
+0<P(A)<1 \\
+0<P(B)<1 \\
+P(A\mid B)+P(\bar{A}\mid\bar{B})=1
+\end{cases}
+$$
+其中，$P(A\mid B)$ 表示事件 $A$ 在事件 $B$ 发生的概率，$P(\bar{A}\mid\bar{B})$ 表示事件 $\bar{A}$ 在事件 $\bar{B}$ 发生的概率。
+
+根据概率的定义，有：
+$$
+P(A\mid B)=\frac{P(A\cap B)}{P(B)}=\frac{P(A\cap B)}{P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap B)}{P(A)P(B)}=\frac{P(A\cap",0
+9,设X和Y分别表示扔n次硬币出现正面和反面的次数，则$X，Y$的相关系数为____,-1,0,\frac{1}{2},1,A,"
+ 答案是 D.1。
+
+相关系数是用来衡量两个变量之间线性关系强度的统计量,其取值范围在-1到1之间。当相关系数为1时,表示两个变量完全正相关,当相关系数为-1时,表示两个变量完全负相关,当相关系数为0时,表示两个变量没有线性关系。
+
+对于投掷硬币这种离散的事件,相关系数可以理解为投掷硬币正面朝上和反面的次数的皮尔逊相关系数,即两个变量之间的相关系数为1。因此,正确答案是 D.1。",0
+10,"设二维随机变量$(X,Y)$在区域$D=\left\{(x,y):x^2+y^2<1\right\}$内均匀分布,则$X$与$Y$为____",独立同分布的随机变量,独立不同分布的随机变量,不独立同分布的随机变量,不独立也不同分布的随机变量,C,"
+ 答案是A.独立同分布的随机变量",0
+11,设$X\sim N(1，4)，Y\sim N(3，16)，P\{Y=aX+b\}=1$，且$\rho_{XY}=-1$，则____,"a=2, b=5","a=-2, b=-5","a=-2, b=5","a=2, b=-5",C,"首先，根据题目给出的信息，我们可以得到：
+
+$X\sim N(1，4)$
+
+$Y\sim N(3，16)$
+
+$P\{Y=aX+b\}=1$
+
+$\rho_{XY}=-1$
+
+其中，$\rho_{XY}$表示$X$和$Y$的协方差。
+
+接下来，我们可以利用正态分布的性质来解题。
+
+首先，根据$\rho_{XY}=-1$，我们可以得到：
+
+$\rho_{XY}=\frac{\sum_{i=1}^{n}(x_i-\mu_X)(y_i-\mu_Y)}{\sum_{i=1}^{n}(x_i-\mu_X)^2}$
+
+其中，$x_i$和$y_i$分别表示$X$和$Y$的取值，$\mu_X$和$\mu_Y$分别表示$X$和$Y$的均值。
+
+由于$X\sim N(1，4)$，所以$\mu_X=1$，$\mu_Y=3$。
+
+代入上式，得到：
+
+$\rho_{XY}=\frac{\sum_{i=1}^{n}(x_i-\mu_X)(y_i-\mu_Y)}{\sum_{i=1}^{n}(x_i-\mu_X)^2}=\frac{\sum_{i=1}^{n}(x_i-\mu_X)(y_i-\mu_Y)}{\sum_{i=1}^{n}(x_i-\mu_X)^2}$
+
+接下来，我们需要求出$a$和$b$的值。
+
+根据$P\{Y=aX+b\}=1$，我们可以得到：
+
+$\frac{1}{2}\sum_{i=1}^{n}(1-P\{Y=aX+b\})\cdot P\{Y=aX+b\}=1$
+
+化简后得到：
+
+$\sum_{i=1}^{n}(1-P\{Y=aX+b\})\cdot P\{Y=aX+b\}=2$
+
+由于$P\{Y=aX+b\}=1$，所以：
+",0
+12,"设总体$X$的分布列如下:
+
+\begin{tabular}{|c|c|c|c|}
+\hline$\boldsymbol{X}$&0&1&2\\
+\hline$\boldsymbol{p}$&$2/5$&$1/5$&$2/5$\\
+\hline
+\end{tabular}
+
+$\left(X_{1},X_{2},\cdots X_{n}\right)$是来自于该总体的样本,$X_{(n)}=\max\left(X_{1},X_{2},\cdots X_{n}\right)$,
+
+(i)$P\left(\mathbf{X}_{(n)}=0\right)=\left(\frac{2}{5}\right)^{n}$,
+(ii)$P\left(X_{(n)}=1\right)=\frac{2}{5}\left(c_{0}^{1}\left(\frac{1}{5}\right)^{n-1}\right.$,
+(iii)$P\left(\mathbf{X}_{(n)}=2\right)=1-\left(\frac{2}{5}\right)^{n}$,
+
+上述(i)、(ii)、(iii)中正确个数为____",2,1,0,3,B,"
+ 首先，根据题目给出的分布列，可以计算出概率为$2/5$的概率为$2/5$，概率为$1/5$的概率为$1/5$，概率为$2/5$的概率为$2/5$。
+
+然后，根据题目给出的定义，可以计算出样本$X_1,X_2,\cdots,X_n$中$X_1=0$的概率为$2/5$，$X_2=0$的概率为$2/5$，$X_3=0$的概率为$2/5$，以此类推。
+
+接着，根据定义，可以计算出样本$X_1,X_2,\cdots,X_n$中$X_1=1$的概率为$2/5\times c_0^1\times 1/5=2/25$，$X_2=1$的概率为$2/5\times c_0^1\times 1/5=2/25$，$X_3=1$的概率为$2/5\times c_0^1\times 1/5=2/25$，以此类推。
+
+最后，根据定义，可以计算出样本$X_1,X_2,\cdots,X_n$中$X_1=2$的概率为$1-2/5^n$，$X_2=2$的概率为$1-2/5^n$，$X_3=2$的概率为$1-2/5^n$，以此类推。
+
+综上所述，正确的选项为A，即有2个选项是正确的。",0
+13,"设随机变量(X,Y)的概率密度为$f(x,y)=\begin{cases}2,0<x<y,0<y<1\\0,其他\end{cases}$.则0<y<1时，f_{X|Y}(x|y)=____","$\begin{cases}\frac{1}{x}, & 0<y<x, \\ 0, & \text { 其他 }\end{cases}$","$\{\begin{array}{cl}\frac{1}{2 x}, & |y|<x, \\0, & \text { 其他}\end{array}$","$\begin{cases}\frac{1}{y}, & 0<x<y, \\ 0, & \text { 其他. }\end{cases}$","$\begin{cases}\frac{1}{2y}, & |x|<y, \\ 0, & \text { 其他. }\end{cases}$",C,"
+ 首先，根据题目给出的概率密度函数，可以得知当$0<y<1$时，$f(x,y)=0$。因此，我们需要求解$f_{X|Y}(x|y)$。
+
+根据概率密度函数的定义，$f_{X|Y}(x|y)$表示在给定随机变量$X$和$Y$的情况下，$X$取值在区间$(0,y]$的概率。因此，我们需要分别考虑$X$取值在区间$(0,y]$和区间$(y,1]$的情况。
+
+当$0<x<y$时，$X$取值在区间$(0,y]$的概率为$1$，因此$f_{X|Y}(x|y)=1$。
+
+当$y<x<1$时，$X$取值在区间$(y,1]$的概率为$1$，因此$f_{X|Y}(x|y)=1$。
+
+综上所述，$f_{X|Y}(x|y)$的取值范围为$(0,1]$，因此选项B中的$\{\begin{array}{cl}\frac{1}{2 x}, & |y|<x, \\0, & \text {其他}\end{array}$是正确的答案。",0
+14,"设总体$X$的分布律为
+
+\begin{tabular}{|l|l|l|l|}
+\hline$X$&-1&0&2\\
+\hline$P$&$\frac{1}{3}\theta$&$1-\frac{2}{3}\theta$&$\frac{1}{3}\theta$\\
+\hline
+\end{tabular}
+
+$\left(X_{1},X_{2},\cdots,X_{n}\right)$为来自总体的样本,设有以下四个统计量
+
+(i)$\frac{3}{n}\sum_{i=1}^{n}X_{i}$,(ii)$\left.X_{1}+\frac{2}{n-1}\right)_{i=2}^{n}X_{i}$,(iii)$\frac{3}{5n}\sum_{i=1}^{n}X_{i}^{2}$,(iv)$\frac{1}{3n}\sum_{i=1}^{n}X_{i}^{2}$
+
+在上述四个统计量中,是参数$\theta$的一致估计量的个数是____",0,2,1,3,B,"
+ 首先，我们需要知道参数$\theta$的一致估计量的定义，即对于任意样本$X_{1},X_{2},\cdots,X_{n}$，都存在一个参数$\theta$，使得$\frac{3}{n}\sum_{i=1}^{n}X_{i}=\theta$。
+
+接下来，我们分别对四个统计量进行分析：
+
+(i)$\frac{3}{n}\sum_{i=1}^{n}X_{i}$
+
+这个统计量可以看作是对总体分布律的一个线性变换，即$X_{i}$的线性组合。因此，对于任意样本$X_{1},X_{2},\cdots,X_{n}$，都存在一个参数$\theta$，使得$\frac{3}{n}\sum_{i=1}^{n}X_{i}=\theta$。因此，这个统计量是一致的估计量。
+
+(ii)$\left.X_{1}+\frac{2}{n-1}\right)_{i=2}^{n}X_{i}$
+
+这个统计量可以看作是对样本$X_{1},X_{2},\cdots,X_{n}$的一个线性变换，即样本$X_{1},X_{2},\cdots,X_{n}$的线性组合。因此，对于任意样本$X_{1},X_{2},\cdots,X_{n}$，都存在一个参数$\theta$，使得$\left.X_{1}+\frac{2}{n-1}\right)_{i=2}^{n}X_{i}=\theta$。因此，这个统计量是一致的估计量。
+
+(iii)$\frac{3}{5n}\sum_{i=1}^{n}X_{i}^{2}$
+
+这个统计量可以看作是对总体分布律的一个线性变换，即$X_{i}$的平方。因此，对于任意样本$X_{1},X_{2},\cdots,X_{n}$，都存在一个参数$\theta$，使得$\frac{3}{5n}\sum_{i=1}^{n}X_{i}^{2}=\theta$。因此，这个统计量是一致的估计量。
+
+(iv)$\frac{1}{3n}\sum_{i=1}^{n}X_{i}^{2}$
+
+这个统计量可以看作是对样本$X_{1},X_{2",0
+15,"设$X_1,...,X_4,X_5$相互独立、且都服从N(0,4).设$\alpha\in(0,1)$,$k>0$,$P(X_1^2+X_2^2+X_3^2+X_4^2\le kX_5^2)=\alpha$则k=____","$\frac{1}{4}F_{\alpha}(4,1)$","$\frac{1}{4}F_{1-\alpha}(4,1)$","$4F_{\alpha}(4,1)$","$4F_{1-\alpha}(4,1)$",D,"首先，根据题目给出的条件，可以得知$X_1,...,X_4,X_5$相互独立，且都服从N(0,4)。
+
+然后，根据题目中的不等式$P(X_1^2+X_2^2+X_3^2+X_4^2\le kX_5^2)=\alpha$，可以得到$P(X_1^2+X_2^2+X_3^2+X_4^2\le kX_5^2)=\alpha$，其中$\alpha\in(0,1)$，$k>0$。
+
+接着，根据正态分布的性质，可以得到$P(X_1^2+X_2^2+X_3^2+X_4^2\le kX_5^2)=F_{\alpha}(k,1)$。
+
+最后，根据题目中给出的选项，可以得到正确答案为A，即$\frac{1}{4}F_{\alpha}(4,1)$。",0
+16,"设$X_1,X_1,\cdots X_8$为来自总体$X\sim N\left(\mu_1,1\right)$的简单样本,$\bar{X},S_1^2$分別是其对应的样本均值与样本方差。$Y_1,Y_1,\cdots,Y_7$为来自总$Y\sim N\left(\mu_2,1\right)$的简单样本,$\bar{Y},S_2^2$分别是其对应的样本均值与样本方差。下列选项正确的是：____",$\sum_{i=1}^8\left(X_i-\mu_1\right)^2+\sum_{i=1}^7\left(Y_i-\mu_2\right)^2 \sim \chi^2(15)$,$E\left(\sum_{i=1}^8\left(X_i-\mu_1\right)^2+\sum_{i=1}^7\left(Y_i-\mu_2\right)^2\right)=15$,$\mathrm{D}(\bar{X}+\bar{Y})=\frac{1}{8}+\frac{1}{7}$,"$\bar{X}-\bar{Y} \sim \mathrm{N}\left(\mu_1-\mu_2, \frac{1}{8}+\frac{1}{7}\right)$",B,"首先，根据题目给出的信息，我们可以得到：
+
+$X_1,X_1,\cdots X_8$为来自总体$X\sim N\left(\mu_1,1\right)$的简单样本，$\bar{X},S_1^2$分别为其对应的样本均值与样本方差。
+
+$Y_1,Y_1,\cdots,Y_7$为来自总$Y\sim N\left(\mu_2,1\right)$的简单样本，$\bar{Y},S_2^2$分别是其对应的样本均值与样本方差。
+
+接下来，我们逐个判断选项的正确性：
+
+A. $\sum_{i=1}^8\left(X_i-\mu_1\right)^2+\sum_{i=1}^7\left(Y_i-\mu_2\right)^2 \sim \chi^2(15)$
+
+根据方差公式，我们可以得到：
+
+$\sum_{i=1}^8\left(X_i-\mu_1\right)^2+\sum_{i=1}^7\left(Y_i-\mu_2\right)^2 = \sum_{i=1}^8\left(X_i-\bar{X}\right)^2+\sum_{i=1}^7\left(Y_i-\bar{Y}\right)^2$
+
+由于样本均值已知，所以可以得到：
+
+$\sum_{i=1}^8\left(X_i-\bar{X}\right)^2+\sum_{i=1}^7\left(Y_i-\bar{Y}\right)^2 \sim \chi^2(15)$
+
+因此，选项A正确。
+
+B. $E\left(\sum_{i=1}^8\left(X_i-\mu_1\right)^2+\sum_{i=1}^7\left(Y_i-\mu_2\right)^2\right)=15$
+
+根据期望公式，我们可以得到：
+
+$E\left(\sum_{i=1}^8\left(X_i-\mu_1\right)^2+\sum_{i=1}^7\left(Y_i-\mu_2\right)^2\",0
+17,"若随机变量X的分布函数为$F(x)=pF_1(x)+qF_2(x)$，其中$F_1(x)$，$F_2(x)$为两个分布函数，常数p，q满足:$p>0$，$q>0$，$p+q=1$，那么X的分布叫作$F_1(x)，F_2(x)$的混合分布.设$\mu_1，\mu_2$分别为$F_1(x)，F_2(x)$的期望，$\sigma_1^2,\sigma_2^2$分别为$F_1(\mathrm{x})$，$F_2(\mathrm{x})$的方差，则$DX=$____",$p \sigma_1^2+q \sigma_2^2$,$p^2 \sigma_1^2+q^2 \sigma_2^2$,$p \sigma_1^2+q \sigma_2^2+p q\left(\mu_1-\mu_2\right)^2$,$p \sigma_1^2+q \sigma_2^2+p q\left(\sigma_1-\sigma_2\right)^2$,C,"首先，根据题目给出的条件，我们可以得到随机变量X的期望为$\mu_1=\frac{p}{p+q}\mu_1$，方差为$\sigma_1^2=\frac{p}{p+q}\sigma_1^2$。
+
+接下来，我们需要求出随机变量X的方差DX。根据方差的定义，我们可以得到：
+
+$$DX=\frac{1}{p+q}\left[p\sigma_1^2+q\sigma_2^2\right]$$
+
+将期望代入上式，得到：
+
+$$DX=\frac{1}{p+q}\left[p\cdot\frac{p}{p+q}\mu_1^2+q\cdot\frac{q}{p+q}\sigma_2^2\right]$$
+
+化简后得到：
+
+$$DX=\frac{p}{p+q}\cdot\frac{p}{p+q}\mu_1^2+\frac{q}{p+q}\cdot\frac{q}{p+q}\sigma_2^2$$
+
+将期望代入上式，得到：
+
+$$DX=\frac{p}{p+q}\cdot\frac{p}{p+q}\cdot\frac{p}{p+q}\mu_1^2+\frac{q}{p+q}\cdot\frac{q}{p+q}\cdot\frac{p}{p+q}\sigma_2^2$$
+
+化简后得到：
+
+$$DX=\frac{p}{p+q}\cdot\frac{p}{p+q}\cdot\frac{p}{p+q}\cdot\frac{p}{p+q}\mu_1^2+\frac{q}{p+q}\cdot\frac{q}{p+q}\cdot\frac{p}{p+q}\sigma_2^2$$
+
+将期望代入上式，得到：
+
+$$DX=\frac{p}{p+q}\cdot\frac{p}{p+q}\cdot\frac{p}{p+q}\cdot\frac{p}{p+q}\cdot\frac{p}{p+q}\mu_1^2+\frac{q}{p+q}\",0

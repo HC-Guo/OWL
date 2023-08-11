@@ -1,0 +1,346 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,当采用分块查找时，数据的组织方式为____,数据分成若干块， 每块内数据有序,数据分成若干块， 每块内数据不必有序， 但块间必须有序， 每块内最大（ 或最小） 的数据组成索引块,数据分成若干块， 每块内数据有序， 但块间必须有序， 每块内最大（ 或最小） 的数据组成索引块,数据分成若干块， 每块（ 除最后一块外） 中数据个数需相同,B," C. 数据分成若干块， 每块内数据有序， 但块间必须有序， 每块内最大（ 或最小） 的数据组成索引块。
+
+分块查找是一种常用的查找算法，它可以快速地找到数据中的某个元素。在这种算法中，数据被分成若干块，每块内数据有序，但块间必须有序，每块内最大（或最小）的数据组成索引块。这种分块查找算法可以在数据中查找target元素，时间复杂度为O（log n）。",0
+1,实现一个银行系统，包括存钱、取钱、转账等多项业务，最恰当的资源组合方式是____,继承,重载,组合,实例化,C," C.组合是最恰当的资源组合方式。
+
+在实现银行系统中，需要包含多种业务功能，如存钱、取钱、转账等。每个业务功能可以视为一个不同的类或模块。通过组合这些类或模块，可以创建一个更复杂的银行系统。
+
+使用继承（A）可能会导致类之间的耦合关系变得更加复杂，难以管理。而使用重载（B）可能会导致代码的重复性和不一致性问题。
+
+而使用组合（C）可以更好地解决这些问题，因为每个业务功能可以作为一个独立的模块，可以独立地开发和测试，同时也可以更方便地重用和扩展。
+
+因此，在实现银行系统中，最恰当的资",1
+2,"#include<iostream.h>
+class date
+{
+private:
+int day,month,year;
+public:
+date(){}
+date(int x,int y,int z){day=x;month=y,year=z;}
+void set(){day=1;month=10;year=2002;}
+void display(){cout<<day<<""/""<<month<<""/""<<year<<"""";}
+};
+void main()
+{
+date day1;
+date day2(10,10,2002);
+day1.set();
+day1.display();
+day2.display();
+}
+上面C++程序运行的结果是____。",10/10/2002 1/10/2002,1/10/2002 10/10/2002,10/10/2002 10/10/2002,1/10/2002 1/10/2002,B," C. 10/10/2002 10/10/2002
+
+解释：
+
+1. 在main函数中，day1的设置和显示都是使用default constructor，因此day1的day、month和year各取默认值0。
+2. 在main函数中，day2的设置和显示都是使用parameterized constructor，因此day2的day、month和year分别取值为10、10和2002。
+3. 在day1.display()中，day1的day、month和year各取默认值0，因此输出结果为10/10/2002。
+4. 在day2.display()中，day2的day、month和year各取分别取值为10、10和2002，因此输出结果为10/10/2002。
+
+因此，程序的输出结果为：
+
+10/10/2002 10/10/2002",0
+3,"假定A是一个类的名字，下面四个语句总共会引发类A构造函数的调用多少次____
+①A *p=newA;
+②A p2[10];
+③A p3;
+④A *p4[10];",11,12,21,22,B," let's analyze the four statements:
+
+1. ①A *p=newA;
+Calling newA will construct a new object of class A, so the constructor will be called once.
+2. ②A p2[10];
+Creating an array of 10 objects of class A will call the constructor 10 times.
+3. ③A p3;
+Creating a single object of class A will call the constructor once.
+4. ④A *p4[10];
+Creating an array of 10 pointers to objects of class A will call the constructor 10 times.
+
+Therefore, the total number of times the constructor will be called is:
+
+1 + 10 + 1 + 10 = 22
+
+So the answer is D.22.",0
+4,"有以下程序代码
+#include<iostream>
+using namespace std;
+class integer{
+public:
+integer(int value=0):value(value){}
+integer operator+(integer itg){
+return value+=itg.value;
+}
+friend ostream&operator<<(ostream&os,integer&it){
+return os<<it.value;
+}
+private:
+int value;
+};
+int main()
+{
+integer i;
+integer ii;
+ii=2+i;
+cout<<""i=""<<i<<"","";
+cout<<""ii=""<<ii<<endl;
+return 0;
+}
+编译情况或运行时输出是____","i=0 ,ii=2","i=2 ,ii=2","i=0 ,ii=0",编译错误,D," when you compile the code, you will get the output:
+
+i=0 ,ii=2
+
+so the answer is:
+
+B. i=2 ,ii=2",0
+5,在以下各种查找方法中，平均查找时间与结点个数无关的查找方法是____,顺序查找,折半查找,哈希查找,分块查找,C," B. 折半查找。
+
+折半查找的时间复杂度为O(log n),而不是O(n)如顺序查找和O(n^2)如哈希查找。哈希查找的时间复杂度与结点个数直接相关。分块查找的时间复杂度也与结点个数有关。
+
+所以，折半查找是平均查找时间与结点个数无关的查找方法。",0
+6,"读下面C++程序：
+#include<iostream.h>
+class vehicle{
+protected:
+int wheels;
+public:
+vehicle(int in_wheels=4){wheels=in_wheels;}
+int get_wheels(){return wheels;}
+};
+void main()
+{
+vehicle unicyclel;
+vehicle unicycle2(3);
+cout<<""Theunickele1has""<<unicyclel.get_wheels()<<""wheel.\n"";
+cout<<""Theunickele2has""<<unicycle2.get_wheels()<<""wheel.\n"";
+}
+编译后输出结果为____。","The unicycle1 has 0 wheel.
+The unicycle2 has 3 wheel.","The unicycle1 has 4 wheel.
+The unicycle2 has 4 wheel.","The unicycle1 has 4 wheel.
+The unicycle2 has 3 wheel.","The unicycle1 has 0 wheel.
+The unicycle2 has 4 wheel.",C," C. The unicycle1 has 4 wheel.
+The unicycle2 has 3 wheel.
+
+解释：
+
+1. 在main函数中，unicyclel的构造器中的in_wheels默认值为4，因此unicyclel的wheels也为4。
+2. unicycle2的构造器中的in_wheels为3，因此unicycle2的wheels为3。
+3. 在cout语句中，unicyclel.get_wheels()返回unicyclel.wheels的值，即4。
+4.  similarly, unicycle2.get_wheels()返回unicycle2.wheels的值，即3。
+5. 因此，编译后输出结果为：
+
+The unicycle1 has 4 wheel.
+The unicycle2 has 3 wheel.",1
+7,以下说法正确的是____,在const成员函数中不可以使用this指针；,在static成员函数中不可以使用this 指针；,抽象类的成员函数都是纯虚函数；,抽象类的派生类必须实现抽象类中的纯虚函数。,B," A. 在const成员函数中不可以使用this指针。
+
+解释：
+
+在C++中，const成员函数是不允许修改对象的函数，因此this指针无法确定对象的状态。
+
+B、C和D是错误的。
+
+B. 在static成员函数中不可以使用this指针。
+
+解释：
+
+static成员函数是不具有this指针的，因为它们不是对象的一部分。
+
+C. 抽象类的成员函数都是纯虚函数。
+
+解释：
+
+抽象类的成员函数是纯虚函数，这意味着它们不能被实现。
+
+D. 抽象类的派生类必须实现抽象类中的纯虚函数。
+
+解释：
+
+抽象类的派生类必须实现抽象类中的纯",0
+8,一个n个顶点的连通无向图，其边的个数至少为____,n-1,n,n+1,nlogn,A,"让我们一步一步思考,
+1. 连通无向图的定义是，任意两个顶点之间存在一条路径。
+2. 由于图有n个顶点，因此至少需要一条边连接每个顶点。所以，至少需要n-1条边。
+所以答案是：A.n-1",1
+9,在C++程序中出现____情况时，将引发一个异常。,在 main 函数的结尾少了一个大括号,for 循环语法错误,被零除或数组溢出,数组没有被赋满值,C," C. 被零除或数组溢出。
+
+在 C++ 程序中，如果在运算符中出现 divide by zero（零除）或 array overflow（数组溢出）的情况，将引发一个异常。",1
+10,线性表若采用链式存储结构时，要求内存中可用存储单元的地址____。,必须是连续的,部分地址必须是连续的,一定是不连续的,连续不连续都可以,D," A. 采用链式存储结构时，线性表中的每个元素都需要存储两个指针：一个指向下一个元素，另一个指向下一个元素的下一个元素。这样可以 garantuee 链式存储结构中的元素是连续的，因此内存中可用存储单元的地址必须是连续的。
+
+所以答案是：A。",0
+11,在类中说明的友元函数时____,必须声明在私有成员部分,必须声明在共有成员部分,必须声明在类开始处,可以声明在类中任何地方,D," C.必须声明在类开始处。
+
+在类中说明的友元函数需要声明在类开始处，这是C++的规定。这样可以确保友元函数的存在性和访问权限。",0
+12,对有14个元素的有序表A[1..14]作二分查找，查找元素A[6]时的被比较元素依次为____,"A[l], A[2], A[3], A[4]","A[l], A[14], A[7], A[4]","A[7], A[5], A[3], A[6]","A[7], A[3], A[5], A[6]",D,"让我们一步一步思考,
+1. 在二分查找的过程中，我们需要比较A[6]与A[l]、A[7]、A[4]四个元素。
+2. A[6]的索引为6，所以我们需要从中间索引3开始比较。
+3. 如果A[3]≤A[6]，那么A[6]可能在[3, 7]这个范围内，我们需要比较A[7]和A[4]。
+4. 如果A[7]≤A[6]，那么A[6]可能在[3, 7]这个范围内，我们需要比较A[4]。
+5. 如果A[4]≤A[6]，那么A[6]确定在[3, 7]这个范围内，我们需要返回true。
+6. 如果A[7]>A[6]，那么A[6]可能在[7, 14]这个范��",0
+13,下列概念____体现了面向对象的多态性。,虚基类,虚函数,对象容器,封装,B," D. 封装。
+
+封装（encapsulation）是面向对象程序设计的一个基本 principl，它将数据和操作封装在一个单一的对象中，从而实现数据的隐藏和安全性。这种封装性允许对象的内部结构和实现细节保持不变，而只对外部接口进行定义和调用。
+
+因此，选项D是正确的选项。",0
+14,"若有定义char s[]={'1','2','3','0','0','4','5'};则cout<<s的结果为____",1230045,12300,1230,123,C,"让我们一步一步思考,
+1. 首先，我们需要了解iostream库中的<< operator。当我们使用cout<<s时，会将s中的每个字符分别输出到控制台上。
+2. 接着，我们需要了解string literals的格式。string literals是一种特殊的字符串常量，例如""hello""、""world""等。在这种情况下，string literals中的每个字符都是一个单独的字符，而不是一个字符串。
+3. 因此，当我们使用cout<<s时，会输出每个字符 separately，而不是一个字符串。所以，cout<<s的结果为：
+
+1 + 2 + 3 + 0 + 0 + 4 + 5 = 15
+
+所以答案是：A.1230045",0
+15,在C++中，数据封装要解决的问题是____。,数据规范化排列,数据高速转换,避免数据丢失,保证数据完整性,D," C. 避免数据丢失。
+
+在 C++ 中，数据封装（encapsulation）是用于隐藏数据的实现细节并提供一个接口来访问该数据的机制。数据封装可以帮助避免数据丢失，因为它可以限制对数据的访问和修改，从而保证数据的完整性和一致性。
+
+A. 数据规范化排列（data normalization）是指将数据转换成一个固定的格式，以便更好地存储和处理。
+
+B. 数据高速转换（data optimization）是指通过各种技术手段，如缓存、快速查找等，将数据转换成更高速的形式，以提高计算效率。
+
+D. 保证数据完整性（data integrity）是指确保数据在存储、传输和",0
+16,在顺序表（长度为127）中插入一个元素平均要移动____个元素。,8,63.5,63,7,B,"让我们一步一步思考,
+1. 顺序表的插入操作需要移动所有元素从原来的位置到新的位置。
+2. 在插入一个元素时，需要移动元素的数量等于插入元素的索引偏移量。
+3. 在顺序表中，每个元素占用的空间为1字节，因此每个元素的索引偏移量为1。
+4. 插入一个元素时，需要移动126个元素，因为插入元素的索引偏移量为126。
+所以答案是：A.8",0
+17,关于左值引用，下列用法或叙述不正确的是____,引用可以先定义，再赋值；,引用可以作为函数参数；,函数可以返回引用；,引用是另一个有名字变量的别名。,A,"下列用法或叙述不正确的是：
+
+D. 引用是另一个有名字变量的别名。
+
+引用是一种指向另一个变量的引用，不是另一个有名字变量的别名。在C++中，引用不能直接赋值，而是需要使用指针运算符(&)来创建一个引用。
+
+因此，选项D是 incorrect。",0
+18,"现今的软件或是操作系统往往都有32位和64位的不同的版本，主要的区别就是32位的应用程序中，使用32个二进制位（即4字节）来表示内存地址，64位软件则是用64个二进制位表示内存地址。于是，当我们在将一个程序编译为64位的程序时，有下列语句
+cout<<sizeof(int)<<""""<<sizeof(int*)<<"""";
+cout<<sizeof(double)<<""""<<sizeof(double*)<<endl;
+其输出会是____;",4 4 8 8,4 4 8 4,4 8 8 8,4 8 4 8,C,"让我们一步一步思考,
+1. 首先，我们需要了解sizeof运算符的作用。sizeof运算符用于计算变量或类型的字节数。
+2. 在32位系统中，int类型使用4字节（32位）来表示，因此sizeof(int) = 4。
+3. 在64位系统中，int类型仍然使用4字节来表示，因此sizeof(int) = 4。
+4. double类型在32位系统中使用8字节（64位）来表示，因此sizeof(double) = 8。
+5. 在64位系统中，double类型仍然使用8字节来表示，因此sizeof(double) = 8。
+6. 因为int*和double*都是指针类型，其sizeof值等于所指向的类型的sizeof值。
+7. 所以，我们可以通过cout<<sizeof(int)<<""""<<sizeof(int*)<<"""";来打印int类型的sizeof值和其指针类型的sizeof值。
+8",0
+19,下述哪一条是顺序存储结构的优点？____,存储密度大,插入运算方便,删除运算方便,可方便地用于各种逻辑结构的存储表示,A," A.存储密度大是顺序存储结构的优点。
+
+存储密度大指的是每个存储单元（即每个元素）的数量相对较多，这使得存储效率提高。而顺序存储结构是一种直接存储数据的方式，因此它们的存储密度通常比其他数据结构更高。
+
+其他选项中，插入和删除操作的方便性不是顺序存储结构的优点，因为顺序存储结构的插入和删除操作都需要遍历整个列表来执行。而可方便地用于各种逻辑结构的存储表示则不是顺序存储结构的优点，因为顺序存储结构通常用于直接存储数据，而不是用于存储逻�",1
+20,将一棵有100个结点的完全二叉树从根这一层开始，每一层上从左到右依次对结点进行编号，根结点的编号为1，则编号为49的结点的左孩子编号为____。,98,99,50,48,A," Certainly! Let's analyze the problem step by step.
+
+1. The root node of the complete binary tree has 100 nodes, so the root node has 100 children.
+2. We start numbering the nodes from the root node, and the root node has index 1.
+3. The left child of the root node has index 2, and the right child of the root node has index 3.
+4. The left child of the left child of the root node has index 4, and the right child of the left child of the root node has index 5.
+5. Continuing this pattern, we can see that the left child of the right child of the root node has index 98, and the right child of the right child of the root node has index 99.
+6. Therefore, the left child of the root node with index 49 has a left child with index 98.
+
+So, the correct answer is:
+
+B. 98",0
+21,下面哪种数据结构最适合用于创建一个优先级队列？____,栈,双向链表,单向链表,堆,D,"  Based on the properties of a priority queue, the most appropriate data structure to implement a priority queue is:
+
+D. 堆 (heap)
+
+A heap is a special type of binary tree that satisfies the heap property: the parent node is always greater than (or less than) its child nodes. By using a heap, we can efficiently insert, delete, and access the nodes in the queue based on their priorities.
+
+The other options are not suitable for implementing a priority queue:
+
+A. 栈 (stack) does not support efficient insertion and deletion of nodes based on priority.
+
+B. 双向链表 (double-ended queue) does not satisfy the heap property, and it is not efficient to access the nodes in the queue based on their priorities.
+
+C. 单向链表 (singly-linked list) does not satisfy the heap property, and it is not efficient to access the nodes in the queue based on their priorities.
+
+Therefore, the correct answer is D. 堆 (heap).",1
+22,关于多态性，下列说法错误的是____,C++语言的多态性分为编译时的多态性和运行时的多态性；,运行时的多态性可通过虚函数和函数重载实现；,编译时的多态性可通过模板实现；,实现运行时多态性的机制称为动态多态性。,B," The correct answer is:
+
+B. 运行时的多态性可通过虚函数和函数重载实现。
+
+Multiple inheritance is not a feature of C++ language. C++ supports both compile-time and run-time polymorphism, but run-time polymorphism is not implemented through multiple inheritance. Run-time polymorphism can be achieved through function overriding and function overloading, but not through multiple inheritance.
+
+Therefore, option B is incorrect.",1
+23,关于构造函数，下列说法错误的是____,构造函数必须指定类型说明；,构造函数的函数名与类名相同；,构造函数可以设置缺省参数；,构造函数可以重载。,A,"让我们一步一步思考,
+1. 构造函数必须指定类型说明是错误的，因为构造函数可以不指定类型，如果不指定类型，则默认类型将是基类型。
+所以答案是：A.构造函数必须指定类型说明是错误的。",1
+24,对于栈操作数据的原则是____。,先进先出,后进先出,后进后出,不分顺序,B,"对于栈操作数据的原则是：A.先进先出。
+
+栈是一种先进先出的数据结构， Which means that elements are added and removed from the top of the stack. Therefore, the principle of stack operation is ""first in, first out"" (FIFO).",0
+25,设栈S和队Q的初始状态均为空，元素abcdef依次通过栈S，一个元素出栈后即进队Q，若6个元素出栈的序列是cefdba，则栈S的容量至少应该是____,6,4,3,2,B,"让我们一步一步思考,
+1. 首先，我们知道元素abcdef依次通过栈S，因此栈S的容量至少为7（由于abcdef共有6个元素）。
+2. 然后，我们注意到每个元素出栈后即进队Q，这意味着队Q的容量也是7。
+3. 最后，我们考虑6个元素出栈的序列是cefdba，这意味着最后一个元素b出栈后，队Q的元素序列变为cdefba。
+4. 因此，栈S的容量至少为7，队Q的容量也是7，这两个容量都不能小于6。
+所以答案是：A.6",0
+26,下面关于模版说法正确的是____。,类模版提供了一种对类中类型进行参数化的方法; 在实例化模版类时，实际的数据类型会代替与类成员或方法相关联的类型参数,类模版中必须包含类成员与类方法,不可以用自定义的数据类型实例化一个模版类,类模版中类方法的参数必须用占位符替代，而不能使用实际数据类型,A," A. 类模版提供了一种对类中类型进行参数化的方法; 在实例化模版类时，实际的数据类型会代替与类成员或方法相关联的类型参数。
+
+这是正确的说法。类模版提供了一种对类中类型进行参数化的方法， allowing you to specify type parameters in a class definition, and then use those type parameters when instantiating the class. When you instantiate a template class, the actual type of the data will be used to replace the type parameters, allowing you to create classes with different types.",1
+27,现有一棵无重复关键字的AVL树，对其进行中序遍历可得到一个降序序列。下列关于该AVL树的叙述中，正确的是：____,根结点的度一定为 2,树中最小元素一定是叶结点,最后插入的元素一定是叶结点,树中最大元素一定是无左子树,D," AVL tree is a self-balancing binary search tree, and the properties of an AVL tree are as follows:
+
+1. The root node has degree at most 2.
+2. The minimum element in the tree is always a leaf node.
+3. The last inserted element is always a leaf node.
+4. The maximum element in the tree has no left subtree.
+
+Therefore, the correct answer is:
+
+A. 根结点的度一定为 2.
+
+The other options are not correct, as the minimum element is not always a leaf node (option B), the last inserted element is not always a leaf node (option C), and the maximum element may have a left subtree (option D).",0
+28,计算算法的时间复杂度是属于一种____的方法。,事前统计,事前分析估算,事后统计,事后分析估算,B," Calculating the time complexity of an algorithm is a method of _____________.
+
+Answer: B. Event-based analysis.",0
+29,假定AB为一个类，r2是AB类的对象，执行“AB r1=3;”时将自动调用该类的____,带一个整型参数的构造函数,无参构造函数,赋值运算符重载函数,拷贝构造函数,A," AB类有一个无参构造函数，因此在执行""AB r1=3;""时，AB类的无参构造函数将被自动调用。
+
+所以答案是：B. 无参构造函数。",0
+30,下列排序算法中，元素的移动次数与关键字的初始排列次序无关的是____,直接插入排序,冒泡排序,基数排序,快速排序,C,"让我们一步一步思考,
+1. 直接插入排序的移动次数与关键字的初始排列次序无关，因为它每次插入的元素都会被排序到合适的位置上。
+2. 冒泡排序的移动次数与关键字的初始排列次序有关，因为它会 repeatedly bubble up elements until the list is sorted.
+3. 基数排序的移动次数与关键字的初始排列次序有关，因为它会 repeatedly shift elements until the list is sorted.
+4. 快速排序的移动次数与关键字的初始排列次序无关，因为它使用 divide and conquer 的方式来排序。
+所以答案是：A.直接插入排序",0
+31,线性链表不具有的特点是____。,随机访问,不必事先估计所需存储空间大小,插入与删除时不必移动元素,所需空间与线性表长度成正比,A," Lineary linked list does not have the following property:
+
+B. No need to preallocate storage space for the list.
+
+In a linearly linked list, each node has a fixed size, and the list must be resized dynamically as elements are added or removed. This means that the list must always allocate storage space for the worst-case scenario, which can lead to inefficient use of memory.
+
+Therefore, the correct answer is B.",0
+32,"设有一个递归算法如下：
+int fact(int n){
+if(n<=0)return 1;
+else return n*fact(n-1);
+}
+下面正确的叙述是____",计算fact(n)需要执行n次递归,fact(7)=5040,此递归算法最多只能计算到fact(8),以上结论都不对,B," C. 此递归算法最多只能计算到 fact(8)
+
+因为，在递归函数 fact 中，n 的值最大为 8，所以该函数最多只能计算到 fact(8)。",0
+33,"在C++中，一个函数为void f(int=1,char='a'),另一个函数为void f(int),则它们____。",不能在同一程序中定义,可以在同一程序中定义并可重载,可以在同一程序中定义，但不可重载,以上说法都不正确,B," A. 不能在同一程序中定义
+
+在 C++ 中，void f(int) 和 void f(int, char) 是两个不同的函数定义，因为它们有不同的参数列表。根据 C++ 的规则，函数定义中的参数列表必须一致，否则会导致函数重定义。因此，这两个函数不能在同一程序中定义。",0
+34,已知一个有向图的邻接矩阵表示，要删除所有从第i个结点发出的边，应____。,将邻接矩阵的第i行删除,将邻接矩阵的第i行元素全部置为0,将邻接矩阵的第i列删除,将邻接矩阵的第i列元素全部置为0,B," C. 将邻接矩阵的第i列删除。
+
+解释：
+
+如果从第i个结点发出的边需要删除，则需要删除第i列的所有元素。这样可以确保不会影响到其他结点的边。
+
+A. 将邻接矩阵的第i行删除：这将删除所有与第i个结点相连的边，但是这将 также会影响到其他结点的边。
+
+B. 将邻接矩阵的第i行元素全部置为0：这将 deleting all the elements in the i-th row, but this will also affect the other nodes' edges.
+
+D. 将邻接矩阵的第i列元素全部置为0：这将 deleting all the elements in the i-th column, but this will also affect the other nodes' edges.",0
+35,"—组关键字序列A(12,14,3,16,8,7,10,17,5,11,9,6,13,15,4),为排成递增序利用堆排序的方法建立的初始的堆为____","（ 3， 4， 5, 8， 9， 7, 6, 17， 16， 14， 11， 12， 13， 15， 10 )","( 3， 5, 4, 8, 9， 7, 6， 17， 16， 14, 11， 12, 13， 15， 10 )","( 17, 16, 15, 14, 11, 13, 10, 12, 5, 8, 9, 6, 7， 3， 4 )","( 17, 16, 14, 15, 11, 13, 10, 12, 5, 8, 9, 6, 7, 3, 4 )",D," Based on the given sequence, we can see that the elements are in increasing order, and the sequence is almost sorted. Therefore, we can use a simple insertion sort algorithm to build the initial heap.
+
+The correct order of the elements in the initial heap is:
+
+A. (3, 4, 5, 8, 9, 7, 6, 17, 16, 14, 11, 12, 13, 15, 10)
+
+Therefore, the answer is A.",0
+36,若一个线性表中最常用的操作是取第1个元素和我第1个元素的前趋元素，则采用____存储方式最节省时间。,顺序表,单链表,双链表,单循环链表,A," B. 单链表。
+
+假设我们需要取第1个元素和第2个元素的前一个元素，则可以通过单链表的next指针来实现。只需要将next指针指向第2个元素即可。
+
+而顺序表、双链表和单循环链表都需要遍历整个表来查找第1个元素和第2个元素的前一个元素，时间复杂度都是O(n)，而单链表的时间复杂度只需要O(1)。
+
+因此，采用单链表存储方式最节省时间。",0

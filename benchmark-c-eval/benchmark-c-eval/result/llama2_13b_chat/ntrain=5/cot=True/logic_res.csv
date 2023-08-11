@@ -1,0 +1,230 @@
+id,question,A,B,C,D,answer,model_output,true_or_false
+0,许多公司目前都为雇员免费提供健身、缓解压力或戒烟的服务项目。这些项目增加了员工的生产力，减少了缺勤率，并降低了员工的健康保险费。因此，这些服务项目不但有益于公司，而且有利于员工个人。以下哪项如果为真，最能构成对上述论证的支持?____,健身是公司为员工所提供的最常见的服务项目。,有研究表明，在有压力的管理环境中，训练对许多人都是无效的。,有规律的锻炼可以减少心脏病发病率并使人的精力更加充沛。,过快地参加大运动量的健身活动有时会造成运动伤害。,C," Based on the information provided, the best answer to support the argument that providing health and wellness services to employees is beneficial for both the company and the employees is:
+
+C. Regular exercise can reduce the risk of heart disease and increase energy levels.
+
+This answer supports the argument by highlighting the positive effects of exercise on employee health and well-being, which can lead to increased productivity and reduced absenteeism. The other options do not directly support the argument:
+
+A. While exercise is a common service provided by companies, it is not the only type of service that can benefit employees.
+
+B. The statement suggests that training may not be effective in all situations, but it does not provide evidence that exercise is not effective.
+
+D. While it is true that overexertion can occur, this does not necessarily mean that exercise is not beneficial. In fact, regular exercise can help prevent overexertion by improving cardiovascular health and increasing endurance.",0
+1,某组织改选领导班子实行这样一条规则：如果候选人多于一个，那么候选人必须同意被提名，并且在表态之前，必须被告之其他的候选人是谁。如果事实上只有当候选人同意被提名后才能知道实际的候选人是谁，那么以下哪项是对上述规则最准确的评价?____,实行该规则，使得被提名的候选人的人数比不实行该规则要多。,实行该规则，使得被提名的候选人的人数比不实行该规则要少。,实行该规则，没有候选人可能被提名。,实行该规则，被提名的候选人最多只可能是一个。,D," Based on the given rule, the correct answer is:
+
+B. 实行该规则，使得被提名的候选人的人数比不实行该规则要少。
+
+Explanation:
+
+According to the rule, if there are more than one candidate, then all candidates must agree to be nominated before the actual candidates are known. This means that if there are three candidates, A, B, and C, and A and B agree to be nominated, but C does not, then only A and B will be nominated.
+
+Therefore, by implementing this rule, the number of candidates nominated will be smaller than if the rule were not implemented, as some candidates may choose not to be nominated if they are not aware of the other candidates.
+
+The other options are not correct:
+
+A. 实行该规则，使得被提名的候选人的人数比不实行该规则要多。 - This option is incorrect because the rule states that all candidates must agree to be nominated before the actual candidates are known, which would limit the number of candidates nominated, not increase it.
+
+C. 实行该规则，没有候选人可能被提名。 - This option is incorrect because the rule states that if there are more than one candidate, then all candidates must agree",0
+2,社会成员的幸福感是可以运用现代手段精确量化的。衡量一项社会改革措施是否成功，要看社会成员的幸福感总量是否增加。S市最近推出的福利改革明显增加了公务员的幸福感总量，因此，这项改革措施是成功的。以下哪项如果为真，最能削弱上述论证?____,上述改革措施并没有增加s市所有公务员的幸福感。,S市公务员只占全市社会成员很小的比例。,上述改革措施在增加公务员幸福感总量的同时，减少了S市民营企业人员的幸福感总量。,上述改革措施在增加公务员幸福感总量的同时，减少了S市全体社会成员的幸福感总量。,D," C.上述改革措施在增加公务员幸福感总量的同时，减少了S市民营企业人员的幸福感总量。
+
+根据提供的论证，社会成员的幸福感是可以运用现代手段精确量化的，而上述改革措施增加了公务员的幸福感总量。如果C选项是真的，那么这项改革措施并不是完全成功的，因为它减少了民营企业人员的幸福感总量。
+
+其他选项：
+
+A.上述改革措施并没有增加S市所有公务员的幸福感。如果这是真的，那么这项改革措施并不是完全成功的，因为它没有增加所有公务员的幸",0
+3,某市2018年的人口发展报告显示，该市常住人口1170万，其中常住外来人口440万，户籍人口730万。从区级人口分布情况来看，该市G区常住人口240万，居各区之首；H区常住人口200万，位居第二；同时，这两个区也是吸纳外来人口较多的区域，两个区常住外来人口200万，占全市常住外来人口的45％以上。根据以上陈述，可以得出以下哪项？____,该市G区的户籍人口比H区的常住外来人口多。,该市H区的户籍人口比G区的常住外来人口多。,该市H区的户籍人口比H区的常住外来人口多。,该市G区的户籍人口比G区的常住外来人口多。,A," Based on the information provided, we can deduce that:
+
+B. 该市H区的户籍人口比G区的常住外来人口多。
+
+From the report, we know that H district has a population of 200,000, and G district has a population of 240,000. Additionally, we know that H district has a larger number of foreign residents than G district. Therefore, we can conclude that H district has a higher number of household registrations than G district.",0
+4,陈先生在鼓励他的孩子时说道：“不要害怕暂时的困难和挫折。不经历风雨怎么见彩虹?”他孩子不服气地说：“您说得不对。我经历了那么多风雨，怎么就没见到彩虹呢?”陈先生孩子的回答最适宜用来反驳以下哪项____,即使经历了风雨，也可能见不到彩虹。,只要经历了风雨，就可以见到彩虹。,只有经历风雨，才能见到彩虹。,如果想见到彩虹，就必须经历风雨。,B," A. 即使经历了风雨，也可能见不到彩虹。
+
+ Chen's statement ""不经历风雨怎么见彩虹"" (without experiencing wind and rain, how can you see the rainbow) is a metaphorical expression, suggesting that one needs to go through difficulties and challenges to appreciate the beauty of life. The son's response ""您说得不对。我经历了那么多风雨，怎么就没见到彩虹呢"" (You're wrong. I've experienced so much wind and rain, so why haven't I seen the rainbow?) is a logical extension of the metaphor, pointing out that simply experiencing wind and rain does not guarantee the sight of a rainbow.
+
+Therefore, the best answer is A. 即使经历了风雨，也可能见不到彩虹 (even if one experiences wind and rain, they may not see the rainbow).",0
+5,要选修数理逻辑课，必须已修普通逻辑课，并对数学感兴趣。有些学生虽然对数学感兴趣，但并没有修过普通逻辑课，因此，有些对数学感兴趣的学生不能选修数理逻辑课。以下哪项中的逻辑结构与题干最为类似?____,据学校的规定，要获得本年度的特设奖学金，必须来自贫困地区，并且成绩优秀。有些本年度特设奖学金的获得者成绩优秀，但并非来自贫困地区，因此，学校评选本年度奖学金的规定并没有得到很好的执行。,一本书要畅销，必须既有可读性，又经过精心的包装。有些畅销书可读性不大，因此，有些畅销书主要是靠包装。,为初学骑士训练的马必须强健而且温顺，有些马强健但并不温顺，因此，有些强健的马并不适合于初学骑士训练的马。,高级写字楼要值得投资，必须设计新颖，或者提供大量办公用地。有些新写字楼虽然设计新颖，但不能提供大量的办公用地，因此，有些新写字楼不值得投资。,C," The logical structure of the sentence ""要选修数理逻辑课，必须已修普通逻辑课，并对数学感兴趣"" is similar to the logical structure of the sentence ""为初学骑士训练的马必须强健而且温顺"" in that both sentences have a necessary condition and a sufficient condition.
+
+In the first sentence, the necessary condition is ""已修普通逻辑课"" (has completed common logic courses) and the sufficient condition is ""对数学感兴趣"" (is interested in mathematics).
+
+In the second sentence, the necessary condition is ""强健"" (strong and healthy) and the sufficient condition is ""温顺"" (gentle and docile).
+
+Therefore, the answer is C.",1
+6,李老师说“并非丽丽考上了清华大学并且明明没有考上南京大学。”如果李老师说的是为真，则以下哪项可能为真?____Ⅰ．丽丽考上了清华大学，明明考上了南京大学。Ⅱ．丽丽没考上清华大学，明明没考上南京大学。Ⅲ．丽丽没考上清华大学，明明考上了南京大学。Ⅳ．丽丽考上了清华大学，明明没有考上南京大学。,仅Ⅰ和Ⅱ。,仅Ⅱ和Ⅲ。,仅Ⅱ、Ⅲ和Ⅳ。,仅Ⅰ、Ⅱ和Ⅲ。,D," Based on the information provided, if Lee's statement is true, then we can deduce that:
+
+1. Li Li did not get into Tsinghua University.
+2. Ming Ming did not get into Nanjing University.
+
+So, the correct answer is:
+
+C. 仅Ⅱ、Ⅲ和Ⅳ。
+
+Explanation:
+
+Ⅰ. If Li Li got into Tsinghua University, then Ming Ming would have gotten into Nanjing University, which is not the case.
+
+Ⅱ. If Li Li did not get into Tsinghua University, then Ming Ming would not have gotten into Nanjing University.
+
+Ⅲ. If Ming Ming got into Nanjing University, then Li Li did not get into Tsinghua University.
+
+Ⅳ. If Ming Ming did not get into Nanjing University, then Li Li did not get into Tsinghua University.",0
+7,在超市购物后，张林把七件商品放在超市的传送带上，肉松后面紧跟着蛋糕，酸奶后面接着放的是饼干，可口可乐汽水紧跟在水果汁后面，方便面后面紧跟着酸奶，肉松和饼干之间有两件商品，方便面和水果汁之间有两件商品，最后放上去的是一只蛋糕。如果上述断定为真，那么以下哪项一定为真?____Ⅰ．水果汁在倒数第三位置上。Ⅱ．酸奶放在第二。Ⅲ．可口可乐汽水放在中间。,只有Ⅰ。,只有Ⅱ。,只有Ⅲ。,只有Ⅰ和Ⅱ。,B," Based on the information provided, we can determine the following:
+
+1. The order of the items in the conveyor belt is: seven items, then the cake, then the bread, then the milk, then the water, then the fruit juice, then the convenient face mask, and finally the egg.
+2. There are two items between the bread and the milk, and two items between the convenient face mask and the water.
+3. The cake is not in the first or last position.
+
+From these facts, we can conclude that:
+
+Ⅰ. The water is in the third position from the end. (True)
+
+Ⅱ. The milk is in the second position. (False)
+
+Ⅲ. The convenient face mask is in the middle. (False)
+
+Therefore, the correct answer is:
+
+D. Only Ⅰ and Ⅱ.",0
+8,新疆的哈萨克人用经过训练的金雕在草原上长途追击野狼。某研究小组为研究金雕的飞行方向和判断野狼群的活动范围，将无线电传导器放置在一只金雕身上进行追踪。野狼为了觅食，其活动范围通常很广。因此，金雕追击野狼的飞行范围通常也很大。然而两周以来，无线电传导器不断传回的信号显示，金雕仅在放飞地3公里的范围内飞行。以下哪项如果为真，最有助于解释上述金雕的行为?____,金雕放飞地周边重峦叠嶂，险峻异常。,金雕的放飞地2公里范围内有一牧羊草场，成为狼群袭击的目标。,由于受训金雕的捕杀，放飞地广阔草原的野狼几乎灭绝了。,无线电传导信号仅能在有限的范围内传导。,B," Based on the information provided, the best explanation for the eagle's behavior is:
+
+B. The eagle's launching site is located near a sheep pasture, which has become a target for the wolf group's attacks.
+
+The eagle's limited flight range (3 kilometers) and the fact that the wolf group's activity range is usually very broad suggest that the eagle is not able to track the wolves over long distances. However, if the launching site is located near a sheep pasture, which is a known target for the wolf group's attacks, then the eagle's limited flight range may be sufficient to monitor the wolves' activity in that area.
+
+The other options do not fully explain the eagle's behavior:
+
+A. The eagle's flight range may be limited by the terrain, but this does not fully explain why the eagle is only flying within a 3-kilometer range.
+
+C. The idea that the eagle's training has caused the wolves to almost disappear in the area is not supported by the information provided.
+
+D. The limited range of the wireless signal does not fully explain the eagle's behavior, as the eagle is able to fly beyond the range of the signal.",0
+9,已知某班共有25位同学，女生中身高最高者与最矮者相差10厘米；男生中身高最高者与最矮者则相差15厘米。小明认为，根据已知信息，只要再知道男生、女生最高者的具体身高，或者再知道男生、女生的平均身高，均可确定全班同学中身高最高者与最低者之间的差距。以下哪项如果为真，最能构成对小明观点的反驳？____,根据已知信息，如果不能确定全班同学中身高最高者与最低者之间的差距，则既不能确定男生、女生最高者的具体身高，也不能确定男生、女生的平均身高。,根据已知信息，尽管再知道男生、女生的平均身高，也不能确定全班同学中身高最高者与最低者之间的差距。,根据已知信息，即使确定了全班同学中身高最高者与最低者之间的差距，也不能确定男生、女生的平均身高。,根据已知信息，如果不能确定全班同学中身高最高者与最低者之间的差距，则也不能确定男生、女生最高者的具体身高。,B," Based on the information provided, the correct answer is B. 根据已知信息，尽管再知道男生、女生的平均身高，也不能确定全班同学中身高最高者与最低者之间的差距。
+
+The statement B is true because, even if we know the average height of the boys and girls, we cannot determine the difference between the tallest and shortest students in the class. This is because the average height of the boys and girls does not provide enough information to determine the height of the individual students.
+
+Option A is incorrect because it states that if we cannot determine the difference between the tallest and shortest students, then we cannot determine the height of the individual students. This is not true, as we can still determine the height of the individual students even if we cannot determine the difference between the tallest and shortest students.
+
+Option C is incorrect because it states that even if we determine the difference between the tallest and shortest students, we cannot determine the average height of the boys and girls. This is not true, as we can still determine the average height of the boys and girls once we know the height of the individual students.
+
+Option D is incorrect because it states that if we cannot determine the difference between the tallest and shortest students, then we cannot determine",1
+10,核电站所发生的核泄漏严重事故的最初起因，没有一次是设备故障，都是人为失误所致。这种失误，和小到导致交通堵塞，大到导致仓库失火的人为失误，没有实质性的区别。从长远的观点看，交通堵塞和仓库失火几乎是不可避免的。上述断定最能支持以下哪项结论?____,核电站不可能因设备故障而导致事故。,核电站的管理并不比指挥交通、管理仓库复杂。,核电站如果持续运作，那么发生核泄漏严重事故几乎是不可避免的。,人们试图通过严格的规章制度以杜绝安全事故的努力是没有意义的。,C," Based on the information provided, the conclusion that best supports the given statement is:
+
+C. 核电站如果持续运作，那么发生核泄漏严重事故几乎是不可避免的.
+
+The statement emphasizes that all the incidents of nuclear leaks in the past were caused by human errors, and these errors are inevitable in the long run. Therefore, if the nuclear power plant continues to operate, it is almost inevitable that a serious nuclear leak accident will occur.
+
+The other options do not support the conclusion as well:
+
+A. 核电站不可能因设备故障而导致事故 is not supported by the given information, as all the incidents were caused by human errors, not equipment failures.
+
+B. 核电站的管理并不比指挥交通、管理仓库复杂 is not related to the conclusion.
+
+D. 人们试图通过严格的规章制度以杜绝安全事故的努力是没有意义的 is a negative statement that is not supported by the given information.",0
+11,"足球是一项集体运动，若想不断取得胜利，每个强队都必须有一位核心队员，他总是能在关键场次带领全队赢得比赛。友南是某国甲级联赛强队西海队队员。据某记者统计，在上赛季参加的所有比赛中，有友南参赛的场次，西海队胜率高达75．5％，另有16．3％的平局，8．2％的场次输球，而在友南缺战的情况下，西海队胜率只有58．9％，输球的比率高达23．5％。该记者由此得出结论，友南是上赛季西海队的核心队员。以下哪项如果为真,最能质疑该记者的结论____",上赛季友南上场且西海队输球的比赛，都是西海队与传统强队对阵的关键场次。,西海队队长表示：“没有友南我们将失去很多东西，但我们会找到解决办法。”,本赛季开始以来，在友南上场的情况下，西海队胜率暴跌20％。,上赛季友南缺席且西海队输球的比赛，都是小组赛中西海队已经确定出线后的比赛。,A," Based on the information provided, the best answer to question is:
+
+A. 上赛季友南上场且西海队输球的比赛，都是西海队与传统强队对阵的关键场次.
+
+The conclusion drawn by the journalist that 友南 (Joonas) is the core player of the team is based on the fact that the team's win rate is much higher when he is on the field, and that the team's performance is significantly affected by his presence. However, this conclusion may not be entirely accurate, as there may be other factors at play.
+
+Option A provides an alternative explanation for the team's performance when 友南 is on the field. If the team's losses are only against strong opponents when 友南 is on the field, then it may suggest that he is not the core player, but rather a key player in certain situations.
+
+The other options do not provide sufficient evidence to support or refute the journalist's conclusion. Option B is a statement made by the team's captain, but it does not provide any objective data to support the claim. Option C suggests that the team's performance has declined since the beginning of the season, but it does not address the specific issue of 友南's presence on",0
+12,关于甲班体育达标测试，三位老师有如下预测：张老师说：“不会所有人都不及格。”李老师说：“有人会不及格。”王老师说：“班长和学习委员都能及格。”如果三位老师中只有一人的预测正确，则以下哪项一定为真?____,班长和学习委员都没及格。,班长和学习委员都及格了。,班长及格，但学习委员没及格,班长没及格，但学习委员及格了。,A," Based on the predictions of the three teachers, we can deduce the following possibilities:
+
+1. 张老师（Zhang laoshi）'s prediction: ""不会所有人都不及格"" (not all will not pass) implies that some people will pass.
+2. 李老师（Li laoshi）'s prediction: ""有人会不及格"" (someone will not pass) implies that not all will pass.
+3. 王老师（Wang laoshi）'s prediction: ""班长和学习委员都能及格"" (the class monitor and study committee members will all pass) implies that the class monitor and study committee members will pass.
+
+Therefore, the correct answer is:
+
+B. 班长和学习委员都及格了 (the class monitor and study committee members will all pass)",0
+13,大投资的所谓巨片的票房收入，一般是影片制作与商业宣传总成本的二至三倍。但是电影业的年收入大部分来自中小投资的影片。以下哪项如果为真，最能解释题干的现象?____,票房收入不是评价影片质量的主要标准。,大投资的巨片中确实不乏精品。,大投资巨片的票价明显高于中小投资影片。,投入市场的影片中，大部分是中小投资的影片。,D," based on the given options, the best explanation for the phenomenon is:
+
+D. 投入市场的影片中，大部分是中小投资的影片.
+
+The reason is that the majority of the films in the market are mid-budget films, not big-budget films. This means that the revenue from ticket sales is not solely dependent on big-budget films, but also on mid-budget and low-budget films. Therefore, the phenomenon of middle-budget films generating most of the revenue can be explained by the fact that there are more mid-budget films in the market.
+
+Option A is not a valid explanation, as the quality of a film is not necessarily determined by its budget.
+
+Option B is a subjective statement and does not explain the phenomenon.
+
+Option C is not a valid explanation, as the ticket prices of big-budget films are not necessarily higher than those of mid-budget films.",0
+14,办公室主任：本办公室不打算使用循环再利用纸张。给用户的信件必须能留下好的印象。不能打印在劣质纸张上。文具供应商：循环再利用纸张不一定是劣质的。事实上，最初的纸张就是用可回收材料制造的。一直到19世纪50年代，由于碎屑原料供不应求，才使用木纤维作为造纸原料。以下哪项最为恰当地概括了文具供应商的反驳中存在的漏洞?____,没有意识到办公室主任对于循环再利用纸张的偏见是由于某种无知。,使用了不相关的事实来证明一个关于产品质量的断定。,不恰当地假设办公室主任忽视了环境保护。,不恰当地假设办公室主任了解纸张的制造工艺。,B," C.不恰当地假设办公室主任忽视了环境保护。
+
+理由：
+
+1. 文具供应商的反驳是基于环境保护的考虑，而办公室主任的偏见则是基于纸张质量的问题。
+2. 文具供应商的反驳是正确的，因为使用循环再利用纸张可以减少纸张的投入和废弃物的排放，这与环境保护有直接关系。
+3. 而办公室主任的偏见则是基于纸张质量的问题，这与环境保护没有直接关系。
+
+因此，选项C是最恰当地概括了文具供应商的反驳中存在的�",0
+15,未来深海电缆的外皮是由玻璃制成的，而不是特殊的钢材或铝合金。原因是金属具有颗粒状的微观结构，在深海压力之下，粒子交结处的金属外皮易于断裂。玻璃外皮就不会有这种情况，因为玻璃看起来是固体，由于它在压力之下可以流动，所以可将之视为液体。以下哪项最有可能从上述议论中推出?____,液体没有颗粒状的微观结构。,所有称之为固体的东西只不过是移动极其缓慢的液体。,只有断裂的玻璃是微观粒状的。,作为一种建筑材料，玻璃优于钢材和铝材。,A," Based on the argument, the most likely conclusion to be drawn is:
+
+B. All things considered solid are actually slow-moving liquids.
+
+The argument states that the microscopic structure of metals is made up of particles, and under deep sea pressure, the particles can become disrupted and cause the metal to break. However, glass, which is considered a solid, does not have this issue because it can flow under pressure, making it similar to a liquid. This suggests that the distinction between solids and liquids may not be as clear-cut as previously thought, and that all solids may be slow-moving liquids.
+
+The other options are not directly supported by the argument:
+
+A. is not supported by the argument, as the statement is not about the absence of particle structure in liquids.
+
+C. is incorrect, as the argument does not suggest that only broken glass has a particle structure.
+
+D. is not directly supported by the argument, as it is a statement about the relative merits of glass as a building material, rather than a statement about the nature of solids and liquids.",0
+16,"生态文明建设事关社会发展方式和人民福祉。只有实行最严格的制度，最严密的法治，才能为生态文明建设提供可靠保障；如果要实行最严格的制度、最严密的法治，就要建立责任追究制度，对那些不顾生态环境盲目决策并造成严重后果者，追究其相应的责任。根据上述信息,可以得出以下哪项？____",如果对那些不顾生态环境盲目决策并造成严重后果者追究相应责任，就能为生态文明建设提供可靠保障。,实行最严格的制度和最严密的法治是生态文明建设的重要目标。,如果不建立责任追究制度，就不能为生态文明建设提供可靠保障。,只有筑牢生态环境的制度防护墙，才能造福于民。,C," Based on the information provided, the best answer is:
+
+C. 如果不建立责任追究制度，就不能为生态文明建设提供可靠保障。
+
+The passage states that only by implementing the most stringent regulations and the most rigorous legal systems can we provide reliable protection for ecological civilization construction. This implies that without a system of responsibility and accountability, it would be difficult to ensure the sustainability of ecological development. Therefore, option C is the best answer.",1
+17,最近由于在蜜橘成熟季节出现持续干旱，四川蜜橘的价格比平时同期上涨了三倍，这就大大提高了橘汁酿造业的成本，估计橘汁的价格将有大幅度的提高。以下哪项如果是真的，最能削弱上述结论?____,去年橘汁的价格是历年最低的。,其他替代原料可以用来生产仿橘汁。,最近的干旱并不如专家们估计的那么严重。,除了四川外，其他省份也可以提供蜜橘。,D," A. 去年橘汁的价格是历年最低的。
+
+这项信息可能削弱上述结论，因为如果去年橘汁的价格是历年最低的，那么现在的价格增长可能不会太大。
+
+其他选项中，B、C、D 都不能削弱上述结论。
+
+B. 其他替代原料可以用来生产仿橘汁。 这项信息不能削弱上述结论，因为即使有其他替代原料，橘汁的价格仍然可能会增加。
+
+C. 最近的干旱并不如专家们估计的那么严重。 这项信息也不能削弱上述结论，因为即使干旱不如严重，蜜",0
+18,"教育专家李教授提出，每个人在自己的一生中，都要不断地努力，否则就会像龟兔赛跑的故事一样，一时跑得快并不能保证一直领先。如果你本来基础好又能不断努力，那你肯定能比别人更早取得成功。如果李教授的陈述为真,以下哪项一定为假____",只要不断努力，任何人都可能取得成功。,一时不成功并不意味着一直不成功。,小王本来基础好并且能不断努力，但也可能比别人更晚取得成功。,人的成功是有衡量标准的。,C," Based on the statement by Li Professor, the correct answer is:
+
+B. One-time failure does not mean perpetual failure.
+
+The statement suggests that even if someone fails at one point in their life, it does not guarantee that they will continue to fail in the future. With continuous effort, it is possible to overcome failures and achieve success.
+
+The other options are not necessarily true based on the statement:
+
+A. The statement does not guarantee that anyone can achieve success with continuous effort.
+
+C. The statement does not imply that the person's baseline ability or effort level is the determining factor in their success.
+
+D. The statement does not provide a measurable standard for success.",0
+19,小红装病逃学了一天，大明答应为她保密。事后，知道事情底细的老师对大明说，我和你一样，都认为违背承诺是一件不好的事情。但是，人和人的交往，事实上默认一个承诺，这就是说真话，任何谎言都违背这一承诺。因此，如果小红确实装病逃学，那么，你即使已经承诺为她保密，也应该对我说实话。要使老师的话成立，以下哪项是必须假设的?____,说谎比违背其他承诺更有害。,有时，违背承诺并不是一件坏事。,任何默认的承诺都比表达的承诺更重要。,违背默认的承诺有时要比违背表达的承诺更不好。,D," Based on the given information, the necessary assumption to make the teacher's statement valid is:
+
+C.任何默认的承诺都比表达的承诺更重要。
+
+The teacher is saying that in human interactions, there is an implicit promise to tell the truth, and this promise is more important than any explicit promise to keep a secret. Therefore, if Little Red did indeed fake an illness and skip school, then Big Mouth should tell the truth about it, even if it means breaking his promise to keep her secret.
+
+The other options are not necessary assumptions for the teacher's statement to be valid:
+
+A. saying the truth is not always the best option, as it may cause harm to others.
+B. there may be situations where breaking a promise is not a bad thing to do.
+D. breaking an implicit promise may be less harmful than breaking an explicit promise.
+
+None of these options are relevant to the teacher's statement, which is focused on the importance of telling the truth in human interactions.",0
+20,甲被指控犯罪，乙是此项起诉的主要证人。关于这个案件，有如下断定：(1)基于乙提供的有关证词，就可以宣判甲有罪。(2)乙的证词说明他自己实际上也参加了甲的犯罪活动。(3)甲被指控的犯罪活动只可能由一个人独立完成。如果以上断定都是真的，则以下哪项最可能是审判的结果?____,甲和乙都被宣判在乙起诉的案件中有罪。,除了在乙已被指控的案件中，甲和乙还被宣判为在其他案件中有罪。,甲被宣判为有罪，而乙被宣判为无罪。,甲被宣判为无罪。,D," Based on the given information, we can deduce the following:
+
+1. 乙's testimony is crucial to the case against 甲.
+2. 乙 has admitted to participating in 甲's criminal activities.
+3. 甲's criminal activities could only have been committed by one person.
+
+From these points, we can conclude that 甲 and 乙 are both culpable in the crime. Therefore, the most likely outcome is that both 甲 and 乙 will be found guilty.
+
+So, the answer is:
+
+A. 甲和乙都被宣判在乙起诉的案件中有罪。",0
+21,国产片《英雄》显然是前两年最好的古装武打片。这部电影是由著名导演、演员、摄影师、武打设计师和服装设计师参与的一部国际化大制作的电影。票房收入的明显领先说明观看该部影片的人数远多于进口的美国大片《卧虎藏龙》的人数，尽管《卧虎藏龙》也是精心制作的中国古装武打片。为使上述论证成立，以下哪项是必须假设的?____Ⅰ．国产影片《英雄》和美国影片《卧虎藏龙》的票价基本相同。Ⅱ．观众数量是评价电影质量的标准。Ⅲ．导演、演员、摄影师、武打设计师和服装设计师的阵容是评价电影质量的标准。,仅仅。,仅仅Ⅱ。,仅仅Ⅲ。,仅仅Ⅰ和Ⅱ。,D," Based on the argument, the necessary assumption is:
+
+D. 国产影片《英雄》和美国影片《卧虎藏龙》的票价基本相同.
+
+The argument is based on the comparison of the box office performance of the two movies, and the conclusion is drawn that the domestic movie ""英雄"" is better than the American movie ""卧虎藏龙"" based on the fact that the former has a higher box office performance. However, this conclusion is not valid without the assumption that the ticket prices of the two movies are similar. If the ticket prices of the two movies are significantly different, the comparison of their box office performance may not be meaningful.
+
+Therefore, the assumption that the ticket prices of the two movies are similar is necessary to make the argument valid.",0
