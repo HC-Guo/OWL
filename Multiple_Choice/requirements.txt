@@ -1,0 +1,17 @@
+protobuf
+cpm_kernels
+torch>=1.10
+gradio
+mdtex2html
+sentencepiece
+accelerate
+datasets
+matplotlib
+huggingface_hub
+triton
+streamlit
+transformers==4.32.0
+tiktoken
+einops
+transformers_stream_generator==0.0.4
+scipy

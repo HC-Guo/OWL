@@ -1,36 +1,53 @@
-# Owl
-👋 Hi, welcome to Owl’s project page! Owl is a large language model, specially designed for handling IT operations related tasks, such as fault diagnosis, log analysis, configuration management, automation scripts, etc. Owl can understand and generate various IT operations related texts, such as command lines, configuration files, log messages, report documents, etc., and provide intelligent suggestions and solutions.👍
+<div align= "center">
+    <h1> 🦉🌲OWL </h1>
+</div>
 
-![image](https://github.com/HC-Guo/Owl/blob/main/icon.jpg?raw=true)
+<p align="center">  
+<a href="https://arxiv.org/pdf/2309.09298.pdf">OWL: A Large Language Model for IT Operations</a>
+</p>
 
-🌟 Owl has the following features:
+![image](./assets/cartoon.png)
 
-Fault diagnosis: Owl can analyze the possible causes and solutions based on the user-provided fault description or error message, and give the corresponding commands or steps.🔧
-Log analysis: Owl can analyze various formats of log files, extract key information, generate summaries or visual reports, and perform filtering, sorting, aggregation, etc. as needed.📊
-Configuration management: Owl can generate or modify the corresponding configuration files based on the user-provided requirements, and check the correctness and consistency of the configuration files.🔧
-Automation scripts: Owl can generate or optimize the corresponding automation scripts based on the user-provided task description, and support multiple programming languages and platforms.🚀
-💻 Owl is a Python-based project that requires Python 3.6 or higher. You can install Owl using pip or from source code.
+👋 Welcome, Owl is a large language model designed for intelligent Operations and Maintenance field to handle IT operations related tasks
+(fault diagnosis, log analysis, etc). 😊 Owl is an open source project and we welcome everyone to participate and contribute 🌟.
 
-🎮 Owl provides a simple and easy-to-use command-line interface. You can use the owl command to start Owl, and then enter the task type you want to perform, such as fault diagnosis, log analysis, configuration management or automation scripts. Next, you can enter the fault description or error message you encountered, or the log file you want to analyze, or the configuration file you want to generate or modify, or the task description you want to complete. Then, Owl will give you the possible causes and solutions, and give you the corresponding commands or steps.
 
-😊 Owl is an open source project and we welcome everyone to participate and contribute. If you have any questions, suggestions or feedbacks, please submit an issue or pull request on Github. We appreciate your support and attention to the Owl project!
+## Abstract
 
-## Installation
+With the rapid advancement of IT operations, managing and analyzing large data volumes efficiently for practical applications has become increasingly critical. Natural Language Processing (NLP) techniques have demonstrated remarkable capabilities in various tasks, 
+including named entity recognition, machine translation, and dialogue systems. Recently, Large Language Models (LLMs) have achieved significant improvements across various domain-specific areas. 
+However, there is a noticeable gap in the development of specialized Large Language Models (LLMs) tailored for IT operations. In this paper, we introduce the **OWL**,
+a large language model trained on our constructed **OWL-Instruct** with a wide range of IT-related information. Specifically, limited by the maximum input length, we propose the **H**omogeneous **M**arkov **C**ontext **E**xtension method (HMCE). The mixture-of-adapter strategy is leveraged to improve the parameter-efficient tuning across different domains or tasks.
+Further, we evaluate the performance of **OWL** on the **OWL-Bench** established by us and open IT-related benchmarks. OWL demonstrates superior performance results on IT tasks, which outperforms existing models by significant margins. Moreover, we hope that the findings of our work will provide more insights to revolutionize the techniques of IT operations with specialized LLMs.
 
-- (Introduce the installation methods of your model, such as using pip or git, etc.)
+## Updated News
 
-## Usage
+Waiting for updates...
 
-- (Introduce the usage methods of your model, such as using command line or Python script, etc.)
+## Owl-Instruction
 
-## Contribution
+![](./assets/framework.png)
 
-- (Introduce the contributors of your model, and how to participate in the contribution)
+Four phases of constructing **OWL-Instruct** and how we train our **OWL**: (1) Data Generation;  (2) GPT4 Screening; (3) Mannual Verification; and (4) Supervised Fine-tuning.
+We provide the bilingual instruction data ([ops001](./OWL-Instruct/data)).
+
+## Owl-Bench
+Owl-Bench consist of two parts: [Multiple_Choice](./Multiple_Choice) && [Question_Answer](./Question_Answer).
+
+### Usage
+
+For multiple choice test, please refer to the [MC_readme](./Multiple_Choice/MC_readme.md).
+To use question answer test, please refer to the [QA_readme](./Question_Answer/QA_readme.md). Here the example validation data is provided, we will updata it soon.
 
 ## Citation
 
-- (Introduce the citation information of your model, such as papers, blogs, code, etc.)
+Feel free to cite us if you like Owl.
 
-## License
-
-- (Introduce the license information of your model, such as MIT, Apache, etc.)
+```bibtex
+@article{guo2023owl,
+  title={OWL: A Large Language Model for IT Operations},
+  author={Guo, Hongcheng and Yang, Jian and Liu, Jiaheng and Yang, Liqun and Chai, Linzheng and Bai, Jiaqi and Peng, Junran and Hu, Xiaorong and Chen, Chao and Zhang, Dongfeng and others},
+  journal={arXiv preprint arXiv:2309.09298},
+  year={2023}
+}
+```
