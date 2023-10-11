@@ -17,7 +17,7 @@ pip3 install fschat
 ### step 1: Data format conversion
 
 ```
-python3 data_format_conversion.py --csv-path ./data/ops_bench/Raw-QA-OwlBench-cn --jsonl-path ./data/ops_bench/question.jsonl
+python3 data_format_conversion.py --csv-path ./data/ops_bench/Raw-QA-OwlBench-cn.csv --jsonl-path ./data/ops_bench/question.jsonl
 ```
 For your convenience, we have converted the data in advance. 
 
