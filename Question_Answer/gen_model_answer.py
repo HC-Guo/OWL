@@ -26,6 +26,13 @@ os.environ['CUDA_VISIBLE_DEVICES'] = "0,1,2"
 file_name = os.path.basename(__file__)
 setproctitle.setproctitle(file_name[:-3])
 
+from additional_model_adapter import (
+    AdditionConversation,
+    AdditionSeparatorStyle,
+    MossAdapter,
+    update_fastchat
+)
+
 update_fastchat(model_adapters, conv_templates)
 
 def run_eval(
