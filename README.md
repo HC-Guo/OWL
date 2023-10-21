@@ -8,7 +8,7 @@
 
 ![image](./assets/cartoon.png)
 
-👋 Welcome, Owl is a large language model designed for intelligent Operations and Maintenance field to handle IT operations related tasks
+👋 Welcome, Owl is a large language model designed for AIOps field to handle IT operations related tasks
 (fault diagnosis, log analysis, etc). 😊 Owl is an open source project and we welcome everyone to participate and contribute 🌟.
 
 
