@@ -1,7 +1,10 @@
 <div align= "center">
-    <h1> 🦉🌲OWL: A Large Language Model for IT Operations</h1>
+    <h1> 🦉🌲OWL</h1>
 </div>
 
+<p align="center">  
+OWL: A Large Language Model for IT Operations <a href="https://arxiv.org/pdf/2309.09298.pdf">Paper</a>
+</p>
 <p align="center">  
 <a href="https://arxiv.org/pdf/2309.09298.pdf">Paper</a>
 </p>
