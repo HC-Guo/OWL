@@ -3,13 +3,14 @@
 </div>
 
 <p align="center">  
-**Owl: A Large Language Model for IT Operations** <a href="https://arxiv.org/pdf/2309.09298.pdf">Paper</a>
+<a href="https://arxiv.org/pdf/2309.09298.pdf">Owl: A Large Language Model for IT Operations</a>
 </p>
-
-![image](./assets/cartoon.png)
 
 👋 Welcome, Owl is a large language model designed for AIOps field to handle IT operations related tasks
 (fault diagnosis, log analysis, etc). 😊 Owl is an open source project and we welcome everyone to participate and contribute 🌟.
+
+
+![image](./assets/cartoon.png)
 
 
 ## Abstract
