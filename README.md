@@ -1,9 +1,9 @@
 <div align= "center">
-    <h1> 🦉🌲OWL </h1>
+    <h1> 🦉🌲OWL: A Large Language Model for IT Operations</h1>
 </div>
 
 <p align="center">  
-<a href="https://arxiv.org/pdf/2309.09298.pdf">OWL: A Large Language Model for IT Operations</a>
+<a href="https://arxiv.org/pdf/2309.09298.pdf">Paper</a>
 </p>
 
 ![image](./assets/cartoon.png)
