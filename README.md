@@ -52,3 +52,9 @@ Feel free to cite us if you like Owl.
   year={2023}
 }
 ```
+
+## Contact
+We are happy to see 'Owl' being applied in the real world and willing to contribute to the community. Feel free to contact us if you have any question or cooperation!
+Email: hongchengguo@buaa.edu.cn
+
+
