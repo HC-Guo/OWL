@@ -23,7 +23,7 @@ Further, we evaluate the performance of **OWL** on the **OWL-Bench** established
 
 ## Updated News
 
-Waiting for updates...
+Our paper has been accepted by **ICLR 2024**!👏👏
 
 ## Owl-Instruction
 
