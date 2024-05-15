@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">  
-<a href="https://arxiv.org/pdf/2309.09298.pdf">Owl: A Large Language Model for IT Operations</a>
+<a href="https://arxiv.org/pdf/2309.09298.pdf"> OWL: A Large Language Model for IT Operations</a>
 </p>
 
 👋 Welcome, Owl is a large language model designed for AIOps field to handle IT operations related tasks
