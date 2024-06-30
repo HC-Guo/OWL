@@ -45,11 +45,13 @@ To use question answer test, please refer to the [QA_readme](./Question_Answer/Q
 Feel free to cite us if you like Owl.
 
 ```bibtex
-@article{guo2023owl,
-  title={OWL: A Large Language Model for IT Operations},
-  author={Guo, Hongcheng and Yang, Jian and Liu, Jiaheng and Yang, Liqun and Chai, Linzheng and Bai, Jiaqi and Peng, Junran and Hu, Xiaorong and Chen, Chao and Zhang, Dongfeng and others},
-  journal={arXiv preprint arXiv:2309.09298},
-  year={2023}
+@inproceedings{
+guo2024owl,
+title={{OWL}: A Large Language Model for {IT} Operations},
+author={Hongcheng Guo and Jian Yang and Jiaheng Liu and Liqun Yang and Linzheng Chai and Jiaqi Bai and Junran Peng and Xiaorong Hu and Chao Chen and Dongfeng Zhang and xu Shi and Tieqiao Zheng and liangfan zheng and Bo Zhang and Ke Xu and Zhoujun Li},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=SZOQ9RKYJu}
 }
 ```
 
